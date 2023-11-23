@@ -36,6 +36,22 @@
       "hash": "f4ed660a"
     },
     {
+      "file": "packlist",
+      "hash": "fbc103a0"
+    },
+    {
+      "file": "packlist.json",
+      "hash": "fbc103a0"
+    },
+    {
+      "file": "songlist",
+      "hash": "6898f08d"
+    },
+    {
+      "file": "songlist.json",
+      "hash": "6898f08d"
+    },
+    {
       "file": "world-maps-events.json",
       "hash": "00bf0b9a"
     },
