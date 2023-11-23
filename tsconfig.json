@@ -1,0 +1,13 @@
+{
+  "extends": "../arcaea-toolbelt/tsconfig.json",
+  "compilerOptions": {
+    "paths": {
+      "@arcaea-toolbelt/*": ["../arcaea-toolbelt/src/*"]
+    },
+    "types": [
+      "typed-query-selector",
+      "node"
+    ]
+  },
+  "include": ["src", "../arcaea-toolbelt/src/web.d.ts"]
+}

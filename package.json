@@ -1,0 +1,38 @@
+{
+  "name": "arcaea-toolbelt-data",
+  "version": "0.0.0",
+  "type": "module",
+  "targets": {
+    "tools": {
+      "source": [
+        "src/tools/index.html"
+      ],
+      "distDir": "dist-tools",
+      "publicUrl": "/dist-tools"
+    }
+  },
+  "scripts": {
+    "start:tools": "parcel watch --target tools --no-hmr",
+    "start:serve": "serve -p 1236",
+    "start": "npm run build && run-p --print-label start:*",
+    "generate:assets": "ndoe ./scripts/generate-assets-info.js",
+    "build": "node ./scripts/json-data.js"
+  },
+  "private": true,
+  "author": "DarrenDanielDay",
+  "license": "MIT",
+  "devDependencies": {
+    "@parcel/transformer-typescript-tsc": "^2.10.3",
+    "@types/bootstrap": "^5.2.10",
+    "@types/node": "^20.9.4",
+    "npm-run-all": "^4.1.5",
+    "parcel": "^2.10.3",
+    "serve": "^14.2.1",
+    "typed-query-selector": "^2.11.0",
+    "typescript": "^5.3.2"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.2",
+    "hyplate": "^0.19.4"
+  }
+}
