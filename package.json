@@ -15,7 +15,7 @@
     "start:tools": "parcel watch --target tools --no-hmr",
     "start:serve": "serve -p 1236",
     "start": "node ./scripts/json-data.js --generate && run-p --print-label start:*",
-    "generate:assets": "ndoe ./scripts/generate-assets-info.js",
+    "generate:assets": "node ./scripts/generate-assets-info.js",
     "build": "node ./scripts/json-data.js"
   },
   "private": true,
