@@ -9,8 +9,8 @@ import { argv, cwd } from "process";
  */
 async function hashFile(filename) {
   const hmac = createHmac("sha256", "arcaea-toolbelt-data");
-  const text = await readFile(filename, { encoding: "utf-8" });
-  return hmac.update(text).digest("hex");
+  const buffer = await readFile(filename);
+  return hmac.update(buffer).digest("hex");
 }
 
 const root = cwd();
