@@ -1,5 +1,14 @@
 {
-  "rewrites": [
-    { "source": "data/:json", "destination": "./dist/:json" }
+  "rewrites": [{ "source": "data/:json", "destination": "./dist/:json" }],
+  "headers": [
+    {
+      "source": "**/*.json",
+      "headers": [
+        {
+          "key": "Access-Control-Allow-Origin",
+          "value": "*"
+        }
+      ]
+    }
   ]
 }
