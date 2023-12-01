@@ -1,5 +1,5 @@
 import { findNextElWhere, htmlDocument, initPageDocument, prepareDocument, wikiURL, arcaeaCNClient } from "./wiki-util";
-import characters from "@arcaea-toolbelt/data/characters.json";
+import characters from "../data/characters.json";
 import { ItemData } from "@arcaea-toolbelt/models/world-mode";
 import { CharacterFactors } from "@arcaea-toolbelt/models/character";
 import { CharacterData } from "@arcaea-toolbelt/models/character";

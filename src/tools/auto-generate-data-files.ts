@@ -8,31 +8,25 @@ import {
   getProjectRootDirectory,
   saveJSON,
   patchJSON,
-  CACHE_EXPIRE_TIME,
-  miscDataClient,
   readProjectJSON,
   saveProjectJSON,
 } from "./shared";
 import { APKResponse, getLatestVersion } from "./get-latest-version";
 import { ArcaeaToolbeltMeta } from "@arcaea-toolbelt/models/misc";
-import { AssetsResolverImpl } from "@arcaea-toolbelt/services/assets-resolver";
 import { getChartDataFromFandomWiki } from "./chart/fandom-wiki";
 import { mergeIntoSongData } from "./chart/merge";
 import { getAliasFromArcaeaInfinity } from "./chart/arcaea-infinity";
 import { Alias, AssetsInfo, ExtraSongData, mergeArray } from "./chart/shared";
 import { CharacterData } from "@arcaea-toolbelt/models/character";
-import { DefaultAssetsResolverStrategy } from "@arcaea-toolbelt/services/cross-site-defaults";
-
-const resolver = new AssetsResolverImpl(new DefaultAssetsResolverStrategy());
 
 async function getSongList(): Promise<SongList> {
-  const res = await miscDataClient.fetch(resolver.resolve(`songs/songlist`), CACHE_EXPIRE_TIME);
-  return res.json();
+  const res = await readProjectJSON<SongList>("/src/data/songlist.json");
+  return res;
 }
 
 async function getPackList(): Promise<PackList> {
-  const res = await miscDataClient.fetch(resolver.resolve(`songs/packlist`), CACHE_EXPIRE_TIME);
-  return res.json();
+  const res = await readProjectJSON<PackList>("/src/data/packlist.json");
+  return res;
 }
 
 /** @deprecated */

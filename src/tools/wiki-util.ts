@@ -14,7 +14,7 @@ export function prepareDocument(page: string, url: string | URL) {
 
 export async function initPageDocument(url: string | URL, client: CachedHttpGetClient) {
   // 默认缓存
-  const response = await client.fetch(url, CACHE_EXPIRE_TIME);
+  const response = await client.fetch(url, undefined, CACHE_EXPIRE_TIME);
   // wiki页面http status有问题时，清除产生的缓存
   if (response.status.toString().startsWith("5")) {
     await arcaeaCNClient.invalidateCache(url);
