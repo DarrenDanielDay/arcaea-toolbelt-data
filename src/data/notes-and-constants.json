@@ -6532,5 +6532,131 @@
       },
       null
     ]
+  },
+  {
+    "id": "stratoliner",
+    "charts": [
+      {
+        "notes": 535,
+        "constant": 3.5
+      },
+      {
+        "notes": 702,
+        "constant": 6.5
+      },
+      {
+        "notes": 877,
+        "constant": 9.6
+      },
+      null
+    ]
+  },
+  {
+    "id": "ouverture",
+    "charts": [
+      {
+        "notes": 583,
+        "constant": 2.5
+      },
+      {
+        "notes": 786,
+        "constant": 7.5
+      },
+      {
+        "notes": 913,
+        "constant": 9.8
+      },
+      null
+    ]
+  },
+  {
+    "id": "xtreme",
+    "charts": [
+      {
+        "notes": 752,
+        "constant": 4.5
+      },
+      {
+        "notes": 831,
+        "constant": 7.5
+      },
+      {
+        "notes": 1258,
+        "constant": 10.5
+      },
+      null
+    ]
+  },
+  {
+    "id": "edenwacca",
+    "charts": [
+      {
+        "notes": 826,
+        "constant": 4.5
+      },
+      {
+        "notes": 1194,
+        "constant": 8
+      },
+      {
+        "notes": 1365,
+        "constant": 10.5
+      },
+      null
+    ]
+  },
+  {
+    "id": "metamysteria",
+    "charts": [
+      {
+        "notes": 844,
+        "constant": 5
+      },
+      {
+        "notes": 905,
+        "constant": 7.5
+      },
+      {
+        "notes": 1309,
+        "constant": 10.8
+      },
+      null
+    ]
+  },
+  {
+    "id": "aloneandlorn",
+    "charts": [
+      {
+        "notes": 643,
+        "constant": 3
+      },
+      {
+        "notes": 742,
+        "constant": 6
+      },
+      {
+        "notes": 970,
+        "constant": 9.6
+      },
+      null
+    ]
+  },
+  {
+    "id": "wishuponasnow",
+    "charts": [
+      {
+        "notes": 1031,
+        "constant": 4.5
+      },
+      {
+        "notes": 1095,
+        "constant": 7.5
+      },
+      {
+        "notes": 1309,
+        "constant": 10.5
+      },
+      null
+    ]
   }
 ]

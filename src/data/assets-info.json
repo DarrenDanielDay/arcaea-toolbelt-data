@@ -2585,5 +2585,54 @@
       "1080_base.jpg",
       "1080_base_256.jpg"
     ]
+  },
+  {
+    "id": "stratoliner",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ]
+  },
+  {
+    "id": "ouverture",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ]
+  },
+  {
+    "id": "xtreme",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ]
+  },
+  {
+    "id": "edenwacca",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ]
+  },
+  {
+    "id": "metamysteria",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ]
+  },
+  {
+    "id": "aloneandlorn",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ]
+  },
+  {
+    "id": "wishuponasnow",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ]
   }
 ]

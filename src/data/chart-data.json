@@ -15650,5 +15650,280 @@
         "plus": true
       }
     ]
+  },
+  {
+    "bpm": "175",
+    "side": 1,
+    "id": "stratoliner",
+    "name": "Stratoliner",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "WACCA - Collaboration Chapter 2",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 3.5,
+        "difficulty": "pst",
+        "id": "stratoliner@pst",
+        "level": 3,
+        "note": 535,
+        "songId": "stratoliner"
+      },
+      {
+        "constant": 6.5,
+        "difficulty": "prs",
+        "id": "stratoliner@prs",
+        "level": 6,
+        "note": 702,
+        "songId": "stratoliner"
+      },
+      {
+        "constant": 9.6,
+        "difficulty": "ftr",
+        "id": "stratoliner@ftr",
+        "level": 9,
+        "note": 877,
+        "songId": "stratoliner"
+      }
+    ]
+  },
+  {
+    "bpm": "200",
+    "side": 1,
+    "id": "ouverture",
+    "name": "Ouvertüre",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "WACCA - Collaboration Chapter 2",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 2.5,
+        "difficulty": "pst",
+        "id": "ouverture@pst",
+        "level": 2,
+        "note": 583,
+        "songId": "ouverture"
+      },
+      {
+        "constant": 7.5,
+        "difficulty": "prs",
+        "id": "ouverture@prs",
+        "level": 7,
+        "note": 786,
+        "songId": "ouverture"
+      },
+      {
+        "constant": 9.8,
+        "difficulty": "ftr",
+        "id": "ouverture@ftr",
+        "level": 9,
+        "note": 913,
+        "songId": "ouverture",
+        "plus": true
+      }
+    ]
+  },
+  {
+    "bpm": "205",
+    "side": 1,
+    "id": "xtreme",
+    "name": "XTREME",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "WACCA - Collaboration Chapter 2",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 4.5,
+        "difficulty": "pst",
+        "id": "xtreme@pst",
+        "level": 4,
+        "note": 752,
+        "songId": "xtreme"
+      },
+      {
+        "constant": 7.5,
+        "difficulty": "prs",
+        "id": "xtreme@prs",
+        "level": 7,
+        "note": 831,
+        "songId": "xtreme"
+      },
+      {
+        "constant": 10.5,
+        "difficulty": "ftr",
+        "id": "xtreme@ftr",
+        "level": 10,
+        "note": 1258,
+        "songId": "xtreme"
+      }
+    ]
+  },
+  {
+    "bpm": "246",
+    "side": 1,
+    "id": "edenwacca",
+    "name": "eden",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "WACCA - Collaboration Chapter 2",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 4.5,
+        "difficulty": "pst",
+        "id": "edenwacca@pst",
+        "level": 4,
+        "note": 826,
+        "songId": "edenwacca"
+      },
+      {
+        "constant": 8,
+        "difficulty": "prs",
+        "id": "edenwacca@prs",
+        "level": 8,
+        "note": 1194,
+        "songId": "edenwacca"
+      },
+      {
+        "constant": 10.5,
+        "difficulty": "ftr",
+        "id": "edenwacca@ftr",
+        "level": 10,
+        "note": 1365,
+        "songId": "edenwacca"
+      }
+    ]
+  },
+  {
+    "bpm": "205",
+    "side": 0,
+    "id": "metamysteria",
+    "name": "Meta-Mysteria",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "WACCA - Collaboration Chapter 2",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 5,
+        "difficulty": "pst",
+        "id": "metamysteria@pst",
+        "level": 5,
+        "note": 844,
+        "songId": "metamysteria"
+      },
+      {
+        "constant": 7.5,
+        "difficulty": "prs",
+        "id": "metamysteria@prs",
+        "level": 7,
+        "note": 905,
+        "songId": "metamysteria"
+      },
+      {
+        "constant": 10.8,
+        "difficulty": "ftr",
+        "id": "metamysteria@ftr",
+        "level": 10,
+        "note": 1309,
+        "songId": "metamysteria",
+        "plus": true
+      }
+    ]
+  },
+  {
+    "bpm": "100",
+    "side": 0,
+    "id": "aloneandlorn",
+    "name": "Alone & Lorn",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "World Extend",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 3,
+        "difficulty": "pst",
+        "id": "aloneandlorn@pst",
+        "level": 3,
+        "note": 643,
+        "songId": "aloneandlorn"
+      },
+      {
+        "constant": 6,
+        "difficulty": "prs",
+        "id": "aloneandlorn@prs",
+        "level": 6,
+        "note": 742,
+        "songId": "aloneandlorn"
+      },
+      {
+        "constant": 9.6,
+        "difficulty": "ftr",
+        "id": "aloneandlorn@ftr",
+        "level": 9,
+        "note": 970,
+        "songId": "aloneandlorn"
+      }
+    ]
+  },
+  {
+    "bpm": "218",
+    "side": 0,
+    "id": "wishuponasnow",
+    "name": "Wish Upon a Snow",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Memory Archive",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 4.5,
+        "difficulty": "pst",
+        "id": "wishuponasnow@pst",
+        "level": 4,
+        "note": 1031,
+        "songId": "wishuponasnow"
+      },
+      {
+        "constant": 7.5,
+        "difficulty": "prs",
+        "id": "wishuponasnow@prs",
+        "level": 7,
+        "note": 1095,
+        "songId": "wishuponasnow"
+      },
+      {
+        "constant": 10.5,
+        "difficulty": "ftr",
+        "id": "wishuponasnow@ftr",
+        "level": 10,
+        "note": 1309,
+        "songId": "wishuponasnow"
+      }
+    ]
   }
 ]

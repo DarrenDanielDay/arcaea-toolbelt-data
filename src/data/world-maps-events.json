@@ -1242,8 +1242,7 @@
           "count": 4
         }
       }
-    ],
-    "expire": 1699282800000
+    ]
   },
   {
     "id": "限时：carmine:scythe",
@@ -17651,7 +17650,8 @@
           "id": 49
         }
       }
-    ]
+    ],
+    "expire": 574542514800000
   },
   {
     "id": "限时：Evening_in_Scarlet",
@@ -23576,8 +23576,7 @@
           "count": 20
         }
       }
-    ],
-    "expire": 1699282800000
+    ]
   },
   {
     "id": "限时：CHUNITHM_7",
@@ -26502,8 +26501,7 @@
           "count": 1
         }
       }
-    ],
-    "expire": 1697036400000
+    ]
   },
   {
     "id": "限时：Amekagura",
@@ -26738,8 +26736,7 @@
           "count": 1
         }
       }
-    ],
-    "expire": 1697036400000
+    ]
   },
   {
     "id": "限时：FANTA5Y",
@@ -26944,7 +26941,949 @@
           "count": 1
         }
       }
+    ]
+  },
+  {
+    "id": "限时：Alone_&_Lorn",
+    "platforms": [
+      {
+        "length": 25,
+        "special": {
+          "type": 2,
+          "range": [
+            "Alone & Lorn",
+            "RGB",
+            "Red and Blue",
+            "A Wandering Melody of Love",
+            "Chelsea",
+            "AI［UE］OON",
+            "Tie me down gently",
+            "Valhalla:0",
+            "Mirzam",
+            "Diode",
+            "FREEF4LL",
+            "GLORY：ROAD",
+            "Monochrome Princess",
+            "Heavenly caress",
+            "Senkyou",
+            "Filament",
+            "Aegleseeker",
+            "Paper Witch",
+            "Crystal Gravity",
+            "Far Away Light",
+            "Löschen",
+            "Coastal Highway",
+            "ΟΔΥΣΣΕΙΑ",
+            "Overwhelm",
+            "Vandalism",
+            "Turbocharger",
+            "Small Cloud Sugar Candy",
+            "AlterAle",
+            "Divine Light of Myriad",
+            "False Embellishment",
+            "HIVEMIND",
+            "Seclusion"
+          ]
+        }
+      },
+      {
+        "length": 5
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 25,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 255
+        }
+      },
+      {
+        "length": 25,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 10,
+        "special": {
+          "type": 2,
+          "range": [
+            "Alone & Lorn",
+            "Amekagura",
+            "April showers",
+            "Hikari",
+            "Lawless Point",
+            "Heart",
+            "Kanagawa Cyber Culvert",
+            "Yosakura Fubuki",
+            "False Embellishment",
+            "Bamboo",
+            "Ikazuchi"
+          ]
+        }
+      },
+      {
+        "length": 9
+      },
+      {
+        "length": 8
+      },
+      {
+        "length": 7
+      },
+      {
+        "length": 6,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 333
+        }
+      },
+      {
+        "length": 5
+      },
+      {
+        "length": 4
+      },
+      {
+        "length": 3
+      },
+      {
+        "length": 2
+      },
+      {
+        "length": 1
+      },
+      {
+        "length": 5
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 15,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 200
+        }
+      },
+      {
+        "length": 15,
+        "special": {
+          "type": 2,
+          "range": [
+            "Alone & Lorn",
+            "Dynitikós",
+            "Alice à la mode",
+            "Anökumene",
+            "Löschen",
+            "Misdeed -la bonté de Dieu et l'origine du mal-",
+            "nέο κόsmo",
+            "syūten",
+            "ΟΔΥΣΣΕΙΑ",
+            "αterlβus",
+            "γuarδina",
+            "μ",
+            "ω4",
+            "VECTOЯ",
+            "Ävril -Flicka i krans-"
+          ]
+        }
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 15,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 2
+        }
+      },
+      {
+        "length": 15,
+        "special": {
+          "type": 2,
+          "range": [
+            "Alone & Lorn",
+            "FANTA5Y",
+            "FREEF4LL",
+            "DataErr0r",
+            "Dream goes on",
+            "Dreamin' Attraction!!",
+            "Solitary Dream",
+            "To the Furthest Dream"
+          ]
+        }
+      },
+      {
+        "length": 25
+      },
+      {
+        "length": 35
+      },
+      {
+        "length": 5,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 555
+        }
+      },
+      {
+        "length": 20,
+        "reward": {
+          "type": 1,
+          "id": "aloneandlorn"
+        }
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20,
+        "special": {
+          "type": 2,
+          "range": [
+            "RGB",
+            "Amekagura",
+            "Dynitikós",
+            "FANTA5Y",
+            "Alone & Lorn",
+            "Wish Upon a Snow",
+            "TeraVolt",
+            "Transient Space",
+            "Nameless Passion",
+            "Arghena",
+            "Ego Eimi",
+            "Logos",
+            "Technicolour",
+            "Primeval Texture",
+            "Abstruse Dilemma",
+            "UNKNOWN LEVELS",
+            "Rise of the World",
+            "Raven's Pride",
+            "WAIT FOR DAWN",
+            "Crimson Throne"
+          ]
+        }
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20,
+        "special": {
+          "type": 2,
+          "range": [
+            "RGB",
+            "Amekagura",
+            "Dynitikós",
+            "FANTA5Y",
+            "Alone & Lorn",
+            "Wish Upon a Snow",
+            "TeraVolt",
+            "Transient Space",
+            "Nameless Passion",
+            "Arghena",
+            "Ego Eimi",
+            "Logos",
+            "Technicolour",
+            "Primeval Texture",
+            "Abstruse Dilemma",
+            "UNKNOWN LEVELS",
+            "Rise of the World",
+            "Raven's Pride",
+            "WAIT FOR DAWN",
+            "Crimson Throne"
+          ]
+        }
+      },
+      {
+        "length": 20,
+        "special": {
+          "type": 3,
+          "range": [
+            "RGB",
+            "Amekagura",
+            "Dynitikós",
+            "FANTA5Y",
+            "Alone & Lorn",
+            "Wish Upon a Snow",
+            "TeraVolt",
+            "Transient Space",
+            "Nameless Passion",
+            "Arghena",
+            "Ego Eimi",
+            "Logos",
+            "Technicolour",
+            "Primeval Texture",
+            "Abstruse Dilemma",
+            "UNKNOWN LEVELS",
+            "Rise of the World",
+            "Raven's Pride",
+            "WAIT FOR DAWN",
+            "Crimson Throne"
+          ]
+        }
+      },
+      {
+        "length": 20,
+        "special": {
+          "type": 3,
+          "range": [
+            "RGB",
+            "Amekagura",
+            "Dynitikós",
+            "FANTA5Y",
+            "Alone & Lorn",
+            "Wish Upon a Snow",
+            "TeraVolt",
+            "Transient Space",
+            "Nameless Passion",
+            "Arghena",
+            "Ego Eimi",
+            "Logos",
+            "Technicolour",
+            "Primeval Texture",
+            "Abstruse Dilemma",
+            "UNKNOWN LEVELS",
+            "Rise of the World",
+            "Raven's Pride",
+            "WAIT FOR DAWN",
+            "Crimson Throne"
+          ]
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "次元结晶",
+          "count": 1
+        }
+      }
     ],
-    "expire": 1699542000000
+    "expire": 1703084400000
+  },
+  {
+    "id": "限时：WACCA_2",
+    "platforms": [
+      {
+        "length": 60,
+        "special": {
+          "type": 2,
+          "range": [
+            "Ouvertüre",
+            "Stratoliner",
+            "eden",
+            "XTREME",
+            "Meta-Mysteria"
+          ]
+        }
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 100
+        }
+      },
+      {
+        "length": 70
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 200
+        }
+      },
+      {
+        "length": 80
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 90,
+        "special": {
+          "type": 2,
+          "range": [
+            "Ouvertüre",
+            "Stratoliner",
+            "Quon",
+            "with U",
+            "Let you DIVE! (nitro rmx)",
+            "Mazy Metroplex",
+            "eden",
+            "GENOCIDER",
+            "XTREME",
+            "Meta-Mysteria",
+            "Sheriruth (Laur Remix)"
+          ]
+        }
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 300
+        }
+      },
+      {
+        "length": 100
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 110
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 400
+        }
+      },
+      {
+        "length": 120,
+        "special": {
+          "type": 2,
+          "range": [
+            "Ouvertüre",
+            "Stratoliner",
+            "eden",
+            "XTREME",
+            "Meta-Mysteria",
+            "Avant Raze",
+            "＃1f1e33",
+            "Arcahv",
+            "SAIKYO STRONGER",
+            "Let you DIVE! (nitro rmx)",
+            "Sheriruth (Laur Remix)"
+          ]
+        }
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 130
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 500
+        }
+      },
+      {
+        "length": 140
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 150,
+        "special": {
+          "type": 2,
+          "range": [
+            "Ouvertüre",
+            "Stratoliner",
+            "Quon",
+            "with U",
+            "Let you DIVE! (nitro rmx)",
+            "Mazy Metroplex",
+            "eden",
+            "GENOCIDER",
+            "XTREME",
+            "Meta-Mysteria",
+            "Sheriruth (Laur Remix)",
+            "Avant Raze",
+            "＃1f1e33",
+            "Arcahv",
+            "SAIKYO STRONGER"
+          ]
+        }
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 2,
+          "id": 73
+        }
+      },
+      {
+        "length": 50,
+        "special": {
+          "type": 2,
+          "range": [
+            "Let you DIVE! (nitro rmx)",
+            "with U",
+            "Ouvertüre"
+          ]
+        }
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 600
+        }
+      },
+      {
+        "length": 150,
+        "special": {
+          "type": 3,
+          "range": [
+            "Ouvertüre",
+            "Stratoliner",
+            "Quon",
+            "with U",
+            "Let you DIVE! (nitro rmx)",
+            "Mazy Metroplex",
+            "eden",
+            "GENOCIDER",
+            "XTREME",
+            "Meta-Mysteria",
+            "Sheriruth (Laur Remix)",
+            "Avant Raze",
+            "＃1f1e33",
+            "Arcahv",
+            "SAIKYO STRONGER"
+          ]
+        }
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 140
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "WACCA核心",
+          "count": 5
+        }
+      },
+      {
+        "length": 130
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 700
+        }
+      },
+      {
+        "length": 120,
+        "special": {
+          "type": 3,
+          "range": [
+            "Ouvertüre",
+            "Stratoliner",
+            "eden",
+            "XTREME",
+            "Meta-Mysteria",
+            "Avant Raze",
+            "＃1f1e33",
+            "Arcahv",
+            "SAIKYO STRONGER",
+            "Let you DIVE! (nitro rmx)",
+            "Sheriruth (Laur Remix)"
+          ]
+        }
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 110
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 800
+        }
+      },
+      {
+        "length": 100
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "WACCA核心",
+          "count": 5
+        }
+      },
+      {
+        "length": 90,
+        "special": {
+          "type": 3,
+          "range": [
+            "Ouvertüre",
+            "Stratoliner",
+            "Quon",
+            "with U",
+            "Let you DIVE! (nitro rmx)",
+            "Mazy Metroplex",
+            "eden",
+            "GENOCIDER",
+            "XTREME",
+            "Meta-Mysteria",
+            "Sheriruth (Laur Remix)"
+          ]
+        }
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 900
+        }
+      },
+      {
+        "length": 80
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 2
+        }
+      },
+      {
+        "length": 70
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 1000
+        }
+      },
+      {
+        "length": 60,
+        "special": {
+          "type": 3,
+          "range": [
+            "Ouvertüre",
+            "Stratoliner",
+            "eden",
+            "XTREME",
+            "Meta-Mysteria"
+          ]
+        }
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "WACCA核心",
+          "count": 5
+        }
+      }
+    ],
+    "expire": 1703084400000
   }
 ]

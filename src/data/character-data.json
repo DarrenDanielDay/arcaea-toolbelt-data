@@ -8860,6 +8860,169 @@
     "levels": []
   },
   {
+    "id": 73,
+    "name": {
+      "en": "Luin",
+      "zh": "露恩"
+    },
+    "levels": [
+      null,
+      {
+        "frag": 60,
+        "over": 34,
+        "step": 50
+      },
+      {
+        "frag": null,
+        "over": null,
+        "step": null
+      },
+      {
+        "frag": null,
+        "over": null,
+        "step": null
+      },
+      {
+        "frag": null,
+        "over": null,
+        "step": null
+      },
+      {
+        "frag": null,
+        "over": null,
+        "step": null
+      },
+      {
+        "frag": null,
+        "over": null,
+        "step": null
+      },
+      {
+        "frag": null,
+        "over": null,
+        "step": null
+      },
+      {
+        "frag": null,
+        "over": null,
+        "step": null
+      },
+      {
+        "frag": 62,
+        "over": 39,
+        "step": 59
+      },
+      {
+        "frag": null,
+        "over": null,
+        "step": null
+      },
+      {
+        "frag": null,
+        "over": null,
+        "step": null
+      },
+      {
+        "frag": null,
+        "over": null,
+        "step": null
+      },
+      {
+        "frag": null,
+        "over": null,
+        "step": null
+      },
+      {
+        "frag": null,
+        "over": null,
+        "step": null
+      },
+      {
+        "frag": null,
+        "over": null,
+        "step": null
+      },
+      {
+        "frag": null,
+        "over": null,
+        "step": null
+      },
+      {
+        "frag": null,
+        "over": null,
+        "step": null
+      },
+      {
+        "frag": null,
+        "over": null,
+        "step": null
+      },
+      {
+        "frag": null,
+        "over": null,
+        "step": null
+      },
+      {
+        "frag": 70,
+        "over": 54,
+        "step": 80
+      },
+      {
+        "frag": null,
+        "over": null,
+        "step": null
+      },
+      {
+        "frag": null,
+        "over": null,
+        "step": null
+      },
+      {
+        "frag": null,
+        "over": null,
+        "step": null
+      },
+      {
+        "frag": null,
+        "over": null,
+        "step": null
+      },
+      {
+        "frag": null,
+        "over": null,
+        "step": null
+      },
+      {
+        "frag": null,
+        "over": null,
+        "step": null
+      },
+      {
+        "frag": null,
+        "over": null,
+        "step": null
+      },
+      {
+        "frag": null,
+        "over": null,
+        "step": null
+      },
+      {
+        "frag": null,
+        "over": null,
+        "step": null
+      },
+      {
+        "frag": null,
+        "over": null,
+        "step": null
+      }
+    ],
+    "can": {
+      "awake": true
+    }
+  },
+  {
     "id": 99,
     "name": {
       "en": "Shirahime",
