@@ -82,7 +82,7 @@ export async function fetchWikiCharacterAndCharacterCoreItemData(): Promise<{
   const itemImgs = Array.from(itemTable.querySelectorAll("img"));
   const items = itemImgs.map<ItemData>((img) => {
     return {
-      name: img.parentElement!.parentElement!.parentElement!.textContent!.trim(),
+      name: [...img.parentElement!.parentElement!.parentElement!.textContent!].filter((s) => s.trim()).join(""),
       img: img.src,
     };
   });
