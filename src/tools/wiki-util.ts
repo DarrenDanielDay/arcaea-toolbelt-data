@@ -25,7 +25,7 @@ export async function initPageDocument(url: string | URL, client: CachedHttpGetC
 
 export const wikiBaseURL = new URL("https://wiki.arcaea.cn");
 
-export const pathName = (path: string): string => new URL(path, location.href).pathname;
+export const pathName = (path: string): string => new URL(path, location.origin).pathname;
 
 export const wikiURL = (path: string) => new URL(pathName(path), wikiBaseURL);
 

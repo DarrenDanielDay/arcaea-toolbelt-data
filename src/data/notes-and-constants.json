@@ -6658,5 +6658,77 @@
       },
       null
     ]
+  },
+  {
+    "id": "felys",
+    "charts": [
+      {
+        "notes": 626,
+        "constant": 3
+      },
+      {
+        "notes": 771,
+        "constant": 6.5
+      },
+      {
+        "notes": 1130,
+        "constant": 9.5
+      },
+      null
+    ]
+  },
+  {
+    "id": "onandon",
+    "charts": [
+      {
+        "notes": 370,
+        "constant": 3
+      },
+      {
+        "notes": 616,
+        "constant": 7
+      },
+      {
+        "notes": 836,
+        "constant": 9.5
+      },
+      null
+    ]
+  },
+  {
+    "id": "overdrive",
+    "charts": [
+      {
+        "notes": 584,
+        "constant": 4
+      },
+      {
+        "notes": 714,
+        "constant": 7
+      },
+      {
+        "notes": 1108,
+        "constant": 10
+      },
+      null
+    ]
+  },
+  {
+    "id": "lightmyway",
+    "charts": [
+      {
+        "notes": 673,
+        "constant": 4.5
+      },
+      {
+        "notes": 738,
+        "constant": 7.5
+      },
+      {
+        "notes": 954,
+        "constant": 9.5
+      },
+      null
+    ]
   }
 ]

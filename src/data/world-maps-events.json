@@ -17650,8 +17650,7 @@
           "id": 49
         }
       }
-    ],
-    "expire": 574542514800000
+    ]
   },
   {
     "id": "限时：Evening_in_Scarlet",
@@ -27323,8 +27322,7 @@
           "count": 1
         }
       }
-    ],
-    "expire": 1703084400000
+    ]
   },
   {
     "id": "限时：WACCA_2",
@@ -27883,7 +27881,565 @@
           "count": 5
         }
       }
+    ]
+  },
+  {
+    "id": "限时：On_And_On!!_feat._Jenga",
+    "platforms": [
+      {
+        "length": 1
+      },
+      {
+        "length": 3
+      },
+      {
+        "length": 5
+      },
+      {
+        "length": 7
+      },
+      {
+        "length": 9
+      },
+      {
+        "length": 11,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 200
+        }
+      },
+      {
+        "length": 13
+      },
+      {
+        "length": 15,
+        "special": {
+          "type": 2,
+          "range": [
+            "On And On!! feat. Jenga",
+            "ReviXy",
+            "Life is PIANO",
+            "NULCTRL",
+            "VECTOЯ",
+            "Kissing Lucifer",
+            "Memory Forest",
+            "Singularity"
+          ]
+        }
+      },
+      {
+        "length": 17
+      },
+      {
+        "length": 19
+      },
+      {
+        "length": 21,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 23
+      },
+      {
+        "length": 25
+      },
+      {
+        "length": 27
+      },
+      {
+        "length": 29
+      },
+      {
+        "length": 31,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 300
+        }
+      },
+      {
+        "length": 33,
+        "special": {
+          "type": 2,
+          "range": [
+            "On And On!! feat. Jenga",
+            "ReviXy",
+            "Life is PIANO",
+            "NULCTRL",
+            "VECTOЯ",
+            "Kissing Lucifer",
+            "Memory Forest",
+            "Singularity"
+          ]
+        }
+      },
+      {
+        "length": 35
+      },
+      {
+        "length": 37
+      },
+      {
+        "length": 39
+      },
+      {
+        "length": 41,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 2
+        }
+      },
+      {
+        "length": 2,
+        "reward": {
+          "type": 1,
+          "id": "onandon"
+        }
+      },
+      {
+        "length": 4
+      },
+      {
+        "length": 6
+      },
+      {
+        "length": 8
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 12
+      },
+      {
+        "length": 14,
+        "special": {
+          "type": 2,
+          "range": [
+            "On And On!! feat. Jenga",
+            "ReviXy",
+            "Life is PIANO",
+            "NULCTRL",
+            "VECTOЯ",
+            "Kissing Lucifer",
+            "Memory Forest",
+            "Singularity"
+          ]
+        }
+      },
+      {
+        "length": 16
+      },
+      {
+        "length": 18
+      },
+      {
+        "length": 20,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 300
+        }
+      },
+      {
+        "length": 22
+      },
+      {
+        "length": 24
+      },
+      {
+        "length": 26
+      },
+      {
+        "length": 28
+      },
+      {
+        "length": 30,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 400
+        }
+      },
+      {
+        "length": 32
+      },
+      {
+        "length": 34,
+        "special": {
+          "type": 2,
+          "range": [
+            "On And On!! feat. Jenga",
+            "ReviXy",
+            "Life is PIANO",
+            "NULCTRL",
+            "VECTOЯ",
+            "Kissing Lucifer",
+            "Memory Forest",
+            "Singularity"
+          ]
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "次元结晶",
+          "count": 1
+        }
+      }
     ],
-    "expire": 1703084400000
+    "expire": 1704380400000
+  },
+  {
+    "id": "限时：felys_final_remix",
+    "platforms": [
+      {
+        "length": 20
+      },
+      {
+        "length": 2
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 2
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 2
+      },
+      {
+        "length": 20,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 200
+        }
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20,
+        "special": {
+          "type": 2,
+          "range": [
+            "felys final remix",
+            "Sayonara Hatsukoi",
+            "Fairytale",
+            "Vexaria",
+            "Rise",
+            "Lucifer",
+            "Snow White",
+            "Shades of Light in a Transcendent Realm",
+            "Babaroque",
+            "Lost Civilization",
+            "GOODTEK (Arcaea Edit)",
+            "qualia -ideaesthesia-",
+            "cry of viyella",
+            "I've heard it said",
+            "memoryfactory.lzh",
+            "Relentless",
+            "Lumia",
+            "Essence of Twilight",
+            "PRAGMATISM",
+            "Sheriruth"
+          ]
+        }
+      },
+      {
+        "length": 20,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 23
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 23
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 23,
+        "special": {
+          "type": 2,
+          "range": [
+            "felys final remix",
+            "Sayonara Hatsukoi",
+            "Fairytale",
+            "Vexaria",
+            "Rise",
+            "Lucifer",
+            "Snow White",
+            "Shades of Light in a Transcendent Realm",
+            "Babaroque",
+            "Lost Civilization",
+            "GOODTEK (Arcaea Edit)",
+            "qualia -ideaesthesia-",
+            "cry of viyella",
+            "I've heard it said",
+            "memoryfactory.lzh",
+            "Relentless",
+            "Lumia",
+            "Essence of Twilight",
+            "PRAGMATISM",
+            "Sheriruth"
+          ]
+        }
+      },
+      {
+        "length": 20,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 2
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 2
+      },
+      {
+        "length": 20,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 200
+        }
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20,
+        "special": {
+          "type": 2,
+          "range": [
+            "felys final remix",
+            "Sayonara Hatsukoi",
+            "Fairytale",
+            "Vexaria",
+            "Rise",
+            "Lucifer",
+            "Snow White",
+            "Shades of Light in a Transcendent Realm",
+            "Babaroque",
+            "Lost Civilization",
+            "GOODTEK (Arcaea Edit)",
+            "qualia -ideaesthesia-",
+            "cry of viyella",
+            "I've heard it said",
+            "memoryfactory.lzh",
+            "Relentless",
+            "Lumia",
+            "Essence of Twilight",
+            "PRAGMATISM",
+            "Sheriruth"
+          ]
+        }
+      },
+      {
+        "length": 20,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 23,
+        "reward": {
+          "type": 1,
+          "id": "felys"
+        }
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 23
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 23,
+        "special": {
+          "type": 2,
+          "range": [
+            "felys final remix",
+            "Sayonara Hatsukoi",
+            "Fairytale",
+            "Vexaria",
+            "Rise",
+            "Lucifer",
+            "Snow White",
+            "Shades of Light in a Transcendent Realm",
+            "Babaroque",
+            "Lost Civilization",
+            "GOODTEK (Arcaea Edit)",
+            "qualia -ideaesthesia-",
+            "cry of viyella",
+            "I've heard it said",
+            "memoryfactory.lzh",
+            "Relentless",
+            "Lumia",
+            "Essence of Twilight",
+            "PRAGMATISM",
+            "Sheriruth"
+          ]
+        }
+      },
+      {
+        "length": 20,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 2
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 2
+      },
+      {
+        "length": 20,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 400
+        }
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20,
+        "special": {
+          "type": 2,
+          "range": [
+            "felys final remix",
+            "Sayonara Hatsukoi",
+            "Fairytale",
+            "Vexaria",
+            "Rise",
+            "Lucifer",
+            "Snow White",
+            "Shades of Light in a Transcendent Realm",
+            "Babaroque",
+            "Lost Civilization",
+            "GOODTEK (Arcaea Edit)",
+            "qualia -ideaesthesia-",
+            "cry of viyella",
+            "I've heard it said",
+            "memoryfactory.lzh",
+            "Relentless",
+            "Lumia",
+            "Essence of Twilight",
+            "PRAGMATISM",
+            "Sheriruth"
+          ]
+        }
+      },
+      {
+        "length": 20,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 400
+        }
+      },
+      {
+        "length": 23
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 23,
+        "special": {
+          "type": 2,
+          "range": [
+            "felys final remix",
+            "Sayonara Hatsukoi",
+            "Fairytale",
+            "Vexaria",
+            "Rise",
+            "Lucifer",
+            "Snow White",
+            "Shades of Light in a Transcendent Realm",
+            "Babaroque",
+            "Lost Civilization",
+            "GOODTEK (Arcaea Edit)",
+            "qualia -ideaesthesia-",
+            "cry of viyella",
+            "I've heard it said",
+            "memoryfactory.lzh",
+            "Relentless",
+            "Lumia",
+            "Essence of Twilight",
+            "PRAGMATISM",
+            "Sheriruth"
+          ]
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "次元结晶",
+          "count": 1
+        }
+      }
+    ],
+    "expire": 1704380400000
   }
 ]
