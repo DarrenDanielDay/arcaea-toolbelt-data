@@ -6730,5 +6730,23 @@
       },
       null
     ]
+  },
+  {
+    "id": "hotarubinoyuki",
+    "charts": [
+      {
+        "notes": 589,
+        "constant": 3.5
+      },
+      {
+        "notes": 733,
+        "constant": 7
+      },
+      {
+        "notes": 991,
+        "constant": 9.7
+      },
+      null
+    ]
   }
 ]

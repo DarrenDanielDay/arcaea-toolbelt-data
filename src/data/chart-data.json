@@ -16082,5 +16082,45 @@
         "plus": true
       }
     ]
+  },
+  {
+    "bpm": "159",
+    "side": 0,
+    "id": "hotarubinoyuki",
+    "name": "Hotarubi no Yuki",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Sunset Radiance",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 3.5,
+        "difficulty": "pst",
+        "id": "hotarubinoyuki@pst",
+        "level": 3,
+        "note": 589,
+        "songId": "hotarubinoyuki"
+      },
+      {
+        "constant": 7,
+        "difficulty": "prs",
+        "id": "hotarubinoyuki@prs",
+        "level": 7,
+        "note": 733,
+        "songId": "hotarubinoyuki"
+      },
+      {
+        "constant": 9.7,
+        "difficulty": "ftr",
+        "id": "hotarubinoyuki@ftr",
+        "level": 9,
+        "note": 991,
+        "songId": "hotarubinoyuki",
+        "plus": true
+      }
+    ]
   }
 ]

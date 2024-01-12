@@ -1758,28 +1758,44 @@
             "length": 25,
             "special": {
               "type": 2,
-              "range": "Harutopia ~Utopia of Spring~"
+              "range": [
+                "Harutopia ~Utopia of Spring~",
+                "GOODTEK (Arcaea Edit)",
+                "Dreamin' Attraction!!"
+              ]
             }
           },
           {
             "length": 25,
             "special": {
               "type": 2,
-              "range": "Harutopia ~Utopia of Spring~"
+              "range": [
+                "Harutopia ~Utopia of Spring~",
+                "GOODTEK (Arcaea Edit)",
+                "Dreamin' Attraction!!"
+              ]
             }
           },
           {
             "length": 25,
             "special": {
               "type": 2,
-              "range": "Harutopia ~Utopia of Spring~"
+              "range": [
+                "Harutopia ~Utopia of Spring~",
+                "GOODTEK (Arcaea Edit)",
+                "Dreamin' Attraction!!"
+              ]
             }
           },
           {
             "length": 25,
             "special": {
               "type": 2,
-              "range": "Harutopia ~Utopia of Spring~"
+              "range": [
+                "Harutopia ~Utopia of Spring~",
+                "GOODTEK (Arcaea Edit)",
+                "Dreamin' Attraction!!"
+              ]
             }
           },
           {
@@ -1835,6 +1851,61 @@
             "special": {
               "type": 2,
               "range": "Arcaea"
+            }
+          },
+          {
+            "length": 80,
+            "reward": {
+              "type": 0,
+              "name": "中空核心",
+              "count": 5
+            }
+          },
+          {
+            "length": 80
+          },
+          {
+            "length": 80
+          },
+          {
+            "length": 80
+          },
+          {
+            "length": 80
+          },
+          {
+            "length": 80,
+            "special": {
+              "type": 0,
+              "count": 4
+            }
+          },
+          {
+            "length": 80,
+            "special": {
+              "type": 2,
+              "range": "Dreamin' Attraction!!"
+            }
+          },
+          {
+            "length": 80,
+            "special": {
+              "type": 2,
+              "range": "Dreamin' Attraction!!"
+            }
+          },
+          {
+            "length": 80,
+            "special": {
+              "type": 2,
+              "range": "Dreamin' Attraction!!"
+            }
+          },
+          {
+            "length": 80,
+            "special": {
+              "type": 2,
+              "range": "Dreamin' Attraction!!"
             }
           },
           {
@@ -11571,11 +11642,175 @@
             "length": 24
           },
           {
-            "length": 0,
+            "length": 24,
             "reward": {
               "type": 0,
               "name": "以太之滴",
               "count": 3
+            }
+          },
+          {
+            "length": 1,
+            "special": {
+              "type": 0,
+              "count": 2
+            }
+          },
+          {
+            "length": 1,
+            "special": {
+              "type": 0,
+              "count": 2
+            }
+          },
+          {
+            "length": 1,
+            "special": {
+              "type": 0,
+              "count": 2
+            }
+          },
+          {
+            "length": 1,
+            "special": {
+              "type": 0,
+              "count": 2
+            }
+          },
+          {
+            "length": 75
+          },
+          {
+            "length": 75,
+            "special": {
+              "type": 2,
+              "range": [
+                "Diode",
+                "Senkyou",
+                "Heavenly caress",
+                "Filament",
+                "GLORY：ROAD",
+                "A Wandering Melody of Love",
+                "AI[UE]OON",
+                "Chelsea"
+              ]
+            }
+          },
+          {
+            "length": 75
+          },
+          {
+            "length": 75
+          },
+          {
+            "length": 75,
+            "special": {
+              "type": 2,
+              "range": [
+                "Monochrome Princess",
+                "FREEF4LL",
+                "Mirzam",
+                "Tie me down gently",
+                "Valhalla:0"
+              ]
+            }
+          },
+          {
+            "length": 75,
+            "reward": {
+              "type": 0,
+              "name": "暮色核心",
+              "count": 5
+            }
+          },
+          {
+            "length": 1,
+            "special": {
+              "type": 0,
+              "count": 2
+            }
+          },
+          {
+            "length": 1,
+            "special": {
+              "type": 0,
+              "count": 2
+            }
+          },
+          {
+            "length": 1,
+            "special": {
+              "type": 0,
+              "count": 2
+            }
+          },
+          {
+            "length": 1,
+            "special": {
+              "type": 0,
+              "count": 2
+            }
+          },
+          {
+            "length": 75
+          },
+          {
+            "length": 75,
+            "special": {
+              "type": 2,
+              "range": [
+                "Diode",
+                "Senkyou",
+                "Heavenly caress",
+                "Filament",
+                "GLORY：ROAD",
+                "A Wandering Melody of Love",
+                "AI[UE]OON",
+                "Chelsea",
+                "Monochrome Princess",
+                "FREEF4LL",
+                "Mirzam",
+                "Tie me down gently",
+                "Valhalla:0"
+              ]
+            }
+          },
+          {
+            "length": 75
+          },
+          {
+            "length": 75
+          },
+          {
+            "length": 75,
+            "special": {
+              "type": 3,
+              "range": [
+                "Diode",
+                "Senkyou",
+                "Heavenly caress",
+                "Filament",
+                "GLORY：ROAD",
+                "A Wandering Melody of Love",
+                "AI[UE]OON",
+                "Chelsea",
+                "Monochrome Princess",
+                "FREEF4LL",
+                "Mirzam",
+                "Tie me down gently",
+                "Valhalla:0"
+              ]
+            }
+          },
+          {
+            "length": 75
+          },
+          {
+            "length": 0,
+            "reward": {
+              "type": 0,
+              "name": "暮色核心",
+              "count": 5
             }
           }
         ],
@@ -18133,6 +18368,207 @@
             "reward": {
               "type": 2,
               "id": 71
+            }
+          }
+        ]
+      },
+      {
+        "id": "8-2",
+        "platforms": [
+          {
+            "length": 2,
+            "special": {
+              "type": 2,
+              "range": "Sunset Radiance"
+            }
+          },
+          {
+            "length": 4
+          },
+          {
+            "length": 6,
+            "special": {
+              "type": 2,
+              "range": "Chelsea"
+            }
+          },
+          {
+            "length": 8
+          },
+          {
+            "length": 10,
+            "special": {
+              "type": 2,
+              "range": "AI[UE]OON"
+            }
+          },
+          {
+            "length": 12
+          },
+          {
+            "length": 14,
+            "special": {
+              "type": 2,
+              "range": "A Wandering Melody of Love"
+            }
+          },
+          {
+            "length": 16,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 230
+            }
+          },
+          {
+            "length": 18,
+            "special": {
+              "type": 2,
+              "range": "Tie me down gently"
+            }
+          },
+          {
+            "length": 20
+          },
+          {
+            "length": 22,
+            "special": {
+              "type": 2,
+              "range": "Valhalla:0"
+            }
+          },
+          {
+            "length": 24,
+            "reward": {
+              "type": 1,
+              "id": "hotarubinoyuki"
+            }
+          },
+          {
+            "length": 26,
+            "special": {
+              "type": 2,
+              "range": "Hotarubi no Yuki"
+            }
+          },
+          {
+            "length": 28
+          },
+          {
+            "length": 30
+          },
+          {
+            "length": 30,
+            "special": {
+              "type": 3,
+              "range": "Sunset Radiance"
+            }
+          },
+          {
+            "length": 30
+          },
+          {
+            "length": 30
+          },
+          {
+            "length": 30
+          },
+          {
+            "length": 30
+          },
+          {
+            "length": 30,
+            "special": {
+              "type": 2,
+              "range": "Sunset Radiance"
+            }
+          },
+          {
+            "length": 30
+          },
+          {
+            "length": 30
+          },
+          {
+            "length": 30
+          },
+          {
+            "length": 30
+          },
+          {
+            "length": 30,
+            "special": {
+              "type": 3,
+              "range": "Sunset Radiance"
+            }
+          },
+          {
+            "length": 30
+          },
+          {
+            "length": 30
+          },
+          {
+            "length": 30
+          },
+          {
+            "length": 30,
+            "reward": {
+              "type": 0,
+              "name": "暮色核心",
+              "count": 5
+            }
+          },
+          {
+            "length": 60,
+            "special": {
+              "type": 2,
+              "range": "Sunset Radiance"
+            }
+          },
+          {
+            "length": 60
+          },
+          {
+            "length": 60
+          },
+          {
+            "length": 60
+          },
+          {
+            "length": 60
+          },
+          {
+            "length": 60,
+            "special": {
+              "type": 3,
+              "range": "Sunset Radiance"
+            }
+          },
+          {
+            "length": 90,
+            "reward": {
+              "type": 0,
+              "name": "暮色核心",
+              "count": 5
+            }
+          },
+          {
+            "length": 90
+          },
+          {
+            "length": 90,
+            "special": {
+              "type": 2,
+              "range": "Sunset Radiance"
+            }
+          },
+          {
+            "length": 0,
+            "reward": {
+              "type": 0,
+              "name": "暮色核心",
+              "count": 5
             }
           }
         ]

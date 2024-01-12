@@ -21480,7 +21480,6 @@
   },
   {
     "id": "限时：Capella",
-    "expire": 1705762800000,
     "platforms": [
       {
         "length": 12,
@@ -21795,7 +21794,8 @@
           "id": 59
         }
       }
-    ]
+    ],
+    "expire": 6167372400000
   },
   {
     "id": "限时：Tsuki_ni_Murakumo,_Hana_ni_Kaze",
@@ -28100,8 +28100,7 @@
           "count": 1
         }
       }
-    ],
-    "expire": 1704380400000
+    ]
   },
   {
     "id": "限时：felys_final_remix",
@@ -28440,7 +28439,6 @@
           "count": 1
         }
       }
-    ],
-    "expire": 1704380400000
+    ]
   }
 ]
