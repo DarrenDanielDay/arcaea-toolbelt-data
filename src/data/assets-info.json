@@ -591,6 +591,8 @@
   {
     "id": "cyberneciacatharsis",
     "covers": [
+      "1080_3.jpg",
+      "1080_3_256.jpg",
       "1080_base.jpg",
       "1080_base_256.jpg"
     ]
@@ -605,6 +607,8 @@
   {
     "id": "inkarusi",
     "covers": [
+      "1080_3.jpg",
+      "1080_3_256.jpg",
       "1080_base.jpg",
       "1080_base_256.jpg"
     ]
@@ -825,6 +829,8 @@
   {
     "id": "libertas",
     "covers": [
+      "1080_3.jpg",
+      "1080_3_256.jpg",
       "1080_base.jpg",
       "1080_base_256.jpg"
     ]
@@ -864,6 +870,8 @@
   {
     "id": "viciousheroism",
     "covers": [
+      "1080_3.jpg",
+      "1080_3_256.jpg",
       "1080_base.jpg",
       "1080_base_256.jpg"
     ]
@@ -1089,6 +1097,8 @@
   {
     "id": "einherjar",
     "covers": [
+      "1080_3.jpg",
+      "1080_3_256.jpg",
       "1080_base.jpg",
       "1080_base_256.jpg"
     ]
@@ -1124,6 +1134,8 @@
   {
     "id": "oblivia",
     "covers": [
+      "1080_3.jpg",
+      "1080_3_256.jpg",
       "1080_base.jpg",
       "1080_base_256.jpg"
     ]
@@ -1336,6 +1348,8 @@
   {
     "id": "purpleverse",
     "covers": [
+      "1080_3.jpg",
+      "1080_3_256.jpg",
       "1080_base.jpg",
       "1080_base_256.jpg"
     ]
@@ -2665,6 +2679,20 @@
   },
   {
     "id": "hotarubinoyuki",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ]
+  },
+  {
+    "id": "theformula",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ]
+  },
+  {
+    "id": "lunarossa",
     "covers": [
       "1080_base.jpg",
       "1080_base_256.jpg"

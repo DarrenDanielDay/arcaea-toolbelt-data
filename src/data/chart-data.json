@@ -3597,6 +3597,8 @@
     "id": "cyberneciacatharsis",
     "name": "Cybernecia Catharsis",
     "covers": [
+      "1080_3.jpg",
+      "1080_3_256.jpg",
       "1080_base.jpg",
       "1080_base_256.jpg"
     ],
@@ -3630,6 +3632,18 @@
         "level": 9,
         "note": 946,
         "songId": "cyberneciacatharsis"
+      },
+      {
+        "constant": 9.8,
+        "difficulty": "byd",
+        "id": "cyberneciacatharsis@byd",
+        "level": 9,
+        "note": 991,
+        "songId": "cyberneciacatharsis",
+        "plus": true,
+        "override": {
+          "cover": true
+        }
       }
     ]
   },
@@ -3686,6 +3700,8 @@
     "id": "inkarusi",
     "name": "inkar-usi",
     "covers": [
+      "1080_3.jpg",
+      "1080_3_256.jpg",
       "1080_base.jpg",
       "1080_base_256.jpg"
     ],
@@ -3716,6 +3732,17 @@
         "level": 7,
         "note": 463,
         "songId": "inkarusi"
+      },
+      {
+        "constant": 9.4,
+        "difficulty": "byd",
+        "id": "inkarusi@byd",
+        "level": 9,
+        "note": 857,
+        "songId": "inkarusi",
+        "override": {
+          "cover": true
+        }
       }
     ]
   },
@@ -5043,6 +5070,8 @@
     "id": "libertas",
     "name": "Libertas",
     "covers": [
+      "1080_3.jpg",
+      "1080_3_256.jpg",
       "1080_base.jpg",
       "1080_base_256.jpg"
     ],
@@ -5075,6 +5104,17 @@
         "level": 9,
         "note": 947,
         "songId": "libertas"
+      },
+      {
+        "constant": 10.5,
+        "difficulty": "byd",
+        "id": "libertas@byd",
+        "level": 10,
+        "note": 1048,
+        "songId": "libertas",
+        "override": {
+          "cover": true
+        }
       }
     ]
   },
@@ -5273,6 +5313,8 @@
     "id": "viciousheroism",
     "name": "Vicious Heroism",
     "covers": [
+      "1080_3.jpg",
+      "1080_3_256.jpg",
       "1080_base.jpg",
       "1080_base_256.jpg"
     ],
@@ -5306,6 +5348,19 @@
         "level": 10,
         "note": 1150,
         "songId": "viciousheroism"
+      },
+      {
+        "constant": 11.1,
+        "difficulty": "byd",
+        "id": "viciousheroism@byd",
+        "level": 11,
+        "note": 1772,
+        "songId": "viciousheroism",
+        "override": {
+          "cover": true,
+          "name": "Vicious [ANTi] Heroism",
+          "bpm": "271"
+        }
       }
     ]
   },
@@ -6660,6 +6715,8 @@
     "id": "einherjar",
     "name": "Einherjar Joker",
     "covers": [
+      "1080_3.jpg",
+      "1080_3_256.jpg",
       "1080_base.jpg",
       "1080_base_256.jpg"
     ],
@@ -6694,6 +6751,18 @@
         "note": 1159,
         "songId": "einherjar",
         "plus": true
+      },
+      {
+        "constant": 10.9,
+        "difficulty": "byd",
+        "id": "einherjar@byd",
+        "level": 10,
+        "note": 1857,
+        "songId": "einherjar",
+        "plus": true,
+        "override": {
+          "cover": true
+        }
       }
     ]
   },
@@ -6878,6 +6947,8 @@
     "id": "oblivia",
     "name": "Oblivia",
     "covers": [
+      "1080_3.jpg",
+      "1080_3_256.jpg",
       "1080_base.jpg",
       "1080_base_256.jpg"
     ],
@@ -6911,6 +6982,18 @@
         "level": 8,
         "note": 956,
         "songId": "oblivia"
+      },
+      {
+        "constant": 9.7,
+        "difficulty": "byd",
+        "id": "oblivia@byd",
+        "level": 9,
+        "note": 1021,
+        "songId": "oblivia",
+        "plus": true,
+        "override": {
+          "cover": true
+        }
       }
     ]
   },
@@ -8214,6 +8297,8 @@
     "id": "purpleverse",
     "name": "Purple Verse",
     "covers": [
+      "1080_3.jpg",
+      "1080_3_256.jpg",
       "1080_base.jpg",
       "1080_base_256.jpg"
     ],
@@ -8248,6 +8333,17 @@
         "level": 9,
         "note": 1023,
         "songId": "purpleverse"
+      },
+      {
+        "constant": 10.6,
+        "difficulty": "byd",
+        "id": "purpleverse@byd",
+        "level": 10,
+        "note": 1202,
+        "songId": "purpleverse",
+        "override": {
+          "cover": true
+        }
       }
     ]
   },
@@ -16119,6 +16215,85 @@
         "level": 9,
         "note": 991,
         "songId": "hotarubinoyuki",
+        "plus": true
+      }
+    ]
+  },
+  {
+    "bpm": "144",
+    "side": 0,
+    "id": "theformula",
+    "name": "The Formula",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Arcaea",
+    "dl": false,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 3,
+        "difficulty": "pst",
+        "id": "theformula@pst",
+        "level": 3,
+        "note": 427,
+        "songId": "theformula"
+      },
+      {
+        "constant": 6,
+        "difficulty": "prs",
+        "id": "theformula@prs",
+        "level": 6,
+        "note": 587,
+        "songId": "theformula"
+      },
+      {
+        "constant": 9.3,
+        "difficulty": "ftr",
+        "id": "theformula@ftr",
+        "level": 9,
+        "note": 957,
+        "songId": "theformula"
+      }
+    ]
+  },
+  {
+    "bpm": "174",
+    "side": 1,
+    "id": "lunarossa",
+    "name": "Luna Rossa",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Memory Archive",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 3,
+        "difficulty": "pst",
+        "id": "lunarossa@pst",
+        "level": 3,
+        "note": 443,
+        "songId": "lunarossa"
+      },
+      {
+        "constant": 6,
+        "difficulty": "prs",
+        "id": "lunarossa@prs",
+        "level": 7,
+        "note": 578,
+        "songId": "lunarossa"
+      },
+      {
+        "constant": 9.7,
+        "difficulty": "ftr",
+        "id": "lunarossa@ftr",
+        "level": 9,
+        "note": 920,
+        "songId": "lunarossa",
         "plus": true
       }
     ]

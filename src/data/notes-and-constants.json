@@ -1490,7 +1490,10 @@
         "notes": 946,
         "constant": 9.5
       },
-      null
+      {
+        "notes": 991,
+        "constant": 9.8
+      }
     ]
   },
   {
@@ -1526,7 +1529,10 @@
         "notes": 463,
         "constant": 7.5
       },
-      null
+      {
+        "notes": 857,
+        "constant": 9.4
+      }
     ]
   },
   {
@@ -2081,7 +2087,10 @@
         "notes": 947,
         "constant": 9.2
       },
-      null
+      {
+        "notes": 1048,
+        "constant": 10.5
+      }
     ]
   },
   {
@@ -2174,7 +2183,10 @@
         "notes": 1150,
         "constant": 10
       },
-      null
+      {
+        "notes": 1772,
+        "constant": 11.1
+      }
     ]
   },
   {
@@ -2741,7 +2753,10 @@
         "notes": 1159,
         "constant": 9.8
       },
-      null
+      {
+        "notes": 1857,
+        "constant": 10.9
+      }
     ]
   },
   {
@@ -2831,7 +2846,10 @@
         "notes": 956,
         "constant": 8.3
       },
-      null
+      {
+        "notes": 1021,
+        "constant": 9.7
+      }
     ]
   },
   {
@@ -3377,7 +3395,10 @@
         "notes": 1023,
         "constant": 9.6
       },
-      null
+      {
+        "notes": 1202,
+        "constant": 10.6
+      }
     ]
   },
   {
@@ -6744,6 +6765,42 @@
       },
       {
         "notes": 991,
+        "constant": 9.7
+      },
+      null
+    ]
+  },
+  {
+    "id": "theformula",
+    "charts": [
+      {
+        "notes": 427,
+        "constant": 3.0
+      },
+      {
+        "notes": 587,
+        "constant": 6.0
+      },
+      {
+        "notes": 957,
+        "constant": 9.3
+      },
+      null
+    ]
+  },
+  {
+    "id": "lunarossa",
+    "charts": [
+      {
+        "notes": 443,
+        "constant": 3.0
+      },
+      {
+        "notes": 578,
+        "constant": 6.0
+      },
+      {
+        "notes": 920,
         "constant": 9.7
       },
       null
