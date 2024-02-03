@@ -44,6 +44,10 @@ async function getWikiLontermWorldMapTable() {
       maps: [],
       name: th.textContent!.trim(),
     };
+    if (chapter.name.startsWith("Breached")) {
+      // 跳过Beyond Chain
+      continue;
+    }
     chapters.push(chapter);
     for (
       let i = 0, rows = th.rowSpan, row = firstRow;
@@ -86,13 +90,18 @@ async function getMainTableInfo(): Promise<MainTableInfo> {
     (el): el is HTMLTableElement => el instanceof HTMLTableElement && el.tBodies[0]?.rows[0]?.cells.length === 5
   );
   if (!table) throw new Error("当前事件表格未找到");
+  if (table.rows.item(1)?.textContent?.includes("没有开")) {
+    return {
+      currentEvents: [],
+    };
+  }
   const currentEvents = Array.from(table.rows)
     .slice(1)
     .map<MainTableInfo["currentEvents"][number]>((row) => {
       const [name, , , , time] = Array.from(row.cells);
       if (!name || !time) throw new Error("表格格式改变");
       const rawId = decodeURI(new URL(name.querySelector("a")!.href).hash.slice(1));
-      const id = rawId.includes('限时') ? rawId : `限时：${rawId}`;
+      const id = rawId.includes("限时") ? rawId : `限时：${rawId}`;
       const match = /(\d+)\/(\d+)\/(\d+)[^0-9\/]((\d+)\/)?(\d+)\/(\d+)/.exec(time.textContent!.trim());
       if (!match) throw new Error("时间格式未匹配");
       let [, startYear, , , , endYear, endMonth, endDay] = match;
@@ -323,7 +332,7 @@ export async function fetchWikiWorldMapData(songs: SongData[], characters: Chara
   const events = eventTableItems.map((map) => getWorldMap(htmlDocument, map, backgrounds, songs, characters));
   const { currentEvents } = await getMainTableInfo();
   for (const event of currentEvents) {
-    const map = events.find(e =>e.id === event.id);
+    const map = events.find((e) => e.id === event.id);
     if (!map) throw new Error(`活动地图 ${event.id} 未找到`);
     map.expire = event.expire;
   }
