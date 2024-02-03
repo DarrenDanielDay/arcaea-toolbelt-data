@@ -1,0 +1,2 @@
+node ./scripts/json-data.js --generate
+git add ./src/data/meta.json
