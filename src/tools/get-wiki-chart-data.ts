@@ -203,6 +203,7 @@ export async function getSongData(songList: SongList, packList: PackList): Promi
       const chart: Chart = {
         constant,
         difficulty,
+        designer: songListChart.chartDesigner,
         id: `${songId}@${difficulty}`,
         level: songListChart.rating,
         note: notes[i] || -1,
@@ -310,6 +311,7 @@ export async function getSongData(songList: SongList, packList: PackList): Promi
         .map<Chart>((difficulty, i) => ({
           constant: song[difficulty]!,
           difficulty,
+          designer: 'Arcaea',
           id: `${last}@${difficulty}`,
           level: levels[i]!,
           note: notes[i]!,
@@ -320,6 +322,7 @@ export async function getSongData(songList: SongList, packList: PackList): Promi
             id: `${last}@${Difficulty.Beyond}`,
             constant: 9.6,
             difficulty: Difficulty.Beyond,
+            designer: 'Arcaea',
             level: 9,
             note: 888,
             songId: last,
@@ -346,6 +349,7 @@ export async function getSongData(songList: SongList, packList: PackList): Promi
           id: `${lasteternity}@${Difficulty.Beyond}`,
           constant: 9.7,
           difficulty: Difficulty.Beyond,
+          designer: 'Arcaea',
           level: 9,
           plus: true,
           note: 790,

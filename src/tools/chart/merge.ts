@@ -39,11 +39,12 @@ export function mergeIntoSongData(
         // Last | Eternity PST/PRS/FTR
         continue;
       }
-      const { ratingClass, rating, ratingPlus, jacketOverride, title_localized, bpm } = difficulty;
+      const { ratingClass, rating, ratingPlus, jacketOverride, title_localized, bpm, chartDesigner } = difficulty;
       const extraData = extra?.charts[ratingClass];
       const chart: Chart = {
         constant: extraData?.constant ?? -1,
         difficulty: difficulties[ratingClass]!,
+        designer: chartDesigner,
         id: `${songId}@${difficulties[ratingClass]!}`,
         level: rating,
         note: extraData?.notes ?? -1,
