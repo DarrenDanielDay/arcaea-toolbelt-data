@@ -1,7 +1,8 @@
 // @ts-check
-import { readFile, readdir, writeFile } from "fs/promises";
+import { readdir } from "fs/promises";
 import { join } from "path";
 import meta from "../src/data/meta.json" assert { type: "json" };
+import { readJSON, writeJSON } from "./utils.js";
 
 const version = meta.version;
 const extractName = `arcaea_${version}`;
@@ -15,7 +16,7 @@ function assets(path) {
 
 async function main() {
   /** @type {import('../src/tools/packed-data').SongList} */
-  const songList = JSON.parse(await readFile(assets("songs/songlist"), { encoding: "utf-8" }));
+  const songList = await readJSON(assets("songs/songlist"));
 
   /**
    * @param {import('../src/tools/packed-data').Song} song
@@ -31,7 +32,7 @@ async function main() {
   }
   /** @type {import('../src/tools/chart/shared').AssetsInfo[]} */
   const assetsInfo = await Promise.all(songList.songs.map(getSongAssets));
-  await writeFile("src/data/assets-info.json", JSON.stringify(assetsInfo, undefined, 2));
+  await writeJSON("src/data/assets-info.json", assetsInfo);
   console.log(
     assetsInfo.filter((a) => {
       // 用于测试对应的*_256.jpg是否一定有

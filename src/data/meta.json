@@ -13,7 +13,7 @@
     },
     {
       "file": "character-data.json",
-      "hash": "e6993c04"
+      "hash": "e9bf4735"
     },
     {
       "file": "characters.json",
@@ -28,6 +28,10 @@
       "hash": "cae63716"
     },
     {
+      "file": "factors.json",
+      "hash": "cd574657"
+    },
+    {
       "file": "item-data.json",
       "hash": "87f54e7a"
     },
@@ -37,11 +41,11 @@
     },
     {
       "file": "packlist.json",
-      "hash": "d61427f5"
+      "hash": "b9d81135"
     },
     {
       "file": "songlist.json",
-      "hash": "414ce1c7"
+      "hash": "a0219945"
     },
     {
       "file": "world-maps-events.json",

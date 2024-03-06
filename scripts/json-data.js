@@ -3,6 +3,7 @@ import { copyFile, mkdir, readFile, readdir, stat, writeFile } from "fs/promises
 import { createHmac } from "crypto";
 import { parse, resolve } from "path";
 import { argv, cwd } from "process";
+import { readJSON, writeJSON } from "./utils.js";
 
 /**
  * @param {string} filename
@@ -15,14 +16,6 @@ async function hashFile(filename) {
 
 const root = cwd();
 const dataDir = resolve(root, "src", "data");
-
-/**
- * @param {string} path
- */
-async function readJSON(path) {
-  const content = await readFile(path, { encoding: "utf-8" });
-  return JSON.parse(content);
-}
 
 async function generateIndex() {
   const meta = "meta.json";
@@ -38,7 +31,9 @@ async function generateIndex() {
   await Promise.all(
     copySubPaths.map(async (path) => {
       const url = new URL(path, import.meta.url);
-      await copyFile(url, resolve(dataDir, `${parse(path).base}.json`));
+      const json = await readJSON(url);
+      // Not copy file, force to use LF.
+      await writeJSON(resolve(dataDir, `${parse(path).base}.json`), json);
     })
   );
   const files = (await readdir(dataDir)).filter((file) => file !== meta);
@@ -51,9 +46,7 @@ async function generateIndex() {
     })
   );
   metadata.index = index;
-  await writeFile(metaFile, JSON.stringify(metadata, undefined, 2), {
-    encoding: "utf-8",
-  });
+  await writeJSON(metaFile, metadata);
 }
 
 async function buildStatic() {
