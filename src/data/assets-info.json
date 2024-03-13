@@ -2697,5 +2697,54 @@
       "1080_base.jpg",
       "1080_base_256.jpg"
     ]
+  },
+  {
+    "id": "jingle",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ]
+  },
+  {
+    "id": "innocence",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ]
+  },
+  {
+    "id": "ionostream",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ]
+  },
+  {
+    "id": "alephzero",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ]
+  },
+  {
+    "id": "masqueradelegion",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ]
+  },
+  {
+    "id": "kyorenromance",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ]
+  },
+  {
+    "id": "qovat",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ]
   }
 ]

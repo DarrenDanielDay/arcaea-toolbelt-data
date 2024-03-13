@@ -42,6 +42,15 @@
         "level": 7,
         "note": 666,
         "songId": "sayonarahatsukoi"
+      },
+      {
+        "constant": 8.5,
+        "difficulty": "etr",
+        "designer": "Luxance + Exschwasion",
+        "id": "sayonarahatsukoi@etr",
+        "level": 8,
+        "note": 728,
+        "songId": "sayonarahatsukoi"
       }
     ]
   },
@@ -210,13 +219,14 @@
         "songId": "viyella"
       },
       {
-        "constant": 8.5,
+        "constant": 8.7,
         "difficulty": "ftr",
         "designer": "Toaster",
         "id": "viyella@ftr",
         "level": 8,
         "note": 791,
-        "songId": "viyella"
+        "songId": "viyella",
+        "plus": true
       }
     ]
   },
@@ -252,13 +262,14 @@
         "songId": "rise"
       },
       {
-        "constant": 7.5,
+        "constant": 7.8,
         "difficulty": "ftr",
         "designer": "Nitro",
         "id": "rise@ftr",
         "level": 7,
         "note": 788,
-        "songId": "rise"
+        "songId": "rise",
+        "plus": true
       }
     ]
   },
@@ -503,7 +514,8 @@
         "id": "memoryfactory@ftr",
         "level": 8,
         "note": 672,
-        "songId": "memoryfactory"
+        "songId": "memoryfactory",
+        "plus": true
       }
     ]
   },
@@ -607,7 +619,7 @@
       "1080_base_256.jpg"
     ],
     "pack": "Arcaea",
-    "dl": true,
+    "dl": false,
     "alias": [
       "上界光之影",
       "光影"
@@ -697,11 +709,11 @@
         "songId": "vexaria"
       },
       {
-        "constant": 8.8,
+        "constant": 9,
         "difficulty": "byd",
         "designer": "石樂",
         "id": "vexaria@byd",
-        "level": 8,
+        "level": 9,
         "note": 785,
         "songId": "vexaria",
         "override": {
@@ -909,7 +921,8 @@
         "id": "sheriruth@prs",
         "level": 7,
         "note": 832,
-        "songId": "sheriruth"
+        "songId": "sheriruth",
+        "plus": true
       },
       {
         "constant": 10.1,
@@ -1012,13 +1025,14 @@
         "songId": "dement"
       },
       {
-        "constant": 7.5,
+        "constant": 7.8,
         "difficulty": "ftr",
         "designer": "Toaster",
         "id": "dement@ftr",
         "level": 7,
         "note": 970,
-        "songId": "dement"
+        "songId": "dement",
+        "plus": true
       },
       {
         "constant": 9.9,
@@ -1162,13 +1176,14 @@
         "songId": "infinityheaven"
       },
       {
-        "constant": 7.5,
+        "constant": 7.8,
         "difficulty": "ftr",
         "designer": "Nitro",
         "id": "infinityheaven@ftr",
         "level": 7,
         "note": 853,
-        "songId": "infinityheaven"
+        "songId": "infinityheaven",
+        "plus": true
       },
       {
         "constant": 9.6,
@@ -1213,13 +1228,14 @@
         "songId": "partyvinyl"
       },
       {
-        "constant": 7.5,
+        "constant": 7.8,
         "difficulty": "prs",
         "designer": "Party Toaster",
         "id": "partyvinyl@prs",
         "level": 7,
         "note": 543,
-        "songId": "partyvinyl"
+        "songId": "partyvinyl",
+        "plus": true
       },
       {
         "constant": 9.4,
@@ -1279,13 +1295,14 @@
         "songId": "flashback"
       },
       {
-        "constant": 8.8,
+        "constant": 8.9,
         "difficulty": "ftr",
         "designer": "Nitro",
         "id": "flashback@ftr",
         "level": 8,
         "note": 856,
-        "songId": "flashback"
+        "songId": "flashback",
+        "plus": true
       }
     ]
   },
@@ -1414,13 +1431,14 @@
         "songId": "paradise"
       },
       {
-        "constant": 7.5,
+        "constant": 7.8,
         "difficulty": "ftr",
         "designer": "Nitro",
         "id": "paradise@ftr",
         "level": 7,
         "note": 729,
-        "songId": "paradise"
+        "songId": "paradise",
+        "plus": true
       }
     ]
   },
@@ -1458,13 +1476,14 @@
         "songId": "brandnewworld"
       },
       {
-        "constant": 7.5,
+        "constant": 7.8,
         "difficulty": "ftr",
         "designer": "Nitro 2.0",
         "id": "brandnewworld@ftr",
         "level": 7,
         "note": 787,
-        "songId": "brandnewworld"
+        "songId": "brandnewworld",
+        "plus": true
       }
     ]
   },
@@ -1649,7 +1668,8 @@
         "id": "chronostasis@ftr",
         "level": 8,
         "note": 916,
-        "songId": "chronostasis"
+        "songId": "chronostasis",
+        "plus": true
       }
     ]
   },
@@ -1750,13 +1770,14 @@
         "songId": "moonlightofsandcastle"
       },
       {
-        "constant": 7.5,
+        "constant": 7.8,
         "difficulty": "ftr",
         "designer": "Kurorak",
         "id": "moonlightofsandcastle@ftr",
         "level": 7,
         "note": 645,
-        "songId": "moonlightofsandcastle"
+        "songId": "moonlightofsandcastle",
+        "plus": true
       }
     ]
   },
@@ -1847,7 +1868,8 @@
         "id": "evoltex@ftr",
         "level": 8,
         "note": 775,
-        "songId": "evoltex"
+        "songId": "evoltex",
+        "plus": true
       }
     ]
   },
@@ -1924,7 +1946,7 @@
         "songId": "aterlbus"
       },
       {
-        "constant": 7,
+        "constant": 7.5,
         "difficulty": "prs",
         "designer": "τoastεr",
         "id": "aterlbus@prs",
@@ -1978,13 +2000,24 @@
         "songId": "clotho"
       },
       {
-        "constant": 7.5,
+        "constant": 7.8,
         "difficulty": "ftr",
         "designer": "小東星",
         "id": "clotho@ftr",
         "level": 7,
         "note": 1021,
-        "songId": "clotho"
+        "songId": "clotho",
+        "plus": true
+      },
+      {
+        "constant": 8.8,
+        "difficulty": "etr",
+        "designer": "eién",
+        "id": "clotho@etr",
+        "level": 8,
+        "note": 1031,
+        "songId": "clotho",
+        "plus": true
       }
     ]
   },
@@ -2179,13 +2212,14 @@
         "songId": "romancewars"
       },
       {
-        "constant": 7.5,
+        "constant": 7.8,
         "difficulty": "ftr",
         "designer": "Kurorak",
         "id": "romancewars@ftr",
         "level": 7,
         "note": 641,
-        "songId": "romancewars"
+        "songId": "romancewars",
+        "plus": true
       }
     ]
   },
@@ -2883,13 +2917,14 @@
         "songId": "redandblue"
       },
       {
-        "constant": 7.5,
+        "constant": 7.8,
         "difficulty": "prs",
         "designer": "side BLUE -chartaesthesia-",
         "id": "redandblue@prs",
         "level": 7,
         "note": 597,
-        "songId": "redandblue"
+        "songId": "redandblue",
+        "plus": true
       },
       {
         "constant": 9.4,
@@ -3000,7 +3035,8 @@
         "id": "surrender@ftr",
         "level": 8,
         "note": 925,
-        "songId": "surrender"
+        "songId": "surrender",
+        "plus": true
       }
     ]
   },
@@ -3079,13 +3115,14 @@
         "songId": "cyanine"
       },
       {
-        "constant": 7.5,
+        "constant": 7.8,
         "difficulty": "prs",
         "designer": "夜浪",
         "id": "cyanine@prs",
         "level": 7,
         "note": 947,
-        "songId": "cyanine"
+        "songId": "cyanine",
+        "plus": true
       },
       {
         "constant": 10.6,
@@ -3134,13 +3171,14 @@
         "songId": "dreamgoeson"
       },
       {
-        "constant": 7.5,
+        "constant": 7.8,
         "difficulty": "ftr",
         "designer": "k//eternal",
         "id": "dreamgoeson@ftr",
         "level": 7,
         "note": 719,
-        "songId": "dreamgoeson"
+        "songId": "dreamgoeson",
+        "plus": true
       }
     ]
   },
@@ -3179,11 +3217,11 @@
         "songId": "journey"
       },
       {
-        "constant": 8.8,
+        "constant": 9.1,
         "difficulty": "ftr",
         "designer": "Kurorak",
         "id": "journey@ftr",
-        "level": 8,
+        "level": 9,
         "note": 997,
         "songId": "journey"
       }
@@ -3438,13 +3476,14 @@
         "songId": "singularity"
       },
       {
-        "constant": 7.5,
+        "constant": 7.8,
         "difficulty": "prs",
         "designer": "東星",
         "id": "singularity@prs",
         "level": 7,
         "note": 678,
-        "songId": "singularity"
+        "songId": "singularity",
+        "plus": true
       },
       {
         "constant": 10.7,
@@ -3605,7 +3644,8 @@
         "id": "nexttoyou@ftr",
         "level": 8,
         "note": 824,
-        "songId": "nexttoyou"
+        "songId": "nexttoyou",
+        "plus": true
       },
       {
         "constant": 9.6,
@@ -3739,11 +3779,11 @@
         "songId": "guardina"
       },
       {
-        "constant": 7.5,
+        "constant": 8,
         "difficulty": "prs",
         "designer": "τoastεr",
         "id": "guardina@prs",
-        "level": 7,
+        "level": 8,
         "note": 678,
         "songId": "guardina"
       },
@@ -3783,13 +3823,14 @@
         "songId": "carminescythe"
       },
       {
-        "constant": 7.5,
+        "constant": 7.8,
         "difficulty": "prs",
         "designer": "週刊Toaster",
         "id": "carminescythe@prs",
         "level": 7,
         "note": 710,
-        "songId": "carminescythe"
+        "songId": "carminescythe",
+        "plus": true
       },
       {
         "constant": 9.6,
@@ -3952,7 +3993,8 @@
         "id": "callmyname@ftr",
         "level": 8,
         "note": 921,
-        "songId": "callmyname"
+        "songId": "callmyname",
+        "plus": true
       }
     ]
   },
@@ -3990,13 +4032,14 @@
         "songId": "inkarusi"
       },
       {
-        "constant": 7.5,
+        "constant": 7.8,
         "difficulty": "ftr",
         "designer": "Kurorak",
         "id": "inkarusi@ftr",
         "level": 7,
         "note": 463,
-        "songId": "inkarusi"
+        "songId": "inkarusi",
+        "plus": true
       },
       {
         "constant": 9.4,
@@ -4058,7 +4101,8 @@
         "id": "mazenine@ftr",
         "level": 8,
         "note": 775,
-        "songId": "mazenine"
+        "songId": "mazenine",
+        "plus": true
       }
     ]
   },
@@ -4343,13 +4387,24 @@
         "songId": "suomi"
       },
       {
-        "constant": 7.5,
+        "constant": 7.8,
         "difficulty": "ftr",
         "designer": "Toastie",
         "id": "suomi@ftr",
         "level": 7,
         "note": 818,
-        "songId": "suomi"
+        "songId": "suomi",
+        "plus": true
+      },
+      {
+        "constant": 8.9,
+        "difficulty": "etr",
+        "designer": "CERiNG",
+        "id": "suomi@etr",
+        "level": 8,
+        "note": 732,
+        "songId": "suomi",
+        "plus": true
       }
     ]
   },
@@ -4502,7 +4557,8 @@
         "id": "dropdead@ftr",
         "level": 8,
         "note": 823,
-        "songId": "dropdead"
+        "songId": "dropdead",
+        "plus": true
       },
       {
         "constant": 10.5,
@@ -4545,7 +4601,7 @@
         "songId": "fallensquare"
       },
       {
-        "constant": 7,
+        "constant": 7.5,
         "difficulty": "prs",
         "designer": "Haruba",
         "id": "fallensquare@prs",
@@ -4926,13 +4982,14 @@
         "songId": "tiferet"
       },
       {
-        "constant": 7.5,
+        "constant": 7.8,
         "difficulty": "prs",
         "designer": "夜浪[Spherical]",
         "id": "tiferet@prs",
         "level": 7,
         "note": 720,
-        "songId": "tiferet"
+        "songId": "tiferet",
+        "plus": true
       },
       {
         "constant": 10.4,
@@ -4972,7 +5029,7 @@
         "songId": "alexandrite"
       },
       {
-        "constant": 7,
+        "constant": 7.5,
         "difficulty": "prs",
         "designer": "東星※空の宝石",
         "id": "alexandrite@prs",
@@ -5219,7 +5276,8 @@
         "id": "merlin@ftr",
         "level": 8,
         "note": 712,
-        "songId": "merlin"
+        "songId": "merlin",
+        "plus": true
       },
       {
         "constant": 9.4,
@@ -5402,7 +5460,7 @@
         "songId": "ouroboros"
       },
       {
-        "constant": 7,
+        "constant": 7.5,
         "difficulty": "prs",
         "designer": "Groove 東星",
         "id": "ouroboros@prs",
@@ -5525,7 +5583,8 @@
         "id": "solitarydream@ftr",
         "level": 8,
         "note": 972,
-        "songId": "solitarydream"
+        "songId": "solitarydream",
+        "plus": true
       }
     ]
   },
@@ -5571,7 +5630,8 @@
         "id": "antithese@ftr",
         "level": 8,
         "note": 877,
-        "songId": "antithese"
+        "songId": "antithese",
+        "plus": true
       },
       {
         "constant": 9.5,
@@ -5819,11 +5879,11 @@
         "songId": "revixy"
       },
       {
-        "constant": 6,
+        "constant": 7,
         "difficulty": "prs",
         "designer": "Revoke Kurorak",
         "id": "revixy@prs",
-        "level": 6,
+        "level": 7,
         "note": 729,
         "songId": "revixy"
       },
@@ -5848,7 +5908,7 @@
       "1080_base_256.jpg"
     ],
     "pack": "Arcaea",
-    "dl": true,
+    "dl": false,
     "alias": [
       "冷酷的心",
       "黑心",
@@ -5875,13 +5935,14 @@
         "songId": "grimheart"
       },
       {
-        "constant": 8.6,
+        "constant": 8.7,
         "difficulty": "ftr",
         "designer": "Toaster",
         "id": "grimheart@ftr",
         "level": 8,
         "note": 959,
-        "songId": "grimheart"
+        "songId": "grimheart",
+        "plus": true
       }
     ]
   },
@@ -6257,7 +6318,8 @@
         "id": "particlearts@ftr",
         "level": 8,
         "note": 925,
-        "songId": "particlearts"
+        "songId": "particlearts",
+        "plus": true
       }
     ]
   },
@@ -6448,13 +6510,14 @@
         "songId": "chelsea"
       },
       {
-        "constant": 8.5,
+        "constant": 8.9,
         "difficulty": "ftr",
         "designer": "TaroNuke",
         "id": "chelsea@ftr",
         "level": 8,
         "note": 650,
-        "songId": "chelsea"
+        "songId": "chelsea",
+        "plus": true
       }
     ]
   },
@@ -6623,7 +6686,7 @@
         "songId": "valhallazero"
       },
       {
-        "constant": 7,
+        "constant": 7.5,
         "difficulty": "prs",
         "designer": "夜浪",
         "id": "valhallazero@prs",
@@ -6668,7 +6731,7 @@
         "songId": "mirzam"
       },
       {
-        "constant": 7,
+        "constant": 7.5,
         "difficulty": "prs",
         "designer": "東星※おおいぬ座β星",
         "id": "mirzam@prs",
@@ -6867,13 +6930,14 @@
         "songId": "monochromeprincess"
       },
       {
-        "constant": 7.5,
+        "constant": 7.8,
         "difficulty": "prs",
         "designer": "N↕TRO",
         "id": "monochromeprincess@prs",
         "level": 7,
         "note": 756,
-        "songId": "monochromeprincess"
+        "songId": "monochromeprincess",
+        "plus": true
       },
       {
         "constant": 9.7,
@@ -6974,7 +7038,8 @@
         "id": "senkyou@ftr",
         "level": 8,
         "note": 964,
-        "songId": "senkyou"
+        "songId": "senkyou",
+        "plus": true
       }
     ]
   },
@@ -7004,13 +7069,14 @@
         "songId": "filament"
       },
       {
-        "constant": 7.5,
+        "constant": 7.8,
         "difficulty": "prs",
         "designer": "Toaster",
         "id": "filament@prs",
         "level": 7,
         "note": 780,
-        "songId": "filament"
+        "songId": "filament",
+        "plus": true
       },
       {
         "constant": 9.7,
@@ -7409,13 +7475,14 @@
         "songId": "blrink"
       },
       {
-        "constant": 7.5,
+        "constant": 7.8,
         "difficulty": "prs",
         "designer": "現在の縁",
         "id": "blrink@prs",
         "level": 7,
         "note": 683,
-        "songId": "blrink"
+        "songId": "blrink",
+        "plus": true
       },
       {
         "constant": 9.7,
@@ -7564,13 +7631,14 @@
         "songId": "corpssansorganes"
       },
       {
-        "constant": 7.5,
+        "constant": 7.8,
         "difficulty": "prs",
         "designer": "夜浪「月食」",
         "id": "corpssansorganes@prs",
         "level": 7,
         "note": 615,
-        "songId": "corpssansorganes"
+        "songId": "corpssansorganes",
+        "plus": true
       },
       {
         "constant": 10.6,
@@ -7661,13 +7729,14 @@
         "songId": "antagonism"
       },
       {
-        "constant": 7.5,
+        "constant": 7.8,
         "difficulty": "prs",
         "designer": "Toaster",
         "id": "antagonism@prs",
         "level": 7,
         "note": 738,
-        "songId": "antagonism"
+        "songId": "antagonism",
+        "plus": true
       },
       {
         "constant": 9.9,
@@ -7709,13 +7778,14 @@
         "songId": "lostdesire"
       },
       {
-        "constant": 7.5,
+        "constant": 7.8,
         "difficulty": "prs",
         "designer": "Darkest Dream",
         "id": "lostdesire@prs",
         "level": 7,
         "note": 871,
-        "songId": "lostdesire"
+        "songId": "lostdesire",
+        "plus": true
       },
       {
         "constant": 9.8,
@@ -7851,11 +7921,11 @@
     ],
     "charts": [
       {
-        "constant": 6.5,
+        "constant": 7,
         "difficulty": "pst",
         "designer": "Prelude - Ouverture",
         "id": "tempestissimo@pst",
-        "level": 6,
+        "level": 7,
         "note": 919,
         "songId": "tempestissimo"
       },
@@ -7918,13 +7988,14 @@
         "songId": "arcahv"
       },
       {
-        "constant": 7.5,
+        "constant": 7.8,
         "difficulty": "prs",
         "designer": "∅",
         "id": "arcahv@prs",
         "level": 7,
         "note": 884,
-        "songId": "arcahv"
+        "songId": "arcahv",
+        "plus": true
       },
       {
         "constant": 9.9,
@@ -8024,7 +8095,8 @@
         "id": "givemeanightmare@ftr",
         "level": 8,
         "note": 948,
-        "songId": "givemeanightmare"
+        "songId": "givemeanightmare",
+        "plus": true
       }
     ]
   },
@@ -8098,7 +8170,7 @@
         "songId": "gekka"
       },
       {
-        "constant": 6,
+        "constant": 6.5,
         "difficulty": "prs",
         "designer": "Nitro",
         "id": "gekka@prs",
@@ -8159,7 +8231,8 @@
         "id": "vividtheory@ftr",
         "level": 8,
         "note": 885,
-        "songId": "vividtheory"
+        "songId": "vividtheory",
+        "plus": true
       }
     ]
   },
@@ -8236,7 +8309,7 @@
         "songId": "scarletcage"
       },
       {
-        "constant": 7,
+        "constant": 7.5,
         "difficulty": "prs",
         "designer": "赤Nitro",
         "id": "scarletcage@prs",
@@ -8526,13 +8599,14 @@
         "songId": "maliciousmischance"
       },
       {
-        "constant": 7.5,
+        "constant": 7.8,
         "difficulty": "prs",
         "designer": "×NITRO×",
         "id": "maliciousmischance@prs",
         "level": 7,
         "note": 706,
-        "songId": "maliciousmischance"
+        "songId": "maliciousmischance",
+        "plus": true
       },
       {
         "constant": 10.2,
@@ -8758,7 +8832,7 @@
         "songId": "xeraphinite"
       },
       {
-        "constant": 7,
+        "constant": 7.5,
         "difficulty": "prs",
         "designer": "東星※空の宝石",
         "id": "xeraphinite@prs",
@@ -8901,7 +8975,7 @@
         "songId": "purpleverse"
       },
       {
-        "constant": 7,
+        "constant": 7.5,
         "difficulty": "prs",
         "designer": "Exschwasion",
         "id": "purpleverse@prs",
@@ -9200,7 +9274,8 @@
         "id": "besideyou@ftr",
         "level": 8,
         "note": 703,
-        "songId": "besideyou"
+        "songId": "besideyou",
+        "plus": true
       }
     ]
   },
@@ -9275,7 +9350,7 @@
         "songId": "toaliceliddell"
       },
       {
-        "constant": 7,
+        "constant": 7.5,
         "difficulty": "prs",
         "designer": "Yours Sincerely, 夜浪",
         "id": "toaliceliddell@prs",
@@ -9362,7 +9437,7 @@
         "songId": "dazzlehop"
       },
       {
-        "constant": 6,
+        "constant": 6.5,
         "difficulty": "prs",
         "designer": "Kuro rak",
         "id": "dazzlehop@prs",
@@ -9411,13 +9486,14 @@
         "songId": "viyellastears"
       },
       {
-        "constant": 7,
+        "constant": 7.8,
         "difficulty": "prs",
         "designer": "東星の涙",
         "id": "viyellastears@prs",
         "level": 7,
         "note": 942,
-        "songId": "viyellastears"
+        "songId": "viyellastears",
+        "plus": true
       },
       {
         "constant": 10.3,
@@ -9457,13 +9533,14 @@
         "songId": "omegafour"
       },
       {
-        "constant": 7.5,
+        "constant": 7.8,
         "difficulty": "prs",
         "designer": "τ0",
         "id": "omegafour@prs",
         "level": 7,
         "note": 943,
-        "songId": "omegafour"
+        "songId": "omegafour",
+        "plus": true
       },
       {
         "constant": 10.8,
@@ -9512,7 +9589,7 @@
         "songId": "aprilshowers"
       },
       {
-        "constant": 8.3,
+        "constant": 8.6,
         "difficulty": "ftr",
         "designer": "Nitro-100号",
         "id": "aprilshowers@ftr",
@@ -9548,13 +9625,14 @@
         "songId": "seventhsense"
       },
       {
-        "constant": 7.5,
+        "constant": 7.8,
         "difficulty": "prs",
         "designer": "石樂",
         "id": "seventhsense@prs",
         "level": 7,
         "note": 739,
-        "songId": "seventhsense"
+        "songId": "seventhsense",
+        "plus": true
       },
       {
         "constant": 9.9,
@@ -9638,13 +9716,14 @@
         "songId": "amazingmightyyyy"
       },
       {
-        "constant": 7.5,
+        "constant": 7.8,
         "difficulty": "prs",
         "designer": "AMAZING TOASTYYYY!!!!",
         "id": "amazingmightyyyy@prs",
         "level": 7,
         "note": 776,
-        "songId": "amazingmightyyyy"
+        "songId": "amazingmightyyyy",
+        "plus": true
       },
       {
         "constant": 10.7,
@@ -9685,13 +9764,14 @@
         "songId": "climax"
       },
       {
-        "constant": 7.5,
+        "constant": 7.8,
         "difficulty": "prs",
         "designer": "Nitro -EXTRA ROUND-",
         "id": "climax@prs",
         "level": 7,
         "note": 988,
-        "songId": "climax"
+        "songId": "climax",
+        "plus": true
       },
       {
         "constant": 10.4,
@@ -9817,7 +9897,7 @@
         "songId": "glow"
       },
       {
-        "constant": 7,
+        "constant": 7.5,
         "difficulty": "prs",
         "designer": "Exschwasion",
         "id": "glow@prs",
@@ -9859,11 +9939,11 @@
         "songId": "attraqtia"
       },
       {
-        "constant": 7.5,
+        "constant": 8.3,
         "difficulty": "prs",
         "designer": "Toaster affected by 'CHUNITHM'",
         "id": "attraqtia@prs",
-        "level": 7,
+        "level": 8,
         "note": 1002,
         "songId": "attraqtia"
       },
@@ -9917,7 +9997,7 @@
         "songId": "enchantedlove"
       },
       {
-        "constant": 8.4,
+        "constant": 8.6,
         "difficulty": "ftr",
         "designer": "Toaster",
         "id": "enchantedlove@ftr",
@@ -10001,7 +10081,7 @@
         "songId": "gimmedablood"
       },
       {
-        "constant": 7,
+        "constant": 7.5,
         "difficulty": "prs",
         "designer": "夜浪",
         "id": "gimmedablood@prs",
@@ -10087,11 +10167,11 @@
         "songId": "lifeispiano"
       },
       {
-        "constant": 5.5,
+        "constant": 6,
         "difficulty": "prs",
         "designer": "Nitro",
         "id": "lifeispiano@prs",
-        "level": 5,
+        "level": 6,
         "note": 437,
         "songId": "lifeispiano"
       },
@@ -10147,7 +10227,8 @@
         "id": "paperwitch@ftr",
         "level": 8,
         "note": 793,
-        "songId": "paperwitch"
+        "songId": "paperwitch",
+        "plus": true
       }
     ]
   },
@@ -10223,13 +10304,14 @@
         "songId": "farawaylight"
       },
       {
-        "constant": 7.5,
+        "constant": 7.8,
         "difficulty": "prs",
         "designer": "Toaster",
         "id": "farawaylight@prs",
         "level": 7,
         "note": 769,
-        "songId": "farawaylight"
+        "songId": "farawaylight",
+        "plus": true
       },
       {
         "constant": 9.8,
@@ -10375,11 +10457,11 @@
         "songId": "coastalhighway"
       },
       {
-        "constant": 8.8,
+        "constant": 9,
         "difficulty": "ftr",
         "designer": "Exschwasion",
         "id": "coastalhighway@ftr",
-        "level": 8,
+        "level": 9,
         "note": 732,
         "songId": "coastalhighway"
       }
@@ -10411,13 +10493,14 @@
         "songId": "odysseia"
       },
       {
-        "constant": 7.5,
+        "constant": 7.8,
         "difficulty": "prs",
         "designer": "ΤΟΑΣΤΕΡ",
         "id": "odysseia@prs",
         "level": 7,
         "note": 909,
-        "songId": "odysseia"
+        "songId": "odysseia",
+        "plus": true
       },
       {
         "constant": 9.5,
@@ -10503,11 +10586,11 @@
         "songId": "vandalism"
       },
       {
-        "constant": 6,
+        "constant": 7,
         "difficulty": "prs",
         "designer": "Kurorak",
         "id": "vandalism@prs",
-        "level": 6,
+        "level": 7,
         "note": 685,
         "songId": "vandalism"
       },
@@ -10546,11 +10629,11 @@
         "songId": "turbocharger"
       },
       {
-        "constant": 5.5,
+        "constant": 6,
         "difficulty": "prs",
         "designer": "Toaster",
         "id": "turbocharger@prs",
-        "level": 5,
+        "level": 6,
         "note": 659,
         "songId": "turbocharger"
       },
@@ -10639,13 +10722,14 @@
         "songId": "rekkaresonance"
       },
       {
-        "constant": 8.3,
+        "constant": 8.9,
         "difficulty": "prs",
         "designer": "夜浪 vs Nitro",
         "id": "rekkaresonance@prs",
         "level": 8,
         "note": 1051,
-        "songId": "rekkaresonance"
+        "songId": "rekkaresonance",
+        "plus": true
       },
       {
         "constant": 10.7,
@@ -10732,11 +10816,11 @@
         "songId": "hivemind"
       },
       {
-        "constant": 7.5,
+        "constant": 8.6,
         "difficulty": "prs",
         "designer": "NITRO -unconnected-",
         "id": "hivemind@prs",
-        "level": 7,
+        "level": 8,
         "note": 988,
         "songId": "hivemind"
       },
@@ -10777,7 +10861,7 @@
         "songId": "seclusion"
       },
       {
-        "constant": 7,
+        "constant": 7.5,
         "difficulty": "prs",
         "designer": "Exschwasion",
         "id": "seclusion@prs",
@@ -10912,13 +10996,14 @@
         "songId": "divinelight"
       },
       {
-        "constant": 7.5,
+        "constant": 7.8,
         "difficulty": "prs",
         "designer": "東星※神授",
         "id": "divinelight@prs",
         "level": 7,
         "note": 835,
-        "songId": "divinelight"
+        "songId": "divinelight",
+        "plus": true
       },
       {
         "constant": 10.8,
@@ -10958,13 +11043,14 @@
         "songId": "mazymetroplex"
       },
       {
-        "constant": 7.5,
+        "constant": 7.8,
         "difficulty": "prs",
         "designer": "Exschwasion",
         "id": "mazymetroplex@prs",
         "level": 7,
         "note": 704,
-        "songId": "mazymetroplex"
+        "songId": "mazymetroplex",
+        "plus": true
       },
       {
         "constant": 9.7,
@@ -11005,11 +11091,11 @@
         "songId": "quonwacca"
       },
       {
-        "constant": 5.5,
+        "constant": 6,
         "difficulty": "prs",
         "designer": "CERiNG",
         "id": "quonwacca@prs",
-        "level": 5,
+        "level": 6,
         "note": 496,
         "songId": "quonwacca"
       },
@@ -11020,7 +11106,8 @@
         "id": "quonwacca@ftr",
         "level": 8,
         "note": 749,
-        "songId": "quonwacca"
+        "songId": "quonwacca",
+        "plus": true
       },
       {
         "constant": 10.2,
@@ -11106,13 +11193,14 @@
         "songId": "genocider"
       },
       {
-        "constant": 8.5,
+        "constant": 8.9,
         "difficulty": "prs",
         "designer": "Toaster",
         "id": "genocider@prs",
         "level": 8,
         "note": 1025,
-        "songId": "genocider"
+        "songId": "genocider",
+        "plus": true
       },
       {
         "constant": 10.7,
@@ -11203,7 +11291,7 @@
         "songId": "sheriruthrmx"
       },
       {
-        "constant": 7.5,
+        "constant": 7.8,
         "difficulty": "prs",
         "designer": "Nitro",
         "id": "sheriruthrmx@prs",
@@ -11382,11 +11470,11 @@
         "songId": "gengaozo"
       },
       {
-        "constant": 7.5,
+        "constant": 8.1,
         "difficulty": "prs",
         "designer": "_ P R E S E N T",
         "id": "gengaozo@prs",
-        "level": 7,
+        "level": 8,
         "note": 870,
         "songId": "gengaozo"
       },
@@ -11467,7 +11555,7 @@
         "songId": "lastendconductor"
       },
       {
-        "constant": 7,
+        "constant": 7.5,
         "difficulty": "prs",
         "designer": "Nitro",
         "id": "lastendconductor@prs",
@@ -11572,13 +11660,14 @@
         "songId": "cosmica"
       },
       {
-        "constant": 8.5,
+        "constant": 8.8,
         "difficulty": "ftr",
         "designer": "Nitro missing Toaster.",
         "id": "cosmica@ftr",
         "level": 8,
         "note": 773,
-        "songId": "cosmica"
+        "songId": "cosmica",
+        "plus": true
       }
     ]
   },
@@ -11660,7 +11749,7 @@
         "songId": "livefastdieyoung"
       },
       {
-        "constant": 8.1,
+        "constant": 8.5,
         "difficulty": "prs",
         "designer": "Nitro",
         "id": "livefastdieyoung@prs",
@@ -11762,13 +11851,14 @@
         "songId": "firstsnow"
       },
       {
-        "constant": 7.5,
+        "constant": 7.8,
         "difficulty": "ftr",
         "designer": "Nitro",
         "id": "firstsnow@ftr",
         "level": 7,
         "note": 578,
-        "songId": "firstsnow"
+        "songId": "firstsnow",
+        "plus": true
       }
     ]
   },
@@ -11799,11 +11889,11 @@
         "songId": "bluerose"
       },
       {
-        "constant": 5.5,
+        "constant": 6,
         "difficulty": "prs",
         "designer": "CERiNG",
         "id": "bluerose@prs",
-        "level": 5,
+        "level": 6,
         "note": 669,
         "songId": "bluerose"
       },
@@ -11890,13 +11980,14 @@
         "songId": "neokosmo"
       },
       {
-        "constant": 7.5,
+        "constant": 7.8,
         "difficulty": "prs",
         "designer": "Nitro × Toaster",
         "id": "neokosmo@prs",
         "level": 7,
         "note": 791,
-        "songId": "neokosmo"
+        "songId": "neokosmo",
+        "plus": true
       },
       {
         "constant": 9.7,
@@ -11936,13 +12027,14 @@
         "songId": "lightningscrew"
       },
       {
-        "constant": 7.5,
+        "constant": 7.8,
         "difficulty": "prs",
         "designer": "東星",
         "id": "lightningscrew@prs",
         "level": 7,
         "note": 811,
-        "songId": "lightningscrew"
+        "songId": "lightningscrew",
+        "plus": true
       },
       {
         "constant": 10.5,
@@ -11980,22 +12072,23 @@
         "songId": "lightsofmuse"
       },
       {
-        "constant": 5.5,
+        "constant": 6,
         "difficulty": "prs",
         "designer": "antymis",
         "id": "lightsofmuse@prs",
-        "level": 5,
+        "level": 6,
         "note": 438,
         "songId": "lightsofmuse"
       },
       {
-        "constant": 8.7,
+        "constant": 8.9,
         "difficulty": "ftr",
         "designer": "antymis",
         "id": "lightsofmuse@ftr",
         "level": 8,
         "note": 580,
-        "songId": "lightsofmuse"
+        "songId": "lightsofmuse",
+        "plus": true
       }
     ]
   },
@@ -12156,7 +12249,7 @@
         "songId": "init"
       },
       {
-        "constant": 7,
+        "constant": 7.5,
         "difficulty": "prs",
         "designer": "Toaster",
         "id": "init@prs",
@@ -12248,11 +12341,11 @@
         "songId": "sakurafubuki"
       },
       {
-        "constant": 5.5,
+        "constant": 6.5,
         "difficulty": "prs",
         "designer": "én",
         "id": "sakurafubuki@prs",
-        "level": 5,
+        "level": 6,
         "note": 571,
         "songId": "sakurafubuki"
       },
@@ -12290,11 +12383,11 @@
         "songId": "nulctrl"
       },
       {
-        "constant": 6,
+        "constant": 7.5,
         "difficulty": "prs",
         "designer": "moonquay [AUX]",
         "id": "nulctrl@prs",
-        "level": 6,
+        "level": 7,
         "note": 410,
         "songId": "nulctrl"
       },
@@ -12332,13 +12425,14 @@
         "songId": "macromod"
       },
       {
-        "constant": 7.5,
+        "constant": 7.8,
         "difficulty": "prs",
         "designer": "Exschwas↕on",
         "id": "macromod@prs",
         "level": 7,
         "note": 794,
-        "songId": "macromod"
+        "songId": "macromod",
+        "plus": true
       },
       {
         "constant": 9.8,
@@ -12425,13 +12519,14 @@
         "songId": "kissinglucifer"
       },
       {
-        "constant": 7.5,
+        "constant": 7.8,
         "difficulty": "prs",
         "designer": "NITRO",
         "id": "kissinglucifer@prs",
         "level": 7,
         "note": 770,
-        "songId": "kissinglucifer"
+        "songId": "kissinglucifer",
+        "plus": true
       },
       {
         "constant": 10.4,
@@ -12521,11 +12616,11 @@
         "songId": "aurgelmir"
       },
       {
-        "constant": 7.5,
+        "constant": 8.5,
         "difficulty": "prs",
         "designer": "夜浪",
         "id": "aurgelmir@prs",
-        "level": 7,
+        "level": 8,
         "note": 765,
         "songId": "aurgelmir"
       },
@@ -12720,11 +12815,11 @@
         }
       },
       {
-        "constant": 6,
+        "constant": 7,
         "difficulty": "prs",
         "designer": "antymis <prototype>",
         "id": "protoflicker@prs",
-        "level": 6,
+        "level": 7,
         "note": 633,
         "songId": "protoflicker",
         "override": {
@@ -12908,7 +13003,7 @@
         "songId": "mu"
       },
       {
-        "constant": 7,
+        "constant": 7.5,
         "difficulty": "prs",
         "designer": "N↕TRO v1.0.5",
         "id": "mu@prs",
@@ -13010,7 +13105,7 @@
         "songId": "altair"
       },
       {
-        "constant": 8.3,
+        "constant": 8.5,
         "difficulty": "ftr",
         "designer": "antymis",
         "id": "altair@ftr",
@@ -13101,13 +13196,14 @@
         "songId": "trapcrow"
       },
       {
-        "constant": 7.5,
+        "constant": 7.8,
         "difficulty": "prs",
         "designer": "CERiNG + Nitro",
         "id": "trapcrow@prs",
         "level": 7,
         "note": 898,
-        "songId": "trapcrow"
+        "songId": "trapcrow",
+        "plus": true
       },
       {
         "constant": 9.9,
@@ -13150,13 +13246,14 @@
         "songId": "pupa"
       },
       {
-        "constant": 7.5,
+        "constant": 7.8,
         "difficulty": "prs",
         "designer": "én -胡蝶の夢-",
         "id": "pupa@prs",
         "level": 7,
         "note": 684,
-        "songId": "pupa"
+        "songId": "pupa",
+        "plus": true
       },
       {
         "constant": 10.4,
@@ -13303,13 +13400,14 @@
         "songId": "worldender"
       },
       {
-        "constant": 7.5,
+        "constant": 7.8,
         "difficulty": "prs",
         "designer": "Imaginary Sky",
         "id": "worldender@prs",
         "level": 7,
         "note": 850,
-        "songId": "worldender"
+        "songId": "worldender",
+        "plus": true
       },
       {
         "constant": 9.9,
@@ -13354,22 +13452,23 @@
     ],
     "charts": [
       {
-        "constant": 6,
+        "constant": 7,
         "difficulty": "pst",
         "designer": "Paradox Blight",
         "id": "pentiment@pst",
-        "level": 6,
+        "level": 7,
         "note": 911,
         "songId": "pentiment"
       },
       {
-        "constant": 8.4,
+        "constant": 8.7,
         "difficulty": "prs",
         "designer": "Paradox Blight",
         "id": "pentiment@prs",
         "level": 8,
         "note": 1055,
-        "songId": "pentiment"
+        "songId": "pentiment",
+        "plus": true
       },
       {
         "constant": 10.3,
@@ -13426,7 +13525,8 @@
         "id": "arcanaeden@prs",
         "level": 8,
         "note": 1310,
-        "songId": "arcanaeden"
+        "songId": "arcanaeden",
+        "plus": true
       },
       {
         "constant": 10.5,
@@ -13480,7 +13580,8 @@
         "id": "testify@pst",
         "level": 7,
         "note": 1001,
-        "songId": "testify"
+        "songId": "testify",
+        "plus": true
       },
       {
         "constant": 9.4,
@@ -13675,7 +13776,7 @@
         "songId": "callimakarma"
       },
       {
-        "constant": 7,
+        "constant": 7.5,
         "difficulty": "prs",
         "designer": "Forlorn Dream",
         "id": "callimakarma@prs",
@@ -13893,7 +13994,7 @@
         "songId": "lamia"
       },
       {
-        "constant": 8.3,
+        "constant": 8.5,
         "difficulty": "prs",
         "designer": "夜浪「ノブレス・オブリージュ」",
         "id": "lamia@prs",
@@ -13983,11 +14084,11 @@
         "songId": "cocorocosmetic"
       },
       {
-        "constant": 6,
+        "constant": 7,
         "difficulty": "prs",
         "designer": "Nitro",
         "id": "cocorocosmetic@prs",
-        "level": 6,
+        "level": 7,
         "note": 687,
         "songId": "cocorocosmetic"
       },
@@ -14029,13 +14130,14 @@
         "songId": "capella"
       },
       {
-        "constant": 7.5,
+        "constant": 7.8,
         "difficulty": "prs",
         "designer": "0°Nitro",
         "id": "capella@prs",
         "level": 7,
         "note": 904,
-        "songId": "capella"
+        "songId": "capella",
+        "plus": true
       },
       {
         "constant": 10.2,
@@ -14080,13 +14182,14 @@
         "songId": "dialnote"
       },
       {
-        "constant": 8.1,
+        "constant": 8.8,
         "difficulty": "ftr",
         "designer": "Nitroです。",
         "id": "dialnote@ftr",
         "level": 8,
         "note": 684,
-        "songId": "dialnote"
+        "songId": "dialnote",
+        "plus": true
       }
     ]
   },
@@ -14126,13 +14229,14 @@
         "songId": "tsukinimurakumo"
       },
       {
-        "constant": 8.4,
+        "constant": 8.7,
         "difficulty": "ftr",
         "designer": "Lovely Visitor「Toaster」",
         "id": "tsukinimurakumo@ftr",
         "level": 8,
         "note": 740,
-        "songId": "tsukinimurakumo"
+        "songId": "tsukinimurakumo",
+        "plus": true
       }
     ]
   },
@@ -14161,11 +14265,11 @@
         "songId": "mantis"
       },
       {
-        "constant": 5.5,
+        "constant": 7,
         "difficulty": "prs",
         "designer": "ANTyMIS",
         "id": "mantis@prs",
-        "level": 5,
+        "level": 7,
         "note": 760,
         "songId": "mantis"
       },
@@ -14250,13 +14354,14 @@
         "songId": "astrawalkthrough"
       },
       {
-        "constant": 7.5,
+        "constant": 7.8,
         "difficulty": "prs",
         "designer": "Aster",
         "id": "astrawalkthrough@prs",
         "level": 7,
         "note": 886,
-        "songId": "astrawalkthrough"
+        "songId": "astrawalkthrough",
+        "plus": true
       },
       {
         "constant": 9.9,
@@ -14295,13 +14400,14 @@
         "songId": "chronicle"
       },
       {
-        "constant": 8.5,
+        "constant": 8.9,
         "difficulty": "prs",
         "designer": "夜浪 -Annales Historiae-",
         "id": "chronicle@prs",
         "level": 8,
         "note": 1077,
-        "songId": "chronicle"
+        "songId": "chronicle",
+        "plus": true
       },
       {
         "constant": 10.4,
@@ -14339,13 +14445,14 @@
         "songId": "nullapophenia"
       },
       {
-        "constant": 7.5,
+        "constant": 8.8,
         "difficulty": "prs",
         "designer": "夜浪",
         "id": "nullapophenia@prs",
-        "level": 7,
+        "level": 8,
         "note": 1098,
-        "songId": "nullapophenia"
+        "songId": "nullapophenia",
+        "plus": true
       },
       {
         "constant": 10.6,
@@ -14423,13 +14530,14 @@
         "songId": "manicjeer"
       },
       {
-        "constant": 7.5,
+        "constant": 7.8,
         "difficulty": "prs",
         "designer": "NITR<O>",
         "id": "manicjeer@prs",
         "level": 7,
         "note": 875,
-        "songId": "manicjeer"
+        "songId": "manicjeer",
+        "plus": true
       },
       {
         "constant": 10.6,
@@ -14567,7 +14675,8 @@
         "id": "cycles@ftr",
         "level": 8,
         "note": 695,
-        "songId": "cycles"
+        "songId": "cycles",
+        "plus": true
       }
     ]
   },
@@ -14640,13 +14749,14 @@
         "songId": "infinity"
       },
       {
-        "constant": 7.5,
+        "constant": 7.8,
         "difficulty": "prs",
         "designer": "Nitro",
         "id": "infinity@prs",
         "level": 7,
         "note": 782,
-        "songId": "infinity"
+        "songId": "infinity",
+        "plus": true
       },
       {
         "constant": 10.4,
@@ -14728,13 +14838,14 @@
         "songId": "primitivelights"
       },
       {
-        "constant": 8.5,
+        "constant": 8.8,
         "difficulty": "prs",
         "designer": "東星※原初の灯",
         "id": "primitivelights@prs",
         "level": 8,
         "note": 1073,
-        "songId": "primitivelights"
+        "songId": "primitivelights",
+        "plus": true
       },
       {
         "constant": 10.7,
@@ -14789,7 +14900,8 @@
         "id": "cosmopop@ftr",
         "level": 8,
         "note": 809,
-        "songId": "cosmopop"
+        "songId": "cosmopop",
+        "plus": true
       }
     ]
   },
@@ -14818,13 +14930,14 @@
         "songId": "impact"
       },
       {
-        "constant": 7.5,
+        "constant": 7.8,
         "difficulty": "prs",
         "designer": "ÉN IMPACT",
         "id": "impact@prs",
         "level": 7,
         "note": 913,
-        "songId": "impact"
+        "songId": "impact",
+        "plus": true
       },
       {
         "constant": 9.6,
@@ -14958,13 +15071,14 @@
         "songId": "spidersthread"
       },
       {
-        "constant": 7.5,
+        "constant": 7.8,
         "difficulty": "prs",
         "designer": "夜浪 <->",
         "id": "spidersthread@prs",
         "level": 7,
         "note": 764,
-        "songId": "spidersthread"
+        "songId": "spidersthread",
+        "plus": true
       },
       {
         "constant": 10.8,
@@ -15233,11 +15347,11 @@
         "songId": "lawlesspoint"
       },
       {
-        "constant": 8.9,
+        "constant": 9,
         "difficulty": "ftr",
         "designer": "Luxance",
         "id": "lawlesspoint@ftr",
-        "level": 8,
+        "level": 9,
         "note": 838,
         "songId": "lawlesspoint"
       }
@@ -15313,13 +15427,14 @@
         "songId": "hybris"
       },
       {
-        "constant": 7.5,
+        "constant": 7.8,
         "difficulty": "prs",
         "designer": "Exschwasion",
         "id": "hybris@prs",
         "level": 7,
         "note": 973,
-        "songId": "hybris"
+        "songId": "hybris",
+        "plus": true
       },
       {
         "constant": 9.8,
@@ -15359,13 +15474,14 @@
         "songId": "tothemilkyway"
       },
       {
-        "constant": 8.7,
+        "constant": 8.9,
         "difficulty": "prs",
         "designer": "Nitroだー！",
         "id": "tothemilkyway@prs",
         "level": 8,
         "note": 1154,
-        "songId": "tothemilkyway"
+        "songId": "tothemilkyway",
+        "plus": true
       },
       {
         "constant": 10.5,
@@ -15401,13 +15517,14 @@
         "songId": "internetyamero"
       },
       {
-        "constant": 7.5,
+        "constant": 7.8,
         "difficulty": "prs",
         "designer": "該当チャンネルが停止されたため、\nこの譜面は再生できません。",
         "id": "internetyamero@prs",
         "level": 7,
         "note": 987,
-        "songId": "internetyamero"
+        "songId": "internetyamero",
+        "plus": true
       },
       {
         "constant": 9.9,
@@ -15488,13 +15605,14 @@
         "songId": "devillicsphere"
       },
       {
-        "constant": 7.5,
+        "constant": 7.8,
         "difficulty": "prs",
         "designer": "₸öα$†ε₹",
         "id": "devillicsphere@prs",
         "level": 7,
         "note": 692,
-        "songId": "devillicsphere"
+        "songId": "devillicsphere",
+        "plus": true
       },
       {
         "constant": 9.9,
@@ -15535,13 +15653,14 @@
         "songId": "lucidtraveler"
       },
       {
-        "constant": 8.3,
+        "constant": 8.9,
         "difficulty": "prs",
         "designer": "Toaster vs ₸öα$†ε₹",
         "id": "lucidtraveler@prs",
         "level": 8,
         "note": 1006,
-        "songId": "lucidtraveler"
+        "songId": "lucidtraveler",
+        "plus": true
       },
       {
         "constant": 10.4,
@@ -15623,7 +15742,7 @@
         "difficulty": "pst",
         "designer": "Luxance",
         "id": "usedtobe@pst",
-        "level": 3,
+        "level": 4,
         "note": 537,
         "songId": "usedtobe"
       },
@@ -15800,13 +15919,14 @@
         "songId": "nnglooms"
       },
       {
-        "constant": 7.5,
+        "constant": 7.8,
         "difficulty": "prs",
         "designer": "終点",
         "id": "nnglooms@prs",
         "level": 7,
         "note": 774,
-        "songId": "nnglooms"
+        "songId": "nnglooms",
+        "plus": true
       },
       {
         "constant": 10.3,
@@ -15851,13 +15971,14 @@
         }
       },
       {
-        "constant": 8.4,
+        "constant": 8.9,
         "difficulty": "prs",
         "designer": "Main_Log_702_10_25",
         "id": "ii@prs",
         "level": 8,
         "note": 816,
         "songId": "ii",
+        "plus": true,
         "override": {
           "cover": true
         }
@@ -15899,13 +16020,14 @@
         "songId": "magnolia"
       },
       {
-        "constant": 7.5,
+        "constant": 7.8,
         "difficulty": "prs",
         "designer": "Lacrimosa",
         "id": "magnolia@prs",
         "level": 7,
         "note": 726,
-        "songId": "magnolia"
+        "songId": "magnolia",
+        "plus": true
       },
       {
         "constant": 10.2,
@@ -15941,7 +16063,7 @@
         "songId": "sacrifice"
       },
       {
-        "constant": 7,
+        "constant": 7.5,
         "difficulty": "prs",
         "designer": "Luxance",
         "id": "sacrifice@prs",
@@ -15984,13 +16106,14 @@
         "songId": "rgb"
       },
       {
-        "constant": 7,
+        "constant": 7.8,
         "difficulty": "prs",
         "designer": "NO₂",
         "id": "rgb@prs",
         "level": 7,
         "note": 803,
-        "songId": "rgb"
+        "songId": "rgb",
+        "plus": true
       },
       {
         "constant": 9.7,
@@ -16018,7 +16141,7 @@
     "alias": [],
     "charts": [
       {
-        "constant": 2,
+        "constant": 2.5,
         "difficulty": "pst",
         "designer": "én",
         "id": "waitfordawn@pst",
@@ -16027,13 +16150,14 @@
         "songId": "waitfordawn"
       },
       {
-        "constant": 6,
+        "constant": 7.8,
         "difficulty": "prs",
         "designer": "én",
         "id": "waitfordawn@prs",
-        "level": 6,
+        "level": 7,
         "note": 636,
-        "songId": "waitfordawn"
+        "songId": "waitfordawn",
+        "plus": true
       },
       {
         "constant": 8.7,
@@ -16042,7 +16166,8 @@
         "id": "waitfordawn@ftr",
         "level": 8,
         "note": 861,
-        "songId": "waitfordawn"
+        "songId": "waitfordawn",
+        "plus": true
       }
     ]
   },
@@ -16069,11 +16194,11 @@
         "songId": "ravenspride"
       },
       {
-        "constant": 6,
+        "constant": 7,
         "difficulty": "prs",
         "designer": "Exschwasion",
         "id": "ravenspride@prs",
-        "level": 6,
+        "level": 7,
         "note": 797,
         "songId": "ravenspride"
       },
@@ -16102,7 +16227,7 @@
     "alias": [],
     "charts": [
       {
-        "constant": 4,
+        "constant": 4.5,
         "difficulty": "pst",
         "designer": "N⇑TRO",
         "id": "riseoftheworld@pst",
@@ -16111,11 +16236,11 @@
         "songId": "riseoftheworld"
       },
       {
-        "constant": 7,
+        "constant": 8.1,
         "difficulty": "prs",
         "designer": "N⇑TRO",
         "id": "riseoftheworld@prs",
-        "level": 7,
+        "level": 8,
         "note": 843,
         "songId": "riseoftheworld"
       },
@@ -16153,11 +16278,11 @@
         "songId": "unknownlevels"
       },
       {
-        "constant": 7,
+        "constant": 8.1,
         "difficulty": "prs",
         "designer": "Toaster",
         "id": "unknownlevels@prs",
-        "level": 7,
+        "level": 8,
         "note": 771,
         "songId": "unknownlevels"
       },
@@ -16186,7 +16311,7 @@
     "alias": [],
     "charts": [
       {
-        "constant": 5,
+        "constant": 5.5,
         "difficulty": "pst",
         "designer": "Remnant ⇐ Guilt",
         "id": "abstrusedilemma@pst",
@@ -16195,13 +16320,14 @@
         "songId": "abstrusedilemma"
       },
       {
-        "constant": 8.4,
+        "constant": 8.9,
         "difficulty": "prs",
         "designer": "Remnant ⇒ Doubt",
         "id": "abstrusedilemma@prs",
         "level": 8,
         "note": 1127,
-        "songId": "abstrusedilemma"
+        "songId": "abstrusedilemma",
+        "plus": true
       },
       {
         "constant": 11.1,
@@ -16287,11 +16413,11 @@
         }
       },
       {
-        "constant": 7.5,
+        "constant": 8.5,
         "difficulty": "prs",
         "designer": "",
         "id": "tothefurthestdream@prs",
-        "level": 7,
+        "level": 8,
         "note": 994,
         "songId": "tothefurthestdream",
         "override": {
@@ -16333,11 +16459,11 @@
         "songId": "remindthesouls"
       },
       {
-        "constant": 6.5,
+        "constant": 7,
         "difficulty": "prs",
         "designer": "Nitro",
         "id": "remindthesouls@prs",
-        "level": 6,
+        "level": 7,
         "note": 756,
         "songId": "remindthesouls"
       },
@@ -16375,11 +16501,11 @@
         "songId": "dynitikos"
       },
       {
-        "constant": 6.5,
+        "constant": 7.5,
         "difficulty": "prs",
         "designer": "Exschwasión",
         "id": "dynitikos@prs",
-        "level": 6,
+        "level": 7,
         "note": 894,
         "songId": "dynitikos"
       },
@@ -16503,11 +16629,11 @@
         "songId": "primevaltexture"
       },
       {
-        "constant": 6,
+        "constant": 7.5,
         "difficulty": "prs",
         "designer": "CERiNG",
         "id": "primevaltexture@prs",
-        "level": 6,
+        "level": 7,
         "note": 525,
         "songId": "primevaltexture"
       },
@@ -16588,13 +16714,14 @@
         "songId": "logos"
       },
       {
-        "constant": 7,
+        "constant": 7.8,
         "difficulty": "prs",
         "designer": "絶滅",
         "id": "logos@prs",
         "level": 7,
         "note": 798,
-        "songId": "logos"
+        "songId": "logos",
+        "plus": true
       },
       {
         "constant": 10.1,
@@ -16663,11 +16790,11 @@
     "alias": [],
     "charts": [
       {
-        "constant": 6,
+        "constant": 7.5,
         "difficulty": "pst",
         "designer": "第一識 \"Reality\"",
         "id": "arghena@pst",
-        "level": 6,
+        "level": 7,
         "note": 883,
         "songId": "arghena"
       },
@@ -16714,11 +16841,11 @@
         "songId": "fantasy"
       },
       {
-        "constant": 6.5,
+        "constant": 7,
         "difficulty": "prs",
         "designer": "TOA5TIE",
         "id": "fantasy@prs",
-        "level": 6,
+        "level": 7,
         "note": 715,
         "songId": "fantasy"
       },
@@ -16756,11 +16883,11 @@
         "songId": "transientspace"
       },
       {
-        "constant": 6.5,
+        "constant": 7,
         "difficulty": "prs",
         "designer": "CERiNG -liminal-",
         "id": "transientspace@prs",
-        "level": 6,
+        "level": 7,
         "note": 607,
         "songId": "transientspace"
       },
@@ -16841,13 +16968,14 @@
         "songId": "teravolt"
       },
       {
-        "constant": 8.4,
+        "constant": 8.9,
         "difficulty": "prs",
         "designer": "夜浪",
         "id": "teravolt@prs",
         "level": 8,
         "note": 804,
-        "songId": "teravolt"
+        "songId": "teravolt",
+        "plus": true
       },
       {
         "constant": 10.9,
@@ -16969,13 +17097,14 @@
         "songId": "xtreme"
       },
       {
-        "constant": 7.5,
+        "constant": 7.8,
         "difficulty": "prs",
         "designer": "絶滅",
         "id": "xtreme@prs",
         "level": 7,
         "note": 831,
-        "songId": "xtreme"
+        "songId": "xtreme",
+        "plus": true
       },
       {
         "constant": 10.5,
@@ -17011,7 +17140,7 @@
         "songId": "edenwacca"
       },
       {
-        "constant": 8,
+        "constant": 8.2,
         "difficulty": "prs",
         "designer": "反水",
         "id": "edenwacca@prs",
@@ -17053,13 +17182,14 @@
         "songId": "metamysteria"
       },
       {
-        "constant": 7.5,
+        "constant": 7.8,
         "difficulty": "prs",
         "designer": "夜浪",
         "id": "metamysteria@prs",
         "level": 7,
         "note": 905,
-        "songId": "metamysteria"
+        "songId": "metamysteria",
+        "plus": true
       },
       {
         "constant": 10.8,
@@ -17096,7 +17226,7 @@
         "songId": "aloneandlorn"
       },
       {
-        "constant": 6,
+        "constant": 6.5,
         "difficulty": "prs",
         "designer": "én",
         "id": "aloneandlorn@prs",
@@ -17180,7 +17310,7 @@
         "songId": "overdrive"
       },
       {
-        "constant": 7,
+        "constant": 7.5,
         "difficulty": "prs",
         "designer": "C7H11NO配合!!!!!!",
         "id": "overdrive@prs",
@@ -17315,7 +17445,7 @@
         "songId": "lightmyway"
       },
       {
-        "constant": 9.5,
+        "constant": 9.8,
         "difficulty": "ftr",
         "designer": "k//eternal + nitro\n\"convergent future\"",
         "id": "lightmyway@ftr",
@@ -17438,7 +17568,7 @@
         "difficulty": "prs",
         "designer": "Luxance",
         "id": "lunarossa@prs",
-        "level": 7,
+        "level": 6,
         "note": 578,
         "songId": "lunarossa"
       },
@@ -17451,6 +17581,334 @@
         "note": 920,
         "songId": "lunarossa",
         "plus": true
+      }
+    ]
+  },
+  {
+    "bpm": "170",
+    "side": 0,
+    "id": "jingle",
+    "name": "Jingle",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Arcaea",
+    "dl": false,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 2.5,
+        "difficulty": "pst",
+        "designer": "Exschwasion",
+        "id": "jingle@pst",
+        "level": 2,
+        "note": 530,
+        "songId": "jingle"
+      },
+      {
+        "constant": 5.5,
+        "difficulty": "prs",
+        "designer": "Exschwasion",
+        "id": "jingle@prs",
+        "level": 5,
+        "note": 741,
+        "songId": "jingle"
+      },
+      {
+        "constant": 7.8,
+        "difficulty": "ftr",
+        "designer": "Exschwasion",
+        "id": "jingle@ftr",
+        "level": 7,
+        "note": 848,
+        "songId": "jingle",
+        "plus": true
+      },
+      {
+        "constant": 9.5,
+        "difficulty": "etr",
+        "designer": "KLMNOP",
+        "id": "jingle@etr",
+        "level": 9,
+        "note": 1047,
+        "songId": "jingle"
+      }
+    ]
+  },
+  {
+    "bpm": "190",
+    "side": 0,
+    "id": "innocence",
+    "name": "Innocence",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Memory Archive",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 3,
+        "difficulty": "pst",
+        "designer": "First Dawn",
+        "id": "innocence@pst",
+        "level": 3,
+        "note": 734,
+        "songId": "innocence"
+      },
+      {
+        "constant": 6.5,
+        "difficulty": "prs",
+        "designer": "First Dawn",
+        "id": "innocence@prs",
+        "level": 6,
+        "note": 811,
+        "songId": "innocence"
+      },
+      {
+        "constant": 8.5,
+        "difficulty": "ftr",
+        "designer": "First Dawn",
+        "id": "innocence@ftr",
+        "level": 8,
+        "note": 1023,
+        "songId": "innocence"
+      },
+      {
+        "constant": 9.7,
+        "difficulty": "etr",
+        "designer": "First Dawn",
+        "id": "innocence@etr",
+        "level": 9,
+        "note": 1157,
+        "songId": "innocence",
+        "plus": true
+      }
+    ]
+  },
+  {
+    "bpm": "220-254",
+    "side": 1,
+    "id": "ionostream",
+    "name": "IONOSTREAM",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Memory Archive",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 3.5,
+        "difficulty": "pst",
+        "designer": "Nitro",
+        "id": "ionostream@pst",
+        "level": 3,
+        "note": 845,
+        "songId": "ionostream"
+      },
+      {
+        "constant": 6,
+        "difficulty": "prs",
+        "designer": "Nitro",
+        "id": "ionostream@prs",
+        "level": 6,
+        "note": 890,
+        "songId": "ionostream"
+      },
+      {
+        "constant": 8.7,
+        "difficulty": "ftr",
+        "designer": "Dec18 + Nitro",
+        "id": "ionostream@ftr",
+        "level": 8,
+        "note": 818,
+        "songId": "ionostream",
+        "plus": true
+      },
+      {
+        "constant": 9.7,
+        "difficulty": "etr",
+        "designer": "Dec18 + Nitro",
+        "id": "ionostream@etr",
+        "level": 9,
+        "note": 871,
+        "songId": "ionostream",
+        "plus": true
+      }
+    ]
+  },
+  {
+    "bpm": "35-400",
+    "side": 1,
+    "id": "alephzero",
+    "name": "Aleph-0",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "World Extend",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 5.5,
+        "difficulty": "pst",
+        "designer": "ə₀",
+        "id": "alephzero@pst",
+        "level": 5,
+        "note": 388,
+        "songId": "alephzero"
+      },
+      {
+        "constant": 8.8,
+        "difficulty": "prs",
+        "designer": "ə₀",
+        "id": "alephzero@prs",
+        "level": 8,
+        "note": 579,
+        "songId": "alephzero",
+        "plus": true
+      },
+      {
+        "constant": 10.5,
+        "difficulty": "ftr",
+        "designer": "ə₀",
+        "id": "alephzero@ftr",
+        "level": 10,
+        "note": 919,
+        "songId": "alephzero"
+      }
+    ]
+  },
+  {
+    "bpm": "175",
+    "side": 1,
+    "id": "masqueradelegion",
+    "name": "Masquerade Legion",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Memory Archive",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 3.5,
+        "difficulty": "pst",
+        "designer": "Nitro 「The Veiled」",
+        "id": "masqueradelegion@pst",
+        "level": 3,
+        "note": 510,
+        "songId": "masqueradelegion"
+      },
+      {
+        "constant": 6.5,
+        "difficulty": "prs",
+        "designer": "Nitro 「The Veiled」",
+        "id": "masqueradelegion@prs",
+        "level": 6,
+        "note": 698,
+        "songId": "masqueradelegion"
+      },
+      {
+        "constant": 10,
+        "difficulty": "ftr",
+        "designer": "Nitro 「The Veiled」",
+        "id": "masqueradelegion@ftr",
+        "level": 10,
+        "note": 1064,
+        "songId": "masqueradelegion"
+      }
+    ]
+  },
+  {
+    "bpm": "205",
+    "side": 1,
+    "id": "kyorenromance",
+    "name": "KYOREN ROMANCE",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Memory Archive",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 4,
+        "difficulty": "pst",
+        "designer": "Dec18 + Nitro",
+        "id": "kyorenromance@pst",
+        "level": 4,
+        "note": 821,
+        "songId": "kyorenromance"
+      },
+      {
+        "constant": 7.8,
+        "difficulty": "prs",
+        "designer": "Dec18 + Nitro",
+        "id": "kyorenromance@prs",
+        "level": 7,
+        "note": 982,
+        "songId": "kyorenromance",
+        "plus": true
+      },
+      {
+        "constant": 10.7,
+        "difficulty": "ftr",
+        "designer": "Dec18 + Nitro",
+        "id": "kyorenromance@ftr",
+        "level": 10,
+        "note": 1519,
+        "songId": "kyorenromance",
+        "plus": true
+      }
+    ]
+  },
+  {
+    "bpm": "122",
+    "side": 1,
+    "id": "qovat",
+    "name": "Qovat",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Memory Archive",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 4.5,
+        "difficulty": "pst",
+        "designer": "ex＊tree",
+        "id": "qovat@pst",
+        "level": 4,
+        "note": 519,
+        "songId": "qovat"
+      },
+      {
+        "constant": 8.2,
+        "difficulty": "prs",
+        "designer": "ex＊tree",
+        "id": "qovat@prs",
+        "level": 8,
+        "note": 765,
+        "songId": "qovat"
+      },
+      {
+        "constant": 10.6,
+        "difficulty": "ftr",
+        "designer": "ny＊tree",
+        "id": "qovat@ftr",
+        "level": 10,
+        "note": 1299,
+        "songId": "qovat"
       }
     ]
   }
