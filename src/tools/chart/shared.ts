@@ -3,7 +3,7 @@ import { Song } from "../packed-data";
 
 export interface ExtraSongData {
   id: string;
-  // lasteternity会有null
+  // lasteternity，仅有etr难度但没有byd难度的会有null
   charts: (null | ChartNotesAndConstant)[];
 }
 

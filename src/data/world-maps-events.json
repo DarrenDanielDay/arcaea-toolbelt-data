@@ -8942,7 +8942,8 @@
           "count": 1000
         }
       }
-    ]
+    ],
+    "expire": 1711724400000
   },
   {
     "id": "限时：Black_Lotus",
@@ -16366,7 +16367,8 @@
           "id": 47
         }
       }
-    ]
+    ],
+    "expire": 1711724400000
   },
   {
     "id": "限时：False_Embellishment",
@@ -28439,5 +28441,654 @@
         }
       }
     ]
+  },
+  {
+    "id": "限时：KYOREN_ROMANCE",
+    "platforms": [
+      {
+        "length": 10,
+        "special": {
+          "type": 2,
+          "range": "KYOREN ROMANCE"
+        }
+      },
+      {
+        "length": 53
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 100
+        }
+      },
+      {
+        "length": 53
+      },
+      {
+        "length": 10,
+        "special": {
+          "type": 2,
+          "range": "KYOREN ROMANCE"
+        }
+      },
+      {
+        "length": 53
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 200
+        }
+      },
+      {
+        "length": 53
+      },
+      {
+        "length": 10,
+        "special": {
+          "type": 2,
+          "range": "KYOREN ROMANCE"
+        }
+      },
+      {
+        "length": 53
+      },
+      {
+        "length": 10,
+        "special": {
+          "type": 0,
+          "count": 2
+        },
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 53
+      },
+      {
+        "length": 10,
+        "special": {
+          "type": 2,
+          "range": "KYOREN ROMANCE"
+        }
+      },
+      {
+        "length": 53,
+        "special": {
+          "type": 1,
+          "max": 5.3
+        }
+      },
+      {
+        "length": 6,
+        "reward": {
+          "type": 0,
+          "name": "TANO*C核心",
+          "count": 5
+        }
+      },
+      {
+        "length": 16,
+        "special": {
+          "type": 2,
+          "range": [
+            "BATTLE NO.1",
+            "La'qryma of the Wasteland",
+            "Einherjar Joker",
+            "IZANA",
+            "SAIKYO STRONGER",
+            "THE ULTIMACY",
+            "REKKA RESONANCE",
+            "KYOREN ROMANCE",
+            "Masquerade Legion"
+          ]
+        }
+      },
+      {
+        "length": 6
+      },
+      {
+        "length": 16,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 300
+        }
+      },
+      {
+        "length": 6
+      },
+      {
+        "length": 16
+      },
+      {
+        "length": 6,
+        "special": {
+          "type": 1,
+          "max": 5.3
+        }
+      },
+      {
+        "length": 16
+      },
+      {
+        "length": 6,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 400
+        }
+      },
+      {
+        "length": 16
+      },
+      {
+        "length": 6
+      },
+      {
+        "length": 16,
+        "special": {
+          "type": 3,
+          "range": [
+            "BATTLE NO.1",
+            "La'qryma of the Wasteland",
+            "Einherjar Joker",
+            "IZANA",
+            "SAIKYO STRONGER",
+            "THE ULTIMACY",
+            "REKKA RESONANCE",
+            "KYOREN ROMANCE",
+            "Masquerade Legion"
+          ]
+        }
+      },
+      {
+        "length": 6
+      },
+      {
+        "length": 16,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 6
+      },
+      {
+        "length": 16,
+        "special": {
+          "type": 0,
+          "count": 2
+        }
+      },
+      {
+        "length": 6,
+        "special": {
+          "type": 3,
+          "range": [
+            "BATTLE NO.1",
+            "La'qryma of the Wasteland",
+            "Einherjar Joker",
+            "IZANA",
+            "SAIKYO STRONGER",
+            "THE ULTIMACY",
+            "REKKA RESONANCE",
+            "KYOREN ROMANCE",
+            "Masquerade Legion"
+          ]
+        }
+      },
+      {
+        "length": 16
+      },
+      {
+        "length": 20,
+        "reward": {
+          "type": 0,
+          "name": "TANO*C核心",
+          "count": 5
+        }
+      },
+      {
+        "length": 24
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 24,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 500
+        }
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 24
+      },
+      {
+        "length": 20,
+        "special": {
+          "type": 2,
+          "range": [
+            "BATTLE NO.1",
+            "La'qryma of the Wasteland",
+            "Einherjar Joker",
+            "IZANA",
+            "SAIKYO STRONGER",
+            "THE ULTIMACY",
+            "REKKA RESONANCE",
+            "KYOREN ROMANCE",
+            "Masquerade Legion"
+          ]
+        }
+      },
+      {
+        "length": 24
+      },
+      {
+        "length": 20,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 600
+        }
+      },
+      {
+        "length": 24
+      },
+      {
+        "length": 20,
+        "special": {
+          "type": 2,
+          "range": [
+            "BATTLE NO.1",
+            "La'qryma of the Wasteland",
+            "Einherjar Joker",
+            "IZANA",
+            "SAIKYO STRONGER",
+            "THE ULTIMACY",
+            "REKKA RESONANCE",
+            "KYOREN ROMANCE",
+            "Masquerade Legion"
+          ]
+        }
+      },
+      {
+        "length": 24
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 24,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 700
+        }
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 24
+      },
+      {
+        "length": 20,
+        "special": {
+          "type": 2,
+          "range": [
+            "BATTLE NO.1",
+            "La'qryma of the Wasteland",
+            "Einherjar Joker",
+            "IZANA",
+            "SAIKYO STRONGER",
+            "THE ULTIMACY",
+            "REKKA RESONANCE",
+            "KYOREN ROMANCE",
+            "Masquerade Legion"
+          ]
+        }
+      },
+      {
+        "length": 24,
+        "special": {
+          "type": 2,
+          "range": [
+            "BATTLE NO.1",
+            "La'qryma of the Wasteland",
+            "Einherjar Joker",
+            "IZANA",
+            "SAIKYO STRONGER",
+            "THE ULTIMACY",
+            "REKKA RESONANCE",
+            "KYOREN ROMANCE",
+            "Masquerade Legion"
+          ]
+        }
+      },
+      {
+        "length": 20,
+        "special": {
+          "type": 0,
+          "count": 2
+        },
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 2
+        }
+      },
+      {
+        "length": 24,
+        "special": {
+          "type": 3,
+          "range": [
+            "BATTLE NO.1",
+            "La'qryma of the Wasteland",
+            "Einherjar Joker",
+            "IZANA",
+            "SAIKYO STRONGER",
+            "THE ULTIMACY",
+            "REKKA RESONANCE",
+            "KYOREN ROMANCE",
+            "Masquerade Legion"
+          ]
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "TANO*C核心",
+          "count": 5
+        }
+      }
+    ],
+    "expire": 1711724400000
+  },
+  {
+    "id": "限时：Aleph-0",
+    "platforms": [
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 200
+        }
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20,
+        "special": {
+          "type": 2,
+          "range": [
+            "Bamboo",
+            "G e n g a o z o",
+            "HIVEMIND",
+            "Chronicle",
+            "Aleph-0",
+            "Red and Blue",
+            "Bookmaker (2D Version)"
+          ]
+        }
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 400
+        }
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20,
+        "special": {
+          "type": 2,
+          "range": [
+            "Bamboo",
+            "G e n g a o z o",
+            "HIVEMIND",
+            "Chronicle",
+            "Aleph-0",
+            "Red and Blue",
+            "Bookmaker (2D Version)"
+          ]
+        }
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 800
+        }
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20,
+        "special": {
+          "type": 2,
+          "range": [
+            "Bamboo",
+            "G e n g a o z o",
+            "HIVEMIND",
+            "Chronicle",
+            "Aleph-0",
+            "Red and Blue",
+            "Bookmaker (2D Version)"
+          ]
+        }
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 20,
+        "reward": {
+          "type": 1,
+          "id": "alephzero"
+        }
+      },
+      {
+        "length": 30,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 40,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 50
+      },
+      {
+        "length": 60
+      },
+      {
+        "length": 70,
+        "special": {
+          "type": 2,
+          "range": [
+            "Lawless Point",
+            "Tsuki ni Murakumo, Hana ni Kaze",
+            "Alone & Lorn",
+            "Dynitikós",
+            "FANTA5Y",
+            "felys final remix",
+            "GIMMICK",
+            "Lost Emotion feat. nomico",
+            "MANTIS (Arcaea Ultra-Bloodrush VIP)",
+            "On And On!! feat. Jenga",
+            "Amekagura",
+            "Astra walkthrough",
+            "Hybris (The one who shattered)",
+            "Kanjou no Matenrou ～Arr.Demetori",
+            "Let's Rock (Arcaea mix)",
+            "RGB",
+            "Ultimate taste",
+            "World Fragments III(radio edit)",
+            "Chronicle",
+            "Aleph-0"
+          ]
+        }
+      },
+      {
+        "length": 80,
+        "special": {
+          "type": 3,
+          "range": [
+            "Lawless Point",
+            "Tsuki ni Murakumo, Hana ni Kaze",
+            "Alone & Lorn",
+            "Dynitikós",
+            "FANTA5Y",
+            "felys final remix",
+            "GIMMICK",
+            "Lost Emotion feat. nomico",
+            "MANTIS (Arcaea Ultra-Bloodrush VIP)",
+            "On And On!! feat. Jenga",
+            "Amekagura",
+            "Astra walkthrough",
+            "Hybris (The one who shattered)",
+            "Kanjou no Matenrou ～Arr.Demetori",
+            "Let's Rock (Arcaea mix)",
+            "RGB",
+            "Ultimate taste",
+            "World Fragments III(radio edit)",
+            "Chronicle",
+            "Aleph-0"
+          ]
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "次元结晶",
+          "count": 1
+        }
+      }
+    ],
+    "expire": 1711724400000
   }
 ]

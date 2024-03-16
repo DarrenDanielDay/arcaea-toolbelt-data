@@ -4123,6 +4123,56 @@
         "frag": 95,
         "over": 50,
         "step": 75.5
+      },
+      {
+        "frag": 96,
+        "over": 51,
+        "step": 76.5
+      },
+      {
+        "frag": 97,
+        "over": 52,
+        "step": 77.5
+      },
+      {
+        "frag": 98,
+        "over": 53,
+        "step": 78.5
+      },
+      {
+        "frag": 99,
+        "over": 54,
+        "step": 79.5
+      },
+      {
+        "frag": 100,
+        "over": 55,
+        "step": 80.5
+      },
+      {
+        "frag": 101,
+        "over": 56,
+        "step": 81.5
+      },
+      {
+        "frag": 102,
+        "over": 57,
+        "step": 82.5
+      },
+      {
+        "frag": 103,
+        "over": 58,
+        "step": 83.5
+      },
+      {
+        "frag": 104,
+        "over": 59,
+        "step": 84.5
+      },
+      {
+        "frag": 105,
+        "over": 60,
+        "step": 85.5
       }
     ],
     "can": {
@@ -4566,8 +4616,61 @@
         "frag": 71,
         "over": 25,
         "step": 55
+      },
+      {
+        "frag": 72,
+        "over": 26,
+        "step": 56
+      },
+      {
+        "frag": 73,
+        "over": 27,
+        "step": 57
+      },
+      {
+        "frag": 74,
+        "over": 28,
+        "step": 58
+      },
+      {
+        "frag": 75,
+        "over": 29,
+        "step": 59
+      },
+      {
+        "frag": 76,
+        "over": 30,
+        "step": 60
+      },
+      {
+        "frag": 77,
+        "over": 31,
+        "step": 61
+      },
+      {
+        "frag": 78,
+        "over": 32,
+        "step": 62
+      },
+      {
+        "frag": 79,
+        "over": 33,
+        "step": 63
+      },
+      {
+        "frag": 80,
+        "over": 34,
+        "step": 64
+      },
+      {
+        "frag": 81,
+        "over": 35,
+        "step": 65
       }
-    ]
+    ],
+    "can": {
+      "awake": true
+    }
   },
   {
     "id": 35,

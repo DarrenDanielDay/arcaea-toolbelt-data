@@ -13,7 +13,7 @@
     },
     {
       "file": "character-data.json",
-      "hash": "e9bf4735"
+      "hash": "8ccf9753"
     },
     {
       "file": "characters.json",
@@ -29,11 +29,11 @@
     },
     {
       "file": "factors.json",
-      "hash": "cd574657"
+      "hash": "c12c3b8c"
     },
     {
       "file": "item-data.json",
-      "hash": "87f54e7a"
+      "hash": "2071955a"
     },
     {
       "file": "notes-and-constants.json",
@@ -49,7 +49,7 @@
     },
     {
       "file": "world-maps-events.json",
-      "hash": "05d47c73"
+      "hash": "793b7cfb"
     },
     {
       "file": "world-maps-longterm.json",
