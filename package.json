@@ -9,14 +9,25 @@
       ],
       "distDir": "dist-tools",
       "publicUrl": "/dist-tools"
+    },
+    "online-tools": {
+      "source": [
+        "site/chart-data-tools.html"
+      ],
+      "distDir": "dist/online-tools",
+      "publicUrl": "./"
     }
   },
   "scripts": {
-    "start:tools": "parcel watch --target tools --no-hmr",
+    "start:tools": "parcel watch --target tools --no-hmr --no-cache",
     "start:serve": "serve -p 1236",
+    "starts:online-tools": "parcel watch --target online-tools --no-hmr --no-cache",
     "start": "node ./scripts/json-data.js --generate && run-p --print-label start:*",
     "generate:assets": "node ./scripts/generate-assets-info.js",
-    "build": "node ./scripts/json-data.js",
+    "build:online-tools": "parcel build --target online-tools",
+    "build:data": "node ./scripts/json-data.js",
+    "build": "run-s build:data build:online-tools",
+    "playground": "node ./scripts/playground.js",
     "prepare": "husky"
   },
   "private": true,
@@ -35,6 +46,11 @@
   },
   "dependencies": {
     "bootstrap": "^5.3.2",
-    "hyplate": "^0.19.4"
+    "csv": "^6.3.8",
+    "extract-zip": "^2.0.1",
+    "fflate": "^0.8.2",
+    "htm": "^3.1.1",
+    "hyplate": "^0.19.4",
+    "log-update": "^6.0.0"
   }
 }

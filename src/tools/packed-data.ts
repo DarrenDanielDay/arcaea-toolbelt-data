@@ -47,7 +47,7 @@ interface Sourcelocalized {
   ja?: string;
 }
 
-interface Difficulty {
+export interface Difficulty {
   ratingClass: number;
   chartDesigner: string;
   jacketDesigner: string;

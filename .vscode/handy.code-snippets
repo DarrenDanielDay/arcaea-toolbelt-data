@@ -1,0 +1,22 @@
+{
+	"Script General": {
+		"scope": "javascript",
+		"prefix": "js",
+		"body": [
+			"// @ts-check",
+			"/// <reference path=\"./all-types.d.ts\" />",
+			"$0",
+		],
+		"description": "For types."
+	},
+	"Script Main": {
+		"scope": "javascript",
+		"prefix": "main",
+		"body": [
+			"if (process.argv.some((arg) => arg.includes(parse(fileURLToPath(import.meta.url)).base))) {",
+			"$0",
+			"}",
+		],
+		"description": "For types."
+	},
+}

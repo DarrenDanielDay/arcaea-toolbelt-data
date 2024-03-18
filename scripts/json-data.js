@@ -1,9 +1,11 @@
 // @ts-check
-import { copyFile, mkdir, readFile, readdir, stat, writeFile } from "fs/promises";
+import { mkdir, readFile, readdir, stat, writeFile } from "fs/promises";
 import { createHmac } from "crypto";
 import { parse, resolve } from "path";
 import { argv, cwd } from "process";
-import { readJSON, writeJSON } from "./utils.js";
+import { patchJSON, readJSON } from "./utils.js";
+import { fileURLToPath } from "url";
+import { metaFile } from "./files.js";
 
 /**
  * @param {string} filename
@@ -17,39 +19,23 @@ async function hashFile(filename) {
 const root = cwd();
 const dataDir = resolve(root, "src", "data");
 
-async function generateIndex() {
+export async function generateIndex() {
   const meta = "meta.json";
-  const metaFile = resolve(dataDir, meta);
-  /** @type {import('@arcaea-toolbelt/models/misc').ArcaeaToolbeltMeta} */
-  const metadata = await readJSON(metaFile);
-  const version = metadata.version;
-  // metadata -> version -> songlist/packlist
-  const copySubPaths = [
-    `../arcaea/arcaea_${version}/assets/songs/songlist`,
-    `../arcaea/arcaea_${version}/assets/songs/packlist`,
-  ];
-  await Promise.all(
-    copySubPaths.map(async (path) => {
-      const url = new URL(path, import.meta.url);
-      const json = await readJSON(url);
-      // Not copy file, force to use LF.
-      await writeJSON(resolve(dataDir, `${parse(path).base}.json`), json);
-    })
-  );
-  const files = (await readdir(dataDir)).filter((file) => file !== meta);
-  const index = await Promise.all(
-    files.map(async (file) => {
-      const hash = await hashFile(resolve(dataDir, file));
-      /** @type {import('@arcaea-toolbelt/models/misc').ArcaeaToolbeltMeta['index'][number]} */
-      const item = { file, hash: hash.slice(0, 8) };
-      return item;
-    })
-  );
-  metadata.index = index;
-  await writeJSON(metaFile, metadata);
+  patchJSON(metaFile, async (metadata) => {
+    const files = (await readdir(dataDir)).filter((file) => file !== meta);
+    const index = await Promise.all(
+      files.map(async (file) => {
+        const hash = await hashFile(resolve(dataDir, file));
+        /** @type {import('@arcaea-toolbelt/models/misc').ArcaeaToolbeltMeta['index'][number]} */
+        const item = { file, hash: hash.slice(0, 8) };
+        return item;
+      })
+    );
+    metadata.index = index;
+  });
 }
 
-async function buildStatic() {
+export async function buildStatic() {
   const dist = resolve(root, "dist");
   try {
     await stat(dist);
@@ -76,4 +62,6 @@ async function main() {
   await buildStatic();
 }
 
-await main();
+if (process.argv.some((arg) => arg.includes(parse(fileURLToPath(import.meta.url)).base))) {
+  await main();
+}

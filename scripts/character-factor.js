@@ -1,23 +1,14 @@
 // @ts-check
-/**
- * @typedef {[lv1: number | null, lv20: number | null, lv30: number | null]} KeyFactor
- * @typedef {{
- *   id: number;
- *   frag: KeyFactor;
- *   step: KeyFactor;
- *   over: KeyFactor;
- * }} KeyFactors
- *
- */
+/// <reference path="./all-types.d.ts" />
 
 import { readFile } from "fs/promises";
-import { readJSON, writeJSON } from "./utils.js";
-
-const baseFactorsFile = "./src/data/factors.json";
-const characterDataFile = "./src/data/character-data.json";
+import { patchJSON, writeJSON } from "./utils.js";
+import { fileURLToPath } from "url";
+import { parse } from "path";
+import { keyFactorsListFile, characterDataFile } from "./files.js";
 
 async function convertCSV() {
-  const content = await readFile("./scripts/factors.csv", "utf-8");
+  const content = await readFile(new URL("./factors.csv", import.meta.url), "utf-8");
   const lines = content.split(/\r?\n/g).filter((line, i) => !!line && i > 0);
   const factors = lines.map((line) => {
     const numbers = line.split(",");
@@ -41,7 +32,8 @@ async function convertCSV() {
     };
     return factors;
   });
-  await writeJSON(baseFactorsFile, factors);
+  await writeJSON(keyFactorsListFile.url, factors);
+  return factors;
 }
 /**
  *
@@ -69,62 +61,66 @@ export function fitFactor(level, f1, f20, f30) {
   );
 }
 
-export async function assignFactors() {
-  /** @type {KeyFactors[]} */
-  const factors = await readJSON(baseFactorsFile);
-  /** @type {import('@arcaea-toolbelt/models/character').CharacterData[]} */
-  const characterData = await readJSON(characterDataFile);
-  /** @type {Record<number, KeyFactors>} */
-  const map = {};
-  const keyed = factors.reduce((map, factors) => {
-    map[factors.id] = factors;
-    return map;
-  }, map);
-  characterData.forEach((character) => {
-    const factors = keyed[character.id];
-    if (!factors) {
-      console.error(`Factors of ${character.name.en} found.`);
-      return;
-    }
-    for (const level in character.levels) {
-      const currentFactors = character.levels[level];
-      if (currentFactors == null) {
+/**
+ *
+ * @param {KeyFactors[]} keyFactorsList
+ */
+export async function generateFactorsByKeyFactors(keyFactorsList) {
+  return await patchJSON(characterDataFile, (characterData) => {
+    /** @type {Record<number, CharacterD>} */
+    const map = {};
+    const keyed = characterData.reduce((map, character) => {
+      map[character.id] = character;
+      return map;
+    }, map);
+    for (const keyFactors of keyFactorsList) {
+      const [f1, f20, f30] = keyFactors.frag;
+      let min = 1,
+        max = f30 == null ? 20 : 30;
+      if (f1 == null) {
+        console.log(`Special character not starting with level 1, id=${keyFactors.id}.`);
+        min = 20;
+      }
+      const character = keyed[keyFactors.id];
+      if (!character) {
+        console.log(`Character data for id = ${keyFactors.id} not found.`);
         continue;
       }
-      try {
+      if (f20 == null) {
+        console.log(`Character ${character.name.en} has no lv20 factor!`);
+        continue;
+      }
+      for (let level = min; level <= max; ++level) {
+        const currentFactors = character.levels[level];
         /**
-         * @param {keyof import('@arcaea-toolbelt/models/character').CharacterFactors} name
+         * @param {keyof CharacterFactors} name
          */
-        const changeFactor = (name) => {
-          const newValue = fitFactor(+level, ...factors[name]);
-          if (Math.abs(newValue - currentFactors[name]) > 1) {
-            console.log(`Computed result maybe invalid:`, {
-              character: character.name.en,
-              level,
-              name,
-              newValue,
-              current: currentFactors[name],
-            });
-            // currentFactors[name] = newValue;
-          } else {
-            currentFactors[name] = newValue;
+        const generateFactor = (name) => {
+          const value = fitFactor(level, ...keyFactors[name]);
+          const old = currentFactors?.[name];
+          if (old != null && Math.abs(old - value) >= 1) {
+            console.log(`Generated factor ${name} of ${character.name.en} may be invalid.`);
           }
+          return value;
         };
-        changeFactor("frag");
-        changeFactor("over");
-        changeFactor("step");
-      } catch (error) {
-        console.error(`Generate factor failed for ${character.name.en} at level ${level}`);
-        throw error;
+        character.levels[level] = {
+          frag: generateFactor("frag"),
+          over: generateFactor("over"),
+          step: generateFactor("step"),
+        };
+        if (!currentFactors) {
+          console.log(`Generated new factors for level ${level} of id = ${character.id}.`);
+        }
       }
     }
   });
-  await writeJSON(characterDataFile, characterData);
 }
 
 async function main() {
-  await convertCSV();
-  await assignFactors();
+  const factors = await convertCSV();
+  await generateFactorsByKeyFactors(factors);
 }
 
-main();
+if (process.argv.some((arg) => arg.includes(parse(fileURLToPath(import.meta.url)).base))) {
+  main();
+}

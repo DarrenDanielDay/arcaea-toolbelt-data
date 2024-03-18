@@ -1,20 +1,30 @@
 // @ts-check
+/// <reference path="./all-types.d.ts" />
 import { readdir } from "fs/promises";
-import { join } from "path";
-import meta from "../src/data/meta.json" assert { type: "json" };
+import { join, parse } from "path";
 import { readJSON, writeJSON } from "./utils.js";
-
-const version = meta.version;
-const extractName = `arcaea_${version}`;
+import { extractName as ex } from "./arcaea.js";
+import { fileURLToPath } from "url";
 
 /**
- * @param {string} path
+ * @param {string} [version]
  */
-function assets(path) {
-  return join(`arcaea/${extractName}/assets`, path);
-}
-
-async function main() {
+export async function generateAssetsInfo(version) {
+  version ||= (
+    await import("../src/data/meta.json", {
+      assert: { type: "json" },
+      with: { type: "json" },
+    })
+  ).default.version;
+  console.log(`Generating assets info.`);
+  console.log(`Current version is ${version}.`);
+  const extractName = ex(version);
+  /**
+   * @param {string} path
+   */
+  function assets(path) {
+    return join(`arcaea/${extractName}/assets`, path);
+  }
   /** @type {import('../src/tools/packed-data').SongList} */
   const songList = await readJSON(assets("songs/songlist"));
 
@@ -37,7 +47,7 @@ async function main() {
     assetsInfo.filter((a) => {
       // 用于测试对应的*_256.jpg是否一定有
       for (const cover of a.covers) {
-        if (cover.match(/^(1080_)(base|0|1|2|3)\.jpg$/)) {
+        if (cover.match(/^(1080_)(base|0|1|2|3|4)\.jpg$/)) {
           if (!a.covers.includes(cover.replace(".jpg", "_256.jpg"))) {
             return true;
           }
@@ -46,6 +56,9 @@ async function main() {
       return false;
     })
   );
+  console.log(`Generate assets info done.`);
 }
 
-main();
+if (process.argv.some((arg) => arg.includes(parse(fileURLToPath(import.meta.url)).base))) {
+  generateAssetsInfo();
+}

@@ -1,0 +1,37 @@
+:root {
+  --diff-0: #5cbad3;
+  --diff-1: #b5c76f;
+  --diff-2: #913a79;
+  --diff-3: #bf0d25;
+  --dfff-4: #8a7aa5;
+}
+
+.new-charts-container {
+  width: 1080px;
+  /* overflow: auto; */
+}
+
+.cover img {
+  width: 80px;
+  height: 80px;
+  border: 4px solid var(--cover-color);
+}
+
+textarea#ccjson {
+  width: 100%;
+}
+
+.header,
+.record {
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr 6fr 2fr;
+}
+
+.header > *,
+.record > * {
+  border: 1px solid var(--bs-border-color);
+  border-collapse: separate;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
