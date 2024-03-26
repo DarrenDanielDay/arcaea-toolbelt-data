@@ -2746,5 +2746,47 @@
       "1080_base.jpg",
       "1080_base_256.jpg"
     ]
+  },
+  {
+    "id": "hellohell",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ]
+  },
+  {
+    "id": "ichirin",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ]
+  },
+  {
+    "id": "awakeninruins",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ]
+  },
+  {
+    "id": "morningloom",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ]
+  },
+  {
+    "id": "lethalvoltage",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ]
+  },
+  {
+    "id": "mirinae",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ]
   }
 ]

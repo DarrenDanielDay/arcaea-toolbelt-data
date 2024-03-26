@@ -7327,5 +7327,125 @@
       null,
       null
     ]
+  },
+  {
+    "id": "hellohell",
+    "charts": [
+      {
+        "notes": 466,
+        "constant": 2.5
+      },
+      {
+        "notes": 445,
+        "constant": 5
+      },
+      {
+        "notes": 673,
+        "constant": 7.5
+      },
+      null,
+      {
+        "notes": 770,
+        "constant": 9.4
+      }
+    ]
+  },
+  {
+    "id": "ichirin",
+    "charts": [
+      {
+        "notes": 368,
+        "constant": 2.5
+      },
+      {
+        "notes": 519,
+        "constant": 6.5
+      },
+      {
+        "notes": 708,
+        "constant": 9.5
+      },
+      null,
+      null
+    ]
+  },
+  {
+    "id": "awakeninruins",
+    "charts": [
+      {
+        "notes": 412,
+        "constant": 3.5
+      },
+      {
+        "notes": 570,
+        "constant": 7.5
+      },
+      {
+        "notes": 754,
+        "constant": 9.9
+      },
+      null,
+      null
+    ]
+  },
+  {
+    "id": "morningloom",
+    "charts": [
+      {
+        "notes": 710,
+        "constant": 3
+      },
+      {
+        "notes": 829,
+        "constant": 6.5
+      },
+      {
+        "notes": 940,
+        "constant": 8.8
+      },
+      null,
+      {
+        "notes": 1035,
+        "constant": 9.8
+      }
+    ]
+  },
+  {
+    "id": "lethalvoltage",
+    "charts": [
+      {
+        "notes": 724,
+        "constant": 4.5
+      },
+      {
+        "notes": 922,
+        "constant": 7.8
+      },
+      {
+        "notes": 1497,
+        "constant": 10.4
+      },
+      null,
+      null
+    ]
+  },
+  {
+    "id": "mirinae",
+    "charts": [
+      {
+        "notes": 646,
+        "constant": 4.5
+      },
+      {
+        "notes": 887,
+        "constant": 8.3
+      },
+      {
+        "notes": 1277,
+        "constant": 10.5
+      },
+      null,
+      null
+    ]
   }
 ]
