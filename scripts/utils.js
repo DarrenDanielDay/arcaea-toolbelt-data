@@ -54,6 +54,20 @@ export async function output(subpath, content) {
   await mkdir(dir, { recursive: true });
   await writeFile(dist, content, { encoding: "utf8" });
 }
+/**
+ *
+ * @param {string | number | bigint} value
+ */
+export function formatBigInt(value) {
+  const text = `${value}`;
+  /** @type {string[]} */
+  const buf = [];
+  /** @type {number} */
+  for (let i = 0; i < text.length; i += 3) {
+    buf.push(text.slice(-i - 3, -i || undefined));
+  }
+  return buf.reverse().join(",");
+}
 
 /**
  * @implements {Transformer<Uint8Array, Uint8Array>}
@@ -79,7 +93,7 @@ class DownloadProgressTransformer {
   transform(chunk, controller) {
     this.progress += chunk.length;
     logupdate(`\
-Progress: ${this.progress} of ${this.total} bytes...
+Progress: ${formatBigInt(this.progress)} of ${formatBigInt(this.total)} bytes...
 `);
     controller.enqueue(chunk);
   }
