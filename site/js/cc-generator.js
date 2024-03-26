@@ -106,8 +106,8 @@ export const ChartConstantGenerator = () => {
         cc === ""
           ? null // 没填的为null
           : {
-              old: false,
               constant: +cc,
+              old: false,
             };
     }
     for (const song of slst.songs) {
@@ -115,8 +115,8 @@ export const ChartConstantGenerator = () => {
         const constant = newCCPatch[song.id]?.[difficulty]?.constant ?? oldCC[song.id]?.[difficulty]?.constant ?? null;
         if (constant == null) return null;
         return {
-          old: false,
           constant,
+          old: false,
         };
       });
     }
