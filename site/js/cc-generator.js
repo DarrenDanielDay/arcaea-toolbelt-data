@@ -3,7 +3,7 @@
 
 import { AutoRender, element, jsxRef, nil, signal } from "hyplate";
 import { binding, html } from "./html.js";
-
+import { jsonModule } from "../../shared/esm.js";
 const assetsBase = "https://moyoez.github.io/ArcaeaResource-ActionUpdater/arcaea/assets";
 
 /**
@@ -64,7 +64,7 @@ export const ChartConstantGenerator = () => {
     /** @type {WikiChartConstantJSON | null} */
     const oldCC = file
       ? await readFileAsJSON(file)
-      : (await import("../../shared/ChartConstant.json", { assert: { type: "json" } })).default;
+      : jsonModule(await import("../../shared/ChartConstant.json", { assert: { type: "json" } }));
     if (oldCC == null) {
       alert("ChartConstant.json无效");
       return;
@@ -92,18 +92,33 @@ export const ChartConstantGenerator = () => {
   async function generateNewJSON() {
     const ctx = ccTestContext();
     if (!ctx) return;
-    const { items, oldCC } = ctx;
+    const { slst, oldCC, items } = ctx;
     const container = newChartsContainerRef.current;
     if (!container) return;
-    const ccs = Array.from(container.querySelectorAll("div.row.record input"), (input) => input.value);
     const newCC = structuredClone(oldCC);
-    for (const [i, { chart, song }] of items.entries()) {
-      const cclist = (newCC[song.id] ??= Array.from({ length: 5 }, () => null));
-      const constant = +ccs[i];
-      cclist[chart.ratingClass] = {
-        old: false,
-        constant,
-      };
+    const ccs = Array.from(container.querySelectorAll("div.record input"), (input) => input.value);
+    /** @type {WikiChartConstantJSON} */
+    const newCCPatch = {};
+    for (const [i, cc] of ccs.entries()) {
+      const { chart, song } = items[i];
+      const cclist = (newCCPatch[song.id] ??= Array.from({ length: 5 }, () => null));
+      cclist[chart.ratingClass] =
+        cc === ""
+          ? null // 没填的为null
+          : {
+              old: false,
+              constant: +cc,
+            };
+    }
+    for (const song of slst.songs) {
+      newCC[song.id] = Array.from({ length: 5 }, (_, difficulty) => {
+        const constant = newCCPatch[song.id]?.[difficulty]?.constant ?? oldCC[song.id]?.[difficulty]?.constant ?? null;
+        if (constant == null) return null;
+        return {
+          old: false,
+          constant,
+        };
+      });
     }
     jsonDiffs.value = JSON.stringify(newCC, undefined, 4);
   }
@@ -161,10 +176,13 @@ export const ChartConstantGenerator = () => {
           <div>${`${difficulty(chart.ratingClass)}${level(chart)}`}</div>
           <div>${song.title_localized["zh-Hans"] ?? song.title_localized.en}</div>
           <div>
-            <input type="number" class="form-control" />
+            <input type="number" class="form-control" step="0.1" />
           </div>
         </div>`;
       })}
+      <div class="my-3">
+        <button class="btn btn-primary" onClick=${generateNewJSON}>生成更新JSON</button>
+      </div>
       <div class="my-3">
         <textarea id="ccjson" ref=${binding(jsonDiffs)} rows="12"></textarea>
       </div>
