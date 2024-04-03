@@ -8942,8 +8942,7 @@
           "count": 1000
         }
       }
-    ],
-    "expire": 1711724400000
+    ]
   },
   {
     "id": "限时：Black_Lotus",
@@ -16367,8 +16366,7 @@
           "id": 47
         }
       }
-    ],
-    "expire": 1711724400000
+    ]
   },
   {
     "id": "限时：False_Embellishment",
@@ -28817,8 +28815,7 @@
           "count": 5
         }
       }
-    ],
-    "expire": 1711724400000
+    ]
   },
   {
     "id": "限时：Aleph-0",
@@ -29088,7 +29085,2243 @@
           "count": 1
         }
       }
+    ]
+  },
+  {
+    "id": "限时：HELLOHELL",
+    "platforms": [
+      {
+        "length": 15,
+        "special": {
+          "type": 2,
+          "range": [
+            "HELLOHELL",
+            "Kanjou no Matenrou ～Arr.Demetori",
+            "Ultimate taste",
+            "Tsuki ni Murakumo, Hana ni Kaze",
+            "Hiiro Gekka, Kyoushou no Zetsu (nayuta 2017 ver.)",
+            "Lost Emotion feat. nomico",
+            "Lost in the Abyss",
+            "SACRIFICE feat. ayame",
+            "Kanbu de Tomatte Sugu Tokeru",
+            "Purgatorium"
+          ]
+        }
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 15,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 200
+        }
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 15,
+        "special": {
+          "type": 2,
+          "range": [
+            "HELLOHELL",
+            "Kanjou no Matenrou ～Arr.Demetori",
+            "Ultimate taste",
+            "Tsuki ni Murakumo, Hana ni Kaze",
+            "Hiiro Gekka, Kyoushou no Zetsu (nayuta 2017 ver.)",
+            "Lost Emotion feat. nomico",
+            "Lost in the Abyss",
+            "SACRIFICE feat. ayame",
+            "Kanbu de Tomatte Sugu Tokeru",
+            "Purgatorium"
+          ]
+        }
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 15,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 2
+        }
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 15,
+        "special": {
+          "type": 2,
+          "range": [
+            "HELLOHELL",
+            "Kanjou no Matenrou ～Arr.Demetori",
+            "Ultimate taste",
+            "Tsuki ni Murakumo, Hana ni Kaze",
+            "Hiiro Gekka, Kyoushou no Zetsu (nayuta 2017 ver.)",
+            "Lost Emotion feat. nomico",
+            "Lost in the Abyss",
+            "SACRIFICE feat. ayame",
+            "Kanbu de Tomatte Sugu Tokeru",
+            "Purgatorium"
+          ]
+        }
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 15,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 2
+        }
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 15,
+        "special": {
+          "type": 2,
+          "range": [
+            "HELLOHELL",
+            "Kanjou no Matenrou ～Arr.Demetori",
+            "Ultimate taste",
+            "Tsuki ni Murakumo, Hana ni Kaze",
+            "Hiiro Gekka, Kyoushou no Zetsu (nayuta 2017 ver.)",
+            "Lost Emotion feat. nomico",
+            "Lost in the Abyss",
+            "SACRIFICE feat. ayame",
+            "Kanbu de Tomatte Sugu Tokeru",
+            "Purgatorium"
+          ]
+        }
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 15,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 300
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 1,
+          "id": "hellohell"
+        }
+      }
     ],
-    "expire": 1711724400000
+    "expire": 1713193200000
+  },
+  {
+    "id": "限时：〇、",
+    "platforms": [
+      {
+        "length": 7
+      },
+      {
+        "length": 7
+      },
+      {
+        "length": 7
+      },
+      {
+        "length": 7
+      },
+      {
+        "length": 7
+      },
+      {
+        "length": 7,
+        "special": {
+          "type": 2,
+          "range": [
+            "〇、",
+            "SUPERNOVA",
+            "Singularity",
+            "Dreadnought",
+            "Astral tale",
+            "Astra walkthrough",
+            "Cosmica",
+            "Clotho and the stargazer",
+            "Transient Space",
+            "blue comet",
+            "Cosmo Pop Funclub",
+            "Flashback",
+            "Stratoliner",
+            "ΟΔΥΣΣΕΙΑ",
+            "Galaxy Friends",
+            "To the Milky Way",
+            "MIRINAE"
+          ]
+        }
+      },
+      {
+        "length": 7
+      },
+      {
+        "length": 7
+      },
+      {
+        "length": 7
+      },
+      {
+        "length": 7
+      },
+      {
+        "length": 7,
+        "special": {
+          "type": 2,
+          "range": [
+            "〇、",
+            "SUPERNOVA",
+            "Singularity",
+            "Dreadnought",
+            "Astral tale",
+            "Astra walkthrough",
+            "Cosmica",
+            "Clotho and the stargazer",
+            "Transient Space",
+            "blue comet",
+            "Cosmo Pop Funclub",
+            "Flashback",
+            "Stratoliner",
+            "ΟΔΥΣΣΕΙΑ",
+            "Galaxy Friends",
+            "To the Milky Way",
+            "MIRINAE"
+          ]
+        }
+      },
+      {
+        "length": 7
+      },
+      {
+        "length": 7
+      },
+      {
+        "length": 7
+      },
+      {
+        "length": 7
+      },
+      {
+        "length": 7,
+        "special": {
+          "type": 2,
+          "range": [
+            "〇、",
+            "SUPERNOVA",
+            "Singularity",
+            "Dreadnought",
+            "Astral tale",
+            "Astra walkthrough",
+            "Cosmica",
+            "Clotho and the stargazer",
+            "Transient Space",
+            "blue comet",
+            "Cosmo Pop Funclub",
+            "Flashback",
+            "Stratoliner",
+            "ΟΔΥΣΣΕΙΑ",
+            "Galaxy Friends",
+            "To the Milky Way",
+            "MIRINAE"
+          ]
+        }
+      },
+      {
+        "length": 7
+      },
+      {
+        "length": 7
+      },
+      {
+        "length": 7
+      },
+      {
+        "length": 7
+      },
+      {
+        "length": 7,
+        "special": {
+          "type": 2,
+          "range": [
+            "〇、",
+            "SUPERNOVA",
+            "Singularity",
+            "Dreadnought",
+            "Astral tale",
+            "Astra walkthrough",
+            "Cosmica",
+            "Clotho and the stargazer",
+            "Transient Space",
+            "blue comet",
+            "Cosmo Pop Funclub",
+            "Flashback",
+            "Stratoliner",
+            "ΟΔΥΣΣΕΙΑ",
+            "Galaxy Friends",
+            "To the Milky Way",
+            "MIRINAE"
+          ]
+        }
+      },
+      {
+        "length": 7
+      },
+      {
+        "length": 7
+      },
+      {
+        "length": 7
+      },
+      {
+        "length": 7
+      },
+      {
+        "length": 7,
+        "special": {
+          "type": 2,
+          "range": [
+            "〇、",
+            "SUPERNOVA",
+            "Singularity",
+            "Dreadnought",
+            "Astral tale",
+            "Astra walkthrough",
+            "Cosmica",
+            "Clotho and the stargazer",
+            "Transient Space",
+            "blue comet",
+            "Cosmo Pop Funclub",
+            "Flashback",
+            "Stratoliner",
+            "ΟΔΥΣΣΕΙΑ",
+            "Galaxy Friends",
+            "To the Milky Way",
+            "MIRINAE"
+          ]
+        }
+      },
+      {
+        "length": 7
+      },
+      {
+        "length": 7
+      },
+      {
+        "length": 7
+      },
+      {
+        "length": 7
+      },
+      {
+        "length": 7,
+        "special": {
+          "type": 2,
+          "range": [
+            "〇、",
+            "SUPERNOVA",
+            "Singularity",
+            "Dreadnought",
+            "Astral tale",
+            "Astra walkthrough",
+            "Cosmica",
+            "Clotho and the stargazer",
+            "Transient Space",
+            "blue comet",
+            "Cosmo Pop Funclub",
+            "Flashback",
+            "Stratoliner",
+            "ΟΔΥΣΣΕΙΑ",
+            "Galaxy Friends",
+            "To the Milky Way",
+            "MIRINAE"
+          ]
+        }
+      },
+      {
+        "length": 7
+      },
+      {
+        "length": 7
+      },
+      {
+        "length": 7
+      },
+      {
+        "length": 7
+      },
+      {
+        "length": 7,
+        "special": {
+          "type": 3,
+          "range": [
+            "〇、",
+            "SUPERNOVA",
+            "Singularity",
+            "Dreadnought",
+            "Astral tale",
+            "Astra walkthrough",
+            "Cosmica",
+            "Clotho and the stargazer",
+            "Transient Space",
+            "blue comet",
+            "Cosmo Pop Funclub",
+            "Flashback",
+            "Stratoliner",
+            "ΟΔΥΣΣΕΙΑ",
+            "Galaxy Friends",
+            "To the Milky Way",
+            "MIRINAE"
+          ]
+        }
+      },
+      {
+        "length": 49,
+        "special": {
+          "type": 0,
+          "count": 2
+        },
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 600
+        }
+      },
+      {
+        "length": 49,
+        "special": {
+          "type": 0,
+          "count": 2
+        },
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 2
+        }
+      },
+      {
+        "length": 49,
+        "special": {
+          "type": 0,
+          "count": 2
+        },
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 2
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 1,
+          "id": "ichirin"
+        }
+      }
+    ],
+    "expire": 1713193200000
+  },
+  {
+    "id": "限时：MORNINGLOOM",
+    "platforms": [
+      {
+        "length": 0,
+        "special": {
+          "type": 2,
+          "range": [
+            "MORNINGLOOM",
+            "Trap Crow",
+            "NULCTRL",
+            "Senkyou",
+            "inkar-usi"
+          ]
+        }
+      },
+      {
+        "length": 3
+      },
+      {
+        "length": 6
+      },
+      {
+        "length": 9
+      },
+      {
+        "length": 12,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 200
+        }
+      },
+      {
+        "length": 15,
+        "special": {
+          "type": 2,
+          "range": [
+            "MORNINGLOOM",
+            "Brand new world",
+            "Infinity Heaven",
+            "Rise",
+            "Suomi",
+            "Babaroque",
+            "Diode",
+            "Purgatorium",
+            "Snow White",
+            "world.execute(me);",
+            "DDD",
+            "Ävril -Flicka i krans-",
+            "Dialnote",
+            "qualia -ideaesthesia-",
+            "Red and Blue",
+            "Redraw the Colorless World",
+            "Remind the Souls (Short Version)",
+            "The Formula",
+            "Dancin' on a Cat's Paw",
+            "Monochrome Princess",
+            "SUPERNOVA"
+          ]
+        }
+      },
+      {
+        "length": 18
+      },
+      {
+        "length": 21
+      },
+      {
+        "length": 24
+      },
+      {
+        "length": 27,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 2
+        }
+      },
+      {
+        "length": 30,
+        "special": {
+          "type": 2,
+          "range": [
+            "MORNINGLOOM",
+            "Fairytale",
+            "Sayonara Hatsukoi",
+            "Vexaria",
+            "Jingle",
+            "Altair (feat. *spiLa*)",
+            "Bookmaker (2D Version)",
+            "Dandelion",
+            "FREEF4LL",
+            "Harutopia ~Utopia of Spring~",
+            "Lucifer",
+            "Oblivia",
+            "One Last Drive",
+            "Reinvent",
+            "san skia",
+            "Shades of Light in a Transcendent Realm",
+            "Chronostasis",
+            "Grimheart",
+            "Anökumene",
+            "Blaster",
+            "Cybernecia Catharsis",
+            "GOODTEK (Arcaea Edit)",
+            "Ignotus",
+            "Illegal Paradise",
+            "Kanagawa Cyber Culvert",
+            "LunarOrbit -believe in the Espebranch road-",
+            "ReviXy",
+            "Rugie",
+            "Sakura Fubuki",
+            "Syro",
+            "VECTOЯ",
+            "Nhelv"
+          ]
+        }
+      },
+      {
+        "length": 33
+      },
+      {
+        "length": 36
+      },
+      {
+        "length": 39
+      },
+      {
+        "length": 42,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 400
+        }
+      },
+      {
+        "length": 45,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 2
+        }
+      },
+      {
+        "length": 46,
+        "special": {
+          "type": 2,
+          "range": [
+            "MORNINGLOOM",
+            "Lost Civilization",
+            "Dreamin' Attraction!!",
+            "Clotho and the stargazer",
+            "Rabbit In The Black Room",
+            "Dement ~after legend~"
+          ]
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 1,
+          "id": "morningloom"
+        }
+      }
+    ],
+    "expire": 1713193200000
+  },
+  {
+    "id": "限时：Awaken_In_Ruins",
+    "platforms": [
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 50
+        }
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 50
+        }
+      },
+      {
+        "length": 10,
+        "special": {
+          "type": 2,
+          "range": [
+            "Awaken In Ruins",
+            "Chronostasis",
+            "Anökumene",
+            "Ouvertüre",
+            "conflict",
+            "On And On!! feat. Jenga",
+            "felys final remix",
+            "Alexandrite"
+          ]
+        }
+      },
+      {
+        "length": 10,
+        "special": {
+          "type": 2,
+          "range": [
+            "Awaken In Ruins",
+            "Chronostasis",
+            "Anökumene",
+            "Ouvertüre",
+            "conflict",
+            "On And On!! feat. Jenga",
+            "felys final remix",
+            "Alexandrite"
+          ]
+        }
+      },
+      {
+        "length": 10,
+        "special": {
+          "type": 2,
+          "range": [
+            "Awaken In Ruins",
+            "Chronostasis",
+            "Anökumene",
+            "Ouvertüre",
+            "conflict",
+            "On And On!! feat. Jenga",
+            "felys final remix",
+            "Alexandrite"
+          ]
+        }
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 100
+        }
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 100
+        }
+      },
+      {
+        "length": 10,
+        "special": {
+          "type": 2,
+          "range": [
+            "Awaken In Ruins",
+            "Chronostasis",
+            "Anökumene",
+            "Ouvertüre",
+            "conflict",
+            "On And On!! feat. Jenga",
+            "felys final remix",
+            "Alexandrite"
+          ]
+        }
+      },
+      {
+        "length": 10,
+        "special": {
+          "type": 2,
+          "range": [
+            "Awaken In Ruins",
+            "Chronostasis",
+            "Anökumene",
+            "Ouvertüre",
+            "conflict",
+            "On And On!! feat. Jenga",
+            "felys final remix",
+            "Alexandrite"
+          ]
+        }
+      },
+      {
+        "length": 10,
+        "special": {
+          "type": 2,
+          "range": [
+            "Awaken In Ruins",
+            "Chronostasis",
+            "Anökumene",
+            "Ouvertüre",
+            "conflict",
+            "On And On!! feat. Jenga",
+            "felys final remix",
+            "Alexandrite"
+          ]
+        }
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 100
+        }
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 100
+        }
+      },
+      {
+        "length": 10,
+        "special": {
+          "type": 2,
+          "range": [
+            "Awaken In Ruins",
+            "Chronostasis",
+            "Anökumene",
+            "Ouvertüre",
+            "conflict",
+            "On And On!! feat. Jenga",
+            "felys final remix",
+            "Alexandrite"
+          ]
+        }
+      },
+      {
+        "length": 10,
+        "special": {
+          "type": 2,
+          "range": [
+            "Awaken In Ruins",
+            "Chronostasis",
+            "Anökumene",
+            "Ouvertüre",
+            "conflict",
+            "On And On!! feat. Jenga",
+            "felys final remix",
+            "Alexandrite"
+          ]
+        }
+      },
+      {
+        "length": 10,
+        "special": {
+          "type": 2,
+          "range": [
+            "Awaken In Ruins",
+            "Chronostasis",
+            "Anökumene",
+            "Ouvertüre",
+            "conflict",
+            "On And On!! feat. Jenga",
+            "felys final remix",
+            "Alexandrite"
+          ]
+        }
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 100
+        }
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 100
+        }
+      },
+      {
+        "length": 10,
+        "special": {
+          "type": 2,
+          "range": [
+            "Awaken In Ruins",
+            "Chronostasis",
+            "Anökumene",
+            "Ouvertüre",
+            "conflict",
+            "On And On!! feat. Jenga",
+            "felys final remix",
+            "Alexandrite"
+          ]
+        }
+      },
+      {
+        "length": 10,
+        "special": {
+          "type": 2,
+          "range": [
+            "Awaken In Ruins",
+            "Chronostasis",
+            "Anökumene",
+            "Ouvertüre",
+            "conflict",
+            "On And On!! feat. Jenga",
+            "felys final remix",
+            "Alexandrite"
+          ]
+        }
+      },
+      {
+        "length": 10,
+        "special": {
+          "type": 2,
+          "range": [
+            "Awaken In Ruins",
+            "Chronostasis",
+            "Anökumene",
+            "Ouvertüre",
+            "conflict",
+            "On And On!! feat. Jenga",
+            "felys final remix",
+            "Alexandrite"
+          ]
+        }
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 1,
+          "id": "awakeninruins"
+        }
+      }
+    ],
+    "expire": 1713193200000
+  },
+  {
+    "id": "限时：Lethal_Voltage",
+    "platforms": [
+      {
+        "length": 1
+      },
+      {
+        "length": 11,
+        "reward": {
+          "type": 0,
+          "name": "次元结晶",
+          "count": 1
+        }
+      },
+      {
+        "length": 22,
+        "special": {
+          "type": 2,
+          "range": [
+            "Vivid Theory",
+            "1F√",
+            "Gekka (Short Version)",
+            "Give Me a Nightmare",
+            "Black Lotus",
+            "Faint Light (Arcaea Edit)",
+            "CROSS†OVER",
+            "Lapis",
+            "Purple Verse",
+            "Glow",
+            "enchanted love",
+            "Bamboo",
+            "Life is PIANO",
+            "Turbocharger",
+            "False Embellishment",
+            "HIVEMIND",
+            "blue comet",
+            "ENERGY SYNERGY MATRIX",
+            "G e n g a o z o",
+            "Lawless Point",
+            "Tsuki ni Murakumo, Hana ni Kaze",
+            "Alone & Lorn",
+            "Dynitikós",
+            "FANTA5Y",
+            "felys final remix",
+            "GIMMICK",
+            "Lost Emotion feat. nomico",
+            "MANTIS (Arcaea Ultra-Bloodrush VIP)",
+            "On And On!! feat. Jenga",
+            "Amekagura",
+            "Astra walkthrough",
+            "Hybris (The one who shattered)",
+            "Kanjou no Matenrou ～Arr.Demetori",
+            "Let's Rock (Arcaea mix)",
+            "RGB",
+            "Ultimate taste",
+            "World Fragments III(radio edit)",
+            "Chronicle",
+            "Aleph-0",
+            "HELLOHELL",
+            "〇、",
+            "MORNINGLOOM",
+            "Awaken In Ruins",
+            "Lethal Voltage"
+          ]
+        }
+      },
+      {
+        "length": 33
+      },
+      {
+        "length": 44
+      },
+      {
+        "length": 55,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 800
+        }
+      },
+      {
+        "length": 44
+      },
+      {
+        "length": 33
+      },
+      {
+        "length": 22,
+        "special": {
+          "type": 2,
+          "range": [
+            "Vivid Theory",
+            "1F√",
+            "Gekka (Short Version)",
+            "Give Me a Nightmare",
+            "Black Lotus",
+            "Faint Light (Arcaea Edit)",
+            "CROSS†OVER",
+            "Lapis",
+            "Purple Verse",
+            "Glow",
+            "enchanted love",
+            "Bamboo",
+            "Life is PIANO",
+            "Turbocharger",
+            "False Embellishment",
+            "HIVEMIND",
+            "blue comet",
+            "ENERGY SYNERGY MATRIX",
+            "G e n g a o z o",
+            "Lawless Point",
+            "Tsuki ni Murakumo, Hana ni Kaze",
+            "Alone & Lorn",
+            "Dynitikós",
+            "FANTA5Y",
+            "felys final remix",
+            "GIMMICK",
+            "Lost Emotion feat. nomico",
+            "MANTIS (Arcaea Ultra-Bloodrush VIP)",
+            "On And On!! feat. Jenga",
+            "Amekagura",
+            "Astra walkthrough",
+            "Hybris (The one who shattered)",
+            "Kanjou no Matenrou ～Arr.Demetori",
+            "Let's Rock (Arcaea mix)",
+            "RGB",
+            "Ultimate taste",
+            "World Fragments III(radio edit)",
+            "Chronicle",
+            "Aleph-0",
+            "HELLOHELL",
+            "〇、",
+            "MORNINGLOOM",
+            "Awaken In Ruins",
+            "Lethal Voltage"
+          ]
+        }
+      },
+      {
+        "length": 11,
+        "special": {
+          "type": 0,
+          "count": 2
+        }
+      },
+      {
+        "length": 22,
+        "special": {
+          "type": 3,
+          "range": [
+            "Vivid Theory",
+            "1F√",
+            "Gekka (Short Version)",
+            "Give Me a Nightmare",
+            "Black Lotus",
+            "Faint Light (Arcaea Edit)",
+            "CROSS†OVER",
+            "Lapis",
+            "Purple Verse",
+            "Glow",
+            "enchanted love",
+            "Bamboo",
+            "Life is PIANO",
+            "Turbocharger",
+            "False Embellishment",
+            "HIVEMIND",
+            "blue comet",
+            "ENERGY SYNERGY MATRIX",
+            "G e n g a o z o",
+            "Lawless Point",
+            "Tsuki ni Murakumo, Hana ni Kaze",
+            "Alone & Lorn",
+            "Dynitikós",
+            "FANTA5Y",
+            "felys final remix",
+            "GIMMICK",
+            "Lost Emotion feat. nomico",
+            "MANTIS (Arcaea Ultra-Bloodrush VIP)",
+            "On And On!! feat. Jenga",
+            "Amekagura",
+            "Astra walkthrough",
+            "Hybris (The one who shattered)",
+            "Kanjou no Matenrou ～Arr.Demetori",
+            "Let's Rock (Arcaea mix)",
+            "RGB",
+            "Ultimate taste",
+            "World Fragments III(radio edit)",
+            "Chronicle",
+            "Aleph-0",
+            "HELLOHELL",
+            "〇、",
+            "MORNINGLOOM",
+            "Awaken In Ruins",
+            "Lethal Voltage"
+          ]
+        }
+      },
+      {
+        "length": 33
+      },
+      {
+        "length": 44
+      },
+      {
+        "length": 55,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 4
+        }
+      },
+      {
+        "length": 44
+      },
+      {
+        "length": 33
+      },
+      {
+        "length": 22,
+        "special": {
+          "type": 3,
+          "range": [
+            "Vivid Theory",
+            "1F√",
+            "Gekka (Short Version)",
+            "Give Me a Nightmare",
+            "Black Lotus",
+            "Faint Light (Arcaea Edit)",
+            "CROSS†OVER",
+            "Lapis",
+            "Purple Verse",
+            "Glow",
+            "enchanted love",
+            "Bamboo",
+            "Life is PIANO",
+            "Turbocharger",
+            "False Embellishment",
+            "HIVEMIND",
+            "blue comet",
+            "ENERGY SYNERGY MATRIX",
+            "G e n g a o z o",
+            "Lawless Point",
+            "Tsuki ni Murakumo, Hana ni Kaze",
+            "Alone & Lorn",
+            "Dynitikós",
+            "FANTA5Y",
+            "felys final remix",
+            "GIMMICK",
+            "Lost Emotion feat. nomico",
+            "MANTIS (Arcaea Ultra-Bloodrush VIP)",
+            "On And On!! feat. Jenga",
+            "Amekagura",
+            "Astra walkthrough",
+            "Hybris (The one who shattered)",
+            "Kanjou no Matenrou ～Arr.Demetori",
+            "Let's Rock (Arcaea mix)",
+            "RGB",
+            "Ultimate taste",
+            "World Fragments III(radio edit)",
+            "Chronicle",
+            "Aleph-0",
+            "HELLOHELL",
+            "〇、",
+            "MORNINGLOOM",
+            "Awaken In Ruins",
+            "Lethal Voltage"
+          ]
+        }
+      },
+      {
+        "length": 11
+      },
+      {
+        "length": 1,
+        "reward": {
+          "type": 1,
+          "id": "lethalvoltage"
+        }
+      },
+      {
+        "length": 11
+      },
+      {
+        "length": 22
+      },
+      {
+        "length": 33
+      },
+      {
+        "length": 44
+      },
+      {
+        "length": 55,
+        "special": {
+          "type": 2,
+          "range": [
+            "Vivid Theory",
+            "1F√",
+            "Gekka (Short Version)",
+            "Give Me a Nightmare",
+            "Black Lotus",
+            "Faint Light (Arcaea Edit)",
+            "CROSS†OVER",
+            "Lapis",
+            "Purple Verse",
+            "Glow",
+            "enchanted love",
+            "Bamboo",
+            "Life is PIANO",
+            "Turbocharger",
+            "False Embellishment",
+            "HIVEMIND",
+            "blue comet",
+            "ENERGY SYNERGY MATRIX",
+            "G e n g a o z o",
+            "Lawless Point",
+            "Tsuki ni Murakumo, Hana ni Kaze",
+            "Alone & Lorn",
+            "Dynitikós",
+            "FANTA5Y",
+            "felys final remix",
+            "GIMMICK",
+            "Lost Emotion feat. nomico",
+            "MANTIS (Arcaea Ultra-Bloodrush VIP)",
+            "On And On!! feat. Jenga",
+            "Amekagura",
+            "Astra walkthrough",
+            "Hybris (The one who shattered)",
+            "Kanjou no Matenrou ～Arr.Demetori",
+            "Let's Rock (Arcaea mix)",
+            "RGB",
+            "Ultimate taste",
+            "World Fragments III(radio edit)",
+            "Chronicle",
+            "Aleph-0",
+            "HELLOHELL",
+            "〇、",
+            "MORNINGLOOM",
+            "Awaken In Ruins",
+            "Lethal Voltage"
+          ]
+        }
+      },
+      {
+        "length": 44
+      },
+      {
+        "length": 33
+      },
+      {
+        "length": 22
+      },
+      {
+        "length": 11,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 500
+        }
+      },
+      {
+        "length": 1,
+        "special": {
+          "type": 0,
+          "count": 2
+        }
+      },
+      {
+        "length": 55,
+        "special": {
+          "type": 3,
+          "range": [
+            "Vivid Theory",
+            "1F√",
+            "Gekka (Short Version)",
+            "Give Me a Nightmare",
+            "Black Lotus",
+            "Faint Light (Arcaea Edit)",
+            "CROSS†OVER",
+            "Lapis",
+            "Purple Verse",
+            "Glow",
+            "enchanted love",
+            "Bamboo",
+            "Life is PIANO",
+            "Turbocharger",
+            "False Embellishment",
+            "HIVEMIND",
+            "blue comet",
+            "ENERGY SYNERGY MATRIX",
+            "G e n g a o z o",
+            "Lawless Point",
+            "Tsuki ni Murakumo, Hana ni Kaze",
+            "Alone & Lorn",
+            "Dynitikós",
+            "FANTA5Y",
+            "felys final remix",
+            "GIMMICK",
+            "Lost Emotion feat. nomico",
+            "MANTIS (Arcaea Ultra-Bloodrush VIP)",
+            "On And On!! feat. Jenga",
+            "Amekagura",
+            "Astra walkthrough",
+            "Hybris (The one who shattered)",
+            "Kanjou no Matenrou ～Arr.Demetori",
+            "Let's Rock (Arcaea mix)",
+            "RGB",
+            "Ultimate taste",
+            "World Fragments III(radio edit)",
+            "Chronicle",
+            "Aleph-0",
+            "HELLOHELL",
+            "〇、",
+            "MORNINGLOOM",
+            "Awaken In Ruins",
+            "Lethal Voltage"
+          ]
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "次元结晶",
+          "count": 1
+        }
+      }
+    ],
+    "expire": 1713193200000
+  },
+  {
+    "id": "限时：ultradiaxon-N3",
+    "platforms": [
+      {
+        "length": 60,
+        "special": {
+          "type": 2,
+          "range": [
+            "ultradiaxon-N3",
+            "Ignotus",
+            "Red and Blue",
+            "Singularity",
+            "dropdead",
+            "Malicious Mischance",
+            "＃1f1e33",
+            "HIVEMIND"
+          ]
+        }
+      },
+      {
+        "length": 17,
+        "special": {
+          "type": 2,
+          "range": [
+            "Grimheart",
+            "ultradiaxon-N3",
+            "felys final remix",
+            "Malicious Mischance"
+          ]
+        }
+      },
+      {
+        "length": 17,
+        "special": {
+          "type": 2,
+          "range": [
+            "Brand new world",
+            "ultradiaxon-N3",
+            "I've heard it said",
+            "Antithese"
+          ]
+        }
+      },
+      {
+        "length": 17,
+        "special": {
+          "type": 2,
+          "range": [
+            "Shades of Light in a Transcendent Realm",
+            "ultradiaxon-N3",
+            "Phantasia",
+            "Filament"
+          ]
+        }
+      },
+      {
+        "length": 17,
+        "special": {
+          "type": 2,
+          "range": [
+            "inkar-usi",
+            "ultradiaxon-N3",
+            "Avant Raze",
+            "Dynitikós"
+          ]
+        }
+      },
+      {
+        "length": 17,
+        "special": {
+          "type": 2,
+          "range": [
+            "Sayonara Hatsukoi",
+            "ultradiaxon-N3",
+            "Astral tale",
+            "Let's Rock (Arcaea mix)"
+          ]
+        },
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 410
+        }
+      },
+      {
+        "length": 17,
+        "special": {
+          "type": 2,
+          "range": [
+            "Blaster",
+            "ultradiaxon-N3",
+            "Masquerade Legion",
+            "init()"
+          ]
+        }
+      },
+      {
+        "length": 17,
+        "special": {
+          "type": 2,
+          "range": [
+            "SUPERNOVA",
+            "ultradiaxon-N3",
+            "Crimson Throne",
+            "Xanatos"
+          ]
+        }
+      },
+      {
+        "length": 17,
+        "special": {
+          "type": 2,
+          "range": [
+            "Altair (feat. *spiLa*)",
+            "ultradiaxon-N3",
+            "AlterAle",
+            "La'qryma of the Wasteland"
+          ]
+        }
+      },
+      {
+        "length": 17,
+        "special": {
+          "type": 2,
+          "range": [
+            "Snow White",
+            "ultradiaxon-N3",
+            "Sulfur",
+            "SACRIFICE feat. ayame"
+          ]
+        }
+      },
+      {
+        "length": 17,
+        "special": {
+          "type": 2,
+          "range": [
+            "Dement ~after legend~",
+            "ultradiaxon-N3",
+            "Fallensquare",
+            "Eccentric Tale"
+          ]
+        },
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 17,
+        "special": {
+          "type": 2,
+          "range": [
+            "san skia",
+            "ultradiaxon-N3",
+            "FLUFFY FLASH",
+            "Galactic Love"
+          ]
+        }
+      },
+      {
+        "length": 17,
+        "special": {
+          "type": 2,
+          "range": [
+            "Syro",
+            "ultradiaxon-N3",
+            "memoryfactory.lzh",
+            "Life is PIANO"
+          ]
+        }
+      },
+      {
+        "length": 17,
+        "special": {
+          "type": 2,
+          "range": [
+            "VECTOЯ",
+            "ultradiaxon-N3",
+            "Equilibrium",
+            "Scarlet Cage"
+          ]
+        }
+      },
+      {
+        "length": 17,
+        "special": {
+          "type": 2,
+          "range": [
+            "Red and Blue",
+            "ultradiaxon-N3",
+            "Quon",
+            "SOUNDWiTCH"
+          ]
+        }
+      },
+      {
+        "length": 17,
+        "special": {
+          "type": 2,
+          "range": [
+            "Redraw the Colorless World",
+            "ultradiaxon-N3",
+            "Lumia",
+            "World Fragments III(radio edit)"
+          ]
+        },
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 410
+        }
+      },
+      {
+        "length": 17,
+        "special": {
+          "type": 2,
+          "range": [
+            "LunarOrbit -believe in the Espebranch road-",
+            "ultradiaxon-N3",
+            "Lethal Voltage",
+            "MORNINGLOOM"
+          ]
+        }
+      },
+      {
+        "length": 17,
+        "special": {
+          "type": 2,
+          "range": [
+            "Rise",
+            "ultradiaxon-N3",
+            "Cosmo Pop Funclub",
+            "Ouvertüre"
+          ]
+        }
+      },
+      {
+        "length": 17,
+        "special": {
+          "type": 2,
+          "range": [
+            "Babaroque",
+            "ultradiaxon-N3",
+            "Hall of Mirrors",
+            "G e n g a o z o"
+          ]
+        }
+      },
+      {
+        "length": 17,
+        "special": {
+          "type": 2,
+          "range": [
+            "Harutopia ~Utopia of Spring~",
+            "ultradiaxon-N3",
+            "Blue Rose",
+            "DRG"
+          ]
+        }
+      },
+      {
+        "length": 17,
+        "special": {
+          "type": 2,
+          "range": [
+            "Jingle",
+            "ultradiaxon-N3",
+            "HIVEMIND",
+            "Aurgelmir"
+          ]
+        },
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 17,
+        "special": {
+          "type": 2,
+          "range": [
+            "Lost Civilization",
+            "ultradiaxon-N3",
+            "Specta",
+            "AttraqtiA"
+          ]
+        }
+      },
+      {
+        "length": 17,
+        "special": {
+          "type": 2,
+          "range": [
+            "Vexaria",
+            "ultradiaxon-N3",
+            "Awaken In Ruins",
+            "Summer Fireworks of Love"
+          ]
+        }
+      },
+      {
+        "length": 17,
+        "special": {
+          "type": 2,
+          "range": [
+            "Dialnote",
+            "ultradiaxon-N3",
+            "Alice à la mode",
+            "Can I Friend You on Bassbook? Lol"
+          ]
+        }
+      },
+      {
+        "length": 17,
+        "special": {
+          "type": 2,
+          "range": [
+            "Kanagawa Cyber Culvert",
+            "ultradiaxon-N3",
+            "Dream goes on",
+            "Give Me a Nightmare"
+          ]
+        }
+      },
+      {
+        "length": 17,
+        "special": {
+          "type": 2,
+          "range": [
+            "Cybernecia Catharsis",
+            "ultradiaxon-N3",
+            "Black Lotus",
+            "STAGER (ALL STAGE CLEAR)"
+          ]
+        },
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 410
+        }
+      },
+      {
+        "length": 17,
+        "special": {
+          "type": 2,
+          "range": [
+            "Fairytale",
+            "ultradiaxon-N3",
+            "PUPA",
+            "Devillic Sphere"
+          ]
+        }
+      },
+      {
+        "length": 17,
+        "special": {
+          "type": 2,
+          "range": [
+            "Bookmaker (2D Version)",
+            "ultradiaxon-N3",
+            "Corruption",
+            "Moonheart"
+          ]
+        }
+      },
+      {
+        "length": 17,
+        "special": {
+          "type": 2,
+          "range": [
+            "One Last Drive",
+            "ultradiaxon-N3",
+            "ω4",
+            "7thSense"
+          ]
+        }
+      },
+      {
+        "length": 17,
+        "special": {
+          "type": 2,
+          "range": [
+            "Chronostasis",
+            "ultradiaxon-N3",
+            "Tsuki ni Murakumo, Hana ni Kaze",
+            "Feels So Right feat. Renko"
+          ]
+        }
+      },
+      {
+        "length": 17,
+        "special": {
+          "type": 2,
+          "range": [
+            "Dreamin' Attraction!!",
+            "ultradiaxon-N3",
+            "RGB",
+            "Transient Space"
+          ]
+        }
+      },
+      {
+        "length": 17,
+        "special": {
+          "type": 2,
+          "range": [
+            "Illegal Paradise",
+            "ultradiaxon-N3",
+            "Kanjou no Matenrou ～Arr.Demetori",
+            "Divine Light of Myriad"
+          ]
+        }
+      },
+      {
+        "length": 17,
+        "special": {
+          "type": 2,
+          "range": [
+            "Anökumene",
+            "ultradiaxon-N3",
+            "Vandalism",
+            "Lightning Screw"
+          ]
+        }
+      },
+      {
+        "length": 17,
+        "special": {
+          "type": 2,
+          "range": [
+            "ReviXy",
+            "ultradiaxon-N3",
+            "Stratoliner",
+            "Romance Wars"
+          ]
+        }
+      },
+      {
+        "length": 17,
+        "special": {
+          "type": 2,
+          "range": [
+            "Oblivia",
+            "ultradiaxon-N3",
+            "Kissing Lucifer",
+            "Far Away Light"
+          ]
+        }
+      },
+      {
+        "length": 17,
+        "special": {
+          "type": 2,
+          "range": [
+            "Remind the Souls (Short Version)",
+            "ultradiaxon-N3",
+            "B.B.K.K.B.K.K.",
+            "Vindication"
+          ]
+        },
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 410
+        }
+      },
+      {
+        "length": 17,
+        "special": {
+          "type": 2,
+          "range": [
+            "Infinity Heaven",
+            "ultradiaxon-N3",
+            "CHAOS",
+            "Your voice so... feat. Such"
+          ]
+        }
+      },
+      {
+        "length": 17,
+        "special": {
+          "type": 2,
+          "range": [
+            "Senkyou",
+            "ultradiaxon-N3",
+            "PRIMITIVE LIGHTS",
+            "Head BONK ache"
+          ]
+        }
+      },
+      {
+        "length": 17,
+        "special": {
+          "type": 2,
+          "range": [
+            "Sakura Fubuki",
+            "ultradiaxon-N3",
+            "KYOREN ROMANCE",
+            "First Snow"
+          ]
+        }
+      },
+      {
+        "length": 17,
+        "special": {
+          "type": 2,
+          "range": [
+            "Suomi",
+            "ultradiaxon-N3",
+            "NEO WINGS",
+            "Cosmica"
+          ]
+        }
+      },
+      {
+        "length": 17,
+        "special": {
+          "type": 2,
+          "range": [
+            "Purgatorium",
+            "ultradiaxon-N3",
+            "The Survivor (Game Edit)",
+            "Blocked Library"
+          ]
+        },
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 17,
+        "special": {
+          "type": 2,
+          "range": [
+            "FREEF4LL",
+            "ultradiaxon-N3",
+            "＃1f1e33",
+            "carmine:scythe"
+          ]
+        }
+      },
+      {
+        "length": 17,
+        "special": {
+          "type": 2,
+          "range": [
+            "Diode",
+            "ultradiaxon-N3",
+            "with U",
+            "Kanbu de Tomatte Sugu Tokeru"
+          ]
+        }
+      },
+      {
+        "length": 17,
+        "special": {
+          "type": 2,
+          "range": [
+            "Ignotus",
+            "ultradiaxon-N3",
+            "Particle Arts",
+            "To the Milky Way"
+          ]
+        }
+      },
+      {
+        "length": 17,
+        "special": {
+          "type": 2,
+          "range": [
+            "Dandelion",
+            "ultradiaxon-N3",
+            "Meta-Mysteria",
+            "enchanted love"
+          ]
+        }
+      },
+      {
+        "length": 17,
+        "special": {
+          "type": 2,
+          "range": [
+            "qualia -ideaesthesia-",
+            "ultradiaxon-N3",
+            "Impure Bird",
+            "Flashback"
+          ]
+        },
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 410
+        }
+      },
+      {
+        "length": 17,
+        "special": {
+          "type": 2,
+          "range": [
+            "Trap Crow",
+            "ultradiaxon-N3",
+            "World Vanquisher",
+            "Genesis"
+          ]
+        }
+      },
+      {
+        "length": 17,
+        "special": {
+          "type": 2,
+          "range": [
+            "GOODTEK (Arcaea Edit)",
+            "ultradiaxon-N3",
+            "Protoflicker",
+            "αterlβus"
+          ]
+        }
+      },
+      {
+        "length": 17,
+        "special": {
+          "type": 2,
+          "range": [
+            "The Formula",
+            "ultradiaxon-N3",
+            "Axium Crisis",
+            "Altale"
+          ]
+        }
+      },
+      {
+        "length": 17,
+        "special": {
+          "type": 2,
+          "range": [
+            "Clotho and the stargazer",
+            "ultradiaxon-N3",
+            "UNKNOWN LEVELS",
+            "［X］"
+          ]
+        }
+      },
+      {
+        "length": 17,
+        "special": {
+          "type": 2,
+          "range": [
+            "Rabbit In The Black Room",
+            "ultradiaxon-N3",
+            "GENOCIDER",
+            "Qovat"
+          ]
+        },
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 17,
+        "special": {
+          "type": 2,
+          "range": [
+            "Reinvent",
+            "ultradiaxon-N3",
+            "Coastal Highway",
+            "Flyburg and Endroll"
+          ]
+        }
+      },
+      {
+        "length": 17,
+        "special": {
+          "type": 2,
+          "range": [
+            "Rugie",
+            "ultradiaxon-N3",
+            "ΟΔΥΣΣΕΙΑ",
+            "Heart Jackin'"
+          ]
+        }
+      },
+      {
+        "length": 17,
+        "special": {
+          "type": 2,
+          "range": [
+            "world.execute(me);",
+            "ultradiaxon-N3",
+            "Evening in Scarlet",
+            "CYCLES"
+          ]
+        }
+      },
+      {
+        "length": 17,
+        "special": {
+          "type": 2,
+          "range": [
+            "Nhelv",
+            "ultradiaxon-N3",
+            "Teriqma",
+            "FANTA5Y"
+          ]
+        }
+      },
+      {
+        "length": 17,
+        "special": {
+          "type": 2,
+          "range": [
+            "Lucifer",
+            "ultradiaxon-N3",
+            "Antagonism",
+            "Galaxy Friends"
+          ]
+        },
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 410
+        }
+      },
+      {
+        "length": 17,
+        "special": {
+          "type": 2,
+          "range": [
+            "Monochrome Princess",
+            "ultradiaxon-N3",
+            "April showers",
+            "Got hive of Ra"
+          ]
+        }
+      },
+      {
+        "length": 17,
+        "special": {
+          "type": 2,
+          "range": [
+            "NULCTRL",
+            "ultradiaxon-N3",
+            "Dreadnought",
+            "Genesis"
+          ]
+        }
+      },
+      {
+        "length": 17,
+        "special": {
+          "type": 2,
+          "range": [
+            "Ävril -Flicka i krans-",
+            "ultradiaxon-N3",
+            "Capella",
+            "BATTLE NO.1"
+          ]
+        }
+      },
+      {
+        "length": 17,
+        "special": {
+          "type": 2,
+          "range": [
+            "DDD",
+            "ultradiaxon-N3",
+            "AI［UE］OON",
+            "Ultimate taste"
+          ]
+        }
+      },
+      {
+        "length": 17,
+        "special": {
+          "type": 2,
+          "range": [
+            "Dancin' on a Cat's Paw",
+            "ultradiaxon-N3",
+            "Technicolour",
+            "Vivid Theory"
+          ]
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 2,
+          "id": 75
+        }
+      }
+    ],
+    "expire": 1713279600000
   }
 ]

@@ -7447,5 +7447,24 @@
       null,
       null
     ]
+  },
+  {
+    "id": "ultradiaxon",
+    "charts": [
+      {
+        "notes": 605,
+        "constant": 4.5
+      },
+      {
+        "notes": 896,
+        "constant": 8.5
+      },
+      {
+        "notes": 1228,
+        "constant": 10.5
+      },
+      null,
+      null
+    ]
   }
 ]

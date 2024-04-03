@@ -18185,5 +18185,47 @@
         "songId": "mirinae"
       }
     ]
+  },
+  {
+    "bpm": "150",
+    "side": 1,
+    "id": "ultradiaxon",
+    "name": "ultradiaxon-N3",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Memory Archive",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 4.5,
+        "difficulty": "pst",
+        "designer": "Nitro",
+        "id": "ultradiaxon@pst",
+        "level": 4,
+        "note": 605,
+        "songId": "ultradiaxon"
+      },
+      {
+        "constant": 8.5,
+        "difficulty": "prs",
+        "designer": "Nitro",
+        "id": "ultradiaxon@prs",
+        "level": 8,
+        "note": 896,
+        "songId": "ultradiaxon"
+      },
+      {
+        "constant": 10.5,
+        "difficulty": "ftr",
+        "designer": "Nitro",
+        "id": "ultradiaxon@ftr",
+        "level": 10,
+        "note": 1228,
+        "songId": "ultradiaxon"
+      }
+    ]
   }
 ]

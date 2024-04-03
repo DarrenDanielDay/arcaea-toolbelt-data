@@ -6295,5 +6295,21 @@
     },
     null,
     null
+  ],
+  "ultradiaxon": [
+    {
+      "constant": 4.5,
+      "old": false
+    },
+    {
+      "constant": 8.5,
+      "old": false
+    },
+    {
+      "constant": 10.5,
+      "old": false
+    },
+    null,
+    null
   ]
 }
