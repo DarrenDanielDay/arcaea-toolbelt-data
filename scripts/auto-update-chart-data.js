@@ -16,7 +16,7 @@ const alias = await readJSON(new URL("../src/data/alias.json", import.meta.url))
 /** @type {AssetsInfo[]} */
 const assetsInfo = await readJSON(new URL("../src/data/assets-info.json", import.meta.url));
 /** @type {WikiChartConstantJSON} */
-const cc = await readJSON(new URL("../shared/ChartConstant.json", import.meta.url));
+const cc = await readJSON(new URL("../src/data/ChartConstant.json", import.meta.url));
 const extraData = await patchConstants(cc);
 const url = new URL("../src/data/chart-data.json", import.meta.url);
 /** @type {SongData[]} */
