@@ -2,7 +2,7 @@
   "rewrites": [{ "source": "data/:json", "destination": "./dist/:json" }],
   "headers": [
     {
-      "source": "**/*.json",
+      "source": "**/*",
       "headers": [
         {
           "key": "Access-Control-Allow-Origin",

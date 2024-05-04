@@ -24,6 +24,12 @@ Open <http://localhost:1236/dist-tools> for data tools.
 8. get world map (if new)
 9. restart to generate meta
 
+## Update Scripts
+
+1. auto-apk
+2. update `ChartConstant.json` and `notes-and-constants.json`
+3. auto-update-chart-data
+
 ## License
 
 MIT License

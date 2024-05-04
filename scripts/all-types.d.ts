@@ -26,6 +26,8 @@ type DifficultyChart = import("../src/tools/packed-data").Difficulty;
 type ExtraSongData = import("../src/tools/chart/shared").ExtraSongData;
 type CharacterD = import("@arcaea-toolbelt/models/character").CharacterData;
 type CharacterFactors = import("@arcaea-toolbelt/models/character").CharacterFactors;
+type ChartExpress = import("@arcaea-toolbelt/models/misc").ChartExpress;
+type NotesAndConstantsJSON = ExtraSongData[];
 type KeyFactor = [lv1: number | null, lv20: number | null, lv30: number | null];
 type KeyFactors = {
   id: number;
@@ -42,4 +44,5 @@ interface ConstantChartJSONGenerateContext {
   items: { chart: DifficultyChart; song: Song }[];
   slst: SongList;
   oldCC: WikiChartConstantJSON;
+  oldNotes: NotesAndConstantsJSON;
 }
