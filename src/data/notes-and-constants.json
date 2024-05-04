@@ -7437,7 +7437,7 @@
         "constant": 4.5
       },
       {
-        "notes": 887,
+        "notes": 881,
         "constant": 8.3
       },
       {
@@ -7465,6 +7465,107 @@
       },
       null,
       null
+    ]
+  },
+  {
+    "id": "leaveallbehind",
+    "charts": [
+      {
+        "notes": 380,
+        "constant": 2
+      },
+      {
+        "notes": 488,
+        "constant": 5.5
+      },
+      {
+        "notes": 828,
+        "constant": 9.2
+      },
+      null,
+      null
+    ]
+  },
+  {
+    "id": "distortedfate",
+    "charts": [
+      {
+        "notes": 756,
+        "constant": 4.5
+      },
+      {
+        "notes": 890,
+        "constant": 7.8
+      },
+      {
+        "notes": 1172,
+        "constant": 9.6
+      },
+      null,
+      {
+        "notes": 1402,
+        "constant": 10.9
+      }
+    ]
+  },
+  {
+    "id": "floatingworld",
+    "charts": [
+      {
+        "notes": 753,
+        "constant": 3
+      },
+      {
+        "notes": 793,
+        "constant": 7
+      },
+      {
+        "notes": 1047,
+        "constant": 9.3
+      },
+      null,
+      null
+    ]
+  },
+  {
+    "id": "chromafill",
+    "charts": [
+      {
+        "notes": 757,
+        "constant": 4
+      },
+      {
+        "notes": 890,
+        "constant": 7
+      },
+      {
+        "notes": 1130,
+        "constant": 10
+      },
+      null,
+      null
+    ]
+  },
+  {
+    "id": "desive",
+    "charts": [
+      {
+        "notes": 1007,
+        "constant": 5
+      },
+      {
+        "notes": 1051,
+        "constant": 8
+      },
+      {
+        "notes": 1273,
+        "constant": 9.9
+      },
+      null,
+      {
+        "notes": 1340,
+        "constant": 10.8
+      }
     ]
   }
 ]

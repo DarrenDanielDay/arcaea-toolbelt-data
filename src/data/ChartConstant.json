@@ -6311,5 +6311,91 @@
     },
     null,
     null
+  ],
+  "leaveallbehind": [
+    {
+      "constant": 2,
+      "old": false
+    },
+    {
+      "constant": 5.5,
+      "old": false
+    },
+    {
+      "constant": 9.2,
+      "old": false
+    },
+    null,
+    null
+  ],
+  "distortedfate": [
+    {
+      "constant": 4.5,
+      "old": false
+    },
+    {
+      "constant": 7.8,
+      "old": false
+    },
+    {
+      "constant": 9.6,
+      "old": false
+    },
+    null,
+    {
+      "constant": 10.9,
+      "old": false
+    }
+  ],
+  "floatingworld": [
+    {
+      "constant": 3,
+      "old": false
+    },
+    {
+      "constant": 7,
+      "old": false
+    },
+    {
+      "constant": 9.3,
+      "old": false
+    },
+    null,
+    null
+  ],
+  "chromafill": [
+    {
+      "constant": 4,
+      "old": false
+    },
+    {
+      "constant": 7,
+      "old": false
+    },
+    {
+      "constant": 10,
+      "old": false
+    },
+    null,
+    null
+  ],
+  "desive": [
+    {
+      "constant": 5,
+      "old": false
+    },
+    {
+      "constant": 8,
+      "old": false
+    },
+    {
+      "constant": 9.9,
+      "old": false
+    },
+    null,
+    {
+      "constant": 10.8,
+      "old": false
+    }
   ]
 }

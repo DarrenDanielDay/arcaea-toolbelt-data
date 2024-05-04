@@ -1,0 +1,86 @@
+[
+  {
+    "songId": "leaveallbehind",
+    "charts": [
+      {
+        "constant": 2
+      },
+      {
+        "constant": 5.5
+      },
+      {
+        "constant": 9.2
+      },
+      null,
+      null
+    ]
+  },
+  {
+    "songId": "distortedfate",
+    "charts": [
+      {
+        "constant": 4.5
+      },
+      {
+        "constant": 7.8
+      },
+      {
+        "constant": 9.6
+      },
+      null,
+      {
+        "constant": 10.9
+      }
+    ]
+  },
+  {
+    "songId": "floatingworld",
+    "charts": [
+      {
+        "constant": 3
+      },
+      {
+        "constant": 7
+      },
+      {
+        "constant": 9.3
+      },
+      null,
+      null
+    ]
+  },
+  {
+    "songId": "chromafill",
+    "charts": [
+      {
+        "constant": 4
+      },
+      {
+        "constant": 7
+      },
+      {
+        "constant": 10
+      },
+      null,
+      null
+    ]
+  },
+  {
+    "songId": "desive",
+    "charts": [
+      {
+        "constant": 5
+      },
+      {
+        "constant": 8
+      },
+      {
+        "constant": 9.9
+      },
+      null,
+      {
+        "constant": 10.8
+      }
+    ]
+  }
+]

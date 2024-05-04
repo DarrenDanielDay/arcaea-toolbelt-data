@@ -18172,7 +18172,7 @@
         "designer": "N↑TRO",
         "id": "mirinae@prs",
         "level": 8,
-        "note": 887,
+        "note": 881,
         "songId": "mirinae"
       },
       {
@@ -18225,6 +18225,238 @@
         "level": 10,
         "note": 1228,
         "songId": "ultradiaxon"
+      }
+    ]
+  },
+  {
+    "bpm": "150",
+    "side": 1,
+    "id": "leaveallbehind",
+    "name": "Leave All Behind",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "World Extend 3",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 2,
+        "difficulty": "pst",
+        "designer": "Luxance",
+        "id": "leaveallbehind@pst",
+        "level": 2,
+        "note": 380,
+        "songId": "leaveallbehind"
+      },
+      {
+        "constant": 5.5,
+        "difficulty": "prs",
+        "designer": "Luxance",
+        "id": "leaveallbehind@prs",
+        "level": 5,
+        "note": 488,
+        "songId": "leaveallbehind"
+      },
+      {
+        "constant": 9.2,
+        "difficulty": "ftr",
+        "designer": "Luxance",
+        "id": "leaveallbehind@ftr",
+        "level": 9,
+        "note": 828,
+        "songId": "leaveallbehind"
+      }
+    ]
+  },
+  {
+    "bpm": "150",
+    "side": 1,
+    "id": "distortedfate",
+    "name": "Distorted Fate",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Memory Archive",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 4.5,
+        "difficulty": "pst",
+        "designer": "Toaster",
+        "id": "distortedfate@pst",
+        "level": 4,
+        "note": 756,
+        "songId": "distortedfate"
+      },
+      {
+        "constant": 7.8,
+        "difficulty": "prs",
+        "designer": "Toaster",
+        "id": "distortedfate@prs",
+        "level": 7,
+        "note": 890,
+        "songId": "distortedfate",
+        "plus": true
+      },
+      {
+        "constant": 9.6,
+        "difficulty": "ftr",
+        "designer": "Toaster",
+        "id": "distortedfate@ftr",
+        "level": 9,
+        "note": 1172,
+        "songId": "distortedfate"
+      },
+      {
+        "constant": 10.9,
+        "difficulty": "etr",
+        "designer": "TOASTER DATA PATCHER",
+        "id": "distortedfate@etr",
+        "level": 10,
+        "note": 1402,
+        "songId": "distortedfate",
+        "plus": true
+      }
+    ]
+  },
+  {
+    "bpm": "174",
+    "side": 0,
+    "id": "floatingworld",
+    "name": "Floating World",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Memory Archive",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 3,
+        "difficulty": "pst",
+        "designer": "én",
+        "id": "floatingworld@pst",
+        "level": 3,
+        "note": 753,
+        "songId": "floatingworld"
+      },
+      {
+        "constant": 7,
+        "difficulty": "prs",
+        "designer": "én",
+        "id": "floatingworld@prs",
+        "level": 7,
+        "note": 793,
+        "songId": "floatingworld"
+      },
+      {
+        "constant": 9.3,
+        "difficulty": "ftr",
+        "designer": "én",
+        "id": "floatingworld@ftr",
+        "level": 9,
+        "note": 1047,
+        "songId": "floatingworld"
+      }
+    ]
+  },
+  {
+    "bpm": "179",
+    "side": 0,
+    "id": "chromafill",
+    "name": "Chromafill",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Memory Archive",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 4,
+        "difficulty": "pst",
+        "designer": "exschwasion -彩色-",
+        "id": "chromafill@pst",
+        "level": 4,
+        "note": 757,
+        "songId": "chromafill"
+      },
+      {
+        "constant": 7,
+        "difficulty": "prs",
+        "designer": "exschwasion -彩色-",
+        "id": "chromafill@prs",
+        "level": 7,
+        "note": 890,
+        "songId": "chromafill"
+      },
+      {
+        "constant": 10,
+        "difficulty": "ftr",
+        "designer": "exschwasion -彩色-",
+        "id": "chromafill@ftr",
+        "level": 10,
+        "note": 1130,
+        "songId": "chromafill"
+      }
+    ]
+  },
+  {
+    "bpm": "180-230",
+    "side": 0,
+    "id": "desive",
+    "name": "Désive",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Memory Archive",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 5,
+        "difficulty": "pst",
+        "designer": "Yearning Call",
+        "id": "desive@pst",
+        "level": 5,
+        "note": 1007,
+        "songId": "desive"
+      },
+      {
+        "constant": 8,
+        "difficulty": "prs",
+        "designer": "Yearning Call",
+        "id": "desive@prs",
+        "level": 8,
+        "note": 1051,
+        "songId": "desive"
+      },
+      {
+        "constant": 9.9,
+        "difficulty": "ftr",
+        "designer": "Yearning Call",
+        "id": "desive@ftr",
+        "level": 9,
+        "note": 1273,
+        "songId": "desive",
+        "plus": true
+      },
+      {
+        "constant": 10.8,
+        "difficulty": "etr",
+        "designer": "Yearning Call",
+        "id": "desive@etr",
+        "level": 10,
+        "note": 1340,
+        "songId": "desive",
+        "plus": true
       }
     ]
   }
