@@ -21,7 +21,7 @@
   "scripts": {
     "start:tools": "parcel watch --target tools --no-hmr --no-cache",
     "start:serve": "serve -p 1236",
-    "starts:online-tools": "parcel watch --target online-tools --no-hmr --no-cache",
+    "start:online-tools": "parcel watch --target online-tools --no-hmr --no-cache",
     "start": "node ./scripts/json-data.js --generate && run-p --print-label start:*",
     "generate:assets": "node ./scripts/generate-assets-info.js",
     "build:online-tools": "parcel build --target online-tools",
