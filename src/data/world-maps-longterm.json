@@ -18572,6 +18572,172 @@
             }
           }
         ]
+      },
+      {
+        "id": "8-3",
+        "platforms": [
+          {
+            "length": 21
+          },
+          {
+            "length": 4,
+            "special": {
+              "type": 3,
+              "range": [
+                "Phantasia",
+                "init()",
+                "MAHOROBA",
+                "Floating World",
+                "Chromafill"
+              ]
+            }
+          },
+          {
+            "length": 19,
+            "special": {
+              "type": 3,
+              "range": [
+                "Phantasia",
+                "init()",
+                "MAHOROBA",
+                "Floating World",
+                "Chromafill"
+              ]
+            }
+          },
+          {
+            "length": 22,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 42
+            }
+          },
+          {
+            "length": 37
+          },
+          {
+            "length": 45,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 65
+            }
+          },
+          {
+            "length": 20
+          },
+          {
+            "length": 17,
+            "special": {
+              "type": 3,
+              "range": [
+                "Phantasia",
+                "init()",
+                "MAHOROBA",
+                "Floating World",
+                "Chromafill"
+              ]
+            }
+          },
+          {
+            "length": 13,
+            "special": {
+              "type": 3,
+              "range": [
+                "Phantasia",
+                "init()",
+                "MAHOROBA",
+                "Floating World",
+                "Chromafill"
+              ]
+            }
+          },
+          {
+            "length": 6,
+            "special": {
+              "type": 3,
+              "range": [
+                "Phantasia",
+                "init()",
+                "MAHOROBA",
+                "Floating World",
+                "Chromafill"
+              ]
+            }
+          },
+          {
+            "length": 47,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 127
+            }
+          },
+          {
+            "length": 30
+          },
+          {
+            "length": 24
+          },
+          {
+            "length": 41
+          },
+          {
+            "length": 18,
+            "special": {
+              "type": 3,
+              "range": [
+                "Phantasia",
+                "init()",
+                "MAHOROBA",
+                "Floating World",
+                "Chromafill"
+              ]
+            }
+          },
+          {
+            "length": 8,
+            "special": {
+              "type": 3,
+              "range": [
+                "Phantasia",
+                "init()",
+                "MAHOROBA",
+                "Floating World",
+                "Chromafill"
+              ]
+            }
+          },
+          {
+            "length": 49,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 172
+            }
+          },
+          {
+            "length": 19,
+            "special": {
+              "type": 3,
+              "range": [
+                "Phantasia",
+                "init()",
+                "MAHOROBA",
+                "Floating World",
+                "Chromafill"
+              ]
+            }
+          },
+          {
+            "length": 0,
+            "reward": {
+              "type": 1,
+              "id": "desive"
+            }
+          }
+        ]
       }
     ]
   }

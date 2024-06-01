@@ -29243,8 +29243,7 @@
           "id": "hellohell"
         }
       }
-    ],
-    "expire": 1713193200000
+    ]
   },
   {
     "id": "限时：〇、",
@@ -29554,8 +29553,7 @@
           "id": "ichirin"
         }
       }
-    ],
-    "expire": 1713193200000
+    ]
   },
   {
     "id": "限时：MORNINGLOOM",
@@ -29722,8 +29720,7 @@
           "id": "morningloom"
         }
       }
-    ],
-    "expire": 1713193200000
+    ]
   },
   {
     "id": "限时：Awaken_In_Ruins",
@@ -30092,8 +30089,7 @@
           "id": "awakeninruins"
         }
       }
-    ],
-    "expire": 1713193200000
+    ]
   },
   {
     "id": "限时：Lethal_Voltage",
@@ -30522,8 +30518,7 @@
           "count": 1
         }
       }
-    ],
-    "expire": 1713193200000
+    ]
   },
   {
     "id": "限时：ultradiaxon-N3",
@@ -31321,7 +31316,546 @@
           "id": 75
         }
       }
+    ]
+  },
+  {
+    "id": "限时：Leave_All_Behind",
+    "platforms": [
+      {
+        "length": 15
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 5,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 100
+        }
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 20,
+        "special": {
+          "type": 2,
+          "range": [
+            "ENERGY SYNERGY MATRIX",
+            "Leave All Behind",
+            "Distorted Fate",
+            "Chronostasis",
+            "CROSS†SOUL",
+            "GOODTEK (Arcaea Edit)",
+            "Final Step!",
+            "Protoflicker",
+            "Stasis",
+            "Aleph-0",
+            "Nhelv",
+            "On And On!! feat. Jenga",
+            "DataErr0r",
+            "PRAGMATISM",
+            "Antithese"
+          ]
+        }
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 5,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 100
+        }
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 20,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 5,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 100
+        }
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 20,
+        "special": {
+          "type": 2,
+          "range": [
+            "ENERGY SYNERGY MATRIX",
+            "Leave All Behind",
+            "Distorted Fate",
+            "Chronostasis",
+            "CROSS†SOUL",
+            "GOODTEK (Arcaea Edit)",
+            "Final Step!",
+            "Protoflicker",
+            "Stasis",
+            "Aleph-0",
+            "Nhelv",
+            "On And On!! feat. Jenga",
+            "DataErr0r",
+            "PRAGMATISM",
+            "Antithese"
+          ]
+        }
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 5,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 200
+        }
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 20,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 5,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 200
+        }
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 20,
+        "special": {
+          "type": 2,
+          "range": [
+            "ENERGY SYNERGY MATRIX",
+            "Leave All Behind",
+            "Distorted Fate",
+            "Chronostasis",
+            "CROSS†SOUL",
+            "GOODTEK (Arcaea Edit)",
+            "Final Step!",
+            "Protoflicker",
+            "Stasis",
+            "Aleph-0",
+            "Nhelv",
+            "On And On!! feat. Jenga",
+            "DataErr0r",
+            "PRAGMATISM",
+            "Antithese"
+          ]
+        }
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 5,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 200
+        }
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 15,
+        "reward": {
+          "type": 1,
+          "id": "leaveallbehind"
+        }
+      },
+      {
+        "length": 20,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 2
+        }
+      },
+      {
+        "length": 25
+      },
+      {
+        "length": 30
+      },
+      {
+        "length": 35
+      },
+      {
+        "length": 40
+      },
+      {
+        "length": 45,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 200
+        }
+      },
+      {
+        "length": 50
+      },
+      {
+        "length": 55,
+        "special": {
+          "type": 2,
+          "range": [
+            "ENERGY SYNERGY MATRIX",
+            "Leave All Behind",
+            "Distorted Fate",
+            "Chronostasis",
+            "CROSS†SOUL",
+            "GOODTEK (Arcaea Edit)",
+            "Final Step!",
+            "Protoflicker",
+            "Stasis",
+            "Aleph-0",
+            "Nhelv",
+            "On And On!! feat. Jenga",
+            "DataErr0r",
+            "PRAGMATISM",
+            "Antithese"
+          ]
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "次元结晶",
+          "count": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "限时：Old_School_Salvage",
+    "platforms": [
+      {
+        "length": 9
+      },
+      {
+        "length": 9
+      },
+      {
+        "length": 9
+      },
+      {
+        "length": 9
+      },
+      {
+        "length": 9
+      },
+      {
+        "length": 9,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 99
+        }
+      },
+      {
+        "length": 9
+      },
+      {
+        "length": 9
+      },
+      {
+        "length": 9
+      },
+      {
+        "length": 9
+      },
+      {
+        "length": 9,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 199
+        }
+      },
+      {
+        "length": 9
+      },
+      {
+        "length": 9
+      },
+      {
+        "length": 9
+      },
+      {
+        "length": 9
+      },
+      {
+        "length": 9,
+        "special": {
+          "type": 2,
+          "range": [
+            "Old School Salvage",
+            "Jingle",
+            "Quon",
+            "La'qryma of the Wasteland",
+            "Black Territory",
+            "Einherjar Joker",
+            "Ouvertüre",
+            "Masquerade Legion",
+            "GENOCIDER",
+            "KYOREN ROMANCE",
+            "Meta-Mysteria"
+          ]
+        },
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 19
+      },
+      {
+        "length": 19
+      },
+      {
+        "length": 19
+      },
+      {
+        "length": 19
+      },
+      {
+        "length": 19,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 299
+        }
+      },
+      {
+        "length": 19
+      },
+      {
+        "length": 19
+      },
+      {
+        "length": 19
+      },
+      {
+        "length": 19
+      },
+      {
+        "length": 19,
+        "special": {
+          "type": 2,
+          "range": [
+            "Old School Salvage",
+            "Jingle",
+            "Quon",
+            "La'qryma of the Wasteland",
+            "Black Territory",
+            "Einherjar Joker",
+            "Ouvertüre",
+            "Masquerade Legion",
+            "GENOCIDER",
+            "KYOREN ROMANCE",
+            "Meta-Mysteria"
+          ]
+        },
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 399
+        }
+      },
+      {
+        "length": 29
+      },
+      {
+        "length": 29
+      },
+      {
+        "length": 29
+      },
+      {
+        "length": 29
+      },
+      {
+        "length": 29,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 2
+        }
+      },
+      {
+        "length": 29,
+        "special": {
+          "type": 2,
+          "range": [
+            "Old School Salvage",
+            "Jingle",
+            "Quon",
+            "La'qryma of the Wasteland",
+            "Black Territory",
+            "Einherjar Joker",
+            "Ouvertüre",
+            "Masquerade Legion",
+            "GENOCIDER",
+            "KYOREN ROMANCE",
+            "Meta-Mysteria"
+          ]
+        }
+      },
+      {
+        "length": 29,
+        "reward": {
+          "type": 1,
+          "id": "oldschoolsalvage"
+        }
+      },
+      {
+        "length": 29
+      },
+      {
+        "length": 29
+      },
+      {
+        "length": 29,
+        "special": {
+          "type": 2,
+          "range": [
+            "Old School Salvage",
+            "Jingle",
+            "Quon",
+            "La'qryma of the Wasteland",
+            "Black Territory",
+            "Einherjar Joker",
+            "Ouvertüre",
+            "Masquerade Legion",
+            "GENOCIDER",
+            "KYOREN ROMANCE",
+            "Meta-Mysteria"
+          ]
+        },
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 39
+      },
+      {
+        "length": 39
+      },
+      {
+        "length": 39
+      },
+      {
+        "length": 39
+      },
+      {
+        "length": 39,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 299
+        }
+      },
+      {
+        "length": 39,
+        "special": {
+          "type": 2,
+          "range": [
+            "Old School Salvage",
+            "Jingle",
+            "Quon",
+            "La'qryma of the Wasteland",
+            "Black Territory",
+            "Einherjar Joker",
+            "Ouvertüre",
+            "Masquerade Legion",
+            "GENOCIDER",
+            "KYOREN ROMANCE",
+            "Meta-Mysteria"
+          ]
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "次元结晶",
+          "count": 1
+        }
+      }
     ],
-    "expire": 1713279600000
+    "expire": 1718290800000
   }
 ]
