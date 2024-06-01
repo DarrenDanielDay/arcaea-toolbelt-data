@@ -24429,6 +24429,329 @@
           "ratingPlus": true
         }
       ]
+    },
+    {
+      "idx": 390,
+      "id": "epicurus",
+      "title_localized": {
+        "en": "Hidden Rainbows of Epicurus",
+        "ja": "エピクロスの虹はもう見えない"
+      },
+      "artist": "SYNC.ART'S feat.Misato",
+      "search_title": {
+        "ja": [
+          "えぴくろすのにじはもうみえない"
+        ],
+        "ko": [
+          "히든 레인보우즈 오브 에피쿠로스",
+          "히든 레인보우 오브 에피쿠로스",
+          "에피쿠로스의 무지개는 이제 보이지 않아",
+          "에피쿠로스노 니지와 모 미에나이"
+        ]
+      },
+      "search_artist": {
+        "ja": [
+          "しんくあーつ",
+          "みさと"
+        ],
+        "ko": [
+          "싱크아츠",
+          "미사토"
+        ]
+      },
+      "bpm": "155",
+      "bpm_base": 155,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 91354,
+      "audioPreviewEnd": 126967,
+      "side": 0,
+      "source_copyright": "©上海アリス幻樂団",
+      "bg": "touhou_light",
+      "bg_inverse": "touhou_conflict",
+      "remote_dl": false,
+      "world_unlock": false,
+      "date": 1717027200,
+      "version": "5.7",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "Dec18",
+          "jacketDesigner": "ののこ",
+          "rating": 2
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "Dec18",
+          "jacketDesigner": "ののこ",
+          "rating": 5
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "Dec18",
+          "jacketDesigner": "ののこ",
+          "rating": 7
+        },
+        {
+          "ratingClass": 4,
+          "chartDesigner": "Dec18",
+          "jacketDesigner": "ののこ",
+          "rating": 8,
+          "ratingPlus": true
+        }
+      ]
+    },
+    {
+      "idx": 391,
+      "id": "tasogare",
+      "title_localized": {
+        "en": "Twilight Concerto",
+        "ja": "黄昏の協奏曲"
+      },
+      "artist": "Scarlette",
+      "search_title": {
+        "ja": [
+          "たそがれのきょうそうきょく"
+        ],
+        "ko": [
+          "트와일라잇 콘체르토",
+          "황혼의 협주곡",
+          "타소가레노 쿄소쿄쿠"
+        ]
+      },
+      "search_artist": {
+        "ja": [
+          "すかーれって"
+        ],
+        "ko": [
+          "스칼렛테",
+          "스칼레테"
+        ]
+      },
+      "bpm": "194",
+      "bpm_base": 194,
+      "set": "single",
+      "purchase": "tasogare",
+      "audioPreview": 0,
+      "audioPreviewEnd": 0,
+      "side": 1,
+      "bg": "nijuusei2_conflict",
+      "bg_inverse": "nijuusei2_light",
+      "remote_dl": true,
+      "world_unlock": false,
+      "date": 1717027201,
+      "source_copyright": "© QueseraGames Co., Ltd.",
+      "source_localized": {
+        "en": "KALPA"
+      },
+      "version": "5.7",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "Exschwasion",
+          "jacketDesigner": "",
+          "rating": 4
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "Exschwasion",
+          "jacketDesigner": "",
+          "rating": 7,
+          "ratingPlus": true
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "Exschwasion",
+          "jacketDesigner": "",
+          "rating": 9
+        },
+        {
+          "ratingClass": 4,
+          "chartDesigner": "Exschwasion",
+          "jacketDesigner": "",
+          "rating": 10
+        }
+      ]
+    },
+    {
+      "idx": 392,
+      "id": "oldschoolsalvage",
+      "title_localized": {
+        "en": "Old School Salvage"
+      },
+      "artist": "DJ SHARPNEL",
+      "search_title": {
+        "ja": [
+          "おーるどすくーるさるべーじ"
+        ],
+        "ko": [
+          "올드 스쿨 샐비지"
+        ]
+      },
+      "search_artist": {
+        "ja": [
+          "でぃーじぇいしゃーぷねる",
+          "でぃーじぇいしゃーぷねる"
+        ],
+        "ko": [
+          "디제이 샤프넬",
+          "디제이 슈라프넬"
+        ]
+      },
+      "bpm": "205",
+      "bpm_base": 205,
+      "set": "extend_3",
+      "purchase": "extend_3",
+      "audioPreview": 0,
+      "audioPreviewEnd": 0,
+      "side": 1,
+      "bg": "prelude_conflict",
+      "bg_inverse": "prelude_light",
+      "remote_dl": true,
+      "world_unlock": true,
+      "date": 1717027202,
+      "version": "5.7",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "antymis",
+          "jacketDesigner": "tvchany",
+          "rating": 4
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "antymis",
+          "jacketDesigner": "tvchany",
+          "rating": 7,
+          "ratingPlus": true
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "antymis + Nitro",
+          "jacketDesigner": "tvchany",
+          "rating": 9,
+          "ratingPlus": true
+        }
+      ]
+    },
+    {
+      "idx": 393,
+      "id": "beautifuldreamer",
+      "title_localized": {
+        "en": "Beautiful Dreamer"
+      },
+      "artist": "M-Project",
+      "search_title": {
+        "ja": [
+          "びゅーてぃふるどりーまー"
+        ],
+        "ko": [
+          "뷰티풀 드리머"
+        ]
+      },
+      "search_artist": {
+        "ja": [
+          "えむぷろじぇくと"
+        ],
+        "ko": [
+          "엠 프로젝트"
+        ]
+      },
+      "bpm": "188",
+      "bpm_base": 188,
+      "set": "single",
+      "purchase": "beautifuldreamer",
+      "audioPreview": 0,
+      "audioPreviewEnd": 0,
+      "side": 0,
+      "bg": "single2_light",
+      "bg_inverse": "single2_conflict",
+      "remote_dl": true,
+      "world_unlock": false,
+      "date": 1717027203,
+      "version": "5.7",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "CERiNG",
+          "jacketDesigner": "さんぱち",
+          "rating": 4
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "CERiNG",
+          "jacketDesigner": "さんぱち",
+          "rating": 7,
+          "ratingPlus": true
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "CERiNG",
+          "jacketDesigner": "さんぱち",
+          "rating": 9,
+          "ratingPlus": true
+        }
+      ]
+    },
+    {
+      "idx": 394,
+      "id": "backtobasics",
+      "title_localized": {
+        "en": "Back to Basics"
+      },
+      "artist": "m1dy",
+      "search_title": {
+        "ja": [
+          "ばっくとぅべーしっくす",
+          "ばっくとぅーべーしっくす"
+        ],
+        "ko": [
+          "백 투 베이직",
+          "백 투 베이직스"
+        ]
+      },
+      "search_artist": {
+        "ja": [
+          "みでぃ"
+        ],
+        "ko": [
+          "미디"
+        ]
+      },
+      "bpm": "420",
+      "bpm_base": 420,
+      "set": "single",
+      "purchase": "backtobasics",
+      "audioPreview": 0,
+      "audioPreviewEnd": 0,
+      "side": 1,
+      "bg": "single2_conflict",
+      "bg_inverse": "single2_light",
+      "remote_dl": true,
+      "world_unlock": false,
+      "date": 1717027204,
+      "version": "5.7",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "夜浪 THE FUMEn ANARCHIST",
+          "jacketDesigner": "TKKsn.",
+          "rating": 5
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "夜浪 THE FUMEn ANARCHIST",
+          "jacketDesigner": "TKKsn.",
+          "rating": 8,
+          "ratingPlus": true
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "夜浪 THE FUMEn ANARCHIST",
+          "jacketDesigner": "TKKsn.",
+          "rating": 10
+        }
+      ]
     }
   ]
 }

@@ -18459,5 +18459,240 @@
         "plus": true
       }
     ]
+  },
+  {
+    "bpm": "155",
+    "side": 0,
+    "id": "epicurus",
+    "name": "Hidden Rainbows of Epicurus",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Arcaea",
+    "dl": false,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 2.5,
+        "difficulty": "pst",
+        "designer": "Dec18",
+        "id": "epicurus@pst",
+        "level": 2,
+        "note": 595,
+        "songId": "epicurus"
+      },
+      {
+        "constant": 5.5,
+        "difficulty": "prs",
+        "designer": "Dec18",
+        "id": "epicurus@prs",
+        "level": 5,
+        "note": 644,
+        "songId": "epicurus"
+      },
+      {
+        "constant": 7.5,
+        "difficulty": "ftr",
+        "designer": "Dec18",
+        "id": "epicurus@ftr",
+        "level": 7,
+        "note": 783,
+        "songId": "epicurus"
+      },
+      {
+        "constant": 8.8,
+        "difficulty": "etr",
+        "designer": "Dec18",
+        "id": "epicurus@etr",
+        "level": 8,
+        "note": 884,
+        "songId": "epicurus",
+        "plus": true
+      }
+    ]
+  },
+  {
+    "bpm": "194",
+    "side": 1,
+    "id": "tasogare",
+    "name": "Twilight Concerto",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Memory Archive",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 4.5,
+        "difficulty": "pst",
+        "designer": "Exschwasion",
+        "id": "tasogare@pst",
+        "level": 4,
+        "note": 584,
+        "songId": "tasogare"
+      },
+      {
+        "constant": 7.8,
+        "difficulty": "prs",
+        "designer": "Exschwasion",
+        "id": "tasogare@prs",
+        "level": 7,
+        "note": 634,
+        "songId": "tasogare",
+        "plus": true
+      },
+      {
+        "constant": 9.5,
+        "difficulty": "ftr",
+        "designer": "Exschwasion",
+        "id": "tasogare@ftr",
+        "level": 9,
+        "note": 803,
+        "songId": "tasogare"
+      },
+      {
+        "constant": 10.4,
+        "difficulty": "etr",
+        "designer": "Exschwasion",
+        "id": "tasogare@etr",
+        "level": 10,
+        "note": 962,
+        "songId": "tasogare"
+      }
+    ]
+  },
+  {
+    "bpm": "205",
+    "side": 1,
+    "id": "oldschoolsalvage",
+    "name": "Old School Salvage",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "World Extend 3",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 4,
+        "difficulty": "pst",
+        "designer": "antymis",
+        "id": "oldschoolsalvage@pst",
+        "level": 4,
+        "note": 705,
+        "songId": "oldschoolsalvage"
+      },
+      {
+        "constant": 7.8,
+        "difficulty": "prs",
+        "designer": "antymis",
+        "id": "oldschoolsalvage@prs",
+        "level": 7,
+        "note": 950,
+        "songId": "oldschoolsalvage",
+        "plus": true
+      },
+      {
+        "constant": 9.8,
+        "difficulty": "ftr",
+        "designer": "antymis + Nitro",
+        "id": "oldschoolsalvage@ftr",
+        "level": 9,
+        "note": 1316,
+        "songId": "oldschoolsalvage",
+        "plus": true
+      }
+    ]
+  },
+  {
+    "bpm": "188",
+    "side": 0,
+    "id": "beautifuldreamer",
+    "name": "Beautiful Dreamer",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Memory Archive",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 4,
+        "difficulty": "pst",
+        "designer": "CERiNG",
+        "id": "beautifuldreamer@pst",
+        "level": 4,
+        "note": 611,
+        "songId": "beautifuldreamer"
+      },
+      {
+        "constant": 7.8,
+        "difficulty": "prs",
+        "designer": "CERiNG",
+        "id": "beautifuldreamer@prs",
+        "level": 7,
+        "note": 773,
+        "songId": "beautifuldreamer",
+        "plus": true
+      },
+      {
+        "constant": 9.9,
+        "difficulty": "ftr",
+        "designer": "CERiNG",
+        "id": "beautifuldreamer@ftr",
+        "level": 9,
+        "note": 1139,
+        "songId": "beautifuldreamer",
+        "plus": true
+      }
+    ]
+  },
+  {
+    "bpm": "420",
+    "side": 1,
+    "id": "backtobasics",
+    "name": "Back to Basics",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Memory Archive",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 5,
+        "difficulty": "pst",
+        "designer": "夜浪 THE FUMEn ANARCHIST",
+        "id": "backtobasics@pst",
+        "level": 5,
+        "note": 717,
+        "songId": "backtobasics"
+      },
+      {
+        "constant": 8.7,
+        "difficulty": "prs",
+        "designer": "夜浪 THE FUMEn ANARCHIST",
+        "id": "backtobasics@prs",
+        "level": 8,
+        "note": 1115,
+        "songId": "backtobasics",
+        "plus": true
+      },
+      {
+        "constant": 10.5,
+        "difficulty": "ftr",
+        "designer": "夜浪 THE FUMEn ANARCHIST",
+        "id": "backtobasics@ftr",
+        "level": 10,
+        "note": 1544,
+        "songId": "backtobasics"
+      }
+    ]
   }
 ]

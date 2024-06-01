@@ -7567,5 +7567,106 @@
         "constant": 10.8
       }
     ]
+  },
+  {
+    "id": "epicurus",
+    "charts": [
+      {
+        "notes": 595,
+        "constant": 2.5
+      },
+      {
+        "notes": 644,
+        "constant": 5.5
+      },
+      {
+        "notes": 783,
+        "constant": 7.5
+      },
+      null,
+      {
+        "notes": 884,
+        "constant": 8.8
+      }
+    ]
+  },
+  {
+    "id": "tasogare",
+    "charts": [
+      {
+        "notes": 584,
+        "constant": 4.5
+      },
+      {
+        "notes": 634,
+        "constant": 7.8
+      },
+      {
+        "notes": 803,
+        "constant": 9.5
+      },
+      null,
+      {
+        "notes": 962,
+        "constant": 10.4
+      }
+    ]
+  },
+  {
+    "id": "oldschoolsalvage",
+    "charts": [
+      {
+        "notes": 705,
+        "constant": 4
+      },
+      {
+        "notes": 950,
+        "constant": 7.8
+      },
+      {
+        "notes": 1316,
+        "constant": 9.8
+      },
+      null,
+      null
+    ]
+  },
+  {
+    "id": "beautifuldreamer",
+    "charts": [
+      {
+        "notes": 611,
+        "constant": 4
+      },
+      {
+        "notes": 773,
+        "constant": 7.8
+      },
+      {
+        "notes": 1139,
+        "constant": 9.9
+      },
+      null,
+      null
+    ]
+  },
+  {
+    "id": "backtobasics",
+    "charts": [
+      {
+        "notes": 717,
+        "constant": 5
+      },
+      {
+        "notes": 1115,
+        "constant": 8.7
+      },
+      {
+        "notes": 1544,
+        "constant": 10.5
+      },
+      null,
+      null
+    ]
   }
 ]
