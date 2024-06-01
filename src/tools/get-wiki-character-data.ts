@@ -172,7 +172,7 @@ function getOtherItemsData(): ItemData[] {
     },
     {
       name: "次元结晶",
-      img: "https://static.wikia.nocookie.net/iowiro/images/1/16/Core_bypass.png/revision/latest",
+      img: "https://wiki.arcaea.cn/images/1/16/Core_bypass.png",
     },
   ];
 }
