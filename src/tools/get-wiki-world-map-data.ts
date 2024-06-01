@@ -24,7 +24,7 @@ interface WikiChapterData {
 
 function getMapTableItem(link: HTMLAnchorElement): WikiWorldMapTableItem {
   return {
-    id: link.getAttribute("href")!.slice(1),
+    id: decodeURIComponent(link.getAttribute("href")!.slice(1)),
     title: link.textContent!,
   };
 }
@@ -133,6 +133,9 @@ function getWorldMap(
   characters: CharacterData[]
 ): NormalWorldMapData {
   const anchor = doc.getElementById(map.id)!;
+  if (!anchor) {
+    console.log(map);
+  }
   const table = findNextElWhere(anchor.parentElement!, (el) => el.matches("table"));
   if (!(table instanceof HTMLTableElement)) {
     throw new Error(`表格 ${map.title} 未找到`);

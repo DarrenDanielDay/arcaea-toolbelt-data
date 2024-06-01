@@ -33,7 +33,14 @@ export function findNextElWhere<T extends Element>(start: Element, where: (el: E
 export function findNextElWhere(start: Element, where: (el: Element) => boolean): Element | null;
 export function findNextElWhere(start: Element, where: (el: Element) => boolean): Element | null {
   let node: Element | null = start;
-  for (; node && !where(node); node = node.nextElementSibling);
+  for (; node && !where(node); node = node.nextElementSibling) {
+    if (node.firstElementChild) {
+      const child = findNextElWhere(node.firstElementChild, where);
+      if (child) {
+        return child;
+      }
+    }
+  }
   return node;
 }
 
