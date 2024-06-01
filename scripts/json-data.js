@@ -21,7 +21,7 @@ const dataDir = resolve(root, "src", "data");
 
 export async function generateIndex() {
   const meta = "meta.json";
-  patchJSON(metaFile, async (metadata) => {
+  await patchJSON(metaFile, async (metadata) => {
     const files = (await readdir(dataDir)).filter((file) => file !== meta);
     const index = await Promise.all(
       files.map(async (file) => {

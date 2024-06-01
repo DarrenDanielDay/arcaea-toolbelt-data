@@ -20,7 +20,7 @@
   },
   "scripts": {
     "start:tools": "parcel watch --target tools --no-hmr --no-cache",
-    "start:serve": "serve -p 1236",
+    "start:serve": "node ./scripts/serve.js",
     "start:online-tools": "parcel watch --target online-tools --no-hmr --no-cache",
     "start": "node ./scripts/json-data.js --generate && run-p --print-label start:*",
     "generate:assets": "node ./scripts/generate-assets-info.js",
@@ -37,6 +37,7 @@
     "@parcel/transformer-typescript-tsc": "^2.10.3",
     "@types/bootstrap": "^5.2.10",
     "@types/node": "^20.9.4",
+    "@types/serve-handler": "^6.1.4",
     "husky": "^9.0.10",
     "npm-run-all": "^4.1.5",
     "parcel": "^2.10.3",

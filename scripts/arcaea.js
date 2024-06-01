@@ -5,6 +5,7 @@ import { parse, resolve } from "path";
 import { extractAPK } from "./apk.js";
 import { readJSON, writeJSON } from "./utils.js";
 import { cwd } from "process";
+import { metaFile } from "./files.js";
 
 /**
  * @param {string} version
@@ -19,6 +20,11 @@ export function apkName(version) {
  */
 export function extractName(version) {
   return `arcaea_${version}`;
+}
+
+export async function getVersionFromMeta() {
+  const meta = await metaFile();
+  return meta.version;
 }
 
 /**
@@ -43,8 +49,8 @@ export function apkPaths(version) {
 export async function copyKeyFiles(version) {
   // metadata -> version -> songlist/packlist
   const copySubPaths = [
-    `../arcaea/arcaea_${version}/assets/songs/songlist`,
-    `../arcaea/arcaea_${version}/assets/songs/packlist`,
+    `../arcaea/${extractName(version)}/assets/songs/songlist`,
+    `../arcaea/${extractName(version)}/assets/songs/packlist`,
   ];
   const dataDir = resolve(cwd(), "src", "data");
   await Promise.all(

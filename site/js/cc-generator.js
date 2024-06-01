@@ -4,13 +4,14 @@
 import { AutoRender, element, jsxRef, nil, signal } from "hyplate";
 import { binding, html } from "./html.js";
 import { jsonModule } from "../../shared/esm.js";
-const assetsBase = "https://moyoez.github.io/ArcaeaResource-ActionUpdater/arcaea/assets";
+
+const assetsBase = process.env.ASSETS_VENDOR || "/assets";
 const difficultyCount = 5;
 
 /**
  * @returns {Promise<SongList>}
  */
-async function getActionUpdaterSlst() {
+async function getVendorSlst() {
   const res = await fetch(`${assetsBase}/songs/songlist`);
   return res.json();
 }
@@ -84,7 +85,7 @@ export const ChartConstantGenerator = () => {
     }
     let file = slstFile.files?.item(0);
     /** @type {SongList | null} */
-    const slst = file ? await readFileAsJSON(file) : await getActionUpdaterSlst();
+    const slst = file ? await readFileAsJSON(file) : await getVendorSlst();
     if (slst == null) {
       alert("songlist无效");
       return;
@@ -249,13 +250,13 @@ export const ChartConstantGenerator = () => {
         <div>物量</div>
       </div>
       ${items.map(({ song, chart }) => {
-        const filename = chart.jacketOverride ? `${chart.ratingClass}.jpg` : `base.jpg`;
+        const filename = chart.jacketOverride ? `${chart.ratingClass}` : `base`;
         const folder = song.remote_dl ? `songs/dl_${song.id}` : `songs/${song.id}`;
         const prefixes = ["1080_"];
         const covers = prefixes
-          .map((prefix) => `${assetsBase}/${folder}/${prefix}${filename}`)
+          .flatMap((prefix) => ["_256.jpg", ".jpg"].map(suffix => `${assetsBase}/${folder}/${prefix}${filename}${suffix}`))
           .flat()
-          .join(" ");
+          .join(", ");
         return html`<div class="record" var:cover-color=${`var(--diff-${chart.ratingClass})`}>
           <div class="cover">
             <img srcset=${covers} />
