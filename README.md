@@ -27,7 +27,7 @@ Open <http://localhost:1236/dist-tools> for data tools.
 ## Update Scripts
 
 1. auto-apk
-2. update `ChartConstant.json` and `notes-and-constants.json`
+2. update `ChartConstant.json`, `notes-and-constants.json` and `chart-express.json`
 3. auto-update-chart-data
 
 ## License

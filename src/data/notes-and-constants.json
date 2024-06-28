@@ -7668,5 +7668,106 @@
       null,
       null
     ]
+  },
+  {
+    "id": "stargateextreme",
+    "charts": [
+      {
+        "notes": 337,
+        "constant": 4
+      },
+      {
+        "notes": 430,
+        "constant": 6
+      },
+      {
+        "notes": 724,
+        "constant": 9.3
+      },
+      null,
+      {
+        "notes": 915,
+        "constant": 10
+      }
+    ]
+  },
+  {
+    "id": "signof",
+    "charts": [
+      {
+        "notes": 490,
+        "constant": 3
+      },
+      {
+        "notes": 564,
+        "constant": 6.5
+      },
+      {
+        "notes": 735,
+        "constant": 9.2
+      },
+      null,
+      null
+    ]
+  },
+  {
+    "id": "temptationgc",
+    "charts": [
+      {
+        "notes": 475,
+        "constant": 4
+      },
+      {
+        "notes": 704,
+        "constant": 7.8
+      },
+      {
+        "notes": 906,
+        "constant": 9.7
+      },
+      null,
+      {
+        "notes": 1087,
+        "constant": 10.4
+      }
+    ]
+  },
+  {
+    "id": "blackmind",
+    "charts": [
+      {
+        "notes": 601,
+        "constant": 5
+      },
+      {
+        "notes": 754,
+        "constant": 8
+      },
+      {
+        "notes": 1274,
+        "constant": 10.8
+      },
+      null,
+      null
+    ]
+  },
+  {
+    "id": "hypervision",
+    "charts": [
+      {
+        "notes": 639,
+        "constant": 4.5
+      },
+      {
+        "notes": 839,
+        "constant": 7.5
+      },
+      {
+        "notes": 1040,
+        "constant": 9.8
+      },
+      null,
+      null
+    ]
   }
 ]

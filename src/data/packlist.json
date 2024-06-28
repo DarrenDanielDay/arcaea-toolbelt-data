@@ -620,6 +620,22 @@
       }
     },
     {
+      "id": "groovecoaster_append_1",
+      "section": "collab",
+      "pack_parent": "groovecoaster",
+      "plus_character": -1,
+      "name_localized": {
+        "en": "Groove Coaster Chapter 2"
+      },
+      "description_localized": {
+        "en": "5 - 4 - 3 - 2 - 1\nThe groove never ends!\n\nRoar ahead with 3 more songs from\nGroove Coaster in this Append!\n\nA blastoff awaits you. Get ready to ride on!",
+        "ja": "音楽は止まない、\nグルーヴだって止まらない！\n\nグルーヴコースターより、\n追加の3曲、Pack Appendで登場！\n\n準備はOK？さあ、グルーヴを乗りこなせ！",
+        "ko": "5 - 4 - 3 - 2 - 1\n그루브는 끝나지 않는다!\n\nGroove Coaster로부터 날아온\n3개의 악곡을 이 Append로 즐겨보세요!\n\n발사 준비는 끝났습니다. 높이 날아가봅시다!",
+        "zh-Hant": "5 - 4 - 3 - 2 - 1\n節奏永不停歇！\n\n轟隆隆——引擎的怒吼向你發出邀請：\n跟隨著此Append中的三首新曲，一路向前！\n\n準備好馳騁吧，去迎接那洶湧澎湃的音律轟擊！",
+        "zh-Hans": "5 - 4 - 3 - 2 - 1\n节奏永不停歇！\n\n轰隆隆——引擎的怒吼向你发出邀请：\n跟随着此Append中的三首新曲，一路向前！\n\n准备好驰骋吧，去迎接那汹涌澎湃的音律轰击！"
+      }
+    },
+    {
       "id": "tonesphere",
       "section": "collab",
       "custom_banner": true,

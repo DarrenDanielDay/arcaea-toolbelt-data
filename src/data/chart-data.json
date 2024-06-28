@@ -18694,5 +18694,237 @@
         "songId": "backtobasics"
       }
     ]
+  },
+  {
+    "bpm": "150",
+    "side": 1,
+    "id": "stargateextreme",
+    "name": "STARGATE EXTREME",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Memory Archive",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 4,
+        "difficulty": "pst",
+        "designer": "én",
+        "id": "stargateextreme@pst",
+        "level": 4,
+        "note": 337,
+        "songId": "stargateextreme"
+      },
+      {
+        "constant": 6,
+        "difficulty": "prs",
+        "designer": "én",
+        "id": "stargateextreme@prs",
+        "level": 6,
+        "note": 430,
+        "songId": "stargateextreme"
+      },
+      {
+        "constant": 9.3,
+        "difficulty": "ftr",
+        "designer": "én",
+        "id": "stargateextreme@ftr",
+        "level": 9,
+        "note": 724,
+        "songId": "stargateextreme"
+      },
+      {
+        "constant": 10,
+        "difficulty": "etr",
+        "designer": "eién",
+        "id": "stargateextreme@etr",
+        "level": 10,
+        "note": 915,
+        "songId": "stargateextreme"
+      }
+    ]
+  },
+  {
+    "bpm": "160",
+    "side": 0,
+    "id": "signof",
+    "name": "Sign of \"10.5km\"",
+    "covers": [
+      "base.jpg",
+      "base_256.jpg"
+    ],
+    "pack": "Groove Coaster - Groove Coaster Chapter 2",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 3,
+        "difficulty": "pst",
+        "designer": "Dec18",
+        "id": "signof@pst",
+        "level": 3,
+        "note": 490,
+        "songId": "signof"
+      },
+      {
+        "constant": 6.5,
+        "difficulty": "prs",
+        "designer": "Dec18",
+        "id": "signof@prs",
+        "level": 6,
+        "note": 564,
+        "songId": "signof"
+      },
+      {
+        "constant": 9.2,
+        "difficulty": "ftr",
+        "designer": "Dec18",
+        "id": "signof@ftr",
+        "level": 9,
+        "note": 735,
+        "songId": "signof"
+      }
+    ]
+  },
+  {
+    "bpm": "128-185",
+    "side": 1,
+    "id": "temptationgc",
+    "name": "10pt8ion",
+    "covers": [
+      "base.jpg",
+      "base_256.jpg"
+    ],
+    "pack": "Groove Coaster - Groove Coaster Chapter 2",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 4,
+        "difficulty": "pst",
+        "designer": "Nitro",
+        "id": "temptationgc@pst",
+        "level": 4,
+        "note": 475,
+        "songId": "temptationgc"
+      },
+      {
+        "constant": 7.8,
+        "difficulty": "prs",
+        "designer": "Nitro",
+        "id": "temptationgc@prs",
+        "level": 7,
+        "note": 704,
+        "songId": "temptationgc",
+        "plus": true
+      },
+      {
+        "constant": 9.7,
+        "difficulty": "ftr",
+        "designer": "Nite Schwa Power",
+        "id": "temptationgc@ftr",
+        "level": 9,
+        "note": 906,
+        "songId": "temptationgc",
+        "plus": true
+      },
+      {
+        "constant": 10.4,
+        "difficulty": "etr",
+        "designer": "Nite Schwa Power",
+        "id": "temptationgc@etr",
+        "level": 10,
+        "note": 1087,
+        "songId": "temptationgc"
+      }
+    ]
+  },
+  {
+    "bpm": "192",
+    "side": 1,
+    "id": "blackmind",
+    "name": "Black MInD",
+    "covers": [
+      "base.jpg",
+      "base_256.jpg"
+    ],
+    "pack": "Groove Coaster - Groove Coaster Chapter 2",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 5,
+        "difficulty": "pst",
+        "designer": "聖輪",
+        "id": "blackmind@pst",
+        "level": 5,
+        "note": 601,
+        "songId": "blackmind"
+      },
+      {
+        "constant": 8,
+        "difficulty": "prs",
+        "designer": "聖輪",
+        "id": "blackmind@prs",
+        "level": 8,
+        "note": 754,
+        "songId": "blackmind"
+      },
+      {
+        "constant": 10.8,
+        "difficulty": "ftr",
+        "designer": "聖輪",
+        "id": "blackmind@ftr",
+        "level": 10,
+        "note": 1274,
+        "songId": "blackmind",
+        "plus": true
+      }
+    ]
+  },
+  {
+    "bpm": "155",
+    "side": 1,
+    "id": "hypervision",
+    "name": "HYPER VISION",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Memory Archive",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 4.5,
+        "difficulty": "pst",
+        "designer": "NITRO",
+        "id": "hypervision@pst",
+        "level": 4,
+        "note": 639,
+        "songId": "hypervision"
+      },
+      {
+        "constant": 7.5,
+        "difficulty": "prs",
+        "designer": "NITRO",
+        "id": "hypervision@prs",
+        "level": 7,
+        "note": 839,
+        "songId": "hypervision"
+      },
+      {
+        "constant": 9.8,
+        "difficulty": "ftr",
+        "designer": "NITRO",
+        "id": "hypervision@ftr",
+        "level": 9,
+        "note": 1040,
+        "songId": "hypervision",
+        "plus": true
+      }
+    ]
   }
 ]

@@ -2865,5 +2865,40 @@
       "1080_base.jpg",
       "1080_base_256.jpg"
     ]
+  },
+  {
+    "id": "stargateextreme",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ]
+  },
+  {
+    "id": "signof",
+    "covers": [
+      "base.jpg",
+      "base_256.jpg"
+    ]
+  },
+  {
+    "id": "temptationgc",
+    "covers": [
+      "base.jpg",
+      "base_256.jpg"
+    ]
+  },
+  {
+    "id": "blackmind",
+    "covers": [
+      "base.jpg",
+      "base_256.jpg"
+    ]
+  },
+  {
+    "id": "hypervision",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ]
   }
 ]
