@@ -12,6 +12,7 @@ interface ConstantChartData {
   prs: number;
   ftr: number;
   byd: number | null;
+  etr: number | null;
   link: string;
 }
 /**
@@ -32,7 +33,7 @@ async function getWikiChartTable() {
     const row = rows[i]!;
     const cells = Array.from(row.cells);
     checkCells(cells);
-    const [name, past, present, future, beyond] = cells;
+    const [name, past, present, future, difficulty4] = cells;
     const songName = name.textContent!.trim();
     // Last一系列比较特殊，跳过
     if (songName === "Last" || songName === "Last | Eternity") {
@@ -43,7 +44,8 @@ async function getWikiChartTable() {
       pst: +past.textContent!,
       prs: +present.textContent!,
       ftr: +future.textContent!,
-      byd: beyond.textContent!.trim() ? +beyond.textContent! : null,
+      byd: difficulty4.textContent?.trim() ? +difficulty4.textContent! : null,
+      etr: difficulty4.textContent?.trim() ? +difficulty4.textContent! : null,
       link: new URL(name.querySelector("a")!.href).pathname,
     });
   }
@@ -311,7 +313,7 @@ export async function getSongData(songList: SongList, packList: PackList): Promi
         .map<Chart>((difficulty, i) => ({
           constant: song[difficulty]!,
           difficulty,
-          designer: 'Arcaea',
+          designer: "Arcaea",
           id: `${last}@${difficulty}`,
           level: levels[i]!,
           note: notes[i]!,
@@ -322,7 +324,7 @@ export async function getSongData(songList: SongList, packList: PackList): Promi
             id: `${last}@${Difficulty.Beyond}`,
             constant: 9.6,
             difficulty: Difficulty.Beyond,
-            designer: 'Arcaea',
+            designer: "Arcaea",
             level: 9,
             note: 888,
             songId: last,
@@ -349,7 +351,7 @@ export async function getSongData(songList: SongList, packList: PackList): Promi
           id: `${lasteternity}@${Difficulty.Beyond}`,
           constant: 9.7,
           difficulty: Difficulty.Beyond,
-          designer: 'Arcaea',
+          designer: "Arcaea",
           level: 9,
           plus: true,
           note: 790,

@@ -22,6 +22,10 @@ interface WikiChapterData {
   maps: WikiWorldMapTableItem[];
 }
 
+function isNonNullable<T>(obj: T | null): obj is T {
+  return obj != null;
+}
+
 function getMapTableItem(link: HTMLAnchorElement): WikiWorldMapTableItem {
   return {
     id: decodeURIComponent(link.getAttribute("href")!.slice(1)),
@@ -131,14 +135,20 @@ function getWorldMap(
   backgrounds: Backgrounds,
   songs: SongData[],
   characters: CharacterData[]
-): NormalWorldMapData {
+): NormalWorldMapData | null {
   const anchor = doc.getElementById(map.id)!;
   if (!anchor) {
     console.log(map);
   }
   const table = findNextElWhere(anchor.parentElement!, (el) => el.matches("table"));
   if (!(table instanceof HTMLTableElement)) {
-    throw new Error(`表格 ${map.title} 未找到`);
+    console.error(`表格 ${map.title} 未找到`);
+    return null;
+  }
+  const excluded = ["Empire"]; // 移动到了常驻
+  if (excluded.find((s) => map.id.includes(s))) {
+    console.log(`跳过 ${map.id}`);
+    return null;
   }
   const platforms: MapPlatformData[] = [];
   const result: NormalWorldMapData = {
@@ -297,7 +307,7 @@ export async function fetchWikiWorldMapData(songs: SongData[], characters: Chara
   const longtermTableItems = await getWikiLontermWorldMapTable();
   const longterm = longtermTableItems.map<ChapterData>((d) => ({
     chapter: d.name,
-    maps: d.maps.map((map) => getWorldMap(htmlDocument, map, backgrounds, songs, characters)),
+    maps: d.maps.map((map) => getWorldMap(htmlDocument, map, backgrounds, songs, characters)).filter(isNonNullable),
   }));
   const legacyMaps = new Set([
     // chapter 1
@@ -332,7 +342,9 @@ export async function fetchWikiWorldMapData(songs: SongData[], characters: Chara
     }
   }
   const eventTableItems = await getWikiEventWorldMapTable();
-  const events = eventTableItems.map((map) => getWorldMap(htmlDocument, map, backgrounds, songs, characters));
+  const events = eventTableItems
+    .map((map) => getWorldMap(htmlDocument, map, backgrounds, songs, characters))
+    .filter(isNonNullable);
   const { currentEvents } = await getMainTableInfo();
   for (const event of currentEvents) {
     const map = events.find((e) => e.id === event.id);
