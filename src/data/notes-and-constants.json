@@ -7769,5 +7769,144 @@
       null,
       null
     ]
+  },
+  {
+    "id": "distortionhuman",
+    "charts": [
+      {
+        "notes": 544,
+        "constant": 3
+      },
+      {
+        "notes": 841,
+        "constant": 6.5
+      },
+      {
+        "notes": 1317,
+        "constant": 9.8
+      },
+      null,
+      null
+    ]
+  },
+  {
+    "id": "shrink",
+    "charts": [
+      {
+        "notes": 451,
+        "constant": 3.5
+      },
+      {
+        "notes": 660,
+        "constant": 7
+      },
+      {
+        "notes": 939,
+        "constant": 9.8
+      },
+      null,
+      null
+    ]
+  },
+  {
+    "id": "invain",
+    "charts": [
+      {
+        "notes": 562,
+        "constant": 3.5
+      },
+      {
+        "notes": 677,
+        "constant": 6.5
+      },
+      {
+        "notes": 1111,
+        "constant": 9.5
+      },
+      null,
+      null
+    ]
+  },
+  {
+    "id": "hypnotize",
+    "charts": [
+      {
+        "notes": 518,
+        "constant": 3.5
+      },
+      {
+        "notes": 761,
+        "constant": 7
+      },
+      {
+        "notes": 993,
+        "constant": 8.9
+      },
+      null,
+      {
+        "notes": 1164,
+        "constant": 9.9
+      }
+    ]
+  },
+  {
+    "id": "ashenboundary",
+    "charts": [
+      {
+        "notes": 702,
+        "constant": 4.5
+      },
+      {
+        "notes": 813,
+        "constant": 7.8
+      },
+      {
+        "notes": 1183,
+        "constant": 9.9
+      },
+      null,
+      null
+    ]
+  },
+  {
+    "id": "judgement",
+    "charts": [
+      {
+        "notes": 844,
+        "constant": 5.5
+      },
+      {
+        "notes": 1055,
+        "constant": 8.6
+      },
+      {
+        "notes": 1432,
+        "constant": 10.4
+      },
+      null,
+      null
+    ]
+  },
+  {
+    "id": "alterego",
+    "charts": [
+      {
+        "notes": 865,
+        "constant": 6.5
+      },
+      {
+        "notes": 1213,
+        "constant": 9.2
+      },
+      {
+        "notes": 1466,
+        "constant": 10.5
+      },
+      null,
+      {
+        "notes": 1644,
+        "constant": 11.2
+      }
+    ]
   }
 ]

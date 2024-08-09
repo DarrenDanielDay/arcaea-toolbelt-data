@@ -18926,5 +18926,323 @@
         "plus": true
       }
     ]
+  },
+  {
+    "bpm": "200",
+    "side": 1,
+    "id": "distortionhuman",
+    "name": "Distortion Human",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "World Extend 3",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 3,
+        "difficulty": "pst",
+        "designer": "ディストーション・ルクアンス",
+        "id": "distortionhuman@pst",
+        "level": 3,
+        "note": 544,
+        "songId": "distortionhuman"
+      },
+      {
+        "constant": 6.5,
+        "difficulty": "prs",
+        "designer": "ディストーション・ルクアンス",
+        "id": "distortionhuman@prs",
+        "level": 6,
+        "note": 841,
+        "songId": "distortionhuman"
+      },
+      {
+        "constant": 9.8,
+        "difficulty": "ftr",
+        "designer": "ディストーション・ルクアンス",
+        "id": "distortionhuman@ftr",
+        "level": 9,
+        "note": 1317,
+        "songId": "distortionhuman",
+        "plus": true
+      }
+    ]
+  },
+  {
+    "bpm": "180",
+    "side": 0,
+    "id": "shrink",
+    "name": "shrink",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Memory Archive",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 3.5,
+        "difficulty": "pst",
+        "designer": "Dec18",
+        "id": "shrink@pst",
+        "level": 3,
+        "note": 451,
+        "songId": "shrink"
+      },
+      {
+        "constant": 7,
+        "difficulty": "prs",
+        "designer": "Dec18",
+        "id": "shrink@prs",
+        "level": 7,
+        "note": 660,
+        "songId": "shrink"
+      },
+      {
+        "constant": 9.8,
+        "difficulty": "ftr",
+        "designer": "Dec18",
+        "id": "shrink@ftr",
+        "level": 9,
+        "note": 939,
+        "songId": "shrink",
+        "plus": true
+      }
+    ]
+  },
+  {
+    "bpm": "165",
+    "side": 1,
+    "id": "invain",
+    "name": "In Vain",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Absolute Nihil",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 3.5,
+        "difficulty": "pst",
+        "designer": "CERiNG",
+        "id": "invain@pst",
+        "level": 3,
+        "note": 562,
+        "songId": "invain"
+      },
+      {
+        "constant": 6.5,
+        "difficulty": "prs",
+        "designer": "CERiNG",
+        "id": "invain@prs",
+        "level": 6,
+        "note": 677,
+        "songId": "invain"
+      },
+      {
+        "constant": 9.5,
+        "difficulty": "ftr",
+        "designer": "CERiNG",
+        "id": "invain@ftr",
+        "level": 9,
+        "note": 1111,
+        "songId": "invain"
+      }
+    ]
+  },
+  {
+    "bpm": "160",
+    "side": 1,
+    "id": "hypnotize",
+    "name": "Hypnotize",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Absolute Nihil",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 3.5,
+        "difficulty": "pst",
+        "designer": "én",
+        "id": "hypnotize@pst",
+        "level": 3,
+        "note": 518,
+        "songId": "hypnotize"
+      },
+      {
+        "constant": 7,
+        "difficulty": "prs",
+        "designer": "én",
+        "id": "hypnotize@prs",
+        "level": 6,
+        "note": 761,
+        "songId": "hypnotize"
+      },
+      {
+        "constant": 8.9,
+        "difficulty": "ftr",
+        "designer": "én",
+        "id": "hypnotize@ftr",
+        "level": 8,
+        "note": 993,
+        "songId": "hypnotize",
+        "plus": true
+      },
+      {
+        "constant": 9.9,
+        "difficulty": "etr",
+        "designer": "én × nitro「The Radical」",
+        "id": "hypnotize@etr",
+        "level": 9,
+        "note": 1164,
+        "songId": "hypnotize",
+        "plus": true
+      }
+    ]
+  },
+  {
+    "bpm": "172",
+    "side": 1,
+    "id": "ashenboundary",
+    "name": "Ashen 6oundary",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Absolute Nihil",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 4.5,
+        "difficulty": "pst",
+        "designer": "[NITRO]",
+        "id": "ashenboundary@pst",
+        "level": 4,
+        "note": 702,
+        "songId": "ashenboundary"
+      },
+      {
+        "constant": 7.8,
+        "difficulty": "prs",
+        "designer": "[NITRO]",
+        "id": "ashenboundary@prs",
+        "level": 7,
+        "note": 813,
+        "songId": "ashenboundary",
+        "plus": true
+      },
+      {
+        "constant": 9.9,
+        "difficulty": "ftr",
+        "designer": "[NITRO]",
+        "id": "ashenboundary@ftr",
+        "level": 9,
+        "note": 1183,
+        "songId": "ashenboundary",
+        "plus": true
+      }
+    ]
+  },
+  {
+    "bpm": "200",
+    "side": 1,
+    "id": "judgement",
+    "name": "Judgement",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Absolute Nihil",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 5.5,
+        "difficulty": "pst",
+        "designer": "絶滅 » collapse",
+        "id": "judgement@pst",
+        "level": 5,
+        "note": 844,
+        "songId": "judgement"
+      },
+      {
+        "constant": 8.6,
+        "difficulty": "prs",
+        "designer": "絶滅 » collapse",
+        "id": "judgement@prs",
+        "level": 8,
+        "note": 1055,
+        "songId": "judgement"
+      },
+      {
+        "constant": 10.4,
+        "difficulty": "ftr",
+        "designer": "絶滅 » collapse",
+        "id": "judgement@ftr",
+        "level": 10,
+        "note": 1432,
+        "songId": "judgement"
+      }
+    ]
+  },
+  {
+    "bpm": "195",
+    "side": 1,
+    "id": "alterego",
+    "name": "ALTER EGO",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Absolute Nihil",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 6.5,
+        "difficulty": "pst",
+        "designer": "Article V《Observation》",
+        "id": "alterego@pst",
+        "level": 6,
+        "note": 865,
+        "songId": "alterego"
+      },
+      {
+        "constant": 9.2,
+        "difficulty": "prs",
+        "designer": "Article VI《Hypothesis》",
+        "id": "alterego@prs",
+        "level": 9,
+        "note": 1213,
+        "songId": "alterego"
+      },
+      {
+        "constant": 10.5,
+        "difficulty": "ftr",
+        "designer": "Article VII《Analysis》",
+        "id": "alterego@ftr",
+        "level": 10,
+        "note": 1466,
+        "songId": "alterego"
+      },
+      {
+        "constant": 11.2,
+        "difficulty": "etr",
+        "designer": "Article 0x8《Enmity》",
+        "id": "alterego@etr",
+        "level": 11,
+        "note": 1644,
+        "songId": "alterego"
+      }
+    ]
   }
 ]

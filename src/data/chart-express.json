@@ -1,24 +1,6 @@
 [
   {
-    "songId": "stargateextreme",
-    "charts": [
-      {
-        "constant": 4
-      },
-      {
-        "constant": 6
-      },
-      {
-        "constant": 9.3
-      },
-      null,
-      {
-        "constant": 10
-      }
-    ]
-  },
-  {
-    "songId": "signof",
+    "songId": "distortionhuman",
     "charts": [
       {
         "constant": 3
@@ -27,60 +9,110 @@
         "constant": 6.5
       },
       {
-        "constant": 9.2
+        "constant": 9.8
       },
       null,
       null
     ]
   },
   {
-    "songId": "temptationgc",
+    "songId": "shrink",
     "charts": [
       {
-        "constant": 4
+        "constant": 3.5
       },
       {
-        "constant": 7.8
-      },
-      {
-        "constant": 9.7
-      },
-      null,
-      {
-        "constant": 10.4
-      }
-    ]
-  },
-  {
-    "songId": "blackmind",
-    "charts": [
-      {
-        "constant": 5
-      },
-      {
-        "constant": 8
-      },
-      {
-        "constant": 10.8
-      },
-      null,
-      null
-    ]
-  },
-  {
-    "songId": "hypervision",
-    "charts": [
-      {
-        "constant": 4.5
-      },
-      {
-        "constant": 7.5
+        "constant": 7
       },
       {
         "constant": 9.8
       },
       null,
       null
+    ]
+  },
+  {
+    "songId": "invain",
+    "charts": [
+      {
+        "constant": 3.5
+      },
+      {
+        "constant": 6.5
+      },
+      {
+        "constant": 9.5
+      },
+      null,
+      null
+    ]
+  },
+  {
+    "songId": "hypnotize",
+    "charts": [
+      {
+        "constant": 3.5
+      },
+      {
+        "constant": 7
+      },
+      {
+        "constant": 8.9
+      },
+      null,
+      {
+        "constant": 9.9
+      }
+    ]
+  },
+  {
+    "songId": "ashenboundary",
+    "charts": [
+      {
+        "constant": 4.5
+      },
+      {
+        "constant": 7.8
+      },
+      {
+        "constant": 9.9
+      },
+      null,
+      null
+    ]
+  },
+  {
+    "songId": "judgement",
+    "charts": [
+      {
+        "constant": 5.5
+      },
+      {
+        "constant": 8.6
+      },
+      {
+        "constant": 10.4
+      },
+      null,
+      null
+    ]
+  },
+  {
+    "songId": "alterego",
+    "charts": [
+      {
+        "constant": 6.5
+      },
+      {
+        "constant": 9.2
+      },
+      {
+        "constant": 10.5
+      },
+      null,
+      {
+        "constant": 11.2
+      }
     ]
   }
 ]

@@ -5051,8 +5051,7 @@
           "count": 4
         }
       }
-    ],
-    "expire": 1722524400000
+    ]
   },
   {
     "id": "限时：CHUNITHM_1",
@@ -11214,8 +11213,7 @@
           "count": 5
         }
       }
-    ],
-    "expire": 1722524400000
+    ]
   },
   {
     "id": "限时：CROSS†OVER",
@@ -19302,8 +19300,7 @@
           "id": 54
         }
       }
-    ],
-    "expire": 1722524400000
+    ]
   },
   {
     "id": "限时：5th_Anniversary_Ticket",
@@ -20223,8 +20220,7 @@
           "id": 46
         }
       }
-    ],
-    "expire": 1722524400000
+    ]
   },
   {
     "id": "限时：O.N.G.E.K.I.",
@@ -31071,5 +31067,261 @@
         }
       }
     ]
+  },
+  {
+    "id": "限时：Distortion_Human",
+    "platforms": [
+      {
+        "length": 15
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 20,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 200
+        }
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20,
+        "special": {
+          "type": 2,
+          "range": [
+            "Distortion Human",
+            "Dancin' on a Cat's Paw",
+            "Dandelion",
+            "Dantalion",
+            "DataErr0r",
+            "Dazzle hop",
+            "DDD",
+            "Defection",
+            "Dement ~after legend~",
+            "Devillic Sphere",
+            "Dialnote",
+            "Diode",
+            "Distorted Fate",
+            "Divine Light of Myriad",
+            "Dot to Dot feat. shully",
+            "Dreadnought",
+            "Dream goes on",
+            "Dreamin' Attraction!!",
+            "DRG",
+            "dropdead",
+            "DX Choseinou Full Metal Shojo",
+            "Dynitikós",
+            "Désive"
+          ]
+        }
+      },
+      {
+        "length": 25,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 25
+      },
+      {
+        "length": 25
+      },
+      {
+        "length": 25,
+        "special": {
+          "type": 2,
+          "range": [
+            "Distortion Human",
+            "I've heard it said",
+            "Iconoclast",
+            "Ignotus",
+            "Ikazuchi",
+            "Illegal Paradise",
+            "IMPACT",
+            "Impure Bird",
+            "In Vain",
+            "Infinity Heaven",
+            "init()",
+            "inkar-usi",
+            "Innocence",
+            "INTERNET OVERDOSE",
+            "INTERNET YAMERO",
+            "IONOSTREAM",
+            "IZANA"
+          ]
+        }
+      },
+      {
+        "length": 30,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 300
+        }
+      },
+      {
+        "length": 30
+      },
+      {
+        "length": 30
+      },
+      {
+        "length": 30,
+        "special": {
+          "type": 2,
+          "range": [
+            "Distortion Human",
+            "SACRIFICE feat. ayame",
+            "SAIKYO STRONGER",
+            "Sakura Fubuki",
+            "san skia",
+            "Sayonara Hatsukoi",
+            "Scarlet Cage",
+            "Scarlet Lance",
+            "Seclusion",
+            "Senkyou",
+            "Shades of Light in a Transcendent Realm",
+            "Sheriruth",
+            "Sheriruth (Laur Remix)",
+            "shrink",
+            "Sign of \"10.5km\"",
+            "Silent Rush",
+            "Singularity",
+            "Small Cloud Sugar Candy",
+            "Snow White",
+            "Solitary Dream",
+            "SOUNDWiTCH",
+            "Specta",
+            "Spider's Thread",
+            "STAGER (ALL STAGE CLEAR)",
+            "STARGATE EXTREME",
+            "Stasis",
+            "Stratoliner",
+            "Strongholds",
+            "Sulfur",
+            "Summer Fireworks of Love",
+            "Suomi",
+            "SUPERNOVA",
+            "Surrender",
+            "Syro",
+            "syūten"
+          ]
+        }
+      },
+      {
+        "length": 35,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 2
+        }
+      },
+      {
+        "length": 35
+      },
+      {
+        "length": 35
+      },
+      {
+        "length": 35
+      },
+      {
+        "length": 40,
+        "reward": {
+          "type": 1,
+          "id": "distortionhuman"
+        }
+      },
+      {
+        "length": 40,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 400
+        }
+      },
+      {
+        "length": 40
+      },
+      {
+        "length": 40,
+        "special": {
+          "type": 2,
+          "range": [
+            "Distortion Human",
+            "Technicolour",
+            "TEmPTaTiON",
+            "TeraVolt",
+            "Teriqma",
+            "The Formula",
+            "The Message",
+            "The Survivor (Game Edit)",
+            "THE ULTIMACY",
+            "Tie me down gently",
+            "Tiferet",
+            "To the Furthest Dream",
+            "To the Milky Way",
+            "To: Alice Liddell",
+            "Transient Space",
+            "Trap Crow",
+            "trappola bewitching",
+            "Trrricksters!!",
+            "Tsuki ni Murakumo, Hana ni Kaze",
+            "Turbocharger",
+            "Twilight Concerto"
+          ]
+        }
+      },
+      {
+        "length": 45,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 45
+      },
+      {
+        "length": 45
+      },
+      {
+        "length": 45
+      },
+      {
+        "length": 50,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 500
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "次元结晶",
+          "count": 1
+        }
+      }
+    ],
+    "expire": 1723561200000
   }
 ]

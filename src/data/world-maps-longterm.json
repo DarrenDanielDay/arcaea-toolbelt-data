@@ -2524,28 +2524,44 @@
             "length": 25,
             "special": {
               "type": 2,
-              "range": "Rabbit In The Black Room"
+              "range": [
+                "Rabbit In The Black Room",
+                "qualia -ideaesthesia-",
+                "Red and Blue"
+              ]
             }
           },
           {
             "length": 25,
             "special": {
               "type": 2,
-              "range": "Rabbit In The Black Room"
+              "range": [
+                "Rabbit In The Black Room",
+                "qualia -ideaesthesia-",
+                "Red and Blue"
+              ]
             }
           },
           {
             "length": 25,
             "special": {
               "type": 2,
-              "range": "Rabbit In The Black Room"
+              "range": [
+                "Rabbit In The Black Room",
+                "qualia -ideaesthesia-",
+                "Red and Blue"
+              ]
             }
           },
           {
             "length": 25,
             "special": {
               "type": 2,
-              "range": "Rabbit In The Black Room"
+              "range": [
+                "Rabbit In The Black Room",
+                "qualia -ideaesthesia-",
+                "Red and Blue"
+              ]
             }
           },
           {
@@ -2579,28 +2595,83 @@
             "length": 70,
             "special": {
               "type": 2,
-              "range": "Arcaea"
+              "range": "pack_id-base"
             }
           },
           {
             "length": 70,
             "special": {
               "type": 2,
-              "range": "Arcaea"
+              "range": "pack_id-base"
             }
           },
           {
             "length": 70,
             "special": {
               "type": 2,
-              "range": "Arcaea"
+              "range": "pack_id-base"
             }
           },
           {
             "length": 70,
             "special": {
               "type": 2,
-              "range": "Arcaea"
+              "range": "pack_id-base"
+            }
+          },
+          {
+            "length": 80,
+            "reward": {
+              "type": 0,
+              "name": "荒芜核心",
+              "count": 5
+            }
+          },
+          {
+            "length": 80
+          },
+          {
+            "length": 80
+          },
+          {
+            "length": 80
+          },
+          {
+            "length": 80
+          },
+          {
+            "length": 80,
+            "special": {
+              "type": 0,
+              "count": 4
+            }
+          },
+          {
+            "length": 80,
+            "special": {
+              "type": 2,
+              "range": "Red and Blue"
+            }
+          },
+          {
+            "length": 80,
+            "special": {
+              "type": 2,
+              "range": "Red and Blue"
+            }
+          },
+          {
+            "length": 80,
+            "special": {
+              "type": 2,
+              "range": "Red and Blue"
+            }
+          },
+          {
+            "length": 80,
+            "special": {
+              "type": 2,
+              "range": "Red and Blue"
             }
           },
           {
@@ -9413,28 +9484,40 @@
             "length": 10,
             "special": {
               "type": 2,
-              "range": "Antithese"
+              "range": [
+                "Antithese",
+                "In Vain"
+              ]
             }
           },
           {
             "length": 10,
             "special": {
               "type": 2,
-              "range": "Antithese"
+              "range": [
+                "Antithese",
+                "In Vain"
+              ]
             }
           },
           {
             "length": 10,
             "special": {
               "type": 2,
-              "range": "Antithese"
+              "range": [
+                "Antithese",
+                "In Vain"
+              ]
             }
           },
           {
             "length": 10,
             "special": {
               "type": 2,
-              "range": "Antithese"
+              "range": [
+                "Antithese",
+                "In Vain"
+              ]
             }
           },
           {
@@ -9449,28 +9532,40 @@
             "length": 10,
             "special": {
               "type": 2,
-              "range": "Black Territory"
+              "range": [
+                "Black Territory",
+                "Hypnotize"
+              ]
             }
           },
           {
             "length": 10,
             "special": {
               "type": 2,
-              "range": "Black Territory"
+              "range": [
+                "Black Territory",
+                "Hypnotize"
+              ]
             }
           },
           {
             "length": 10,
             "special": {
               "type": 2,
-              "range": "Black Territory"
+              "range": [
+                "Black Territory",
+                "Hypnotize"
+              ]
             }
           },
           {
             "length": 10,
             "special": {
               "type": 2,
-              "range": "Black Territory"
+              "range": [
+                "Black Territory",
+                "Hypnotize"
+              ]
             }
           },
           {
@@ -9485,28 +9580,40 @@
             "length": 10,
             "special": {
               "type": 2,
-              "range": "Corruption"
+              "range": [
+                "Corruption",
+                "Ashen 6oundary"
+              ]
             }
           },
           {
             "length": 10,
             "special": {
               "type": 2,
-              "range": "Corruption"
+              "range": [
+                "Corruption",
+                "Ashen 6oundary"
+              ]
             }
           },
           {
             "length": 10,
             "special": {
               "type": 2,
-              "range": "Corruption"
+              "range": [
+                "Corruption",
+                "Ashen 6oundary"
+              ]
             }
           },
           {
             "length": 10,
             "special": {
               "type": 2,
-              "range": "Corruption"
+              "range": [
+                "Corruption",
+                "Ashen 6oundary"
+              ]
             }
           },
           {
@@ -9521,28 +9628,40 @@
             "length": 10,
             "special": {
               "type": 2,
-              "range": "Vicious Heroism"
+              "range": [
+                "Vicious Heroism",
+                "Judgement"
+              ]
             }
           },
           {
             "length": 10,
             "special": {
               "type": 2,
-              "range": "Vicious Heroism"
+              "range": [
+                "Vicious Heroism",
+                "Judgement"
+              ]
             }
           },
           {
             "length": 10,
             "special": {
               "type": 2,
-              "range": "Vicious Heroism"
+              "range": [
+                "Vicious Heroism",
+                "Judgement"
+              ]
             }
           },
           {
             "length": 10,
             "special": {
               "type": 2,
-              "range": "Vicious Heroism"
+              "range": [
+                "Vicious Heroism",
+                "Judgement"
+              ]
             }
           },
           {
@@ -9556,29 +9675,57 @@
           {
             "length": 10,
             "special": {
-              "type": 2,
-              "range": "Cyaegha"
+              "type": 3,
+              "range": [
+                "Cyaegha",
+                "In Vain",
+                "Hypnotize",
+                "Ashen 6oundary",
+                "Judgement",
+                "ALTER EGO"
+              ]
             }
           },
           {
             "length": 10,
             "special": {
-              "type": 2,
-              "range": "Cyaegha"
+              "type": 3,
+              "range": [
+                "Cyaegha",
+                "In Vain",
+                "Hypnotize",
+                "Ashen 6oundary",
+                "Judgement",
+                "ALTER EGO"
+              ]
             }
           },
           {
             "length": 10,
             "special": {
-              "type": 2,
-              "range": "Cyaegha"
+              "type": 3,
+              "range": [
+                "Cyaegha",
+                "In Vain",
+                "Hypnotize",
+                "Ashen 6oundary",
+                "Judgement",
+                "ALTER EGO"
+              ]
             }
           },
           {
             "length": 10,
             "special": {
-              "type": 2,
-              "range": "Cyaegha"
+              "type": 3,
+              "range": [
+                "Cyaegha",
+                "In Vain",
+                "Hypnotize",
+                "Ashen 6oundary",
+                "Judgement",
+                "ALTER EGO"
+              ]
             }
           },
           {
@@ -18735,6 +18882,142 @@
             "reward": {
               "type": 1,
               "id": "desive"
+            }
+          }
+        ]
+      },
+      {
+        "id": "8-4",
+        "platforms": [
+          {
+            "length": 100,
+            "special": {
+              "type": 2,
+              "range": [
+                "In Vain",
+                "Hypnotize",
+                "Ashen 6oundary",
+                "Judgement",
+                "ALTER EGO",
+                "Antithese",
+                "Black Territory",
+                "Corruption",
+                "Cyaegha",
+                "Vicious Heroism"
+              ]
+            }
+          },
+          {
+            "length": 100,
+            "reward": {
+              "type": 0,
+              "name": "静谧之核",
+              "count": 5
+            }
+          },
+          {
+            "length": 100
+          },
+          {
+            "length": 100
+          },
+          {
+            "length": 100,
+            "special": {
+              "type": 2,
+              "range": [
+                "In Vain",
+                "Hypnotize",
+                "Ashen 6oundary",
+                "Judgement",
+                "ALTER EGO"
+              ]
+            }
+          },
+          {
+            "length": 100,
+            "reward": {
+              "type": 0,
+              "name": "静谧之核",
+              "count": 5
+            }
+          },
+          {
+            "length": 100
+          },
+          {
+            "length": 100
+          },
+          {
+            "length": 100,
+            "special": {
+              "type": 2,
+              "range": [
+                "Antithese",
+                "Black Territory",
+                "Corruption",
+                "Cyaegha",
+                "Vicious Heroism"
+              ]
+            }
+          },
+          {
+            "length": 100,
+            "reward": {
+              "type": 0,
+              "name": "静谧之核",
+              "count": 5
+            }
+          },
+          {
+            "length": 100
+          },
+          {
+            "length": 100
+          },
+          {
+            "length": 100,
+            "special": {
+              "type": 2,
+              "range": [
+                "Alexandrite",
+                "Cyaegha",
+                "Vicious Heroism",
+                "In Vain",
+                "Hypnotize",
+                "Ashen 6oundary",
+                "Judgement",
+                "ALTER EGO"
+              ]
+            }
+          },
+          {
+            "length": 100,
+            "reward": {
+              "type": 0,
+              "name": "静谧之核",
+              "count": 5
+            }
+          },
+          {
+            "length": 100
+          },
+          {
+            "length": 100
+          },
+          {
+            "length": 100,
+            "special": {
+              "type": 2,
+              "range": "ALTER EGO"
+            }
+          },
+          {
+            "length": 0,
+            "reward": {
+              "type": 0,
+              "name": "静谧之核",
+              "count": 5
             }
           }
         ]

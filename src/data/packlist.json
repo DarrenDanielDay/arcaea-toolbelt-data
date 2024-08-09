@@ -178,6 +178,22 @@
       }
     },
     {
+      "id": "nihil",
+      "section": "sidestory",
+      "plus_character": 23,
+      "custom_banner": true,
+      "name_localized": {
+        "en": "Absolute Nihil"
+      },
+      "description_localized": {
+        "en": "Reason is torn away, the sky darkens, rain falls.\nWith a quiet child to her side, she starts to believe\nin pathetic fallacy. Here, Saya's story is left in \"nihil\".\n\n5 songs signal a grim encounter. In this fierce and\nhollow battle of ideals: recall your folly and fight on.\nWith \"Absolute Reason\" ownership, Saya can Awaken.",
+        "ja": "敗れた信条、振り始める雨。\n哀れな誤謬と無辜の子を傍らに、\n女の行き先は虚無か、それとも……\n\n5つの楽曲と新たなストーリーを収録。\nパック『Absolute Reason』の所持で\nサヤの覚醒が可能になります。",
+        "ko": "찢겨나간 이성. 어두워지는 하늘. 쏟아지는 비.\n곁을 지키는 조용한 소녀. 잘못된 믿음.\n사야가 맞이할 이야기의 끝은, \"허무\".\n\n불온한 조우를 알리는 다섯개의 악곡.\n텅 빈 이상을 부딪히는 혈투.\n스스로의 잘못을 다시 되새기며 싸워나아가라.\n본 Pack과 \"Absolute Reason\" Pack 동시 보유자들은\n사야를 각성할 수 있습니다!",
+        "zh-Hant": "掠奪命運之時，雨滴傾瀉，天空黯然。\n文靜的孩子跟隨著她，而她成為了謬錯的信徒。\n至此，咲彌的故事僅剩「虛無」。\n\n五首曲目與一次無情的會面：短兵相接，你自詡愚者；\n但這場激烈而空洞的信仰之戰仍將繼續。\n繼《Absolute Reason》之後，你將覺醒。",
+        "zh-Hans": "掠夺命运之时，雨滴倾泻，天空黯然。\n文静的孩子跟随着她，而她成为了谬错的信徒。\n至此，咲弥的故事仅剩「虚无」。\n\n五首曲目与一次无情的会面：短兵相接，你自诩愚者；\n但这场激烈而空洞的信仰之战仍将继续。\n继《Absolute Reason》之后，你将觉醒。"
+      }
+    },
+    {
       "id": "eden",
       "section": "sidestory",
       "plus_character": 71,
@@ -343,11 +359,11 @@
         "en": "Absolute Reason"
       },
       "description_localized": {
-        "en": "Memories are windows into realities,\nmysteries waiting to be unraveled...\n\nTake a journey in ruthless search of\nthe ultimate truth with an enigmatic girl\nduring five all-new, hardcore songs!",
-        "ja": "想い出は現実への窓。\n解明を待つ謎が君を呼ぶ…。\n\n究極の真実を求め、\n謎めいた少女と慈悲なき旅路を往こう。\n新しい5つのハードな曲を超えて。",
-        "ko": "추억은 현실을 바라보는 창문같은 것,\n미스터리가 풀리기를 기다리는..\n\n완전히 새로워진 5곡의 하드코어 곡으로\n수수께끼 같은 소녀와 함께 근본적인 진실을\n찾아 떠나는 무자비한 여행을 떠나봅시다!",
-        "zh-Hant": "記憶，是通往尚未被揭曉之 \n真實與奧秘的窗戶…… \n\n與一名神秘少女一起， \n在一次探索究極真實的無情旅途中 \n邂逅五首全新的硬核樂曲！ ",
-        "zh-Hans": "记忆，是通往尚未被揭晓之\n真实与奥秘的窗户……\n\n与一名神秘少女一起，\n在一次探索究极真实的无情旅途中\n邂逅五首全新的硬核曲目！"
+        "en": "Memories are windows into realities,\nmysteries waiting to be unraveled...\n\nTake a journey in ruthless search of the ultimate\ntruth with the enigmatic Saya during five all-new,\nhardcore songs! In addition, with \"Absolute Nihil\"\nownership, Saya can Awaken!",
+        "ja": "記憶は現実へと続く窓、\n信条は過去から続く糸、\nさあ、未知をほどいて、先へ。\n\n慈悲なき探求を兆す5つの新曲、\n真実を求め、サヤが歩む道を往こう。\n(『Absolute Nihil』所持でサヤの覚醒が可能)",
+        "ko": "기억이란 현실로의 창문.\n풀리기를 기다리는 수수께끼.\n\n5개의 신곡과 함께,\n진리를 찾아 떠나는 수수께끼의 소녀,\n사야의 험난한 여정에 함께하세요\n(\"Absolute Nihil\" Pack 보유시 사야 각성 가능)",
+        "zh-Hant": "記憶，是通往尚未被揭曉之\n真實與奧秘的窗戶……\n\n與一名神秘少女一起\n在一次探索究極真實的無情旅途中\n邂逅五首全新的硬核樂曲！\n在獲取《Absolute Nihil》之後，還可進一步覺醒她！",
+        "zh-Hans": "记忆，是通往尚未被揭晓之\n真实与奥秘的窗户……\n\n与一名神秘少女一起，\n在一次探索究极真实的无情旅途中\n邂逅五首全新的硬核曲目！\n在获取《Absolute Nihil》之后，还可进一步觉醒她！"
       }
     },
     {

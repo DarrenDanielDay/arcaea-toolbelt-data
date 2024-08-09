@@ -2900,5 +2900,54 @@
       "1080_base.jpg",
       "1080_base_256.jpg"
     ]
+  },
+  {
+    "id": "distortionhuman",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ]
+  },
+  {
+    "id": "shrink",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ]
+  },
+  {
+    "id": "invain",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ]
+  },
+  {
+    "id": "hypnotize",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ]
+  },
+  {
+    "id": "ashenboundary",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ]
+  },
+  {
+    "id": "judgement",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ]
+  },
+  {
+    "id": "alterego",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ]
   }
 ]

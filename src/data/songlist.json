@@ -24898,25 +24898,25 @@
         {
           "ratingClass": 0,
           "chartDesigner": "én",
-          "jacketDesigner": "",
+          "jacketDesigner": "SARYN",
           "rating": 4
         },
         {
           "ratingClass": 1,
           "chartDesigner": "én",
-          "jacketDesigner": "",
+          "jacketDesigner": "SARYN",
           "rating": 6
         },
         {
           "ratingClass": 2,
           "chartDesigner": "én",
-          "jacketDesigner": "",
+          "jacketDesigner": "SARYN",
           "rating": 9
         },
         {
           "ratingClass": 4,
           "chartDesigner": "eién",
-          "jacketDesigner": "",
+          "jacketDesigner": "SARYN",
           "rating": 10
         }
       ]
@@ -25178,6 +25178,453 @@
           "jacketDesigner": "洗濯メン",
           "rating": 9,
           "ratingPlus": true
+        }
+      ]
+    },
+    {
+      "idx": 401,
+      "id": "distortionhuman",
+      "title_localized": {
+        "en": "Distortion Human",
+        "ja": "ディストーション・ニンゲン"
+      },
+      "artist": "DJ Myosuke & KAJI",
+      "search_title": {
+        "ko": [
+          "디스토션 휴먼"
+        ]
+      },
+      "search_artist": {
+        "ja": [
+          "でぃーじぇーみょーすけ",
+          "でぃーじぇーみょうすけ",
+          "でぃーじぇいみょーすけ",
+          "でぃーじぇいみょうすけ",
+          "かじ"
+        ],
+        "ko": [
+          "디제이 묘스케",
+          "카지"
+        ]
+      },
+      "bpm": "200",
+      "bpm_base": 200,
+      "set": "extend_3",
+      "purchase": "extend_3",
+      "audioPreview": 0,
+      "audioPreviewEnd": 0,
+      "side": 1,
+      "bg": "yugamu",
+      "bg_inverse": "rei",
+      "remote_dl": true,
+      "world_unlock": true,
+      "date": 1722297600,
+      "version": "5.9",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "ディストーション・ルクアンス",
+          "jacketDesigner": "",
+          "rating": 3
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "ディストーション・ルクアンス",
+          "jacketDesigner": "",
+          "rating": 6
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "ディストーション・ルクアンス",
+          "jacketDesigner": "",
+          "rating": 9,
+          "ratingPlus": true
+        }
+      ]
+    },
+    {
+      "idx": 402,
+      "id": "shrink",
+      "title_localized": {
+        "en": "shrink"
+      },
+      "artist": "Shohei Tsuchiya(ZUNTATA)",
+      "search_title": {
+        "ja": [
+          "しゅりんく"
+        ],
+        "ko": [
+          "슈링크",
+          "쉬링크"
+        ]
+      },
+      "search_artist": {
+        "ja": [
+          "しょうへいつちや",
+          "つちやしょうへい"
+        ],
+        "ko": [
+          "쇼헤이 츠치야",
+          "츠치야 쇼헤이",
+          "즌타타"
+        ]
+      },
+      "bpm": "180",
+      "bpm_base": 180,
+      "set": "single",
+      "purchase": "shrink",
+      "category": "musicgames",
+      "audioPreview": 0,
+      "audioPreviewEnd": 0,
+      "side": 0,
+      "source_localized": {
+        "en": "MUSIC DIVER"
+      },
+      "source_copyright": "© TAITO CORPORATION",
+      "bg": "single2_light",
+      "bg_inverse": "single2_conflict",
+      "remote_dl": true,
+      "world_unlock": false,
+      "date": 1722297601,
+      "version": "5.9",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "Dec18",
+          "jacketDesigner": "",
+          "rating": 3
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "Dec18",
+          "jacketDesigner": "",
+          "rating": 7
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "Dec18",
+          "jacketDesigner": "",
+          "rating": 9,
+          "ratingPlus": true
+        }
+      ]
+    },
+    {
+      "idx": 403,
+      "id": "invain",
+      "title_localized": {
+        "en": "In Vain"
+      },
+      "artist": "ryhki",
+      "search_title": {
+        "ja": [
+          "いんべいん",
+          "いんゔぇいん"
+        ],
+        "ko": [
+          "인 베인"
+        ]
+      },
+      "search_artist": {
+        "ja": [
+          "りゅーき"
+        ],
+        "ko": [
+          "류우키"
+        ]
+      },
+      "bpm": "165",
+      "bpm_base": 165,
+      "set": "nihil",
+      "purchase": "nihil",
+      "audioPreview": 0,
+      "audioPreviewEnd": 0,
+      "side": 1,
+      "bg": "nihil",
+      "bg_inverse": "nihil",
+      "remote_dl": true,
+      "world_unlock": false,
+      "date": 1722297602,
+      "version": "5.9",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "CERiNG",
+          "jacketDesigner": "トロ３",
+          "rating": 3
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "CERiNG",
+          "jacketDesigner": "トロ３",
+          "rating": 6
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "CERiNG",
+          "jacketDesigner": "トロ３",
+          "rating": 9
+        }
+      ]
+    },
+    {
+      "idx": 404,
+      "id": "hypnotize",
+      "title_localized": {
+        "en": "Hypnotize"
+      },
+      "artist": "rejection",
+      "search_title": {
+        "ja": [
+          "ひぷのたいず"
+        ],
+        "ko": [
+          "히프노타이즈"
+        ]
+      },
+      "search_artist": {
+        "ja": [
+          "りじぇくしょん"
+        ],
+        "ko": [
+          "리젝션"
+        ]
+      },
+      "bpm": "160",
+      "bpm_base": 160,
+      "set": "nihil",
+      "purchase": "nihil",
+      "audioPreview": 0,
+      "audioPreviewEnd": 0,
+      "side": 1,
+      "bg": "nihil",
+      "bg_inverse": "nihil",
+      "remote_dl": true,
+      "world_unlock": false,
+      "date": 1722297603,
+      "version": "5.9",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "én",
+          "jacketDesigner": "つくだ煮",
+          "rating": 3
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "én",
+          "jacketDesigner": "つくだ煮",
+          "rating": 6
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "én",
+          "jacketDesigner": "つくだ煮",
+          "rating": 8,
+          "ratingPlus": true
+        },
+        {
+          "ratingClass": 4,
+          "chartDesigner": "én × nitro「The Radical」",
+          "jacketDesigner": "つくだ煮",
+          "rating": 9,
+          "ratingPlus": true
+        }
+      ]
+    },
+    {
+      "idx": 405,
+      "id": "ashenboundary",
+      "title_localized": {
+        "en": "Ashen 6oundary"
+      },
+      "artist": "YUKIYANAGI",
+      "search_title": {
+        "en": [
+          "ashen boundary"
+        ],
+        "ja": [
+          "あっしぇんばうんだりー"
+        ],
+        "ko": [
+          "애쉰 바운더리"
+        ]
+      },
+      "search_artist": {
+        "ja": [
+          "ゆきやなぎ"
+        ],
+        "ko": [
+          "유키야나기"
+        ]
+      },
+      "bpm": "172",
+      "bpm_base": 172,
+      "set": "nihil",
+      "purchase": "nihil",
+      "audioPreview": 0,
+      "audioPreviewEnd": 0,
+      "side": 1,
+      "bg": "nihil",
+      "bg_inverse": "nihil",
+      "remote_dl": true,
+      "world_unlock": false,
+      "date": 1722297604,
+      "version": "5.9",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "[NITRO]",
+          "jacketDesigner": "AT基調",
+          "rating": 4
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "[NITRO]",
+          "jacketDesigner": "AT基調",
+          "rating": 7,
+          "ratingPlus": true
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "[NITRO]",
+          "jacketDesigner": "AT基調",
+          "rating": 9,
+          "ratingPlus": true
+        }
+      ]
+    },
+    {
+      "idx": 406,
+      "id": "judgement",
+      "title_localized": {
+        "en": "Judgement"
+      },
+      "artist": "Tatsunoshin",
+      "search_title": {
+        "ja": [
+          "じゃっじめんと"
+        ],
+        "ko": [
+          "저지멘트",
+          "저지먼트"
+        ]
+      },
+      "search_artist": {
+        "ja": [
+          "たつのしん"
+        ],
+        "ko": [
+          "타츠노신"
+        ]
+      },
+      "bpm": "200",
+      "bpm_base": 200,
+      "set": "nihil",
+      "purchase": "nihil",
+      "audioPreview": 0,
+      "audioPreviewEnd": 0,
+      "side": 1,
+      "bg": "nihil",
+      "bg_inverse": "nihil",
+      "remote_dl": true,
+      "world_unlock": false,
+      "date": 1722297605,
+      "version": "5.9",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "絶滅 » collapse",
+          "jacketDesigner": "辷",
+          "rating": 5
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "絶滅 » collapse",
+          "jacketDesigner": "辷",
+          "rating": 8
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "絶滅 » collapse",
+          "jacketDesigner": "辷",
+          "rating": 10
+        }
+      ]
+    },
+    {
+      "idx": 400,
+      "id": "alterego",
+      "title_localized": {
+        "en": "ALTER EGO"
+      },
+      "artist": "Yuta Imai vs Qlarabelle",
+      "search_title": {
+        "ja": [
+          "おるたーえご"
+        ],
+        "ko": [
+          "얼터 에고",
+          "알터 에고"
+        ]
+      },
+      "search_artist": {
+        "ja": [
+          "ゆうたいまい",
+          "くららべる"
+        ],
+        "ko": [
+          "유타 이마이",
+          "클라라벨"
+        ]
+      },
+      "bpm": "195",
+      "bpm_base": 195,
+      "set": "nihil",
+      "purchase": "nihil",
+      "audioPreview": 0,
+      "audioPreviewEnd": 0,
+      "side": 1,
+      "bg": "alterego",
+      "bg_inverse": "alterego",
+      "remote_dl": true,
+      "world_unlock": false,
+      "date": 1722297606,
+      "version": "5.9",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "Article V《Observation》",
+          "jacketDesigner": "すずなし",
+          "rating": 6
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "Article VI《Hypothesis》",
+          "jacketDesigner": "すずなし",
+          "rating": 9
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "Article VII《Analysis》",
+          "jacketDesigner": "すずなし",
+          "rating": 10
+        },
+        {
+          "ratingClass": 4,
+          "chartDesigner": "Article 0x8《Enmity》",
+          "jacketDesigner": "すずなし",
+          "rating": 11
+        }
+      ],
+      "additional_files": [
+        {
+          "file_name": "video_720.mp4",
+          "requirement": "low_res"
+        },
+        {
+          "file_name": "video_1080.mp4",
+          "requirement": "hi_res"
         }
       ]
     }
