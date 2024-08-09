@@ -1,3 +1,4 @@
+/// <reference path="../node_modules/typed-query-selector/shim.d.ts" />
 type Indexed<T> = import("@arcaea-toolbelt/utils/collections.js").Indexed<T>;
 type ArcaeaToolbeltMeta = import("@arcaea-toolbelt/models/misc.js").ArcaeaToolbeltMeta;
 type SongData = import("@arcaea-toolbelt/models/music-play.js").SongData;

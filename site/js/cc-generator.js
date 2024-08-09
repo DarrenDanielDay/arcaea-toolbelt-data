@@ -28,7 +28,7 @@ async function readFileAsJSON(file) {
   }
 }
 /**
- * @param {object} obj 
+ * @param {object} obj
  */
 function toJSON(obj) {
   return JSON.stringify(obj, undefined, 2);
@@ -221,7 +221,9 @@ export const ChartConstantGenerator = () => {
           type="file"
           class="form-control"
         />
-        <div class="input-group-text">不选择文件时使用<a href="https://github.com/MoYoez/ArcaeaResource-ActionUpdater/blob/main/arcaea/assets/songs/songlist">ActionUpdater的songlist</a>（每8小时更新一次）</div>
+        <div class="input-group-text">不选择文件时使用<a target="_blank" href="${
+          process.env.ASSETS_VENDOR + ""
+        }">供应商的songlist</a>（每8小时更新一次）</div>
       </div>
       <div class="input-group mb-3">
         <label for="old-cc-file" class="input-group-text">ChartConstant.json</label>
@@ -254,7 +256,9 @@ export const ChartConstantGenerator = () => {
         const folder = song.remote_dl ? `songs/dl_${song.id}` : `songs/${song.id}`;
         const prefixes = ["1080_"];
         const covers = prefixes
-          .flatMap((prefix) => ["_256.jpg", ".jpg"].map(suffix => `${assetsBase}/${folder}/${prefix}${filename}${suffix}`))
+          .flatMap((prefix) =>
+            ["_256.jpg", ".jpg"].map((suffix) => `${assetsBase}/${folder}/${prefix}${filename}${suffix}`)
+          )
           .flat()
           .join(", ");
         return html`<div class="record" var:cover-color=${`var(--diff-${chart.ratingClass})`}>
