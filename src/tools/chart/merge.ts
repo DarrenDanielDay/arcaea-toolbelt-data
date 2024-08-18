@@ -1,7 +1,7 @@
 import { Chart, ChartOverride, Difficulty, SongData, difficulties } from "@arcaea-toolbelt/models/music-play";
 import { Indexed, indexBy } from "@arcaea-toolbelt/utils/collections";
 import { PackList, SongList, Song, Pack } from "../packed-data";
-import { Alias, AssetsInfo, ExtraSongData } from "./shared";
+import { Alias, ExtraSongData } from "./shared";
 
 const getPackName = (packIndex: Indexed<Pack>, song: Song) => {
   const pack = packIndex[song.set];
@@ -21,7 +21,7 @@ export function mergeIntoSongData(
   packList: PackList,
   extraData: ExtraSongData[],
   alias: Alias[],
-  assetsInfo: AssetsInfo[]
+  assetsInfo: SongAssetsInfo[]
 ): SongData[] {
   const oldIndex = indexBy(oldData, (song) => song.id);
   const packIndex = indexBy(packList.packs, (pack) => pack.id);

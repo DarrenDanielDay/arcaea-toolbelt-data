@@ -2,8 +2,11 @@
 type Indexed<T> = import("@arcaea-toolbelt/utils/collections.js").Indexed<T>;
 type ArcaeaToolbeltMeta = import("@arcaea-toolbelt/models/misc.js").ArcaeaToolbeltMeta;
 type SongData = import("@arcaea-toolbelt/models/music-play.js").SongData;
+type Banner = import("@arcaea-toolbelt/models/assets.js").Banner;
+type AssetsInfo = import("@arcaea-toolbelt/models/file.js").AssetsInfo;
+type SongAssetsInfo = import("@arcaea-toolbelt/models/file.js").SongAssetsInfo;
+type ArcaeaToolbeltGeneratorAPI = typeof import("@arcaea-toolbelt/services/generator-api");
 type Alias = import("../src/tools/chart/shared.js").Alias;
-type AssetsInfo = import("../src/tools/chart/shared.js").AssetsInfo;
 interface APKResponse {
   url: string;
   version: string;

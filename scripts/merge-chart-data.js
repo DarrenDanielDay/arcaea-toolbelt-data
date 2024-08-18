@@ -29,7 +29,7 @@ function getPackName(packIndex, song) {
  * @param {PackList} packList
  * @param {ExtraSongData[]} extraData
  * @param {Alias[]} alias
- * @param {AssetsInfo[]} assetsInfo
+ * @param {SongAssetsInfo[]} assetsInfo
  * @returns
  */
 export function mergeIntoSongData(oldData, songList, packList, extraData, alias, assetsInfo) {

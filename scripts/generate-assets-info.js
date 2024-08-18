@@ -5,6 +5,7 @@ import { join, parse } from "path";
 import { readJSON, writeJSON } from "./utils.js";
 import { extractName as ex } from "./arcaea.js";
 import { fileURLToPath } from "url";
+import { atb } from "./atb.js";
 
 /**
  * @param {string} [version]
@@ -30,7 +31,7 @@ export async function generateAssetsInfo(version) {
 
   /**
    * @param {import('../src/tools/packed-data').Song} song
-   * @returns {Promise<import('../src/tools/chart/shared').AssetsInfo>}
+   * @returns {Promise<SongAssetsInfo>}
    */
   async function getSongAssets(song) {
     const folder = song.remote_dl ? `dl_${song.id}` : song.id;
@@ -40,11 +41,45 @@ export async function generateAssetsInfo(version) {
       covers: children.filter((file) => file.endsWith(".jpg")),
     };
   }
-  /** @type {import('../src/tools/chart/shared').AssetsInfo[]} */
-  const assetsInfo = await Promise.all(songList.songs.map(getSongAssets));
+
+  /**
+   * @returns {Promise<Banner[]>}
+   */
+  async function checkBannerAssets() {
+    const children = await readdir(assets(`img/course/banner`));
+    /** @type {Banner[]} */
+    const banners = [];
+    /** @type {Map<number, string>} */
+    const courses = new Map();
+    for (const child of children) {
+      let match = /course_banner_(\d+)\.png/.exec(child);
+      if (match) {
+        courses.set(+(match[1] ?? 1), child);
+        continue;
+      }
+      match = /online_banner_(\d+)_(\d+)\.png/.exec(child);
+      if (match) {
+        banners.push({
+          type: atb.BannerType.ArcaeaOnline,
+          file: child,
+          year: +(match[1] ?? 1970),
+          month: +(match[2] ?? 1),
+        });
+      }
+    }
+    return banners.concat(
+      [...courses].map(([key, value]) => ({ type: atb.BannerType.Course, file: value, level: key }))
+    );
+  }
+  const [banners, ...songAssetsInfo] = await Promise.all([checkBannerAssets(), ...songList.songs.map(getSongAssets)]);
+  /** @type {AssetsInfo} */
+  const assetsInfo = {
+    songs: songAssetsInfo,
+    banners,
+  };
   await writeJSON("src/data/assets-info.json", assetsInfo);
   console.log(
-    assetsInfo.filter((a) => {
+    songAssetsInfo.filter((a) => {
       // 用于测试对应的*_256.jpg是否一定有
       for (const cover of a.covers) {
         if (cover.match(/^(1080_)(base|0|1|2|3|4)\.jpg$/)) {

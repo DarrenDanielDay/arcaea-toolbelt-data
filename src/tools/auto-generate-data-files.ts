@@ -16,7 +16,7 @@ import { ArcaeaToolbeltMeta } from "@arcaea-toolbelt/models/misc";
 import { getChartDataFromFandomWiki } from "./chart/fandom-wiki";
 import { mergeIntoSongData } from "./chart/merge";
 import { getAliasFromArcaeaInfinity } from "./chart/arcaea-infinity";
-import { Alias, AssetsInfo, ExtraSongData, mergeArray } from "./chart/shared";
+import { Alias, ExtraSongData, mergeArray } from "./chart/shared";
 import { CharacterData } from "@arcaea-toolbelt/models/character";
 
 async function getSongList(): Promise<SongList> {
@@ -124,7 +124,7 @@ export async function generateMergedChartData() {
   const packList = await getPackList();
   const extraData = await readProjectJSON<ExtraSongData[]>(extraDataPath);
   const alias = await readProjectJSON<Alias[]>(aliasPath);
-  const assetsInfo = await readProjectJSON<AssetsInfo[]>(assetsInfoPath);
+  const assetsInfo = await readProjectJSON<SongAssetsInfo[]>(assetsInfoPath);
   const newData = mergeIntoSongData(old, songList, packList, extraData, alias, assetsInfo);
   await saveProjectJSON(sortChartDataBySongListIdx(newData, songList), chartDataPath);
 }

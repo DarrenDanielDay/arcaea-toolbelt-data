@@ -13,7 +13,7 @@ const slst = await getLocalSongList(version);
 const pklst = await getLocalPackList(version);
 /** @type {Alias[]} */
 const alias = await readJSON(new URL("../src/data/alias.json", import.meta.url));
-/** @type {AssetsInfo[]} */
+/** @type {SongAssetsInfo[]} */
 const assetsInfo = await readJSON(new URL("../src/data/assets-info.json", import.meta.url));
 /** @type {WikiChartConstantJSON} */
 const cc = await readJSON(new URL("../src/data/ChartConstant.json", import.meta.url));
