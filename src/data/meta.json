@@ -1,7 +1,7 @@
 {
   "version": "5.9.3c",
   "apk": "https://arcaea-static.lowiro-cdn.net/4pFexSSv3EnAtnasVxFk%2BFCUc3klZGQTlOFeMeB%2FJf6dnD7%2FxLiB9KXbGnNuhJquCkh9KJUqY2TlT5wUQtINJPiE7dPeM9jW4y%2BCOIjv7afC7oVdAkhg5x5aL4%2FBa8o1Bp9X6Yb45PrxAFA%3D?filename=arcaea_5.9.3c.apk",
-  "time": 1723969445513,
+  "time": 1723971726100,
   "index": [
     {
       "file": "alias.json",
@@ -9,7 +9,7 @@
     },
     {
       "file": "assets-info.json",
-      "hash": "31149ec2"
+      "hash": "e8f2d38e"
     },
     {
       "file": "character-data.json",

@@ -2,6 +2,7 @@
 type Indexed<T> = import("@arcaea-toolbelt/utils/collections.js").Indexed<T>;
 type ArcaeaToolbeltMeta = import("@arcaea-toolbelt/models/misc.js").ArcaeaToolbeltMeta;
 type SongData = import("@arcaea-toolbelt/models/music-play.js").SongData;
+type CourseBanner = import("@arcaea-toolbelt/models/assets.js").CourseBanner;
 type Banner = import("@arcaea-toolbelt/models/assets.js").Banner;
 type AssetsInfo = import("@arcaea-toolbelt/models/file.js").AssetsInfo;
 type SongAssetsInfo = import("@arcaea-toolbelt/models/file.js").SongAssetsInfo;

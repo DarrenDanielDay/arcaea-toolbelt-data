@@ -67,9 +67,14 @@ export async function generateAssetsInfo(version) {
         });
       }
     }
-    return banners.concat(
-      [...courses].map(([key, value]) => ({ type: atb.BannerType.Course, file: value, level: key }))
-    );
+    const courseBanners = [...courses]
+      .map(([key, value]) => {
+        /** @type {CourseBanner} */
+        const courseBanner = { type: atb.BannerType.Course, file: value, level: key };
+        return courseBanner;
+      })
+      .sort((a, b) => a.level - b.level);
+    return banners.concat(courseBanners);
   }
   const [banners, ...songAssetsInfo] = await Promise.all([checkBannerAssets(), ...songList.songs.map(getSongAssets)]);
   /** @type {AssetsInfo} */

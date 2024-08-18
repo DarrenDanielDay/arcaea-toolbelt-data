@@ -2984,16 +2984,6 @@
     },
     {
       "type": "course",
-      "file": "course_banner_10.png",
-      "level": 10
-    },
-    {
-      "type": "course",
-      "file": "course_banner_11.png",
-      "level": 11
-    },
-    {
-      "type": "course",
       "file": "course_banner_2.png",
       "level": 2
     },
@@ -3031,6 +3021,16 @@
       "type": "course",
       "file": "course_banner_9.png",
       "level": 9
+    },
+    {
+      "type": "course",
+      "file": "course_banner_10.png",
+      "level": 10
+    },
+    {
+      "type": "course",
+      "file": "course_banner_11.png",
+      "level": 11
     }
   ]
 }
