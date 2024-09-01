@@ -428,6 +428,22 @@
       }
     },
     {
+      "id": "rotaeno",
+      "section": "collab",
+      "custom_banner": true,
+      "plus_character": -1,
+      "name_localized": {
+        "en": "Rotaeno"
+      },
+      "description_localized": {
+        "en": "In the sky, worlds invert.\n\n5 captivating songs await in this collaboration\nwith Rotaeno, including one complete original,\nand a collaboration story!\n\nTogether with Luna & Ilot, travel through Aquaria!",
+        "ja": "ルナとイロといっしょにアクアを旅しよう！\nさあ、蒼穹の中、反転した世界へ――。\n\nRotaenoの個性あふれる楽曲4つに加え、\nオリジナル新曲1つのほか、\n新たなコラボストーリーも登場！",
+        "ko": "드높은 하늘로부터,\n세상이 뒤집힙니다.\n\nRotaeno 콜라보레이션으로 등장하는,\n하나의 오리지널 악곡을 포함한 5개의 매력적인 악곡!\n콜라보 스토리까지!\n\n루나 & 이로와 함께 아쿠아를 탐험해보세요!",
+        "zh-Hant": "世界於天空倒轉。\n\n包含一首原創新曲，五首曲目開啓全新聯動篇章。\n更有隨附全新劇情：與旋轉音律的邂逅，就此出發！\n\n跟隨著露娜和伊洛的腳步，盡情在阿古亞星探索吧！",
+        "zh-Hans": "世界于天空倒转。\n\n包含一首原创新曲，五首曲目开启全新联动篇章。\n更有随附全新剧情：与旋转音律的邂逅，就此出发！\n\n跟随着露娜和伊洛的脚步，尽情在阿古亚星探索吧！"
+      }
+    },
+    {
       "id": "cytusii",
       "section": "collab",
       "custom_banner": true,

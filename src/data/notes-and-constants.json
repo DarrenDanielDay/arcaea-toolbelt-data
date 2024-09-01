@@ -7908,5 +7908,131 @@
         "constant": 11.2
       }
     ]
+  },
+  {
+    "id": "epitaxy",
+    "charts": [
+      {
+        "notes": 826,
+        "constant": 3
+      },
+      {
+        "notes": 939,
+        "constant": 6
+      },
+      {
+        "notes": 1177,
+        "constant": 8.6
+      },
+      null,
+      {
+        "notes": 1410,
+        "constant": 9.6
+      }
+    ]
+  },
+  {
+    "id": "waltzforlorelei",
+    "charts": [
+      {
+        "notes": 664,
+        "constant": 2.5
+      },
+      {
+        "notes": 814,
+        "constant": 5.5
+      },
+      {
+        "notes": 916,
+        "constant": 8.8
+      },
+      null,
+      {
+        "notes": 999,
+        "constant": 9.8
+      }
+    ]
+  },
+  {
+    "id": "dualdoom",
+    "charts": [
+      {
+        "notes": 838,
+        "constant": 3.5
+      },
+      {
+        "notes": 830,
+        "constant": 6.5
+      },
+      {
+        "notes": 1094,
+        "constant": 8.9
+      },
+      null,
+      {
+        "notes": 1292,
+        "constant": 10.3
+      }
+    ]
+  },
+  {
+    "id": "invertedworld",
+    "charts": [
+      {
+        "notes": 525,
+        "constant": 3
+      },
+      {
+        "notes": 646,
+        "constant": 7
+      },
+      {
+        "notes": 940,
+        "constant": 9.5
+      },
+      null,
+      {
+        "notes": 1065,
+        "constant": 10.7
+      }
+    ]
+  },
+  {
+    "id": "mvurbd",
+    "charts": [
+      {
+        "notes": 999,
+        "constant": 4.5
+      },
+      {
+        "notes": 1031,
+        "constant": 7.8
+      },
+      {
+        "notes": 1497,
+        "constant": 10.6
+      },
+      null,
+      null
+    ]
+  },
+  {
+    "id": "vulcanus",
+    "charts": [
+      {
+        "notes": 968,
+        "constant": 5.5
+      },
+      {
+        "notes": 1234,
+        "constant": 8.5
+      },
+      {
+        "notes": 1542,
+        "constant": 10.9
+      },
+      null,
+      null
+    ]
   }
 ]

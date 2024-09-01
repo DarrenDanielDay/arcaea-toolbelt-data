@@ -19021,6 +19021,127 @@
             }
           }
         ]
+      },
+      {
+        "id": "8-5",
+        "platforms": [
+          {
+            "length": 1,
+            "special": {
+              "type": 2,
+              "range": [
+                "Inverted World",
+                "Waltz for Lorelei",
+                "MVURBD",
+                "Dual Doom Deathmatch",
+                "Vulcānus",
+                "epitaxy"
+              ]
+            }
+          },
+          {
+            "length": 2
+          },
+          {
+            "length": 3
+          },
+          {
+            "length": 4
+          },
+          {
+            "length": 5
+          },
+          {
+            "length": 6
+          },
+          {
+            "length": 7
+          },
+          {
+            "length": 8
+          },
+          {
+            "length": 9
+          },
+          {
+            "length": 10,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 100
+            }
+          },
+          {
+            "length": 11
+          },
+          {
+            "length": 12,
+            "special": {
+              "type": 2,
+              "range": "Waltz for Lorelei"
+            }
+          },
+          {
+            "length": 12
+          },
+          {
+            "length": 12
+          },
+          {
+            "length": 12,
+            "special": {
+              "type": 2,
+              "range": [
+                "epitaxy",
+                "Dual Doom Deathmatch"
+              ]
+            }
+          },
+          {
+            "length": 12
+          },
+          {
+            "length": 13
+          },
+          {
+            "length": 13,
+            "special": {
+              "type": 2,
+              "range": "Inverted World"
+            }
+          },
+          {
+            "length": 13
+          },
+          {
+            "length": 13
+          },
+          {
+            "length": 13,
+            "special": {
+              "type": 2,
+              "range": "MVURBD"
+            }
+          },
+          {
+            "length": 13
+          },
+          {
+            "length": 13,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 100
+            }
+          },
+          {
+            "length": 0,
+            "reward": {
+              "type": 2,
+              "id": 76
+            }
+          }
+        ]
       }
     ]
   }

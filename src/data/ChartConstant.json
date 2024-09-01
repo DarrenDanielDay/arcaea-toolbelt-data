@@ -6687,5 +6687,113 @@
       "constant": 11.2,
       "old": false
     }
+  ],
+  "epitaxy": [
+    {
+      "constant": 3,
+      "old": false
+    },
+    {
+      "constant": 6,
+      "old": false
+    },
+    {
+      "constant": 8.6,
+      "old": false
+    },
+    null,
+    {
+      "constant": 9.6,
+      "old": false
+    }
+  ],
+  "waltzforlorelei": [
+    {
+      "constant": 2.5,
+      "old": false
+    },
+    {
+      "constant": 5.5,
+      "old": false
+    },
+    {
+      "constant": 8.8,
+      "old": false
+    },
+    null,
+    {
+      "constant": 9.8,
+      "old": false
+    }
+  ],
+  "dualdoom": [
+    {
+      "constant": 3.5,
+      "old": false
+    },
+    {
+      "constant": 6.5,
+      "old": false
+    },
+    {
+      "constant": 8.9,
+      "old": false
+    },
+    null,
+    {
+      "constant": 10.3,
+      "old": false
+    }
+  ],
+  "invertedworld": [
+    {
+      "constant": 3,
+      "old": false
+    },
+    {
+      "constant": 7,
+      "old": false
+    },
+    {
+      "constant": 9.5,
+      "old": false
+    },
+    null,
+    {
+      "constant": 10.7,
+      "old": false
+    }
+  ],
+  "mvurbd": [
+    {
+      "constant": 4.5,
+      "old": false
+    },
+    {
+      "constant": 7.8,
+      "old": false
+    },
+    {
+      "constant": 10.6,
+      "old": false
+    },
+    null,
+    null
+  ],
+  "vulcanus": [
+    {
+      "constant": 5.5,
+      "old": false
+    },
+    {
+      "constant": 8.5,
+      "old": false
+    },
+    {
+      "constant": 10.9,
+      "old": false
+    },
+    null,
+    null
   ]
 }

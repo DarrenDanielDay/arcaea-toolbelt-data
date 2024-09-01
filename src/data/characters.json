@@ -2449,25 +2449,25 @@
     },
     {
         "skill_id_text": {
-          "en": "EASY + Recollection Rate cannot decrease\nRecollection Rate gain is heavily reduced",
-          "ja": "EASY + 想起率が減少しない\n想起率の増加が大幅に減少",
-          "ko": "EASY + 기억회상률이 감소하지 않지만\n증가량이 현격히 줄어듭니다",
-          "zh-Hans": "简单 + 回忆率不会减少\n但回忆率增加速度大幅放缓",
-          "zh-Hant": "簡單 + 回憶率不會減少\n但回憶率增加速度大幅放緩"
+            "en": "EASY + Recollection Rate cannot decrease\nRecollection Rate gain is heavily reduced",
+            "ja": "EASY + 想起率が減少しない\n想起率の増加が大幅に減少",
+            "ko": "EASY + 기억회상률이 감소하지 않지만\n증가량이 현격히 줄어듭니다",
+            "zh-Hans": "简单 + 回忆率不会减少\n但回忆率增加速度大幅放缓",
+            "zh-Hant": "簡單 + 回憶率不會減少\n但回憶率增加速度大幅放緩"
         },
         "variant": {
-          "en": "Twilight",
-          "ja": "宵闇",
-          "ko": "황혼",
-          "zh-Hans": "暮光",
-          "zh-Hant": "暮光"
+            "en": "Twilight",
+            "ja": "宵闇",
+            "ko": "황혼",
+            "zh-Hans": "暮光",
+            "zh-Hant": "暮光"
         },
         "display_name": {
-          "en": "Nami",
-          "ja": "奈実",
-          "ko": "나미",
-          "zh-Hans": "奈美",
-          "zh-Hant": "奈美"
+            "en": "Nami",
+            "ja": "奈実",
+            "ko": "나미",
+            "zh-Hans": "奈美",
+            "zh-Hant": "奈美"
         },
         "base_character": false,
         "is_uncapped_override": false,
@@ -2489,18 +2489,18 @@
     },
     {
         "skill_id_text": {
-          "en": "Recall Emotions. Each Emotion\nboosts an aspect of Ilith & Ivy by +10",
-          "ja": "感情の回収を実行。回収した感情ごとに、\nIlith & Ivyの機能を+10する",
-          "ko": "감정을 불러일으켜, 각 감정당\nIlith & Ivy의 능력치 하나가 10 증가합니다",
-          "zh-Hans": "重拾情感。每份情感会给\nIlith & Ivy的一项能力带来+10的提升",
-          "zh-Hant": "重拾情感。每份情感會給\nIlith & Ivy的一項能力帶來+10的提升"
+            "en": "Recall Emotions. Each Emotion\nboosts an aspect of Ilith & Ivy by +10",
+            "ja": "感情の回収を実行。回収した感情ごとに、\nIlith & Ivyの機能を+10する",
+            "ko": "감정을 불러일으켜, 각 감정당\nIlith & Ivy의 능력치 하나가 10 증가합니다",
+            "zh-Hans": "重拾情感。每份情感会给\nIlith & Ivy的一项能力带来+10的提升",
+            "zh-Hant": "重拾情感。每份情感會給\nIlith & Ivy的一項能力帶來+10的提升"
         },
         "display_name": {
-          "en": "Ilith & Ivy",
-          "ja": "Ilith & Ivy",
-          "ko": "Ilith & Ivy",
-          "zh-Hans": "Ilith & Ivy",
-          "zh-Hant": "Ilith & Ivy"
+            "en": "Ilith & Ivy",
+            "ja": "Ilith & Ivy",
+            "ko": "Ilith & Ivy",
+            "zh-Hans": "Ilith & Ivy",
+            "zh-Hant": "Ilith & Ivy"
         },
         "base_character": false,
         "is_uncapped_override": false,
@@ -2522,18 +2522,18 @@
     },
     {
         "skill_id_text": {
-          "en": "HARD + Lose Emotions. Weaken an aspect of\nHikari & Vanessa by -10 per Emotion lost",
-          "ja": "HARD + 感情の喪失　感情1つの喪失につき\nHikari & Vanessaの性能1つが-10される",
-          "ko": "HARD + 감정을 상실하고, 각 감정당\nHikari & Vanessa의 능력 하나를 -10합니다",
-          "zh-Hans": "困难 + 失去情感。每份破碎的情感会使\nHikari & Vanessa的一项能力造成-10的损失",
-          "zh-Hant": "困難 + 失去情感。每份破碎的情感會使\nHikari & Vanessa的一項能力造成-10的損失"
+            "en": "HARD + Lose Emotions. Weaken an aspect of\nHikari & Vanessa by -10 per Emotion lost",
+            "ja": "HARD + 感情の喪失　感情1つの喪失につき\nHikari & Vanessaの性能1つが-10される",
+            "ko": "HARD + 감정을 상실하고, 각 감정당\nHikari & Vanessa의 능력 하나를 -10합니다",
+            "zh-Hans": "困难 + 失去情感。每份破碎的情感会使\nHikari & Vanessa的一项能力造成-10的损失",
+            "zh-Hant": "困難 + 失去情感。每份破碎的情感會使\nHikari & Vanessa的一項能力造成-10的損失"
         },
         "display_name": {
-          "en": "Hikari & Vanessa",
-          "ja": "Hikari & Vanessa",
-          "ko": "Hikari & Vanessa",
-          "zh-Hans": "Hikari & Vanessa",
-          "zh-Hant": "Hikari & Vanessa"
+            "en": "Hikari & Vanessa",
+            "ja": "Hikari & Vanessa",
+            "ko": "Hikari & Vanessa",
+            "zh-Hans": "Hikari & Vanessa",
+            "zh-Hant": "Hikari & Vanessa"
         },
         "base_character": false,
         "is_uncapped_override": false,
@@ -2746,6 +2746,74 @@
         "level": 1,
         "name": "intruder",
         "character_id": 75
+    },
+    {
+        "skill_id_text": {
+            "en": "Earn up to 20 Fragments based on\nnumber of notes hit",
+            "ja": "ノートのヒット数に応じて\n追加で最大20個の欠片を獲得",
+            "ko": "노트 히트수에 따라 최대 20 조각 획득",
+            "zh-Hans": "根据击中音符数获得最高20残片的奖励",
+            "zh-Hant": "根據擊中音符數獲得最高20殘片的獎勵"
+        },
+        "display_name": {
+            "en": "Luna & Ilot",
+            "ja": "ルナ＆イロ",
+            "ko": "루나 & 이로",
+            "zh-Hans": "露娜 & 伊洛",
+            "zh-Hant": "露娜 & 伊洛"
+        },
+        "icon": "",
+        "base_character": false,
+        "is_uncapped_override": false,
+        "is_uncapped": false,
+        "uncap_cores": [],
+        "char_type": 0,
+        "skill_id_uncap": "",
+        "skill_requires_uncap": false,
+        "skill_unlock_level": 0,
+        "skill_id": "skill_luna_ilot",
+        "overdrive": 12,
+        "prog": 12,
+        "frag": 38,
+        "level_exp": 0,
+        "exp": 0,
+        "level": 1,
+        "name": "luna_ilot",
+        "character_id": 76
+    },
+    {
+        "skill_id_text": {
+            "en": "Earn up to 20 Fragments based on\nnumber of notes hit",
+            "ja": "ノートのヒット数に応じて\n追加で最大20個の欠片を獲得",
+            "ko": "노트 히트수에 따라 최대 20 조각 획득",
+            "zh-Hans": "根据击中音符数获得最高20残片的奖励",
+            "zh-Hant": "根據擊中音符數獲得最高20殘片的獎勵"
+        },
+        "display_name": {
+            "en": "Eto & Hoppe",
+            "ja": "",
+            "ko": "",
+            "zh-Hans": "爱托 & 荷珀",
+            "zh-Hant": ""
+        },
+        "icon": "",
+        "base_character": false,
+        "is_uncapped_override": false,
+        "is_uncapped": false,
+        "uncap_cores": [],
+        "char_type": 0,
+        "skill_id_uncap": "",
+        "skill_requires_uncap": false,
+        "skill_unlock_level": 0,
+        "skill_id": "",
+        "overdrive": 12,
+        "prog": 12,
+        "frag": 38,
+        "level_exp": 0,
+        "exp": 0,
+        "level": 1,
+        "name": "",
+        "character_id": 77
     },
     {
         "skill_id_text": {

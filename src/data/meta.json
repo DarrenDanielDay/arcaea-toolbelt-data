@@ -1,7 +1,7 @@
 {
-  "version": "5.9.3c",
-  "apk": "https://arcaea-static.lowiro-cdn.net/4pFexSSv3EnAtnasVxFk%2BFCUc3klZGQTlOFeMeB%2FJf6dnD7%2FxLiB9KXbGnNuhJquCkh9KJUqY2TlT5wUQtINJPiE7dPeM9jW4y%2BCOIjv7afC7oVdAkhg5x5aL4%2FBa8o1Bp9X6Yb45PrxAFA%3D?filename=arcaea_5.9.3c.apk",
-  "time": 1723971726100,
+  "version": "5.10.1c",
+  "apk": "https://arcaea-static.lowiro-cdn.net/EwyMjXmmDcq5yu4lDetoL6lg7d3qGHf7Wlas8IDJlnSswGFl3g%2Fc4cBUWSKae40pNqRxsWZ8vs3XQRtXFeHB9TbyXI9nNxNKaYSlYEBNDCEmLyyOE0uq6BRTfPvbyGqe2%2BRdZS3eGQ8WArfWlA%3D%3D?filename=arcaea_5.10.1c.apk",
+  "time": 1725116410403,
   "index": [
     {
       "file": "alias.json",
@@ -9,15 +9,15 @@
     },
     {
       "file": "assets-info.json",
-      "hash": "e8f2d38e"
+      "hash": "7742a508"
     },
     {
       "file": "character-data.json",
-      "hash": "62a859a9"
+      "hash": "7db0f08b"
     },
     {
       "file": "characters.json",
-      "hash": "58e9ebcb"
+      "hash": "e75cd3e5"
     },
     {
       "file": "chart-data-legacy-1.json",
@@ -25,19 +25,19 @@
     },
     {
       "file": "chart-data.json",
-      "hash": "c5ecbd92"
+      "hash": "470752d4"
     },
     {
       "file": "chart-express.json",
-      "hash": "cabef595"
+      "hash": "4cbc9111"
     },
     {
       "file": "ChartConstant.json",
-      "hash": "5e444030"
+      "hash": "fc68983e"
     },
     {
       "file": "factors.json",
-      "hash": "df39d6cd"
+      "hash": "19f05f2e"
     },
     {
       "file": "item-data.json",
@@ -45,23 +45,23 @@
     },
     {
       "file": "notes-and-constants.json",
-      "hash": "2c9aba08"
+      "hash": "bb56df30"
     },
     {
       "file": "packlist.json",
-      "hash": "6288b780"
+      "hash": "22090190"
     },
     {
       "file": "songlist.json",
-      "hash": "43ed7097"
+      "hash": "23815bd5"
     },
     {
       "file": "world-maps-events.json",
-      "hash": "8b594e05"
+      "hash": "8abfd1a2"
     },
     {
       "file": "world-maps-longterm.json",
-      "hash": "9c402327"
+      "hash": "05384517"
     }
   ]
 }

@@ -31323,5 +31323,412 @@
         }
       }
     ]
+  },
+  {
+    "id": "限时：epitaxy",
+    "platforms": [
+      {
+        "length": 10
+      },
+      {
+        "length": 20,
+        "special": {
+          "type": 2,
+          "range": [
+            "epitaxy",
+            "Infinity Heaven",
+            "BATTLE NO.1",
+            "The Formula",
+            "On And On!! feat. Jenga",
+            "with U",
+            "Ouvertüre",
+            "Quon",
+            "Distorted Fate",
+            "cyanine",
+            "Stasis",
+            "CROSS†SOUL",
+            "Life is PIANO",
+            "conflict",
+            "PUPA",
+            "INTERNET OVERDOSE",
+            "Anökumene",
+            "Can I Friend You on Bassbook? Lol",
+            "NULCTRL",
+            "Inverted World",
+            "Waltz for Lorelei",
+            "MVURBD",
+            "Dual Doom Deathmatch",
+            "Vulcānus"
+          ]
+        }
+      },
+      {
+        "length": 30
+      },
+      {
+        "length": 40
+      },
+      {
+        "length": 50,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 400
+        }
+      },
+      {
+        "length": 40
+      },
+      {
+        "length": 30
+      },
+      {
+        "length": 20,
+        "special": {
+          "type": 2,
+          "range": [
+            "epitaxy",
+            "Infinity Heaven",
+            "BATTLE NO.1",
+            "The Formula",
+            "On And On!! feat. Jenga",
+            "with U",
+            "Ouvertüre",
+            "Quon",
+            "Distorted Fate",
+            "cyanine",
+            "Stasis",
+            "CROSS†SOUL",
+            "Life is PIANO",
+            "conflict",
+            "PUPA",
+            "INTERNET OVERDOSE",
+            "Anökumene",
+            "Can I Friend You on Bassbook? Lol",
+            "NULCTRL",
+            "Inverted World",
+            "Waltz for Lorelei",
+            "MVURBD",
+            "Dual Doom Deathmatch",
+            "Vulcānus"
+          ]
+        }
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 2
+        }
+      },
+      {
+        "length": 20,
+        "special": {
+          "type": 2,
+          "range": [
+            "epitaxy",
+            "Infinity Heaven",
+            "BATTLE NO.1",
+            "The Formula",
+            "On And On!! feat. Jenga",
+            "with U",
+            "Ouvertüre",
+            "Quon",
+            "Distorted Fate",
+            "cyanine",
+            "Stasis",
+            "CROSS†SOUL",
+            "Life is PIANO",
+            "conflict",
+            "PUPA",
+            "INTERNET OVERDOSE",
+            "Anökumene",
+            "Can I Friend You on Bassbook? Lol",
+            "NULCTRL",
+            "Inverted World",
+            "Waltz for Lorelei",
+            "MVURBD",
+            "Dual Doom Deathmatch",
+            "Vulcānus"
+          ]
+        }
+      },
+      {
+        "length": 30,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 400
+        }
+      },
+      {
+        "length": 40
+      },
+      {
+        "length": 50,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 10,
+        "special": {
+          "type": 3,
+          "range": [
+            "epitaxy",
+            "Infinity Heaven",
+            "BATTLE NO.1",
+            "The Formula",
+            "On And On!! feat. Jenga",
+            "with U",
+            "Ouvertüre",
+            "Quon",
+            "Distorted Fate",
+            "cyanine",
+            "Stasis",
+            "CROSS†SOUL",
+            "Life is PIANO",
+            "conflict",
+            "PUPA",
+            "INTERNET OVERDOSE",
+            "Anökumene",
+            "Can I Friend You on Bassbook? Lol",
+            "NULCTRL",
+            "Inverted World",
+            "Waltz for Lorelei",
+            "MVURBD",
+            "Dual Doom Deathmatch",
+            "Vulcānus"
+          ]
+        }
+      },
+      {
+        "length": 50,
+        "reward": {
+          "type": 1,
+          "id": "epitaxy"
+        }
+      },
+      {
+        "length": 60,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 70,
+        "special": {
+          "type": 2,
+          "range": [
+            "epitaxy",
+            "Infinity Heaven",
+            "BATTLE NO.1",
+            "The Formula",
+            "On And On!! feat. Jenga",
+            "with U",
+            "Ouvertüre",
+            "Quon",
+            "Distorted Fate",
+            "cyanine",
+            "Stasis",
+            "CROSS†SOUL",
+            "Life is PIANO",
+            "conflict",
+            "PUPA",
+            "INTERNET OVERDOSE",
+            "Anökumene",
+            "Can I Friend You on Bassbook? Lol",
+            "NULCTRL",
+            "Inverted World",
+            "Waltz for Lorelei",
+            "MVURBD",
+            "Dual Doom Deathmatch",
+            "Vulcānus"
+          ]
+        }
+      },
+      {
+        "length": 80,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 400
+        }
+      },
+      {
+        "length": 90
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "次元结晶",
+          "count": 1
+        }
+      }
+    ],
+    "expire": 1726758000000
+  },
+  {
+    "id": "限时：Rotaeno",
+    "platforms": [
+      {
+        "length": 25
+      },
+      {
+        "length": 25
+      },
+      {
+        "length": 25
+      },
+      {
+        "length": 25
+      },
+      {
+        "length": 100,
+        "special": {
+          "type": 2,
+          "range": [
+            "Inverted World",
+            "Waltz for Lorelei",
+            "MVURBD",
+            "Dual Doom Deathmatch",
+            "Vulcānus",
+            "epitaxy"
+          ]
+        }
+      },
+      {
+        "length": 25,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 500
+        }
+      },
+      {
+        "length": 25
+      },
+      {
+        "length": 25
+      },
+      {
+        "length": 25
+      },
+      {
+        "length": 100,
+        "special": {
+          "type": 0,
+          "count": 2
+        }
+      },
+      {
+        "length": 25,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 2
+        }
+      },
+      {
+        "length": 25
+      },
+      {
+        "length": 25
+      },
+      {
+        "length": 25
+      },
+      {
+        "length": 100,
+        "special": {
+          "type": 2,
+          "range": [
+            "Inverted World",
+            "Waltz for Lorelei",
+            "MVURBD",
+            "Dual Doom Deathmatch",
+            "Vulcānus",
+            "epitaxy"
+          ]
+        }
+      },
+      {
+        "length": 25,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 750
+        }
+      },
+      {
+        "length": 25
+      },
+      {
+        "length": 25
+      },
+      {
+        "length": 25
+      },
+      {
+        "length": 100,
+        "special": {
+          "type": 0,
+          "count": 2
+        }
+      },
+      {
+        "length": 25,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 2
+        }
+      },
+      {
+        "length": 25
+      },
+      {
+        "length": 25
+      },
+      {
+        "length": 25
+      },
+      {
+        "length": 100,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 1000
+        }
+      },
+      {
+        "length": 100,
+        "special": {
+          "type": 3,
+          "range": [
+            "Inverted World",
+            "Waltz for Lorelei",
+            "MVURBD",
+            "Dual Doom Deathmatch",
+            "Vulcānus",
+            "epitaxy"
+          ]
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 2,
+          "id": 77
+        }
+      }
+    ],
+    "expire": 1726758000000
   }
 ]

@@ -19244,5 +19244,299 @@
         "songId": "alterego"
       }
     ]
+  },
+  {
+    "bpm": "183",
+    "side": 0,
+    "id": "epitaxy",
+    "name": "epitaxy",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "World Extend 3",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 3,
+        "difficulty": "pst",
+        "designer": "Dec18",
+        "id": "epitaxy@pst",
+        "level": 3,
+        "note": 826,
+        "songId": "epitaxy"
+      },
+      {
+        "constant": 6,
+        "difficulty": "prs",
+        "designer": "Dec18",
+        "id": "epitaxy@prs",
+        "level": 6,
+        "note": 939,
+        "songId": "epitaxy"
+      },
+      {
+        "constant": 8.6,
+        "difficulty": "ftr",
+        "designer": "Dec18",
+        "id": "epitaxy@ftr",
+        "level": 8,
+        "note": 1177,
+        "songId": "epitaxy"
+      },
+      {
+        "constant": 9.6,
+        "difficulty": "etr",
+        "designer": "Dec18",
+        "id": "epitaxy@etr",
+        "level": 9,
+        "note": 1410,
+        "songId": "epitaxy"
+      }
+    ]
+  },
+  {
+    "bpm": "220",
+    "side": 0,
+    "id": "waltzforlorelei",
+    "name": "Waltz for Lorelei",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Rotaeno",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 2.5,
+        "difficulty": "pst",
+        "designer": "antymis",
+        "id": "waltzforlorelei@pst",
+        "level": 2,
+        "note": 664,
+        "songId": "waltzforlorelei"
+      },
+      {
+        "constant": 5.5,
+        "difficulty": "prs",
+        "designer": "antymis",
+        "id": "waltzforlorelei@prs",
+        "level": 5,
+        "note": 814,
+        "songId": "waltzforlorelei"
+      },
+      {
+        "constant": 8.8,
+        "difficulty": "ftr",
+        "designer": "antymis",
+        "id": "waltzforlorelei@ftr",
+        "level": 8,
+        "note": 916,
+        "songId": "waltzforlorelei",
+        "plus": true
+      },
+      {
+        "constant": 9.8,
+        "difficulty": "etr",
+        "designer": "antymis",
+        "id": "waltzforlorelei@etr",
+        "level": 9,
+        "note": 999,
+        "songId": "waltzforlorelei",
+        "plus": true
+      }
+    ]
+  },
+  {
+    "bpm": "222",
+    "side": 1,
+    "id": "dualdoom",
+    "name": "Dual Doom Deathmatch",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Rotaeno",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 3.5,
+        "difficulty": "pst",
+        "designer": "NITRO",
+        "id": "dualdoom@pst",
+        "level": 3,
+        "note": 838,
+        "songId": "dualdoom"
+      },
+      {
+        "constant": 6.5,
+        "difficulty": "prs",
+        "designer": "NITRO",
+        "id": "dualdoom@prs",
+        "level": 6,
+        "note": 830,
+        "songId": "dualdoom"
+      },
+      {
+        "constant": 8.9,
+        "difficulty": "ftr",
+        "designer": "NITRO",
+        "id": "dualdoom@ftr",
+        "level": 8,
+        "note": 1094,
+        "songId": "dualdoom",
+        "plus": true
+      },
+      {
+        "constant": 10.3,
+        "difficulty": "etr",
+        "designer": "NITRO",
+        "id": "dualdoom@etr",
+        "level": 10,
+        "note": 1292,
+        "songId": "dualdoom"
+      }
+    ]
+  },
+  {
+    "bpm": "180",
+    "side": 0,
+    "id": "invertedworld",
+    "name": "Inverted World",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Rotaeno",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 3,
+        "difficulty": "pst",
+        "designer": "↑én↓",
+        "id": "invertedworld@pst",
+        "level": 3,
+        "note": 525,
+        "songId": "invertedworld"
+      },
+      {
+        "constant": 7,
+        "difficulty": "prs",
+        "designer": "↑én↓",
+        "id": "invertedworld@prs",
+        "level": 7,
+        "note": 646,
+        "songId": "invertedworld"
+      },
+      {
+        "constant": 9.5,
+        "difficulty": "ftr",
+        "designer": "↑én↓",
+        "id": "invertedworld@ftr",
+        "level": 9,
+        "note": 940,
+        "songId": "invertedworld"
+      },
+      {
+        "constant": 10.7,
+        "difficulty": "etr",
+        "designer": "聖輪↓↑夜浪",
+        "id": "invertedworld@etr",
+        "level": 10,
+        "note": 1065,
+        "songId": "invertedworld",
+        "plus": true
+      }
+    ]
+  },
+  {
+    "bpm": "175",
+    "side": 1,
+    "id": "mvurbd",
+    "name": "MVURBD",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Rotaeno",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 4.5,
+        "difficulty": "pst",
+        "designer": "絶滅",
+        "id": "mvurbd@pst",
+        "level": 4,
+        "note": 999,
+        "songId": "mvurbd"
+      },
+      {
+        "constant": 7.8,
+        "difficulty": "prs",
+        "designer": "絶滅",
+        "id": "mvurbd@prs",
+        "level": 7,
+        "note": 1031,
+        "songId": "mvurbd",
+        "plus": true
+      },
+      {
+        "constant": 10.6,
+        "difficulty": "ftr",
+        "designer": "絶滅",
+        "id": "mvurbd@ftr",
+        "level": 10,
+        "note": 1497,
+        "songId": "mvurbd"
+      }
+    ]
+  },
+  {
+    "bpm": "212",
+    "side": 0,
+    "id": "vulcanus",
+    "name": "Vulcānus",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Rotaeno",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 5.5,
+        "difficulty": "pst",
+        "designer": "Volution",
+        "id": "vulcanus@pst",
+        "level": 5,
+        "note": 968,
+        "songId": "vulcanus"
+      },
+      {
+        "constant": 8.5,
+        "difficulty": "prs",
+        "designer": "Volution CCCLX",
+        "id": "vulcanus@prs",
+        "level": 8,
+        "note": 1234,
+        "songId": "vulcanus"
+      },
+      {
+        "constant": 10.9,
+        "difficulty": "ftr",
+        "designer": "Volution IV",
+        "id": "vulcanus@ftr",
+        "level": 10,
+        "note": 1542,
+        "songId": "vulcanus",
+        "plus": true
+      }
+    ]
   }
 ]
