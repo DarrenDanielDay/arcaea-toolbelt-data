@@ -59,6 +59,44 @@ export const ChartConstantGenerator = () => {
   const newChartsContainerRef = jsxRef();
 
   /**
+   * @param {ClipboardEvent} e
+   */
+  function handlePaste(e) {
+    const { target, clipboardData } = e;
+    if (!(target instanceof HTMLInputElement) || !clipboardData) {
+      return;
+    }
+    const { current: panel } = newChartsContainerRef;
+    if (!panel) {
+      return;
+    }
+    const inputs = [...panel.querySelectorAll(`input${[...target.classList].map((c) => `.${c}`).join("")}`)].filter(
+      (e) => e instanceof HTMLInputElement
+    );
+    const index = inputs.indexOf(target);
+    if (index < 0) {
+      return;
+    }
+    const text = clipboardData.getData("text");
+    console.log(inputs);
+    const fills = text
+      .split(/\s|\n/g)
+      .map((x) => x.trim())
+      .filter(Boolean);
+    let pasted = false;
+    for (let i = 0; i < fills.length; i++) {
+      const fill = fills[i];
+      const input = inputs[index + i];
+      if (input) {
+        input.value = fill;
+        pasted = true;
+      }
+    }
+    if (pasted) {
+      e.preventDefault();
+    }
+  }
+  /**
    * @param {HTMLDivElement} container
    */
   function getFilledChartConstants(container) {
@@ -210,7 +248,7 @@ export const ChartConstantGenerator = () => {
     generateText(toJSON(Object.values(songs)));
   }
 
-  return html`<div class="m-3">
+  return html`<div class="m-3" onPaste=${handlePaste}>
     <form ref=${binding(form)} onsubmit="return false">
       <div class="input-group mb-3">
         <label for="use-slst-file" class="input-group-text">songlist</label>

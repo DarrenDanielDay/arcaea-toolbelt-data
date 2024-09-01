@@ -87,7 +87,7 @@ export async function generateFactorsByKeyFactors(keyFactorsList) {
         continue;
       }
       if (f20 == null) {
-        console.log(`Character ${character.name.en} has no lv20 factor!`);
+        console.log(`Character ${character.name.en} (id = ${character.id}) has no lv20 factor!`);
         continue;
       }
       for (let level = min; level <= max; ++level) {
