@@ -2628,53 +2628,47 @@
         "character_id": 72
     },
     {
-        "skill_id_text": {
-            "en": "",
-            "ja": "",
-            "ko": "",
-            "zh-Hans": "",
-            "zh-Hant": ""
+        "skill_id_uncap_text": {
+            "en": "HARD - Gauge persists + Earn +X Fragments\nReward increases for consecutive clears",
+            "ja": "HARD - 想起率は持ち越し + 欠片をX個獲得\n連続クリアの度、獲得量が上昇",
+            "ko": "HARD - 클리어시 회상률 유지 + X 조각 획득\n연속 클리어시 조각 획득량 증가",
+            "zh-Hans": "困难 - 回忆率留存至下一曲目 + 获得+X残片\n奖励随连续通关次数上升",
+            "zh-Hant": "困難 - 回憶率留存至下一曲目 + 獲得+X殘片\n獎勵隨連續通關次數上升"
         },
-        "variant": {
-            "en": "",
-            "ja": "",
-            "ko": "",
-            "zh-Hans": "",
-            "zh-Hant": ""
+        "skill_id_text": {
+            "en": "HARD + Earn +X Fragments\nReward increases for consecutive clears",
+            "ja": "HARD + 欠片をX個獲得\n連続クリアの度、獲得量が上昇",
+            "ko": "HARD + X 조각 획득\n연속 클리어시 조각 획득량 증가",
+            "zh-Hans": "困难 - 获得+X残片\n奖励随连续通关次数上升",
+            "zh-Hant": "困難 - 獲得+X殘片\n獎勵隨連續通關次數上升"
         },
         "display_name": {
             "en": "Luin",
-            "ja": "",
-            "ko": "",
+            "ja": "ルーン",
+            "ko": "룬",
             "zh-Hans": "露恩",
-            "zh-Hant": ""
+            "zh-Hant": "露恩"
         },
+        "icon": "7b38682cd25ad9892e7b062f114ff5d7",
         "base_character": false,
         "is_uncapped_override": false,
-        "is_uncapped": false,
+        "is_uncapped": true,
         "uncap_cores": [],
-        "char_type": 0,
-        "skill_id_uncap": "",
+        "char_type": 2,
+        "skill_id_uncap": "skill_luin_uncap",
         "skill_requires_uncap": false,
         "skill_unlock_level": 0,
-        "skill_id": "",
-        "overdrive": -1,
-        "prog": -1,
-        "frag": -1,
-        "level_exp": 0,
-        "exp": 0,
-        "level": 1,
-        "name": "intruder",
+        "skill_id": "skill_luin",
+        "overdrive": 54,
+        "prog": 80,
+        "frag": 70,
+        "level_exp": 10000,
+        "exp": 10000,
+        "level": 20,
+        "name": "luin",
         "character_id": 73
     },
     {
-        "skill_id_text": {
-            "en": "",
-            "ja": "",
-            "ko": "",
-            "zh-Hans": "",
-            "zh-Hant": ""
-        },
         "variant": {
             "en": "Cadenza",
             "ja": "Cadenza",
@@ -2689,6 +2683,7 @@
             "zh-Hans": "维塔",
             "zh-Hant": "維塔"
         },
+        "icon": "a258cc23a8bb181d718958c2d1231a22",
         "base_character": false,
         "is_uncapped_override": false,
         "is_uncapped": false,
@@ -2698,37 +2693,31 @@
         "skill_requires_uncap": false,
         "skill_unlock_level": 0,
         "skill_id": "",
-        "overdrive": -1,
-        "prog": -1,
-        "frag": -1,
+        "overdrive": 45,
+        "prog": 45,
+        "frag": 45,
         "level_exp": 0,
         "exp": 0,
         "level": 1,
-        "name": "intruder",
+        "name": "vita_cadenza_ost",
         "character_id": 74
     },
     {
         "skill_id_text": {
-            "en": "",
-            "ja": "",
-            "ko": "",
-            "zh-Hans": "",
-            "zh-Hant": ""
-        },
-        "variant": {
-            "en": "",
-            "ja": "",
-            "ko": "",
-            "zh-Hans": "",
-            "zh-Hant": ""
+            "en": "Recommends songs daily. Gain 41 Fragments\non first clear of each song",
+            "ja": "日替わりで楽曲をおすすめする\n該当楽曲のクリアで欠片41個を獲得",
+            "ko": "매일 악곡 추천\n추천받은 악곡 클리어시 41 조각 획득",
+            "zh-Hans": "每日推荐歌曲。首次通关\n推荐曲目可获得41个残片",
+            "zh-Hant": "每日推薦歌曲。首次通關\n推薦曲目可獲得41個殘片"
         },
         "display_name": {
             "en": "Ai-chan",
-            "ja": "",
-            "ko": "",
+            "ja": "Ai-chan",
+            "ko": "아이쨩",
             "zh-Hans": "Ai酱",
-            "zh-Hant": ""
+            "zh-Hant": "Ai醬"
         },
+        "icon": "ce0a6662ccca5a297632f9603349ca6d",
         "base_character": false,
         "is_uncapped_override": false,
         "is_uncapped": false,
@@ -2737,14 +2726,14 @@
         "skill_id_uncap": "",
         "skill_requires_uncap": false,
         "skill_unlock_level": 0,
-        "skill_id": "",
-        "overdrive": -1,
-        "prog": -1,
-        "frag": -1,
-        "level_exp": 0,
-        "exp": 0,
-        "level": 1,
-        "name": "intruder",
+        "skill_id": "skill_aichan",
+        "overdrive": 41,
+        "prog": 41,
+        "frag": 61.6,
+        "level_exp": 10000,
+        "exp": 10000,
+        "level": 20,
+        "name": "aichan",
         "character_id": 75
     },
     {
@@ -2783,20 +2772,20 @@
     },
     {
         "skill_id_text": {
-            "en": "Earn up to 20 Fragments based on\nnumber of notes hit",
-            "ja": "ノートのヒット数に応じて\n追加で最大20個の欠片を獲得",
-            "ko": "노트 히트수에 따라 최대 20 조각 획득",
-            "zh-Hans": "根据击中音符数获得最高20残片的奖励",
-            "zh-Hant": "根據擊中音符數獲得最高20殘片的獎勵"
+            "en": "World progress doubled when Stamina\nis greater than or equal to 6",
+            "ja": "スタミナが6以上のとき\nWorldの進行度が2倍",
+            "ko": "스태미나 6 이상일시 월드 진행도 두배",
+            "zh-Hans": "体力大于等于6格时世界进度翻倍",
+            "zh-Hant": "體力大於等於6格時世界進度翻倍"
         },
         "display_name": {
             "en": "Eto & Hoppe",
-            "ja": "",
-            "ko": "",
+            "ja": "エト＆ホッパ",
+            "ko": "에토 & 호페",
             "zh-Hans": "爱托 & 荷珀",
-            "zh-Hant": ""
+            "zh-Hant": "愛托 & 荷珀"
         },
-        "icon": "",
+        "icon": "79e65f8106dd047c4e94d37a50da2e75",
         "base_character": false,
         "is_uncapped_override": false,
         "is_uncapped": false,
@@ -2805,14 +2794,14 @@
         "skill_id_uncap": "",
         "skill_requires_uncap": false,
         "skill_unlock_level": 0,
-        "skill_id": "",
-        "overdrive": 12,
-        "prog": 12,
-        "frag": 38,
-        "level_exp": 0,
-        "exp": 0,
-        "level": 1,
-        "name": "",
+        "skill_id": "skill_eto_hoppe",
+        "overdrive": 19.006414929289985,
+        "prog": 31.01108033240997,
+        "frag": 22.508747630849978,
+        "level_exp": 50,
+        "exp": 67.43088,
+        "level": 2,
+        "name": "eto_hoppe",
         "character_id": 77
     },
     {
