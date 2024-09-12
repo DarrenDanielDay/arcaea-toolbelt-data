@@ -8034,5 +8034,27 @@
       null,
       null
     ]
+  },
+  {
+    "id": "rainofconflict",
+    "charts": [
+      {
+        "notes": 831,
+        "constant": 5
+      },
+      {
+        "notes": 934,
+        "constant": 7.8
+      },
+      {
+        "notes": 1164,
+        "constant": 9.5
+      },
+      null,
+      {
+        "notes": 1247,
+        "constant": 10.5
+      }
+    ]
   }
 ]

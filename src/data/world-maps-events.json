@@ -3827,7 +3827,8 @@
           "count": 1
         }
       }
-    ]
+    ],
+    "expire": 1728572400000
   },
   {
     "id": "限时：Phantasia",
@@ -17275,8 +17276,7 @@
           "id": 50
         }
       }
-    ],
-    "expire": 1725548400000
+    ]
   },
   {
     "id": "限时：blue_comet",
@@ -31730,5 +31730,321 @@
       }
     ],
     "expire": 1726758000000
+  },
+  {
+    "id": "限时：Rain_of_Conflict_in_a_Radiant_Abyss",
+    "platforms": [
+      {
+        "length": 20,
+        "special": {
+          "type": 2,
+          "range": [
+            "Vexaria",
+            "Shades of Light in a Transcendent Realm",
+            "Essence of Twilight"
+          ]
+        }
+      },
+      {
+        "length": 17
+      },
+      {
+        "length": 3
+      },
+      {
+        "length": 9
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 105
+        }
+      },
+      {
+        "length": 20,
+        "special": {
+          "type": 2,
+          "range": [
+            "Vexaria",
+            "Shades of Light in a Transcendent Realm",
+            "Essence of Twilight",
+            "Ignotus"
+          ]
+        }
+      },
+      {
+        "length": 17
+      },
+      {
+        "length": 7
+      },
+      {
+        "length": 18
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 113
+        }
+      },
+      {
+        "length": 20,
+        "special": {
+          "type": 2,
+          "range": [
+            "Vexaria",
+            "Shades of Light in a Transcendent Realm",
+            "Essence of Twilight",
+            "Ignotus",
+            "Axium Crisis"
+          ]
+        }
+      },
+      {
+        "length": 17
+      },
+      {
+        "length": 11
+      },
+      {
+        "length": 3
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 150
+        }
+      },
+      {
+        "length": 20,
+        "special": {
+          "type": 2,
+          "range": [
+            "Vexaria",
+            "Shades of Light in a Transcendent Realm",
+            "Essence of Twilight",
+            "Ignotus",
+            "Axium Crisis",
+            "Solitary Dream"
+          ]
+        }
+      },
+      {
+        "length": 19
+      },
+      {
+        "length": 3
+      },
+      {
+        "length": 9
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 193
+        }
+      },
+      {
+        "length": 20,
+        "special": {
+          "type": 2,
+          "range": [
+            "Vexaria",
+            "Shades of Light in a Transcendent Realm",
+            "Essence of Twilight",
+            "Ignotus",
+            "Axium Crisis",
+            "Solitary Dream",
+            "Vivid Theory"
+          ]
+        }
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 5
+      },
+      {
+        "length": 27
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 300
+        }
+      },
+      {
+        "length": 20,
+        "special": {
+          "type": 2,
+          "range": [
+            "Vexaria",
+            "Shades of Light in a Transcendent Realm",
+            "Essence of Twilight",
+            "Ignotus",
+            "Axium Crisis",
+            "Solitary Dream",
+            "Vivid Theory",
+            "nέο κόsmo"
+          ]
+        }
+      },
+      {
+        "length": 21
+      },
+      {
+        "length": 5
+      },
+      {
+        "length": 18
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 100
+        }
+      },
+      {
+        "length": 20,
+        "special": {
+          "type": 2,
+          "range": [
+            "Vexaria",
+            "Shades of Light in a Transcendent Realm",
+            "Essence of Twilight",
+            "Ignotus",
+            "Axium Crisis",
+            "Solitary Dream",
+            "Vivid Theory",
+            "nέο κόsmo"
+          ]
+        }
+      },
+      {
+        "length": 21
+      },
+      {
+        "length": 12
+      },
+      {
+        "length": 9
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 310
+        }
+      },
+      {
+        "length": 20,
+        "special": {
+          "type": 3,
+          "range": [
+            "Vexaria",
+            "Shades of Light in a Transcendent Realm",
+            "Essence of Twilight",
+            "Ignotus",
+            "Axium Crisis",
+            "Solitary Dream",
+            "Vivid Theory",
+            "nέο κόsmo"
+          ]
+        }
+      },
+      {
+        "length": 22
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 20,
+        "special": {
+          "type": 3,
+          "range": [
+            "Vexaria",
+            "Shades of Light in a Transcendent Realm",
+            "Essence of Twilight",
+            "Ignotus",
+            "Axium Crisis",
+            "Solitary Dream",
+            "Vivid Theory",
+            "nέο κόsmo"
+          ]
+        }
+      },
+      {
+        "length": 23
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 20,
+        "special": {
+          "type": 3,
+          "range": [
+            "Vexaria",
+            "Shades of Light in a Transcendent Realm",
+            "Essence of Twilight",
+            "Ignotus",
+            "Axium Crisis",
+            "Solitary Dream",
+            "Vivid Theory",
+            "nέο κόsmo"
+          ]
+        }
+      },
+      {
+        "length": 24
+      },
+      {
+        "length": 9,
+        "special": {
+          "type": 2,
+          "range": "Shades of Light in a Transcendent Realm"
+        }
+      },
+      {
+        "length": 12,
+        "special": {
+          "type": 2,
+          "range": "Shades of Light in a Transcendent Realm"
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 1,
+          "id": "rainofconflict"
+        }
+      }
+    ],
+    "expire": 1727362800000
   }
 ]

@@ -6795,5 +6795,24 @@
     },
     null,
     null
+  ],
+  "rainofconflict": [
+    {
+      "constant": 5,
+      "old": false
+    },
+    {
+      "constant": 7.8,
+      "old": false
+    },
+    {
+      "constant": 9.5,
+      "old": false
+    },
+    null,
+    {
+      "constant": 10.5,
+      "old": false
+    }
   ]
 }

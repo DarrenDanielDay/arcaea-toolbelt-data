@@ -1,106 +1,20 @@
 [
   {
-    "songId": "epitaxy",
+    "songId": "rainofconflict",
     "charts": [
       {
-        "constant": 3
+        "constant": 5
       },
       {
-        "constant": 6
-      },
-      {
-        "constant": 8.6
-      },
-      null,
-      {
-        "constant": 9.6
-      }
-    ]
-  },
-  {
-    "songId": "waltzforlorelei",
-    "charts": [
-      {
-        "constant": 2.5
-      },
-      {
-        "constant": 5.5
-      },
-      {
-        "constant": 8.8
-      },
-      null,
-      {
-        "constant": 9.8
-      }
-    ]
-  },
-  {
-    "songId": "dualdoom",
-    "charts": [
-      {
-        "constant": 3.5
-      },
-      {
-        "constant": 6.5
-      },
-      {
-        "constant": 8.9
-      },
-      null,
-      {
-        "constant": 10.3
-      }
-    ]
-  },
-  {
-    "songId": "invertedworld",
-    "charts": [
-      {
-        "constant": 3
-      },
-      {
-        "constant": 7
+        "constant": 7.8
       },
       {
         "constant": 9.5
       },
       null,
       {
-        "constant": 10.7
+        "constant": 10.5
       }
-    ]
-  },
-  {
-    "songId": "mvurbd",
-    "charts": [
-      {
-        "constant": 4.5
-      },
-      {
-        "constant": 7.8
-      },
-      {
-        "constant": 10.6
-      },
-      null,
-      null
-    ]
-  },
-  {
-    "songId": "vulcanus",
-    "charts": [
-      {
-        "constant": 5.5
-      },
-      {
-        "constant": 8.5
-      },
-      {
-        "constant": 10.9
-      },
-      null,
-      null
     ]
   }
 ]

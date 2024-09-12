@@ -26029,6 +26029,74 @@
           "ratingPlus": true
         }
       ]
+    },
+    {
+      "idx": 413,
+      "id": "rainofconflict",
+      "title_localized": {
+        "en": "Rain of Conflict in a Radiant Abyss"
+      },
+      "artist": "ak+q",
+      "search_title": {
+        "ja": [
+          "れいんおぶこんふりくといんあれでぃあんとあびす",
+          "れいんおぶこんふりくといんあらじあんとあびす",
+          "れいんおぶこんふりくといんあらでぃあんとあびす",
+          ""
+        ],
+        "ko": [
+          "레인 오브 컨플릭트 인 어 래디언트 어비스"
+        ]
+      },
+      "search_artist": {
+        "ja": [
+          "えーけーぷらすきゅー"
+        ],
+        "ko": [
+          "에이케이 플러스 큐"
+        ]
+      },
+      "bpm": "195",
+      "bpm_base": 195,
+      "set": "single",
+      "purchase": "rainofconflict",
+      "category": "partner",
+      "audioPreview": 0,
+      "audioPreviewEnd": 0,
+      "side": 1,
+      "bg": "finale_conflict",
+      "bg_inverse": "finale_light",
+      "remote_dl": true,
+      "world_unlock": false,
+      "date": 1726099200,
+      "version": "5.10",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "Nitro “v20170309”",
+          "jacketDesigner": "辷",
+          "rating": 5
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "Nitro “v20170309”",
+          "jacketDesigner": "辷",
+          "rating": 7,
+          "ratingPlus": true
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "Nitro “v20170309”",
+          "jacketDesigner": "辷",
+          "rating": 9
+        },
+        {
+          "ratingClass": 4,
+          "chartDesigner": "Nitro meets Toaster “v20170309”",
+          "jacketDesigner": "辷",
+          "rating": 10
+        }
+      ]
     }
   ]
 }

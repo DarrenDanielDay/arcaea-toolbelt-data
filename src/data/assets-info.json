@@ -2992,6 +2992,13 @@
         "1080_base.jpg",
         "1080_base_256.jpg"
       ]
+    },
+    {
+      "id": "rainofconflict",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
     }
   ],
   "banners": [
@@ -3018,6 +3025,12 @@
       "file": "online_banner_2024_09.png",
       "year": 2024,
       "month": 9
+    },
+    {
+      "type": "aol",
+      "file": "online_banner_2024_10.png",
+      "year": 2024,
+      "month": 10
     },
     {
       "type": "course",
