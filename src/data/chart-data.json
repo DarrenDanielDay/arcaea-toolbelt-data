@@ -52,7 +52,10 @@
         "note": 728,
         "songId": "sayonarahatsukoi"
       }
-    ]
+    ],
+    "version": {
+      "added": "1.0"
+    }
   },
   {
     "bpm": "75 - 210",
@@ -117,7 +120,10 @@
           "cover": true
         }
       }
-    ]
+    ],
+    "version": {
+      "added": "1.0"
+    }
   },
   {
     "bpm": "190",
@@ -178,7 +184,10 @@
           "cover": true
         }
       }
-    ]
+    ],
+    "version": {
+      "added": "1.0"
+    }
   },
   {
     "bpm": "75 - 180",
@@ -228,7 +237,10 @@
         "songId": "viyella",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "1.0"
+    }
   },
   {
     "bpm": "140",
@@ -271,7 +283,10 @@
         "songId": "rise",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "1.0"
+    }
   },
   {
     "bpm": "165",
@@ -316,7 +331,10 @@
         "note": 861,
         "songId": "lucifer"
       }
-    ]
+    ],
+    "version": {
+      "added": "1.0"
+    }
   },
   {
     "bpm": "189",
@@ -378,7 +396,10 @@
           "cover": true
         }
       }
-    ]
+    ],
+    "version": {
+      "added": "1.0"
+    }
   },
   {
     "bpm": "165",
@@ -422,7 +443,10 @@
         "note": 864,
         "songId": "hearditsaid"
       }
-    ]
+    ],
+    "version": {
+      "added": "1.0"
+    }
   },
   {
     "bpm": "136",
@@ -471,7 +495,10 @@
         "note": 808,
         "songId": "babaroque"
       }
-    ]
+    ],
+    "version": {
+      "added": "1.0"
+    }
   },
   {
     "bpm": "100",
@@ -517,7 +544,10 @@
         "songId": "memoryfactory",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "1.0"
+    }
   },
   {
     "bpm": "150",
@@ -561,7 +591,10 @@
         "note": 978,
         "songId": "snowwhite"
       }
-    ]
+    ],
+    "version": {
+      "added": "1.0"
+    }
   },
   {
     "bpm": "174",
@@ -605,7 +638,10 @@
         "note": 1015,
         "songId": "relentless"
       }
-    ]
+    ],
+    "version": {
+      "added": "1.0"
+    }
   },
   {
     "bpm": "170",
@@ -664,7 +700,10 @@
           "cover": true
         }
       }
-    ]
+    ],
+    "version": {
+      "added": "1.0"
+    }
   },
   {
     "bpm": "180",
@@ -720,7 +759,10 @@
           "cover": true
         }
       }
-    ]
+    ],
+    "version": {
+      "added": "1.0"
+    }
   },
   {
     "bpm": "164",
@@ -766,7 +808,10 @@
         "note": 1204,
         "songId": "essenceoftwilight"
       }
-    ]
+    ],
+    "version": {
+      "added": "1.0"
+    }
   },
   {
     "bpm": "144",
@@ -823,7 +868,10 @@
           "cover": true
         }
       }
-    ]
+    ],
+    "version": {
+      "added": "1.0"
+    }
   },
   {
     "bpm": "174",
@@ -883,7 +931,10 @@
           "name": "PRAGMATISM -RESURRECTION-"
         }
       }
-    ]
+    ],
+    "version": {
+      "added": "1.0"
+    }
   },
   {
     "bpm": "185",
@@ -933,7 +984,10 @@
         "note": 1151,
         "songId": "sheriruth"
       }
-    ]
+    ],
+    "version": {
+      "added": "1.0"
+    }
   },
   {
     "bpm": "180",
@@ -989,7 +1043,10 @@
           "cover": true
         }
       }
-    ]
+    ],
+    "version": {
+      "added": "1.0"
+    }
   },
   {
     "bpm": "210",
@@ -1047,7 +1104,10 @@
           "cover": true
         }
       }
-    ]
+    ],
+    "version": {
+      "added": "1.0"
+    }
   },
   {
     "bpm": "169",
@@ -1091,7 +1151,10 @@
         "note": 921,
         "songId": "dandelion"
       }
-    ]
+    ],
+    "version": {
+      "added": "1.0"
+    }
   },
   {
     "bpm": "186",
@@ -1136,7 +1199,10 @@
         "note": 851,
         "songId": "anokumene"
       }
-    ]
+    ],
+    "version": {
+      "added": "1.0"
+    }
   },
   {
     "bpm": "160",
@@ -1197,7 +1263,10 @@
           "cover": true
         }
       }
-    ]
+    ],
+    "version": {
+      "added": "1.0"
+    }
   },
   {
     "bpm": "132",
@@ -1258,7 +1327,10 @@
           "cover": true
         }
       }
-    ]
+    ],
+    "version": {
+      "added": "1.0"
+    }
   },
   {
     "bpm": "195",
@@ -1304,7 +1376,10 @@
         "songId": "flashback",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "1.0"
+    }
   },
   {
     "bpm": "180",
@@ -1348,7 +1423,10 @@
         "note": 930,
         "songId": "flyburg"
       }
-    ]
+    ],
+    "version": {
+      "added": "1.0"
+    }
   },
   {
     "bpm": "260",
@@ -1393,7 +1471,10 @@
         "note": 980,
         "songId": "nirvluce"
       }
-    ]
+    ],
+    "version": {
+      "added": "1.0"
+    }
   },
   {
     "bpm": "126",
@@ -1440,7 +1521,10 @@
         "songId": "paradise",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "1.0"
+    }
   },
   {
     "bpm": "160",
@@ -1485,7 +1569,10 @@
         "songId": "brandnewworld",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "1.0"
+    }
   },
   {
     "bpm": "180",
@@ -1530,7 +1617,10 @@
         "note": 955,
         "songId": "dataerror"
       }
-    ]
+    ],
+    "version": {
+      "added": "1.1"
+    }
   },
   {
     "bpm": "200",
@@ -1577,7 +1667,10 @@
         "note": 1081,
         "songId": "crosssoul"
       }
-    ]
+    ],
+    "version": {
+      "added": "1.1"
+    }
   },
   {
     "bpm": "176",
@@ -1624,7 +1717,10 @@
         "note": 1013,
         "songId": "yourvoiceso"
       }
-    ]
+    ],
+    "version": {
+      "added": "1.1"
+    }
   },
   {
     "bpm": "196",
@@ -1671,7 +1767,10 @@
         "songId": "chronostasis",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "1.1"
+    }
   },
   {
     "bpm": "180",
@@ -1731,7 +1830,10 @@
           "cover": true
         }
       }
-    ]
+    ],
+    "version": {
+      "added": "1.1"
+    }
   },
   {
     "bpm": "160",
@@ -1779,7 +1881,10 @@
         "songId": "moonlightofsandcastle",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "1.1"
+    }
   },
   {
     "bpm": "180",
@@ -1824,7 +1929,10 @@
         "note": 825,
         "songId": "reconstruction"
       }
-    ]
+    ],
+    "version": {
+      "added": "1.1"
+    }
   },
   {
     "bpm": "205",
@@ -1871,7 +1979,10 @@
         "songId": "evoltex",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "1.1"
+    }
   },
   {
     "bpm": "152",
@@ -1918,7 +2029,10 @@
         "note": 963,
         "songId": "oracle"
       }
-    ]
+    ],
+    "version": {
+      "added": "1.1"
+    }
   },
   {
     "bpm": "202",
@@ -1963,7 +2077,10 @@
         "note": 1030,
         "songId": "aterlbus"
       }
-    ]
+    ],
+    "version": {
+      "added": "1.1"
+    }
   },
   {
     "bpm": "230",
@@ -2019,7 +2136,10 @@
         "songId": "clotho",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "1.1"
+    }
   },
   {
     "bpm": "184",
@@ -2067,7 +2187,10 @@
         "note": 805,
         "songId": "impurebird"
       }
-    ]
+    ],
+    "version": {
+      "added": "1.1"
+    }
   },
   {
     "bpm": "170",
@@ -2128,7 +2251,10 @@
           "name": "Ignotus Afterburn"
         }
       }
-    ]
+    ],
+    "version": {
+      "added": "1.1"
+    }
   },
   {
     "bpm": "155",
@@ -2174,7 +2300,10 @@
         "songId": "lethaeus",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "1.1"
+    }
   },
   {
     "bpm": "187",
@@ -2221,7 +2350,10 @@
         "songId": "romancewars",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "1.1"
+    }
   },
   {
     "bpm": "138",
@@ -2263,7 +2395,10 @@
         "note": 655,
         "songId": "blossoms"
       }
-    ]
+    ],
+    "version": {
+      "added": "1.1"
+    }
   },
   {
     "bpm": "180",
@@ -2323,7 +2458,10 @@
           "cover": true
         }
       }
-    ]
+    ],
+    "version": {
+      "added": "1.1"
+    }
   },
   {
     "bpm": "132",
@@ -2367,7 +2505,10 @@
         "note": 713,
         "songId": "genesis"
       }
-    ]
+    ],
+    "version": {
+      "added": "1.1"
+    }
   },
   {
     "bpm": "185",
@@ -2412,7 +2553,10 @@
         "note": 1061,
         "songId": "harutopia"
       }
-    ]
+    ],
+    "version": {
+      "added": "1.1"
+    }
   },
   {
     "bpm": "183",
@@ -2458,7 +2602,10 @@
         "note": 1000,
         "songId": "auxesia"
       }
-    ]
+    ],
+    "version": {
+      "added": "1.1"
+    }
   },
   {
     "bpm": "270",
@@ -2505,7 +2652,10 @@
         "note": 772,
         "songId": "rabbitintheblackroom"
       }
-    ]
+    ],
+    "version": {
+      "added": "1.1"
+    }
   },
   {
     "bpm": "165",
@@ -2552,7 +2702,10 @@
         "note": 1010,
         "songId": "modelista"
       }
-    ]
+    ],
+    "version": {
+      "added": "1.1"
+    }
   },
   {
     "bpm": "170",
@@ -2597,7 +2750,10 @@
         "songId": "soundwitch",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "1.5"
+    }
   },
   {
     "bpm": "190",
@@ -2655,7 +2811,10 @@
           "cover": true
         }
       }
-    ]
+    ],
+    "version": {
+      "added": "1.5"
+    }
   },
   {
     "bpm": "140",
@@ -2702,7 +2861,10 @@
         "note": 795,
         "songId": "iconoclast"
       }
-    ]
+    ],
+    "version": {
+      "added": "1.5"
+    }
   },
   {
     "bpm": "160",
@@ -2747,7 +2909,10 @@
         "note": 1056,
         "songId": "conflict"
       }
-    ]
+    ],
+    "version": {
+      "added": "1.5"
+    }
   },
   {
     "bpm": "170",
@@ -2795,7 +2960,10 @@
         "songId": "axiumcrisis",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "1.5"
+    }
   },
   {
     "bpm": "210",
@@ -2841,7 +3009,10 @@
         "note": 1450,
         "songId": "grievouslady"
       }
-    ]
+    ],
+    "version": {
+      "added": "1.5"
+    }
   },
   {
     "bpm": "205",
@@ -2885,7 +3056,10 @@
         "note": 1129,
         "songId": "dreaminattraction"
       }
-    ]
+    ],
+    "version": {
+      "added": "1.5"
+    }
   },
   {
     "bpm": "150",
@@ -2949,7 +3123,10 @@
           "bpm": "160"
         }
       }
-    ]
+    ],
+    "version": {
+      "added": "1.5"
+    }
   },
   {
     "bpm": "154 - 175",
@@ -2993,7 +3170,10 @@
         "note": 885,
         "songId": "onelastdrive"
       }
-    ]
+    ],
+    "version": {
+      "added": "1.5"
+    }
   },
   {
     "bpm": "152",
@@ -3038,7 +3218,10 @@
         "songId": "surrender",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "1.5"
+    }
   },
   {
     "bpm": "172",
@@ -3085,7 +3268,10 @@
         "note": 931,
         "songId": "yozakurafubuki"
       }
-    ]
+    ],
+    "version": {
+      "added": "1.5"
+    }
   },
   {
     "bpm": "182",
@@ -3133,7 +3319,10 @@
         "note": 1171,
         "songId": "cyanine"
       }
-    ]
+    ],
+    "version": {
+      "added": "1.5"
+    }
   },
   {
     "bpm": "174",
@@ -3180,7 +3369,10 @@
         "songId": "dreamgoeson",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "1.5"
+    }
   },
   {
     "bpm": "200",
@@ -3225,7 +3417,10 @@
         "note": 997,
         "songId": "journey"
       }
-    ]
+    ],
+    "version": {
+      "added": "1.5"
+    }
   },
   {
     "bpm": "179",
@@ -3269,7 +3464,10 @@
         "note": 1096,
         "songId": "specta"
       }
-    ]
+    ],
+    "version": {
+      "added": "1.5"
+    }
   },
   {
     "bpm": "189",
@@ -3311,7 +3509,10 @@
         "note": 991,
         "songId": "quon"
       }
-    ]
+    ],
+    "version": {
+      "added": "1.5"
+    }
   },
   {
     "bpm": "178",
@@ -3355,7 +3556,10 @@
         "note": 1150,
         "songId": "syro"
       }
-    ]
+    ],
+    "version": {
+      "added": "1.5"
+    }
   },
   {
     "bpm": "174",
@@ -3400,7 +3604,10 @@
         "note": 852,
         "songId": "reinvent"
       }
-    ]
+    ],
+    "version": {
+      "added": "1.5"
+    }
   },
   {
     "bpm": "158",
@@ -3445,7 +3652,10 @@
         "note": 941,
         "songId": "silentrush"
       }
-    ]
+    ],
+    "version": {
+      "added": "1.6"
+    }
   },
   {
     "bpm": "175",
@@ -3508,7 +3718,10 @@
           "name": "Singularity VVVIP"
         }
       }
-    ]
+    ],
+    "version": {
+      "added": "1.6"
+    }
   },
   {
     "bpm": "178",
@@ -3553,7 +3766,10 @@
         "songId": "memoryforest",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "1.6"
+    }
   },
   {
     "bpm": "105",
@@ -3600,7 +3816,10 @@
         "note": 922,
         "songId": "strongholds"
       }
-    ]
+    ],
+    "version": {
+      "added": "1.6"
+    }
   },
   {
     "bpm": "165",
@@ -3659,7 +3878,10 @@
           "cover": true
         }
       }
-    ]
+    ],
+    "version": {
+      "added": "1.6"
+    }
   },
   {
     "bpm": "165",
@@ -3706,7 +3928,10 @@
         "note": 1238,
         "songId": "metallicpunisher"
       }
-    ]
+    ],
+    "version": {
+      "added": "1.5"
+    }
   },
   {
     "bpm": "180",
@@ -3751,7 +3976,10 @@
         "note": 1002,
         "songId": "blaster"
       }
-    ]
+    ],
+    "version": {
+      "added": "1.5"
+    }
   },
   {
     "bpm": "202",
@@ -3796,7 +4024,10 @@
         "note": 1120,
         "songId": "guardina"
       }
-    ]
+    ],
+    "version": {
+      "added": "1.6"
+    }
   },
   {
     "bpm": "165",
@@ -3841,7 +4072,10 @@
         "note": 1164,
         "songId": "carminescythe"
       }
-    ]
+    ],
+    "version": {
+      "added": "1.6"
+    }
   },
   {
     "bpm": "164",
@@ -3885,7 +4119,10 @@
         "note": 982,
         "songId": "bethere"
       }
-    ]
+    ],
+    "version": {
+      "added": "1.6"
+    }
   },
   {
     "bpm": "184",
@@ -3945,7 +4182,10 @@
           "cover": true
         }
       }
-    ]
+    ],
+    "version": {
+      "added": "1.6"
+    }
   },
   {
     "bpm": "175",
@@ -3996,7 +4236,10 @@
         "songId": "callmyname",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "1.6"
+    }
   },
   {
     "bpm": "102",
@@ -4053,7 +4296,10 @@
           "cover": true
         }
       }
-    ]
+    ],
+    "version": {
+      "added": "1.6"
+    }
   },
   {
     "bpm": "159",
@@ -4104,7 +4350,10 @@
         "songId": "mazenine",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "1.7"
+    }
   },
   {
     "bpm": "202",
@@ -4152,7 +4401,10 @@
         "songId": "themessage",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "1.7"
+    }
   },
   {
     "bpm": "182",
@@ -4197,7 +4449,10 @@
         "songId": "sulfur",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "1.7"
+    }
   },
   {
     "bpm": "191",
@@ -4245,7 +4500,10 @@
         "songId": "halcyon",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "1.7"
+    }
   },
   {
     "bpm": "156",
@@ -4295,7 +4553,10 @@
         "note": 1170,
         "songId": "etherstrike"
       }
-    ]
+    ],
+    "version": {
+      "added": "1.7"
+    }
   },
   {
     "bpm": "200",
@@ -4349,7 +4610,10 @@
         "note": 1279,
         "songId": "fractureray"
       }
-    ]
+    ],
+    "version": {
+      "added": "1.7"
+    }
   },
   {
     "bpm": "125",
@@ -4406,7 +4670,10 @@
         "songId": "suomi",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "1.7"
+    }
   },
   {
     "bpm": "175",
@@ -4467,7 +4734,10 @@
           "cover": true
         }
       }
-    ]
+    ],
+    "version": {
+      "added": "1.7"
+    }
   },
   {
     "bpm": "168",
@@ -4513,7 +4783,10 @@
         "note": 1061,
         "songId": "darakunosono"
       }
-    ]
+    ],
+    "version": {
+      "added": "1.7"
+    }
   },
   {
     "bpm": "50",
@@ -4574,7 +4847,10 @@
           "bpm": "500"
         }
       }
-    ]
+    ],
+    "version": {
+      "added": "1.7"
+    }
   },
   {
     "bpm": "99",
@@ -4618,7 +4894,10 @@
         "note": 703,
         "songId": "fallensquare"
       }
-    ]
+    ],
+    "version": {
+      "added": "1.7"
+    }
   },
   {
     "bpm": "174.59",
@@ -4666,7 +4945,10 @@
         "songId": "nhelv",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "1.7"
+    }
   },
   {
     "bpm": "192",
@@ -4711,7 +4993,10 @@
         "note": 1058,
         "songId": "espebranch"
       }
-    ]
+    ],
+    "version": {
+      "added": "1.7"
+    }
   },
   {
     "bpm": "150",
@@ -4769,7 +5054,10 @@
           "cover": true
         }
       }
-    ]
+    ],
+    "version": {
+      "added": "1.7"
+    }
   },
   {
     "bpm": "130",
@@ -4814,7 +5102,10 @@
         "note": 684,
         "songId": "hikari"
       }
-    ]
+    ],
+    "version": {
+      "added": "1.8"
+    }
   },
   {
     "bpm": "145",
@@ -4866,7 +5157,10 @@
         "note": 1004,
         "songId": "stager"
       }
-    ]
+    ],
+    "version": {
+      "added": "1.8"
+    }
   },
   {
     "bpm": "147",
@@ -4910,7 +5204,10 @@
         "note": 898,
         "songId": "hallofmirrors"
       }
-    ]
+    ],
+    "version": {
+      "added": "1.8"
+    }
   },
   {
     "bpm": "200 - 211.9",
@@ -4955,7 +5252,10 @@
         "songId": "linearaccelerator",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "1.8"
+    }
   },
   {
     "bpm": "140?",
@@ -5000,7 +5300,10 @@
         "note": 1086,
         "songId": "tiferet"
       }
-    ]
+    ],
+    "version": {
+      "added": "1.8"
+    }
   },
   {
     "bpm": "146",
@@ -5046,7 +5349,10 @@
         "note": 1040,
         "songId": "alexandrite"
       }
-    ]
+    ],
+    "version": {
+      "added": "1.7"
+    }
   },
   {
     "bpm": "191",
@@ -5091,7 +5397,10 @@
         "note": 975,
         "songId": "rugie"
       }
-    ]
+    ],
+    "version": {
+      "added": "1.8"
+    }
   },
   {
     "bpm": "134",
@@ -5139,7 +5448,10 @@
         "note": 884,
         "songId": "astraltale"
       }
-    ]
+    ],
+    "version": {
+      "added": "1.8"
+    }
   },
   {
     "bpm": "153",
@@ -5185,7 +5497,10 @@
         "note": 952,
         "songId": "phantasia"
       }
-    ]
+    ],
+    "version": {
+      "added": "1.8"
+    }
   },
   {
     "bpm": "175",
@@ -5234,7 +5549,10 @@
         "note": 920,
         "songId": "empireofwinter"
       }
-    ]
+    ],
+    "version": {
+      "added": "1.8"
+    }
   },
   {
     "bpm": "180",
@@ -5288,7 +5606,10 @@
         "note": 881,
         "songId": "merlin"
       }
-    ]
+    ],
+    "version": {
+      "added": "1.9"
+    }
   },
   {
     "bpm": "160",
@@ -5335,7 +5656,10 @@
         "songId": "dxfullmetal",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "1.9"
+    }
   },
   {
     "bpm": "240",
@@ -5386,7 +5710,10 @@
         "note": 931,
         "songId": "omakeno"
       }
-    ]
+    ],
+    "version": {
+      "added": "1.9"
+    }
   },
   {
     "bpm": "185",
@@ -5433,7 +5760,10 @@
         "note": 1130,
         "songId": "scarletlance"
       }
-    ]
+    ],
+    "version": {
+      "added": "1.9"
+    }
   },
   {
     "bpm": "188",
@@ -5478,7 +5808,10 @@
         "songId": "ouroboros",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "1.9"
+    }
   },
   {
     "bpm": "160",
@@ -5536,7 +5869,10 @@
           "cover": true
         }
       }
-    ]
+    ],
+    "version": {
+      "added": "1.9"
+    }
   },
   {
     "bpm": "162",
@@ -5586,7 +5922,10 @@
         "songId": "solitarydream",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "1.9"
+    }
   },
   {
     "bpm": "172",
@@ -5645,7 +5984,10 @@
           "cover": true
         }
       }
-    ]
+    ],
+    "version": {
+      "added": "2.0"
+    }
   },
   {
     "bpm": "170",
@@ -5693,7 +6035,10 @@
         "songId": "corruption",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "2.0"
+    }
   },
   {
     "bpm": "200",
@@ -5740,7 +6085,10 @@
         "songId": "blackterritory",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "2.0"
+    }
   },
   {
     "bpm": "256",
@@ -5801,7 +6149,10 @@
           "bpm": "271"
         }
       }
-    ]
+    ],
+    "version": {
+      "added": "2.0"
+    }
   },
   {
     "bpm": "200",
@@ -5848,7 +6199,10 @@
         "songId": "cyaegha",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "2.0"
+    }
   },
   {
     "bpm": "115-185",
@@ -5896,7 +6250,10 @@
         "note": 1047,
         "songId": "revixy"
       }
-    ]
+    ],
+    "version": {
+      "added": "2.0"
+    }
   },
   {
     "bpm": "170",
@@ -5944,7 +6301,10 @@
         "songId": "grimheart",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "2.0"
+    }
   },
   {
     "bpm": "200",
@@ -5990,7 +6350,10 @@
         "note": 1299,
         "songId": "vector"
       }
-    ]
+    ],
+    "version": {
+      "added": "2.0"
+    }
   },
   {
     "bpm": "150",
@@ -6037,7 +6400,10 @@
         "songId": "supernova",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "2.0"
+    }
   },
   {
     "bpm": "174",
@@ -6084,7 +6450,10 @@
         "note": 739,
         "songId": "dottodot"
       }
-    ]
+    ],
+    "version": {
+      "added": "2.0"
+    }
   },
   {
     "bpm": "256",
@@ -6132,7 +6501,10 @@
         "note": 1035,
         "songId": "garakuta"
       }
-    ]
+    ],
+    "version": {
+      "added": "2.1"
+    }
   },
   {
     "bpm": "200",
@@ -6178,7 +6550,10 @@
         "note": 1347,
         "songId": "ikazuchi"
       }
-    ]
+    ],
+    "version": {
+      "added": "2.1"
+    }
   },
   {
     "bpm": "170",
@@ -6226,7 +6601,10 @@
         "songId": "worldvanquisher",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "2.1"
+    }
   },
   {
     "bpm": "96-384",
@@ -6274,7 +6652,10 @@
         "songId": "dreadnought",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "2.2"
+    }
   },
   {
     "bpm": "162-175",
@@ -6321,7 +6702,10 @@
         "songId": "particlearts",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "2.2"
+    }
   },
   {
     "bpm": "174",
@@ -6366,7 +6750,10 @@
         "note": 1075,
         "songId": "vindication"
       }
-    ]
+    ],
+    "version": {
+      "added": "2.2"
+    }
   },
   {
     "bpm": "240",
@@ -6428,7 +6815,10 @@
           "cover": true
         }
       }
-    ]
+    ],
+    "version": {
+      "added": "2.2"
+    }
   },
   {
     "bpm": "160",
@@ -6474,7 +6864,10 @@
         "songId": "ringedgenesis",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "2.2"
+    }
   },
   {
     "bpm": "174",
@@ -6519,7 +6912,10 @@
         "songId": "chelsea",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "2.3"
+    }
   },
   {
     "bpm": "145",
@@ -6561,7 +6957,10 @@
         "note": 989,
         "songId": "aiueoon"
       }
-    ]
+    ],
+    "version": {
+      "added": "2.3"
+    }
   },
   {
     "bpm": "165",
@@ -6610,7 +7009,10 @@
         "note": 931,
         "songId": "melodyoflove"
       }
-    ]
+    ],
+    "version": {
+      "added": "2.3"
+    }
   },
   {
     "bpm": "191",
@@ -6656,7 +7058,10 @@
         "note": 724,
         "songId": "tiemedowngently"
       }
-    ]
+    ],
+    "version": {
+      "added": "2.3"
+    }
   },
   {
     "bpm": "200",
@@ -6703,7 +7108,10 @@
         "note": 1173,
         "songId": "valhallazero"
       }
-    ]
+    ],
+    "version": {
+      "added": "2.3"
+    }
   },
   {
     "bpm": "201",
@@ -6748,7 +7156,10 @@
         "note": 1303,
         "songId": "mirzam"
       }
-    ]
+    ],
+    "version": {
+      "added": "2.3"
+    }
   },
   {
     "bpm": "132",
@@ -6794,7 +7205,10 @@
         "note": 709,
         "songId": "diode"
       }
-    ]
+    ],
+    "version": {
+      "added": "2.4"
+    }
   },
   {
     "bpm": "170",
@@ -6853,7 +7267,10 @@
           "cover": true
         }
       }
-    ]
+    ],
+    "version": {
+      "added": "2.4"
+    }
   },
   {
     "bpm": "250",
@@ -6901,7 +7318,10 @@
         "note": 1479,
         "songId": "gloryroad"
       }
-    ]
+    ],
+    "version": {
+      "added": "2.4"
+    }
   },
   {
     "bpm": "160",
@@ -6949,7 +7369,10 @@
         "songId": "monochromeprincess",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "2.4"
+    }
   },
   {
     "bpm": "241",
@@ -6994,7 +7417,10 @@
         "songId": "heavenlycaress",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "2.4"
+    }
   },
   {
     "bpm": "90",
@@ -7041,7 +7467,10 @@
         "songId": "senkyou",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "2.4"
+    }
   },
   {
     "bpm": "170",
@@ -7088,7 +7517,10 @@
         "songId": "filament",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "2.4"
+    }
   },
   {
     "bpm": "200",
@@ -7134,7 +7566,10 @@
         "note": 1125,
         "songId": "avantraze"
       }
-    ]
+    ],
+    "version": {
+      "added": "2.4"
+    }
   },
   {
     "bpm": "200",
@@ -7180,7 +7615,10 @@
         "songId": "battlenoone",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "2.4"
+    }
   },
   {
     "bpm": "168",
@@ -7245,7 +7683,10 @@
           "cover": true
         }
       }
-    ]
+    ],
+    "version": {
+      "added": "2.5"
+    }
   },
   {
     "bpm": "222",
@@ -7306,7 +7747,10 @@
           "cover": true
         }
       }
-    ]
+    ],
+    "version": {
+      "added": "2.5"
+    }
   },
   {
     "bpm": "222",
@@ -7350,7 +7794,10 @@
         "note": 976,
         "songId": "izana"
       }
-    ]
+    ],
+    "version": {
+      "added": "2.5"
+    }
   },
   {
     "bpm": "205",
@@ -7399,7 +7846,10 @@
         "note": 1384,
         "songId": "saikyostronger"
       }
-    ]
+    ],
+    "version": {
+      "added": "2.5"
+    }
   },
   {
     "bpm": "130",
@@ -7444,7 +7894,10 @@
         "note": 851,
         "songId": "worldexecuteme"
       }
-    ]
+    ],
+    "version": {
+      "added": "2.5"
+    }
   },
   {
     "bpm": "115",
@@ -7494,7 +7947,10 @@
         "songId": "blrink",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "2.5"
+    }
   },
   {
     "bpm": "180",
@@ -7554,7 +8010,10 @@
           "cover": true
         }
       }
-    ]
+    ],
+    "version": {
+      "added": "2.6"
+    }
   },
   {
     "bpm": "154",
@@ -7601,7 +8060,10 @@
         "songId": "amygdata",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "2.6"
+    }
   },
   {
     "bpm": "105",
@@ -7649,7 +8111,10 @@
         "note": 1077,
         "songId": "corpssansorganes"
       }
-    ]
+    ],
+    "version": {
+      "added": "2.6"
+    }
   },
   {
     "bpm": "180",
@@ -7696,7 +8161,10 @@
         "note": 951,
         "songId": "equilibrium"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.0"
+    }
   },
   {
     "bpm": "160",
@@ -7748,7 +8216,10 @@
         "songId": "antagonism",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "3.0"
+    }
   },
   {
     "bpm": "170",
@@ -7797,7 +8268,10 @@
         "songId": "lostdesire",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "3.0"
+    }
   },
   {
     "bpm": "186",
@@ -7847,7 +8321,10 @@
         "songId": "dantalion",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "3.0"
+    }
   },
   {
     "bpm": "181",
@@ -7893,7 +8370,10 @@
         "songId": "ifi",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "3.0"
+    }
   },
   {
     "bpm": "231",
@@ -7960,7 +8440,10 @@
           "cover": true
         }
       }
-    ]
+    ],
+    "version": {
+      "added": "3.0"
+    }
   },
   {
     "bpm": "191",
@@ -8007,7 +8490,10 @@
         "songId": "arcahv",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "3.0"
+    }
   },
   {
     "bpm": "83-90",
@@ -8052,7 +8538,10 @@
         "songId": "altale",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "3.0"
+    }
   },
   {
     "bpm": "95-190",
@@ -8098,7 +8587,10 @@
         "songId": "givemeanightmare",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "3.0"
+    }
   },
   {
     "bpm": "200",
@@ -8143,7 +8635,10 @@
         "songId": "blacklotus",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "3.0"
+    }
   },
   {
     "bpm": "132",
@@ -8187,7 +8682,10 @@
         "note": 817,
         "songId": "gekka"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.0"
+    }
   },
   {
     "bpm": "178",
@@ -8234,7 +8732,10 @@
         "songId": "vividtheory",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "3.0"
+    }
   },
   {
     "bpm": "130",
@@ -8280,7 +8781,10 @@
         "note": 758,
         "songId": "onefr"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.0"
+    }
   },
   {
     "bpm": "166",
@@ -8327,7 +8831,10 @@
         "songId": "scarletcage",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "3.0"
+    }
   },
   {
     "bpm": "133",
@@ -8372,7 +8879,10 @@
         "note": 809,
         "songId": "faintlight"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.0"
+    }
   },
   {
     "bpm": "180",
@@ -8423,7 +8933,10 @@
         "note": 947,
         "songId": "feelssoright"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.0"
+    }
   },
   {
     "bpm": "128",
@@ -8477,7 +8990,10 @@
         "songId": "teriqma",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "3.0"
+    }
   },
   {
     "bpm": "195",
@@ -8525,7 +9041,10 @@
         "note": 828,
         "songId": "mahoroba"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.0"
+    }
   },
   {
     "bpm": "190",
@@ -8570,7 +9089,10 @@
         "songId": "badtek",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "3.1"
+    }
   },
   {
     "bpm": "155",
@@ -8617,7 +9139,10 @@
         "note": 1126,
         "songId": "maliciousmischance"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.1"
+    }
   },
   {
     "bpm": "268",
@@ -8665,7 +9190,10 @@
         "songId": "gothiveofra",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "3.2"
+    }
   },
   {
     "bpm": "200",
@@ -8710,7 +9238,10 @@
         "songId": "buchigireberserker",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "3.2"
+    }
   },
   {
     "bpm": "300",
@@ -8757,7 +9288,10 @@
         "songId": "galaxyfriends",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "3.2"
+    }
   },
   {
     "bpm": "200",
@@ -8802,7 +9336,10 @@
         "note": 1094,
         "songId": "crossover"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.2"
+    }
   },
   {
     "bpm": "146",
@@ -8850,7 +9387,10 @@
         "songId": "xeraphinite",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "3.2"
+    }
   },
   {
     "bpm": "146",
@@ -8896,7 +9436,10 @@
         "note": 920,
         "songId": "lapis"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.2"
+    }
   },
   {
     "bpm": "170",
@@ -8944,7 +9487,10 @@
         "note": 1232,
         "songId": "xanatos"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.2"
+    }
   },
   {
     "bpm": "170",
@@ -9004,7 +9550,10 @@
           "cover": true
         }
       }
-    ]
+    ],
+    "version": {
+      "added": "3.3"
+    }
   },
   {
     "bpm": "80-134",
@@ -9049,7 +9598,10 @@
         "note": 872,
         "songId": "alicealamode"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.3"
+    }
   },
   {
     "bpm": "132",
@@ -9095,7 +9647,10 @@
         "note": 732,
         "songId": "eccentrictale"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.3"
+    }
   },
   {
     "bpm": "190",
@@ -9140,7 +9695,10 @@
         "note": 999,
         "songId": "alicessuitcase"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.3"
+    }
   },
   {
     "bpm": "133",
@@ -9184,7 +9742,10 @@
         "note": 841,
         "songId": "jump"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.3"
+    }
   },
   {
     "bpm": "155",
@@ -9231,7 +9792,10 @@
         "note": 1153,
         "songId": "felis"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.3"
+    }
   },
   {
     "bpm": "181",
@@ -9277,7 +9841,10 @@
         "songId": "besideyou",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "3.3"
+    }
   },
   {
     "bpm": "160",
@@ -9323,7 +9890,10 @@
         "songId": "heartjackin",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "3.3"
+    }
   },
   {
     "bpm": "222",
@@ -9367,7 +9937,10 @@
         "note": 998,
         "songId": "toaliceliddell"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.3"
+    }
   },
   {
     "bpm": "185",
@@ -9412,7 +9985,10 @@
         "note": 1031,
         "songId": "lazyaddiction"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.4"
+    }
   },
   {
     "bpm": "220",
@@ -9455,7 +10031,10 @@
         "songId": "dazzlehop",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "3.4"
+    }
   },
   {
     "bpm": "218",
@@ -9504,7 +10083,10 @@
         "note": 1403,
         "songId": "viyellastears"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.4"
+    }
   },
   {
     "bpm": "71-192",
@@ -9552,7 +10134,10 @@
         "songId": "omegafour",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "3.4"
+    }
   },
   {
     "bpm": "79",
@@ -9597,7 +10182,10 @@
         "note": 697,
         "songId": "aprilshowers"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.4"
+    }
   },
   {
     "bpm": "150",
@@ -9644,7 +10232,10 @@
         "songId": "seventhsense",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "3.4"
+    }
   },
   {
     "bpm": "190",
@@ -9688,7 +10279,10 @@
         "note": 1073,
         "songId": "oshamascramble"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.4"
+    }
   },
   {
     "bpm": "185",
@@ -9735,7 +10329,10 @@
         "songId": "amazingmightyyyy",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "3.4"
+    }
   },
   {
     "bpm": "190",
@@ -9782,7 +10379,10 @@
         "note": 1367,
         "songId": "climax"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.5"
+    }
   },
   {
     "bpm": "238",
@@ -9827,7 +10427,10 @@
         "note": 1475,
         "songId": "lastcelebration"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.5"
+    }
   },
   {
     "bpm": "190",
@@ -9872,7 +10475,10 @@
         "songId": "gou",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "3.5"
+    }
   },
   {
     "bpm": "165",
@@ -9914,7 +10520,10 @@
         "note": 916,
         "songId": "glow"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.5"
+    }
   },
   {
     "bpm": "202",
@@ -9956,7 +10565,10 @@
         "note": 1433,
         "songId": "attraqtia"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.5"
+    }
   },
   {
     "bpm": "95",
@@ -10005,7 +10617,10 @@
         "note": 759,
         "songId": "enchantedlove"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.5"
+    }
   },
   {
     "bpm": "5-315",
@@ -10050,7 +10665,10 @@
         "note": 1050,
         "songId": "take"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.5"
+    }
   },
   {
     "bpm": "87-110",
@@ -10098,7 +10716,10 @@
         "note": 1093,
         "songId": "gimmedablood"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.5"
+    }
   },
   {
     "bpm": "128",
@@ -10140,7 +10761,10 @@
         "note": 861,
         "songId": "bassline"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.5"
+    }
   },
   {
     "bpm": "133",
@@ -10184,7 +10808,10 @@
         "note": 674,
         "songId": "lifeispiano"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.5"
+    }
   },
   {
     "bpm": "130",
@@ -10230,7 +10857,10 @@
         "songId": "paperwitch",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "3.6"
+    }
   },
   {
     "bpm": "178",
@@ -10276,7 +10906,10 @@
         "note": 872,
         "songId": "crystalgravity"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.6"
+    }
   },
   {
     "bpm": "180-216",
@@ -10323,7 +10956,10 @@
         "songId": "farawaylight",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "3.6"
+    }
   },
   {
     "bpm": "181",
@@ -10369,7 +11005,10 @@
         "note": 1235,
         "songId": "loschen"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.6"
+    }
   },
   {
     "bpm": "234",
@@ -10420,7 +11059,10 @@
         "note": 1568,
         "songId": "aegleseeker"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.6"
+    }
   },
   {
     "bpm": "110",
@@ -10465,7 +11107,10 @@
         "note": 732,
         "songId": "coastalhighway"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.6"
+    }
   },
   {
     "bpm": "174",
@@ -10511,7 +11156,10 @@
         "note": 1092,
         "songId": "odysseia"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.6"
+    }
   },
   {
     "bpm": "200",
@@ -10557,7 +11205,10 @@
         "note": 1251,
         "songId": "overwhelm"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.6"
+    }
   },
   {
     "bpm": "194",
@@ -10604,7 +11255,10 @@
         "songId": "vandalism",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "3.6"
+    }
   },
   {
     "bpm": "128-170",
@@ -10646,7 +11300,10 @@
         "note": 979,
         "songId": "turbocharger"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.6"
+    }
   },
   {
     "bpm": "200",
@@ -10693,7 +11350,10 @@
         "songId": "theultimacy",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "3.6"
+    }
   },
   {
     "bpm": "240",
@@ -10741,7 +11401,10 @@
         "songId": "rekkaresonance",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "3.6"
+    }
   },
   {
     "bpm": "155",
@@ -10787,7 +11450,10 @@
         "note": 969,
         "songId": "kyogenkigo"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.7"
+    }
   },
   {
     "bpm": "252",
@@ -10833,7 +11499,10 @@
         "note": 1252,
         "songId": "hivemind"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.7"
+    }
   },
   {
     "bpm": "175",
@@ -10878,7 +11547,10 @@
         "note": 1132,
         "songId": "seclusion"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.7"
+    }
   },
   {
     "bpm": "220",
@@ -10924,7 +11596,10 @@
         "note": 919,
         "songId": "smallcloud"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.7"
+    }
   },
   {
     "bpm": "220-245",
@@ -10967,7 +11642,10 @@
         "songId": "alterale",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "3.7"
+    }
   },
   {
     "bpm": "172",
@@ -11015,7 +11693,10 @@
         "songId": "divinelight",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "3.7"
+    }
   },
   {
     "bpm": "155",
@@ -11062,7 +11743,10 @@
         "songId": "mazymetroplex",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "3.8"
+    }
   },
   {
     "bpm": "170",
@@ -11118,7 +11802,10 @@
         "note": 1044,
         "songId": "quonwacca"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.8"
+    }
   },
   {
     "bpm": "155",
@@ -11165,7 +11852,10 @@
         "note": 932,
         "songId": "withu"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.8"
+    }
   },
   {
     "bpm": "250-390",
@@ -11212,7 +11902,10 @@
         "songId": "genocider",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "3.8"
+    }
   },
   {
     "bpm": "185",
@@ -11259,7 +11952,10 @@
         "note": 1049,
         "songId": "letyoudivermx"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.8"
+    }
   },
   {
     "bpm": "200",
@@ -11308,7 +12004,10 @@
         "note": 1134,
         "songId": "sheriruthrmx"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.8"
+    }
   },
   {
     "bpm": "170",
@@ -11354,7 +12053,10 @@
         "note": 922,
         "songId": "eveninginscarlet"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.8"
+    }
   },
   {
     "bpm": "100-172",
@@ -11399,7 +12101,10 @@
         "note": 776,
         "songId": "bluecomet"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.8"
+    }
   },
   {
     "bpm": "160",
@@ -11443,7 +12148,10 @@
         "note": 922,
         "songId": "energysynergymatrix"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.8"
+    }
   },
   {
     "bpm": "153",
@@ -11487,7 +12195,10 @@
         "note": 1353,
         "songId": "gengaozo"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.8"
+    }
   },
   {
     "bpm": "133",
@@ -11530,7 +12241,10 @@
         "songId": "goldenslaughterer",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "3.8"
+    }
   },
   {
     "bpm": "139",
@@ -11581,7 +12295,10 @@
         "note": 1339,
         "songId": "lastendconductor"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.8"
+    }
   },
   {
     "bpm": "150",
@@ -11623,7 +12340,10 @@
         "note": 1088,
         "songId": "redolentshape"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.8"
+    }
   },
   {
     "bpm": "110",
@@ -11669,7 +12389,10 @@
         "songId": "cosmica",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "3.9"
+    }
   },
   {
     "bpm": "145",
@@ -11716,7 +12439,10 @@
         "songId": "ascent",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "3.9"
+    }
   },
   {
     "bpm": "153",
@@ -11766,7 +12492,10 @@
         "note": 1292,
         "songId": "livefastdieyoung"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.9"
+    }
   },
   {
     "bpm": "160",
@@ -11815,7 +12544,10 @@
         "songId": "summerfireworks",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "3.9"
+    }
   },
   {
     "bpm": "88",
@@ -11860,7 +12592,10 @@
         "songId": "firstsnow",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "3.10"
+    }
   },
   {
     "bpm": "250-295",
@@ -11906,7 +12641,10 @@
         "note": 955,
         "songId": "bluerose"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.10"
+    }
   },
   {
     "bpm": "148",
@@ -11952,7 +12690,10 @@
         "note": 850,
         "songId": "blockedlibrary"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.10"
+    }
   },
   {
     "bpm": "190",
@@ -11999,7 +12740,10 @@
         "songId": "neokosmo",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "3.10"
+    }
   },
   {
     "bpm": "190",
@@ -12045,7 +12789,10 @@
         "note": 1192,
         "songId": "lightningscrew"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.10"
+    }
   },
   {
     "bpm": "180",
@@ -12090,7 +12837,10 @@
         "songId": "lightsofmuse",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "3.11"
+    }
   },
   {
     "bpm": "180",
@@ -12132,7 +12882,10 @@
         "note": 1056,
         "songId": "finalstep"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.11"
+    }
   },
   {
     "bpm": "180",
@@ -12180,7 +12933,10 @@
         "songId": "akinokagerou",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "3.11"
+    }
   },
   {
     "bpm": "165",
@@ -12224,7 +12980,10 @@
         "note": 931,
         "songId": "medusa"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.11"
+    }
   },
   {
     "bpm": "180",
@@ -12267,7 +13026,10 @@
         "songId": "init",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "3.11"
+    }
   },
   {
     "bpm": "163",
@@ -12313,7 +13075,10 @@
         "note": 657,
         "songId": "internetoverdose"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.12"
+    }
   },
   {
     "bpm": "175",
@@ -12358,7 +13123,10 @@
         "note": 837,
         "songId": "sakurafubuki"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.12"
+    }
   },
   {
     "bpm": "100",
@@ -12400,7 +13168,10 @@
         "note": 715,
         "songId": "nulctrl"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.12"
+    }
   },
   {
     "bpm": "170",
@@ -12444,7 +13215,10 @@
         "songId": "macromod",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "3.12"
+    }
   },
   {
     "bpm": "168",
@@ -12490,7 +13264,10 @@
         "note": 1328,
         "songId": "neowings"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.12"
+    }
   },
   {
     "bpm": "170",
@@ -12537,7 +13314,10 @@
         "note": 1183,
         "songId": "kissinglucifer"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.12"
+    }
   },
   {
     "bpm": "130",
@@ -12589,7 +13369,10 @@
         "note": 851,
         "songId": "avril"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.12"
+    }
   },
   {
     "bpm": "122-230",
@@ -12633,7 +13416,10 @@
         "note": 1100,
         "songId": "aurgelmir"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.12"
+    }
   },
   {
     "bpm": "132-165",
@@ -12681,7 +13467,10 @@
         "note": 1061,
         "songId": "headbonkache"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.12"
+    }
   },
   {
     "bpm": "138",
@@ -12728,7 +13517,10 @@
         "note": 653,
         "songId": "ddd"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.12"
+    }
   },
   {
     "bpm": "107-109",
@@ -12780,7 +13572,10 @@
         "note": 785,
         "songId": "prism"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.12"
+    }
   },
   {
     "bpm": "140",
@@ -12836,7 +13631,10 @@
         "songId": "protoflicker",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "3.12"
+    }
   },
   {
     "bpm": "180",
@@ -12892,7 +13690,10 @@
         "songId": "stasis",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "3.12"
+    }
   },
   {
     "bpm": "185",
@@ -12936,7 +13737,10 @@
         "note": 1049,
         "songId": "picopicotranslation"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.12"
+    }
   },
   {
     "bpm": "148",
@@ -12978,7 +13782,10 @@
         "note": 891,
         "songId": "nekonote"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.12"
+    }
   },
   {
     "bpm": "140-190",
@@ -13021,7 +13828,10 @@
         "songId": "mu",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "3.12"
+    }
   },
   {
     "bpm": "170",
@@ -13067,7 +13877,10 @@
         "note": 1046,
         "songId": "sanskia"
       }
-    ]
+    ],
+    "version": {
+      "added": "3.12"
+    }
   },
   {
     "bpm": "170",
@@ -13113,7 +13926,10 @@
         "note": 830,
         "songId": "altair"
       }
-    ]
+    ],
+    "version": {
+      "added": "4.0"
+    }
   },
   {
     "bpm": "155",
@@ -13163,7 +13979,10 @@
         "note": 886,
         "songId": "mukishitsu"
       }
-    ]
+    ],
+    "version": {
+      "added": "4.0"
+    }
   },
   {
     "bpm": "80",
@@ -13215,7 +14034,10 @@
         "songId": "trapcrow",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "4.0"
+    }
   },
   {
     "bpm": "202",
@@ -13264,7 +14086,10 @@
         "note": 1099,
         "songId": "pupa"
       }
-    ]
+    ],
+    "version": {
+      "added": "4.0"
+    }
   },
   {
     "bpm": "160",
@@ -13313,7 +14138,10 @@
         "songId": "defection",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "4.0"
+    }
   },
   {
     "bpm": "198",
@@ -13370,7 +14198,10 @@
         "songId": "infinitestrife",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "4.0"
+    }
   },
   {
     "bpm": "190-280",
@@ -13428,7 +14259,10 @@
         "note": 1661,
         "songId": "worldender"
       }
-    ]
+    ],
+    "version": {
+      "added": "4.0"
+    }
   },
   {
     "bpm": "200-222",
@@ -13488,7 +14322,10 @@
         "note": 1741,
         "songId": "pentiment"
       }
-    ]
+    ],
+    "version": {
+      "added": "4.0"
+    }
   },
   {
     "bpm": "211",
@@ -13546,7 +14383,10 @@
         "note": 2134,
         "songId": "arcanaeden"
       }
-    ]
+    ],
+    "version": {
+      "added": "4.0"
+    }
   },
   {
     "bpm": "178",
@@ -13611,7 +14451,10 @@
         "note": 2221,
         "songId": "testify"
       }
-    ]
+    ],
+    "version": {
+      "added": "4.0"
+    }
   },
   {
     "bpm": "99",
@@ -13658,7 +14501,10 @@
         "note": 850,
         "songId": "lovelessdress"
       }
-    ]
+    ],
+    "version": {
+      "added": "4.0"
+    }
   },
   {
     "bpm": "175",
@@ -13719,7 +14565,10 @@
           "name": "Last | Moment"
         }
       }
-    ]
+    ],
+    "version": {
+      "added": "4.0"
+    }
   },
   {
     "bpm": "175",
@@ -13747,7 +14596,10 @@
         "songId": "lasteternity",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "4.0"
+    }
   },
   {
     "bpm": "95",
@@ -13794,7 +14646,10 @@
         "songId": "callimakarma",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "4.0"
+    }
   },
   {
     "bpm": "80",
@@ -13836,7 +14691,10 @@
         "note": 872,
         "songId": "kokoro"
       }
-    ]
+    ],
+    "version": {
+      "added": "4.1"
+    }
   },
   {
     "bpm": "175",
@@ -13879,7 +14737,10 @@
         "songId": "aidrew",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "4.1"
+    }
   },
   {
     "bpm": "252",
@@ -13922,7 +14783,10 @@
         "songId": "fluffyflash",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "4.1"
+    }
   },
   {
     "bpm": "185",
@@ -13966,7 +14830,10 @@
         "note": 1084,
         "songId": "goodbyemerry"
       }
-    ]
+    ],
+    "version": {
+      "added": "4.1"
+    }
   },
   {
     "bpm": "199",
@@ -14012,7 +14879,10 @@
         "songId": "lamia",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "4.1"
+    }
   },
   {
     "bpm": "153",
@@ -14057,7 +14927,10 @@
         "note": 1132,
         "songId": "freemyself"
       }
-    ]
+    ],
+    "version": {
+      "added": "4.1"
+    }
   },
   {
     "bpm": "144",
@@ -14101,7 +14974,10 @@
         "note": 1025,
         "songId": "cocorocosmetic"
       }
-    ]
+    ],
+    "version": {
+      "added": "4.1"
+    }
   },
   {
     "bpm": "210",
@@ -14148,7 +15024,10 @@
         "note": 1159,
         "songId": "capella"
       }
-    ]
+    ],
+    "version": {
+      "added": "4.1"
+    }
   },
   {
     "bpm": "130",
@@ -14191,7 +15070,10 @@
         "songId": "dialnote",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "4.1"
+    }
   },
   {
     "bpm": "160",
@@ -14238,7 +15120,10 @@
         "songId": "tsukinimurakumo",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "4.2"
+    }
   },
   {
     "bpm": "135",
@@ -14282,7 +15167,10 @@
         "note": 1014,
         "songId": "mantis"
       }
-    ]
+    ],
+    "version": {
+      "added": "4.2"
+    }
   },
   {
     "bpm": "200",
@@ -14327,7 +15215,10 @@
         "songId": "worldfragments",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "4.2"
+    }
   },
   {
     "bpm": "225",
@@ -14373,7 +15264,10 @@
         "songId": "astrawalkthrough",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "4.2"
+    }
   },
   {
     "bpm": "221",
@@ -14418,7 +15312,10 @@
         "note": 1264,
         "songId": "chronicle"
       }
-    ]
+    ],
+    "version": {
+      "added": "4.2"
+    }
   },
   {
     "bpm": "177",
@@ -14463,7 +15360,10 @@
         "note": 1299,
         "songId": "nullapophenia"
       }
-    ]
+    ],
+    "version": {
+      "added": "4.2"
+    }
   },
   {
     "bpm": "210",
@@ -14505,7 +15405,10 @@
         "note": 1313,
         "songId": "crimsonthrone"
       }
-    ]
+    ],
+    "version": {
+      "added": "4.3"
+    }
   },
   {
     "bpm": "195",
@@ -14548,7 +15451,10 @@
         "note": 1286,
         "songId": "manicjeer"
       }
-    ]
+    ],
+    "version": {
+      "added": "4.3"
+    }
   },
   {
     "bpm": "150",
@@ -14592,7 +15498,10 @@
         "note": 1126,
         "songId": "hiirogekka"
       }
-    ]
+    ],
+    "version": {
+      "added": "4.3"
+    }
   },
   {
     "bpm": "210",
@@ -14635,7 +15544,10 @@
         "songId": "letsrock",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "4.3"
+    }
   },
   {
     "bpm": "135",
@@ -14678,7 +15590,10 @@
         "songId": "cycles",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "4.3"
+    }
   },
   {
     "bpm": "222",
@@ -14721,7 +15636,10 @@
         "songId": "maxrage",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "4.3"
+    }
   },
   {
     "bpm": "162-180",
@@ -14767,7 +15685,10 @@
         "note": 1190,
         "songId": "infinity"
       }
-    ]
+    ],
+    "version": {
+      "added": "4.3"
+    }
   },
   {
     "bpm": "160",
@@ -14810,7 +15731,10 @@
         "songId": "temptation",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "4.3"
+    }
   },
   {
     "bpm": "205",
@@ -14857,7 +15781,10 @@
         "songId": "primitivelights",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "4.3"
+    }
   },
   {
     "bpm": "129",
@@ -14903,7 +15830,10 @@
         "songId": "cosmopop",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "4.4"
+    }
   },
   {
     "bpm": "210",
@@ -14957,7 +15887,10 @@
         "note": 1392,
         "songId": "impact"
       }
-    ]
+    ],
+    "version": {
+      "added": "4.4"
+    }
   },
   {
     "bpm": "150",
@@ -15000,7 +15933,10 @@
         "songId": "genesischunithm",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "4.4"
+    }
   },
   {
     "bpm": "155",
@@ -15042,7 +15978,10 @@
         "note": 1183,
         "songId": "trrricksters"
       }
-    ]
+    ],
+    "version": {
+      "added": "4.4"
+    }
   },
   {
     "bpm": "180",
@@ -15090,7 +16029,10 @@
         "songId": "spidersthread",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "4.4"
+    }
   },
   {
     "bpm": "172",
@@ -15134,7 +16076,10 @@
         "note": 1123,
         "songId": "lostemotion"
       }
-    ]
+    ],
+    "version": {
+      "added": "4.4"
+    }
   },
   {
     "bpm": "143",
@@ -15176,7 +16121,10 @@
         "note": 733,
         "songId": "gimmick"
       }
-    ]
+    ],
+    "version": {
+      "added": "4.4"
+    }
   },
   {
     "bpm": "132",
@@ -15221,7 +16169,10 @@
         "songId": "thesurvivor",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "4.4"
+    }
   },
   {
     "bpm": "160",
@@ -15267,7 +16218,10 @@
         "songId": "newyorkbackraise",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "4.4"
+    }
   },
   {
     "bpm": "145",
@@ -15311,7 +16265,10 @@
         "note": 813,
         "songId": "galacticlove"
       }
-    ]
+    ],
+    "version": {
+      "added": "4.4"
+    }
   },
   {
     "bpm": "148",
@@ -15355,7 +16312,10 @@
         "note": 838,
         "songId": "lawlesspoint"
       }
-    ]
+    ],
+    "version": {
+      "added": "4.4"
+    }
   },
   {
     "bpm": "183",
@@ -15400,7 +16360,10 @@
         "songId": "lostintheabyss",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "4.4"
+    }
   },
   {
     "bpm": "158",
@@ -15446,7 +16409,10 @@
         "songId": "hybris",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "4.4"
+    }
   },
   {
     "bpm": "186",
@@ -15492,7 +16458,10 @@
         "note": 1392,
         "songId": "tothemilkyway"
       }
-    ]
+    ],
+    "version": {
+      "added": "4.4"
+    }
   },
   {
     "bpm": "185",
@@ -15536,7 +16505,10 @@
         "songId": "internetyamero",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "4.5"
+    }
   },
   {
     "bpm": "107",
@@ -15578,7 +16550,10 @@
         "note": 701,
         "songId": "bulletwaiting"
       }
-    ]
+    ],
+    "version": {
+      "added": "4.5"
+    }
   },
   {
     "bpm": "160",
@@ -15624,7 +16599,10 @@
         "songId": "devillicsphere",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "4.5"
+    }
   },
   {
     "bpm": "170-200",
@@ -15674,7 +16652,10 @@
           "cover": true
         }
       }
-    ]
+    ],
+    "version": {
+      "added": "4.5"
+    }
   },
   {
     "bpm": "150",
@@ -15719,7 +16700,10 @@
         "songId": "chaos",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "4.5"
+    }
   },
   {
     "bpm": "140",
@@ -15764,7 +16748,10 @@
         "note": 799,
         "songId": "usedtobe"
       }
-    ]
+    ],
+    "version": {
+      "added": "4.5"
+    }
   },
   {
     "bpm": "200",
@@ -15807,7 +16794,10 @@
         "songId": "ultimatetaste",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "4.6"
+    }
   },
   {
     "bpm": "76-96",
@@ -15849,7 +16839,10 @@
         "note": 592,
         "songId": "syuten"
       }
-    ]
+    ],
+    "version": {
+      "added": "4.6"
+    }
   },
   {
     "bpm": "155",
@@ -15894,7 +16887,10 @@
         "note": 872,
         "songId": "drg"
       }
-    ]
+    ],
+    "version": {
+      "added": "4.6"
+    }
   },
   {
     "bpm": "185",
@@ -15937,7 +16933,10 @@
         "note": 1294,
         "songId": "nnglooms"
       }
-    ]
+    ],
+    "version": {
+      "added": "4.6"
+    }
   },
   {
     "bpm": "130-150",
@@ -15993,7 +16992,10 @@
         "songId": "ii",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "4.6"
+    }
   },
   {
     "bpm": "160",
@@ -16038,7 +17040,10 @@
         "note": 895,
         "songId": "magnolia"
       }
-    ]
+    ],
+    "version": {
+      "added": "4.6"
+    }
   },
   {
     "bpm": "180",
@@ -16081,7 +17086,10 @@
         "songId": "sacrifice",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "4.7"
+    }
   },
   {
     "bpm": "163",
@@ -16125,7 +17133,10 @@
         "songId": "rgb",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "4.7"
+    }
   },
   {
     "bpm": "188",
@@ -16169,7 +17180,10 @@
         "songId": "waitfordawn",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "4.7"
+    }
   },
   {
     "bpm": "165",
@@ -16211,7 +17225,10 @@
         "note": 1030,
         "songId": "ravenspride"
       }
-    ]
+    ],
+    "version": {
+      "added": "4.7"
+    }
   },
   {
     "bpm": "182-212",
@@ -16253,7 +17270,10 @@
         "note": 1176,
         "songId": "riseoftheworld"
       }
-    ]
+    ],
+    "version": {
+      "added": "4.7"
+    }
   },
   {
     "bpm": "110-165",
@@ -16295,7 +17315,10 @@
         "note": 1149,
         "songId": "unknownlevels"
       }
-    ]
+    ],
+    "version": {
+      "added": "4.7"
+    }
   },
   {
     "bpm": "216",
@@ -16338,7 +17361,10 @@
         "note": 1467,
         "songId": "abstrusedilemma"
       }
-    ]
+    ],
+    "version": {
+      "added": "4.7"
+    }
   },
   {
     "bpm": "178",
@@ -16381,7 +17407,10 @@
         "songId": "matenrou",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "4.7"
+    }
   },
   {
     "bpm": "183",
@@ -16434,7 +17463,10 @@
         "songId": "tothefurthestdream",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "4.7"
+    }
   },
   {
     "bpm": "130",
@@ -16476,7 +17508,10 @@
         "note": 945,
         "songId": "remindthesouls"
       }
-    ]
+    ],
+    "version": {
+      "added": "5.0"
+    }
   },
   {
     "bpm": "180",
@@ -16518,7 +17553,10 @@
         "note": 986,
         "songId": "dynitikos"
       }
-    ]
+    ],
+    "version": {
+      "added": "5.0"
+    }
   },
   {
     "bpm": "105",
@@ -16561,7 +17599,10 @@
         "songId": "amekagura",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "5.0"
+    }
   },
   {
     "bpm": "170",
@@ -16604,7 +17645,10 @@
         "songId": "bbkkbkk",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "5.0"
+    }
   },
   {
     "bpm": "120",
@@ -16646,7 +17690,10 @@
         "note": 810,
         "songId": "primevaltexture"
       }
-    ]
+    ],
+    "version": {
+      "added": "5.0"
+    }
   },
   {
     "bpm": "175",
@@ -16689,7 +17736,10 @@
         "songId": "technicolour",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "5.0"
+    }
   },
   {
     "bpm": "189",
@@ -16732,7 +17782,10 @@
         "note": 1040,
         "songId": "logos"
       }
-    ]
+    ],
+    "version": {
+      "added": "5.0"
+    }
   },
   {
     "bpm": "178",
@@ -16774,7 +17827,10 @@
         "note": 1223,
         "songId": "egoeimi"
       }
-    ]
+    ],
+    "version": {
+      "added": "5.0"
+    }
   },
   {
     "bpm": "185",
@@ -16816,7 +17872,10 @@
         "note": 1444,
         "songId": "arghena"
       }
-    ]
+    ],
+    "version": {
+      "added": "5.0"
+    }
   },
   {
     "bpm": "170",
@@ -16858,7 +17917,10 @@
         "note": 965,
         "songId": "fantasy"
       }
-    ]
+    ],
+    "version": {
+      "added": "5.1"
+    }
   },
   {
     "bpm": "115-132",
@@ -16900,7 +17962,10 @@
         "note": 805,
         "songId": "transientspace"
       }
-    ]
+    ],
+    "version": {
+      "added": "5.1"
+    }
   },
   {
     "bpm": "200",
@@ -16943,7 +18008,10 @@
         "songId": "namelesspassion",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "5.1"
+    }
   },
   {
     "bpm": "154",
@@ -16987,7 +18055,10 @@
         "songId": "teravolt",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "5.1"
+    }
   },
   {
     "bpm": "175",
@@ -17029,7 +18100,10 @@
         "note": 877,
         "songId": "stratoliner"
       }
-    ]
+    ],
+    "version": {
+      "added": "5.2"
+    }
   },
   {
     "bpm": "200",
@@ -17072,7 +18146,10 @@
         "songId": "ouverture",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "5.2"
+    }
   },
   {
     "bpm": "205",
@@ -17115,7 +18192,10 @@
         "note": 1258,
         "songId": "xtreme"
       }
-    ]
+    ],
+    "version": {
+      "added": "5.2"
+    }
   },
   {
     "bpm": "246",
@@ -17157,7 +18237,10 @@
         "note": 1365,
         "songId": "edenwacca"
       }
-    ]
+    ],
+    "version": {
+      "added": "5.2"
+    }
   },
   {
     "bpm": "205",
@@ -17201,7 +18284,10 @@
         "songId": "metamysteria",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "5.2"
+    }
   },
   {
     "bpm": "100",
@@ -17243,7 +18329,10 @@
         "note": 970,
         "songId": "aloneandlorn"
       }
-    ]
+    ],
+    "version": {
+      "added": "5.2"
+    }
   },
   {
     "bpm": "218",
@@ -17285,7 +18374,10 @@
         "note": 1309,
         "songId": "wishuponasnow"
       }
-    ]
+    ],
+    "version": {
+      "added": "5.2"
+    }
   },
   {
     "bpm": "200",
@@ -17327,7 +18419,10 @@
         "note": 1108,
         "songId": "overdrive"
       }
-    ]
+    ],
+    "version": {
+      "added": "5.2"
+    }
   },
   {
     "bpm": "180",
@@ -17369,7 +18464,10 @@
         "note": 1130,
         "songId": "felys"
       }
-    ]
+    ],
+    "version": {
+      "added": "5.2"
+    }
   },
   {
     "bpm": "170",
@@ -17411,7 +18509,10 @@
         "note": 836,
         "songId": "onandon"
       }
-    ]
+    ],
+    "version": {
+      "added": "5.2"
+    }
   },
   {
     "bpm": "190",
@@ -17454,7 +18555,10 @@
         "songId": "lightmyway",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "5.2"
+    }
   },
   {
     "bpm": "159",
@@ -17497,7 +18601,10 @@
         "songId": "hotarubinoyuki",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "5.2"
+    }
   },
   {
     "bpm": "144",
@@ -17539,7 +18646,10 @@
         "note": 957,
         "songId": "theformula"
       }
-    ]
+    ],
+    "version": {
+      "added": "5.3"
+    }
   },
   {
     "bpm": "174",
@@ -17582,7 +18692,10 @@
         "songId": "lunarossa",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "5.3"
+    }
   },
   {
     "bpm": "170",
@@ -17634,7 +18747,10 @@
         "note": 1047,
         "songId": "jingle"
       }
-    ]
+    ],
+    "version": {
+      "added": "5.4"
+    }
   },
   {
     "bpm": "190",
@@ -17686,7 +18802,10 @@
         "songId": "innocence",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "5.4"
+    }
   },
   {
     "bpm": "220-254",
@@ -17739,7 +18858,10 @@
         "songId": "ionostream",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "5.4"
+    }
   },
   {
     "bpm": "35-400",
@@ -17782,7 +18904,10 @@
         "note": 919,
         "songId": "alephzero"
       }
-    ]
+    ],
+    "version": {
+      "added": "5.4"
+    }
   },
   {
     "bpm": "175",
@@ -17824,7 +18949,10 @@
         "note": 1064,
         "songId": "masqueradelegion"
       }
-    ]
+    ],
+    "version": {
+      "added": "5.4"
+    }
   },
   {
     "bpm": "205",
@@ -17868,7 +18996,10 @@
         "songId": "kyorenromance",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "5.4"
+    }
   },
   {
     "bpm": "122",
@@ -17910,7 +19041,10 @@
         "note": 1299,
         "songId": "qovat"
       }
-    ]
+    ],
+    "version": {
+      "added": "5.4"
+    }
   },
   {
     "bpm": "155",
@@ -17961,7 +19095,10 @@
         "note": 770,
         "songId": "hellohell"
       }
-    ]
+    ],
+    "version": {
+      "added": "5.5"
+    }
   },
   {
     "bpm": "145",
@@ -18003,7 +19140,10 @@
         "note": 708,
         "songId": "ichirin"
       }
-    ]
+    ],
+    "version": {
+      "added": "5.5"
+    }
   },
   {
     "bpm": "125",
@@ -18046,7 +19186,10 @@
         "songId": "awakeninruins",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "5.5"
+    }
   },
   {
     "bpm": "102",
@@ -18099,7 +19242,10 @@
         "songId": "morningloom",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "5.5"
+    }
   },
   {
     "bpm": "190",
@@ -18142,7 +19288,10 @@
         "note": 1497,
         "songId": "lethalvoltage"
       }
-    ]
+    ],
+    "version": {
+      "added": "5.5"
+    }
   },
   {
     "bpm": "180",
@@ -18184,7 +19333,10 @@
         "note": 1277,
         "songId": "mirinae"
       }
-    ]
+    ],
+    "version": {
+      "added": "5.5"
+    }
   },
   {
     "bpm": "150",
@@ -18226,7 +19378,10 @@
         "note": 1228,
         "songId": "ultradiaxon"
       }
-    ]
+    ],
+    "version": {
+      "added": "5.5"
+    }
   },
   {
     "bpm": "150",
@@ -18268,7 +19423,10 @@
         "note": 828,
         "songId": "leaveallbehind"
       }
-    ]
+    ],
+    "version": {
+      "added": "5.6"
+    }
   },
   {
     "bpm": "150",
@@ -18321,7 +19479,10 @@
         "songId": "distortedfate",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "5.6"
+    }
   },
   {
     "bpm": "174",
@@ -18363,7 +19524,10 @@
         "note": 1047,
         "songId": "floatingworld"
       }
-    ]
+    ],
+    "version": {
+      "added": "5.6"
+    }
   },
   {
     "bpm": "179",
@@ -18405,7 +19569,10 @@
         "note": 1130,
         "songId": "chromafill"
       }
-    ]
+    ],
+    "version": {
+      "added": "5.6"
+    }
   },
   {
     "bpm": "180-230",
@@ -18458,7 +19625,10 @@
         "songId": "desive",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "5.6"
+    }
   },
   {
     "bpm": "155",
@@ -18510,7 +19680,10 @@
         "songId": "epicurus",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "5.7"
+    }
   },
   {
     "bpm": "194",
@@ -18562,7 +19735,10 @@
         "note": 962,
         "songId": "tasogare"
       }
-    ]
+    ],
+    "version": {
+      "added": "5.7"
+    }
   },
   {
     "bpm": "205",
@@ -18606,7 +19782,10 @@
         "songId": "oldschoolsalvage",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "5.7"
+    }
   },
   {
     "bpm": "188",
@@ -18650,7 +19829,10 @@
         "songId": "beautifuldreamer",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "5.7"
+    }
   },
   {
     "bpm": "420",
@@ -18693,7 +19875,10 @@
         "note": 1544,
         "songId": "backtobasics"
       }
-    ]
+    ],
+    "version": {
+      "added": "5.7"
+    }
   },
   {
     "bpm": "150",
@@ -18744,7 +19929,10 @@
         "note": 915,
         "songId": "stargateextreme"
       }
-    ]
+    ],
+    "version": {
+      "added": "5.8"
+    }
   },
   {
     "bpm": "160",
@@ -18786,7 +19974,10 @@
         "note": 735,
         "songId": "signof"
       }
-    ]
+    ],
+    "version": {
+      "added": "5.8"
+    }
   },
   {
     "bpm": "128-185",
@@ -18839,7 +20030,10 @@
         "note": 1087,
         "songId": "temptationgc"
       }
-    ]
+    ],
+    "version": {
+      "added": "5.8"
+    }
   },
   {
     "bpm": "192",
@@ -18882,7 +20076,10 @@
         "songId": "blackmind",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "5.8"
+    }
   },
   {
     "bpm": "155",
@@ -18925,7 +20122,10 @@
         "songId": "hypervision",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "5.8"
+    }
   },
   {
     "bpm": "200",
@@ -18968,7 +20168,10 @@
         "songId": "distortionhuman",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "5.9"
+    }
   },
   {
     "bpm": "180",
@@ -19011,7 +20214,10 @@
         "songId": "shrink",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "5.9"
+    }
   },
   {
     "bpm": "165",
@@ -19053,7 +20259,10 @@
         "note": 1111,
         "songId": "invain"
       }
-    ]
+    ],
+    "version": {
+      "added": "5.9"
+    }
   },
   {
     "bpm": "160",
@@ -19106,7 +20315,10 @@
         "songId": "hypnotize",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "5.9"
+    }
   },
   {
     "bpm": "172",
@@ -19150,7 +20362,10 @@
         "songId": "ashenboundary",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "5.9"
+    }
   },
   {
     "bpm": "200",
@@ -19192,7 +20407,10 @@
         "note": 1432,
         "songId": "judgement"
       }
-    ]
+    ],
+    "version": {
+      "added": "5.9"
+    }
   },
   {
     "bpm": "195",
@@ -19243,7 +20461,10 @@
         "note": 1644,
         "songId": "alterego"
       }
-    ]
+    ],
+    "version": {
+      "added": "5.9"
+    }
   },
   {
     "bpm": "183",
@@ -19294,7 +20515,10 @@
         "note": 1410,
         "songId": "epitaxy"
       }
-    ]
+    ],
+    "version": {
+      "added": "5.10"
+    }
   },
   {
     "bpm": "220",
@@ -19347,7 +20571,10 @@
         "songId": "waltzforlorelei",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "5.10"
+    }
   },
   {
     "bpm": "222",
@@ -19399,7 +20626,10 @@
         "note": 1292,
         "songId": "dualdoom"
       }
-    ]
+    ],
+    "version": {
+      "added": "5.10"
+    }
   },
   {
     "bpm": "180",
@@ -19451,7 +20681,10 @@
         "songId": "invertedworld",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "5.10"
+    }
   },
   {
     "bpm": "175",
@@ -19494,7 +20727,10 @@
         "note": 1497,
         "songId": "mvurbd"
       }
-    ]
+    ],
+    "version": {
+      "added": "5.10"
+    }
   },
   {
     "bpm": "212",
@@ -19537,7 +20773,10 @@
         "songId": "vulcanus",
         "plus": true
       }
-    ]
+    ],
+    "version": {
+      "added": "5.10"
+    }
   },
   {
     "bpm": "195",
@@ -19589,6 +20828,9 @@
         "note": 1247,
         "songId": "rainofconflict"
       }
-    ]
+    ],
+    "version": {
+      "added": "5.10"
+    }
   }
 ]
