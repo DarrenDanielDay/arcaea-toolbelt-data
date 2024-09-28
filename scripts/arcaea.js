@@ -86,3 +86,17 @@ export async function getLocalSongList(version) {
 export async function getLocalPackList(version) {
   return readJSON(apkPaths(version).pklst);
 }
+
+/**
+ * Remove `/c$/`
+ * @param {string} version
+ */
+export function normalizeVersion(version) {
+  const pattern = /^(\d+)\.(\d+)\.(\d+)c?$/;
+  const match = pattern.exec(version);
+  if (match == null) {
+    throw new Error(`Version pattern not match: ${version}`);
+  }
+  const [, major, minor, patch] = match;
+  return `${major}.${minor}.${patch}`;
+}

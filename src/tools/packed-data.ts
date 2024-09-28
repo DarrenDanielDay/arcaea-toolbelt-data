@@ -31,6 +31,7 @@ export interface Song {
   byd_local_unlock?: boolean;
   additional_files?: string[];
   songlist_hidden?: boolean;
+  deleted?: boolean;
 }
 
 interface Bgdaynight {

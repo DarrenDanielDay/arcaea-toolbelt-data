@@ -76,7 +76,10 @@ export async function generateAssetsInfo(version) {
       .sort((a, b) => a.level - b.level);
     return banners.concat(courseBanners);
   }
-  const [banners, ...songAssetsInfo] = await Promise.all([checkBannerAssets(), ...songList.songs.map(getSongAssets)]);
+  const [banners, ...songAssetsInfo] = await Promise.all([
+    checkBannerAssets(),
+    ...songList.songs.filter((song) => !song.deleted).map(getSongAssets),
+  ]);
   /** @type {AssetsInfo} */
   const assetsInfo = {
     songs: songAssetsInfo,

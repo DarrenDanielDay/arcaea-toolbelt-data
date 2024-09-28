@@ -1,7 +1,7 @@
 {
   "version": "5.10.4c",
   "apk": "https://arcaea-static.lowiro-cdn.net/tCjYIZr8A5YcQiInaT%2FPLbUiJClr09O7dUyphkbiNFkMR%2FdCCz4tQwAqCy7jTlcsqzeXIj%2BwDk%2FOeBnCsokNr1SHzfW5VUGzgLlGk%2BUm72%2BvIK0D4ouBHWpgjr2OPUm%2FrDVDdyQvv892R1qr1Q%3D%3D?filename=arcaea_5.10.4c.apk",
-  "time": 1727510506618,
+  "time": 1727514133403,
   "index": [
     {
       "file": "alias.json",
@@ -9,7 +9,7 @@
     },
     {
       "file": "assets-info.json",
-      "hash": "8ca66abe"
+      "hash": "6b87d8f0"
     },
     {
       "file": "character-data.json",
@@ -25,7 +25,7 @@
     },
     {
       "file": "chart-data.json",
-      "hash": "e378a179"
+      "hash": "1b146192"
     },
     {
       "file": "chart-express.json",

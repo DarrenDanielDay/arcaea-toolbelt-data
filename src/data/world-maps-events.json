@@ -10617,7 +10617,8 @@
           "id": 37
         }
       }
-    ]
+    ],
+    "expire": 1729782000000
   },
   {
     "id": "限时：BUCHiGiRE_Berserker",
@@ -11269,7 +11270,7 @@
           "type": 2,
           "range": [
             "CROSS†OVER",
-            "CROSS✝︎SOUL",
+            "CROSS†SOUL",
             "Galaxy Friends",
             "Dement ~after legend~",
             "Purgatorium"
@@ -11351,7 +11352,7 @@
           "type": 2,
           "range": [
             "CROSS†OVER",
-            "CROSS✝︎SOUL",
+            "CROSS†SOUL",
             "Galaxy Friends",
             "Dement ~after legend~",
             "Purgatorium"
@@ -11433,7 +11434,7 @@
           "type": 2,
           "range": [
             "CROSS†OVER",
-            "CROSS✝︎SOUL",
+            "CROSS†SOUL",
             "Galaxy Friends",
             "Dement ~after legend~",
             "Purgatorium"
@@ -17388,7 +17389,7 @@
             "I've heard it said",
             "Journey",
             "Chronostasis",
-            "OΔYΣΣEIA",
+            "ΟΔΥΣΣΕΙΑ",
             "SUPERNOVA",
             "Ouroboros -twin stroke of the end-",
             "Diode",
@@ -17410,7 +17411,7 @@
             "I've heard it said",
             "Journey",
             "Chronostasis",
-            "OΔYΣΣEIA",
+            "ΟΔΥΣΣΕΙΑ",
             "SUPERNOVA",
             "Ouroboros -twin stroke of the end-",
             "Diode",
@@ -17432,7 +17433,7 @@
             "I've heard it said",
             "Journey",
             "Chronostasis",
-            "OΔYΣΣEIA",
+            "ΟΔΥΣΣΕΙΑ",
             "SUPERNOVA",
             "Ouroboros -twin stroke of the end-",
             "Diode",
@@ -17454,7 +17455,7 @@
             "I've heard it said",
             "Journey",
             "Chronostasis",
-            "OΔYΣΣEIA",
+            "ΟΔΥΣΣΕΙΑ",
             "SUPERNOVA",
             "Ouroboros -twin stroke of the end-",
             "Diode",
@@ -31571,8 +31572,7 @@
           "count": 1
         }
       }
-    ],
-    "expire": 1726758000000
+    ]
   },
   {
     "id": "限时：Rotaeno",
@@ -31728,8 +31728,7 @@
           "id": 77
         }
       }
-    ],
-    "expire": 1726758000000
+    ]
   },
   {
     "id": "限时：Rain_of_Conflict_in_a_Radiant_Abyss",
@@ -32046,5 +32045,901 @@
       }
     ],
     "expire": 1727362800000
+  },
+  {
+    "id": "限时：Hailstone",
+    "platforms": [
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 10
+        }
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 10
+        }
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 10
+        }
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 10
+        }
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 10
+        }
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 20
+        }
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 20
+        }
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 20
+        }
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 20
+        }
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 20
+        }
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 30
+        }
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 30
+        }
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 30
+        }
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 30
+        }
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 30
+        }
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 40
+        }
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 40
+        }
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 40
+        }
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 40
+        }
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 40
+        }
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10,
+        "special": {
+          "type": 2,
+          "range": [
+            "Hailstone",
+            "qualia -ideaesthesia-",
+            "Lapis",
+            "Purple Verse",
+            "Mazy Metroplex",
+            "Astra walkthrough",
+            "Technicolour",
+            "shrink"
+          ]
+        }
+      },
+      {
+        "length": 10,
+        "special": {
+          "type": 2,
+          "range": [
+            "Hailstone",
+            "qualia -ideaesthesia-",
+            "Lapis",
+            "Purple Verse",
+            "Mazy Metroplex",
+            "Astra walkthrough",
+            "Technicolour",
+            "shrink"
+          ]
+        }
+      },
+      {
+        "length": 10,
+        "special": {
+          "type": 2,
+          "range": [
+            "Hailstone",
+            "qualia -ideaesthesia-",
+            "Lapis",
+            "Purple Verse",
+            "Mazy Metroplex",
+            "Astra walkthrough",
+            "Technicolour",
+            "shrink"
+          ]
+        }
+      },
+      {
+        "length": 10,
+        "special": {
+          "type": 2,
+          "range": [
+            "Hailstone",
+            "qualia -ideaesthesia-",
+            "Lapis",
+            "Purple Verse",
+            "Mazy Metroplex",
+            "Astra walkthrough",
+            "Technicolour",
+            "shrink"
+          ]
+        }
+      },
+      {
+        "length": 10,
+        "special": {
+          "type": 2,
+          "range": [
+            "Hailstone",
+            "qualia -ideaesthesia-",
+            "Lapis",
+            "Purple Verse",
+            "Mazy Metroplex",
+            "Astra walkthrough",
+            "Technicolour",
+            "shrink"
+          ]
+        }
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 1,
+          "id": "hailstone"
+        }
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 50
+        }
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 50
+        }
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 50
+        }
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 50
+        }
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 50
+        }
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 60
+        }
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 60
+        }
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 60
+        }
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 60
+        }
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 60
+        }
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 70
+        }
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 70
+        }
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 70
+        }
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 70
+        }
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 70
+        }
+      },
+      {
+        "length": 10,
+        "special": {
+          "type": 2,
+          "range": [
+            "Hailstone",
+            "qualia -ideaesthesia-",
+            "Lapis",
+            "Purple Verse",
+            "Mazy Metroplex",
+            "Astra walkthrough",
+            "Technicolour",
+            "shrink"
+          ]
+        }
+      },
+      {
+        "length": 10,
+        "special": {
+          "type": 2,
+          "range": [
+            "Hailstone",
+            "qualia -ideaesthesia-",
+            "Lapis",
+            "Purple Verse",
+            "Mazy Metroplex",
+            "Astra walkthrough",
+            "Technicolour",
+            "shrink"
+          ]
+        }
+      },
+      {
+        "length": 10,
+        "special": {
+          "type": 2,
+          "range": [
+            "Hailstone",
+            "qualia -ideaesthesia-",
+            "Lapis",
+            "Purple Verse",
+            "Mazy Metroplex",
+            "Astra walkthrough",
+            "Technicolour",
+            "shrink"
+          ]
+        }
+      },
+      {
+        "length": 10,
+        "special": {
+          "type": 2,
+          "range": [
+            "Hailstone",
+            "qualia -ideaesthesia-",
+            "Lapis",
+            "Purple Verse",
+            "Mazy Metroplex",
+            "Astra walkthrough",
+            "Technicolour",
+            "shrink"
+          ]
+        }
+      },
+      {
+        "length": 10,
+        "special": {
+          "type": 2,
+          "range": [
+            "Hailstone",
+            "qualia -ideaesthesia-",
+            "Lapis",
+            "Purple Verse",
+            "Mazy Metroplex",
+            "Astra walkthrough",
+            "Technicolour",
+            "shrink"
+          ]
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "次元结晶",
+          "count": 1
+        }
+      }
+    ],
+    "expire": 1729782000000
+  },
+  {
+    "id": "限时：FURETE-MITAI",
+    "platforms": [
+      {
+        "length": 5
+      },
+      {
+        "length": 5
+      },
+      {
+        "length": 5
+      },
+      {
+        "length": 5
+      },
+      {
+        "length": 5
+      },
+      {
+        "length": 39,
+        "special": {
+          "type": 2,
+          "range": [
+            "FURETE-MITAI",
+            "Tsuki ni Murakumo, Hana ni Kaze",
+            "MERLIN",
+            "10pt8ion",
+            "DX Choseinou Full Metal Shojo",
+            "INTERNET OVERDOSE",
+            "OMAKENO Stroke",
+            "Give Me a Nightmare",
+            "Sayonara Hatsukoi",
+            "One Last Drive",
+            "Dandelion"
+          ]
+        }
+      },
+      {
+        "length": 5
+      },
+      {
+        "length": 5
+      },
+      {
+        "length": 5
+      },
+      {
+        "length": 5
+      },
+      {
+        "length": 39,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 155
+        }
+      },
+      {
+        "length": 5
+      },
+      {
+        "length": 5
+      },
+      {
+        "length": 5
+      },
+      {
+        "length": 5
+      },
+      {
+        "length": 39,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 155
+        }
+      },
+      {
+        "length": 5
+      },
+      {
+        "length": 5
+      },
+      {
+        "length": 5
+      },
+      {
+        "length": 5
+      },
+      {
+        "length": 39,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 155
+        }
+      },
+      {
+        "length": 5
+      },
+      {
+        "length": 5
+      },
+      {
+        "length": 5
+      },
+      {
+        "length": 5
+      },
+      {
+        "length": 39,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 155
+        }
+      },
+      {
+        "length": 5
+      },
+      {
+        "length": 5
+      },
+      {
+        "length": 5
+      },
+      {
+        "length": 5
+      },
+      {
+        "length": 39,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 155
+        }
+      },
+      {
+        "length": 5
+      },
+      {
+        "length": 5
+      },
+      {
+        "length": 5
+      },
+      {
+        "length": 5
+      },
+      {
+        "length": 39,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 2
+        }
+      },
+      {
+        "length": 5,
+        "special": {
+          "type": 2,
+          "range": [
+            "FURETE-MITAI",
+            "Tsuki ni Murakumo, Hana ni Kaze",
+            "MERLIN",
+            "10pt8ion",
+            "DX Choseinou Full Metal Shojo",
+            "INTERNET OVERDOSE",
+            "OMAKENO Stroke",
+            "Give Me a Nightmare",
+            "Sayonara Hatsukoi",
+            "One Last Drive",
+            "Dandelion"
+          ]
+        }
+      },
+      {
+        "length": 5,
+        "special": {
+          "type": 2,
+          "range": [
+            "FURETE-MITAI",
+            "Tsuki ni Murakumo, Hana ni Kaze",
+            "MERLIN",
+            "10pt8ion",
+            "DX Choseinou Full Metal Shojo",
+            "INTERNET OVERDOSE",
+            "OMAKENO Stroke",
+            "Give Me a Nightmare",
+            "Sayonara Hatsukoi",
+            "One Last Drive",
+            "Dandelion"
+          ]
+        }
+      },
+      {
+        "length": 5,
+        "special": {
+          "type": 2,
+          "range": [
+            "FURETE-MITAI",
+            "Tsuki ni Murakumo, Hana ni Kaze",
+            "MERLIN",
+            "10pt8ion",
+            "DX Choseinou Full Metal Shojo",
+            "INTERNET OVERDOSE",
+            "OMAKENO Stroke",
+            "Give Me a Nightmare",
+            "Sayonara Hatsukoi",
+            "One Last Drive",
+            "Dandelion"
+          ]
+        },
+        "reward": {
+          "type": 1,
+          "id": "furetemitai"
+        }
+      },
+      {
+        "length": 5,
+        "special": {
+          "type": 2,
+          "range": [
+            "FURETE-MITAI",
+            "Tsuki ni Murakumo, Hana ni Kaze",
+            "MERLIN",
+            "10pt8ion",
+            "DX Choseinou Full Metal Shojo",
+            "INTERNET OVERDOSE",
+            "OMAKENO Stroke",
+            "Give Me a Nightmare",
+            "Sayonara Hatsukoi",
+            "One Last Drive",
+            "Dandelion"
+          ]
+        }
+      },
+      {
+        "length": 39,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 2
+        }
+      },
+      {
+        "length": 39
+      },
+      {
+        "length": 39
+      },
+      {
+        "length": 39
+      },
+      {
+        "length": 39
+      },
+      {
+        "length": 39,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 390
+        }
+      },
+      {
+        "length": 39
+      },
+      {
+        "length": 39,
+        "special": {
+          "type": 2,
+          "range": [
+            "FURETE-MITAI",
+            "Tsuki ni Murakumo, Hana ni Kaze",
+            "MERLIN",
+            "10pt8ion",
+            "DX Choseinou Full Metal Shojo",
+            "INTERNET OVERDOSE",
+            "OMAKENO Stroke",
+            "Give Me a Nightmare",
+            "Sayonara Hatsukoi",
+            "One Last Drive",
+            "Dandelion"
+          ]
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "次元结晶",
+          "count": 1
+        }
+      }
+    ],
+    "expire": 1729782000000
   }
 ]

@@ -1,6 +1,7 @@
 // @ts-check
 /// <reference path="./all-types.d.ts" />
 
+import { normalizeVersion } from "./arcaea.js";
 import { indexBy } from "./utils.js";
 const difficulties = ["pst", "prs", "ftr", "byd", "etr"];
 /**
@@ -30,9 +31,10 @@ function getPackName(packIndex, song) {
  * @param {ExtraSongData[]} extraData
  * @param {Alias[]} alias
  * @param {SongAssetsInfo[]} assetsInfo
- * @returns
+ * @param {APKResponse} apkInfo
+ * @returns {SongData[]}
  */
-export function mergeIntoSongData(oldData, songList, packList, extraData, alias, assetsInfo) {
+export function mergeIntoSongData(oldData, songList, packList, extraData, alias, assetsInfo, apkInfo) {
   const oldIndex = indexBy(oldData, (song) => song.id);
   const packIndex = indexBy(packList.packs, (pack) => pack.id);
   const aliasIndex = indexBy(alias, (a) => a.id);
@@ -42,6 +44,21 @@ export function mergeIntoSongData(oldData, songList, packList, extraData, alias,
     const songId = song.id;
     // TODO 合并处理旧数据？
     const old = oldIndex[songId];
+    if (song.deleted) {
+      if (!old) {
+        throw new Error(`Expected old song data to exist, songId=${songId}`);
+      }
+      if (!old.version.deleted) {
+        console.log(`New deleted songId: ${songId}`);
+        return {
+          ...old,
+          version: {
+            ...old.version,
+            deleted: normalizeVersion(apkInfo.version),
+          },
+        };
+      }
+    }
     const extra = extraIndex[songId];
     /** @type {import("@arcaea-toolbelt/models/music-play.js").Chart[]} */
     const charts = [];
@@ -94,6 +111,9 @@ export function mergeIntoSongData(oldData, songList, packList, extraData, alias,
       dl: !!song.remote_dl,
       alias: aliasIndex[songId]?.alias ?? [],
       charts,
+      version: {
+        added: song.version,
+      },
     };
     return songData;
   });

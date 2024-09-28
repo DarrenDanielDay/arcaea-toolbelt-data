@@ -6704,7 +6704,8 @@
       }
     ],
     "version": {
-      "added": "2.2"
+      "added": "2.2",
+      "deleted": "5.10.4"
     }
   },
   {
@@ -20827,6 +20828,207 @@
         "level": 10,
         "note": 1247,
         "songId": "rainofconflict"
+      }
+    ],
+    "version": {
+      "added": "5.10"
+    }
+  },
+  {
+    "bpm": "164",
+    "side": 1,
+    "id": "saintorsinner",
+    "name": "Saint or Sinner",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Adverse Prelude",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": -1,
+        "difficulty": "pst",
+        "designer": "小終点",
+        "id": "saintorsinner@pst",
+        "level": 3,
+        "note": -1,
+        "songId": "saintorsinner"
+      },
+      {
+        "constant": -1,
+        "difficulty": "prs",
+        "designer": "小終点",
+        "id": "saintorsinner@prs",
+        "level": 6,
+        "note": -1,
+        "songId": "saintorsinner"
+      },
+      {
+        "constant": -1,
+        "difficulty": "ftr",
+        "designer": "小終点",
+        "id": "saintorsinner@ftr",
+        "level": 8,
+        "note": -1,
+        "songId": "saintorsinner",
+        "plus": true
+      }
+    ],
+    "version": {
+      "added": "5.10"
+    }
+  },
+  {
+    "bpm": "180",
+    "side": 0,
+    "id": "hailstone",
+    "name": "Hailstone",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "World Extend 3",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": -1,
+        "difficulty": "pst",
+        "designer": "raycast",
+        "id": "hailstone@pst",
+        "level": 3,
+        "note": -1,
+        "songId": "hailstone"
+      },
+      {
+        "constant": -1,
+        "difficulty": "prs",
+        "designer": "raycast",
+        "id": "hailstone@prs",
+        "level": 7,
+        "note": -1,
+        "songId": "hailstone"
+      },
+      {
+        "constant": -1,
+        "difficulty": "ftr",
+        "designer": "raycast",
+        "id": "hailstone@ftr",
+        "level": 9,
+        "note": -1,
+        "songId": "hailstone",
+        "plus": true
+      }
+    ],
+    "version": {
+      "added": "5.10"
+    }
+  },
+  {
+    "bpm": "155",
+    "side": 0,
+    "id": "furetemitai",
+    "name": "FURETE-MITAI",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "World Extend 3",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": -1,
+        "difficulty": "pst",
+        "designer": "nora::neko",
+        "id": "furetemitai@pst",
+        "level": 2,
+        "note": -1,
+        "songId": "furetemitai"
+      },
+      {
+        "constant": -1,
+        "difficulty": "prs",
+        "designer": "nora::neko",
+        "id": "furetemitai@prs",
+        "level": 6,
+        "note": -1,
+        "songId": "furetemitai"
+      },
+      {
+        "constant": -1,
+        "difficulty": "ftr",
+        "designer": "nora::neko",
+        "id": "furetemitai@ftr",
+        "level": 8,
+        "note": -1,
+        "songId": "furetemitai"
+      },
+      {
+        "constant": -1,
+        "difficulty": "etr",
+        "designer": "nora::neko",
+        "id": "furetemitai@etr",
+        "level": 9,
+        "note": -1,
+        "songId": "furetemitai"
+      }
+    ],
+    "version": {
+      "added": "5.10"
+    }
+  },
+  {
+    "bpm": "230",
+    "side": 1,
+    "id": "gensounosatellite",
+    "name": "Gensou no Satellite",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Memory Archive",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": -1,
+        "difficulty": "pst",
+        "designer": "Luxance",
+        "id": "gensounosatellite@pst",
+        "level": 2,
+        "note": -1,
+        "songId": "gensounosatellite"
+      },
+      {
+        "constant": -1,
+        "difficulty": "prs",
+        "designer": "Luxance",
+        "id": "gensounosatellite@prs",
+        "level": 6,
+        "note": -1,
+        "songId": "gensounosatellite"
+      },
+      {
+        "constant": -1,
+        "difficulty": "ftr",
+        "designer": "Luxance",
+        "id": "gensounosatellite@ftr",
+        "level": 8,
+        "note": -1,
+        "songId": "gensounosatellite",
+        "plus": true
+      },
+      {
+        "constant": -1,
+        "difficulty": "etr",
+        "designer": "Luxance",
+        "id": "gensounosatellite@etr",
+        "level": 10,
+        "note": -1,
+        "songId": "gensounosatellite"
       }
     ],
     "version": {

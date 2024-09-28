@@ -21,5 +21,5 @@ const extraData = await patchConstants(cc);
 const url = new URL("../src/data/chart-data.json", import.meta.url);
 /** @type {SongData[]} */
 const oldSongData = await readJSON(url);
-const songData = mergeIntoSongData(oldSongData, slst, pklst, extraData, alias, assetsInfo.songs);
+const songData = mergeIntoSongData(oldSongData, slst, pklst, extraData, alias, assetsInfo.songs, apkInfo);
 await writeJSON(url, songData);

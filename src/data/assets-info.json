@@ -948,13 +948,6 @@
       ]
     },
     {
-      "id": "particlearts",
-      "covers": [
-        "base.jpg",
-        "base_256.jpg"
-      ]
-    },
-    {
       "id": "vindication",
       "covers": [
         "1080_base.jpg",
@@ -2995,6 +2988,34 @@
     },
     {
       "id": "rainofconflict",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "id": "saintorsinner",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "id": "hailstone",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "id": "furetemitai",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "id": "gensounosatellite",
       "covers": [
         "1080_base.jpg",
         "1080_base_256.jpg"
