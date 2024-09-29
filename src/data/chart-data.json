@@ -20848,30 +20848,30 @@
     "alias": [],
     "charts": [
       {
-        "constant": -1,
+        "constant": 3,
         "difficulty": "pst",
         "designer": "小終点",
         "id": "saintorsinner@pst",
         "level": 3,
-        "note": -1,
+        "note": 447,
         "songId": "saintorsinner"
       },
       {
-        "constant": -1,
+        "constant": 6,
         "difficulty": "prs",
         "designer": "小終点",
         "id": "saintorsinner@prs",
         "level": 6,
-        "note": -1,
+        "note": 563,
         "songId": "saintorsinner"
       },
       {
-        "constant": -1,
+        "constant": 8.8,
         "difficulty": "ftr",
         "designer": "小終点",
         "id": "saintorsinner@ftr",
         "level": 8,
-        "note": -1,
+        "note": 906,
         "songId": "saintorsinner",
         "plus": true
       }
@@ -20894,30 +20894,30 @@
     "alias": [],
     "charts": [
       {
-        "constant": -1,
+        "constant": 3.5,
         "difficulty": "pst",
         "designer": "raycast",
         "id": "hailstone@pst",
         "level": 3,
-        "note": -1,
+        "note": 534,
         "songId": "hailstone"
       },
       {
-        "constant": -1,
+        "constant": 7,
         "difficulty": "prs",
         "designer": "raycast",
         "id": "hailstone@prs",
         "level": 7,
-        "note": -1,
+        "note": 651,
         "songId": "hailstone"
       },
       {
-        "constant": -1,
+        "constant": 9.7,
         "difficulty": "ftr",
         "designer": "raycast",
         "id": "hailstone@ftr",
         "level": 9,
-        "note": -1,
+        "note": 1002,
         "songId": "hailstone",
         "plus": true
       }
@@ -20940,39 +20940,39 @@
     "alias": [],
     "charts": [
       {
-        "constant": -1,
+        "constant": 2.5,
         "difficulty": "pst",
         "designer": "nora::neko",
         "id": "furetemitai@pst",
         "level": 2,
-        "note": -1,
+        "note": 447,
         "songId": "furetemitai"
       },
       {
-        "constant": -1,
+        "constant": 6,
         "difficulty": "prs",
         "designer": "nora::neko",
         "id": "furetemitai@prs",
         "level": 6,
-        "note": -1,
+        "note": 523,
         "songId": "furetemitai"
       },
       {
-        "constant": -1,
+        "constant": 8.4,
         "difficulty": "ftr",
         "designer": "nora::neko",
         "id": "furetemitai@ftr",
         "level": 8,
-        "note": -1,
+        "note": 763,
         "songId": "furetemitai"
       },
       {
-        "constant": -1,
+        "constant": 9.4,
         "difficulty": "etr",
         "designer": "nora::neko",
         "id": "furetemitai@etr",
         "level": 9,
-        "note": -1,
+        "note": 841,
         "songId": "furetemitai"
       }
     ],
@@ -20994,40 +20994,40 @@
     "alias": [],
     "charts": [
       {
-        "constant": -1,
+        "constant": 2.5,
         "difficulty": "pst",
         "designer": "Luxance",
         "id": "gensounosatellite@pst",
         "level": 2,
-        "note": -1,
+        "note": 721,
         "songId": "gensounosatellite"
       },
       {
-        "constant": -1,
+        "constant": 6.5,
         "difficulty": "prs",
         "designer": "Luxance",
         "id": "gensounosatellite@prs",
         "level": 6,
-        "note": -1,
+        "note": 783,
         "songId": "gensounosatellite"
       },
       {
-        "constant": -1,
+        "constant": 8.7,
         "difficulty": "ftr",
         "designer": "Luxance",
         "id": "gensounosatellite@ftr",
         "level": 8,
-        "note": -1,
+        "note": 992,
         "songId": "gensounosatellite",
         "plus": true
       },
       {
-        "constant": -1,
+        "constant": 10.1,
         "difficulty": "etr",
         "designer": "Luxance",
         "id": "gensounosatellite@etr",
         "level": 10,
-        "note": -1,
+        "note": 1139,
         "songId": "gensounosatellite"
       }
     ],

@@ -6814,5 +6814,75 @@
       "constant": 10.5,
       "old": false
     }
+  ],
+  "saintorsinner": [
+    {
+      "constant": 3,
+      "old": false
+    },
+    {
+      "constant": 6,
+      "old": false
+    },
+    {
+      "constant": 8.8,
+      "old": false
+    },
+    null,
+    null
+  ],
+  "hailstone": [
+    {
+      "constant": 3.5,
+      "old": false
+    },
+    {
+      "constant": 7,
+      "old": false
+    },
+    {
+      "constant": 9.7,
+      "old": false
+    },
+    null,
+    null
+  ],
+  "furetemitai": [
+    {
+      "constant": 2.5,
+      "old": false
+    },
+    {
+      "constant": 6,
+      "old": false
+    },
+    {
+      "constant": 8.4,
+      "old": false
+    },
+    null,
+    {
+      "constant": 9.4,
+      "old": false
+    }
+  ],
+  "gensounosatellite": [
+    {
+      "constant": 2.5,
+      "old": false
+    },
+    {
+      "constant": 6.5,
+      "old": false
+    },
+    {
+      "constant": 8.7,
+      "old": false
+    },
+    null,
+    {
+      "constant": 10.1,
+      "old": false
+    }
   ]
 }

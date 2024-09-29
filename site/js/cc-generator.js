@@ -140,6 +140,7 @@ export const ChartConstantGenerator = () => {
     }
     ccTestContext.set({
       items: slst.songs
+        .filter((song) => !song.deleted)
         .flatMap((song) => song.difficulties.map((chart) => ({ song, chart })))
         .filter(({ chart, song }) => {
           const oldC = oldCC[song.id];
@@ -260,7 +261,7 @@ export const ChartConstantGenerator = () => {
           class="form-control"
         />
         <div class="input-group-text">不选择文件时使用<a target="_blank" href="${
-          process.env.ASSETS_VENDOR + ""
+          assetsBase + "/songs/songlist"
         }">供应商的songlist</a>（每8小时更新一次）</div>
       </div>
       <div class="input-group mb-3">

@@ -8056,5 +8056,87 @@
         "constant": 10.5
       }
     ]
+  },
+  {
+    "id": "saintorsinner",
+    "charts": [
+      {
+        "notes": 447,
+        "constant": 3
+      },
+      {
+        "notes": 563,
+        "constant": 6
+      },
+      {
+        "notes": 906,
+        "constant": 8.8
+      },
+      null,
+      null
+    ]
+  },
+  {
+    "id": "hailstone",
+    "charts": [
+      {
+        "notes": 534,
+        "constant": 3.5
+      },
+      {
+        "notes": 651,
+        "constant": 7
+      },
+      {
+        "notes": 1002,
+        "constant": 9.7
+      },
+      null,
+      null
+    ]
+  },
+  {
+    "id": "furetemitai",
+    "charts": [
+      {
+        "notes": 447,
+        "constant": 2.5
+      },
+      {
+        "notes": 523,
+        "constant": 6
+      },
+      {
+        "notes": 763,
+        "constant": 8.4
+      },
+      null,
+      {
+        "notes": 841,
+        "constant": 9.4
+      }
+    ]
+  },
+  {
+    "id": "gensounosatellite",
+    "charts": [
+      {
+        "notes": 721,
+        "constant": 2.5
+      },
+      {
+        "notes": 783,
+        "constant": 6.5
+      },
+      {
+        "notes": 992,
+        "constant": 8.7
+      },
+      null,
+      {
+        "notes": 1139,
+        "constant": 10.1
+      }
+    ]
   }
 ]

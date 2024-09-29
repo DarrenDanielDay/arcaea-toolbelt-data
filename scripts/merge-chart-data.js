@@ -57,6 +57,9 @@ export function mergeIntoSongData(oldData, songList, packList, extraData, alias,
             deleted: normalizeVersion(apkInfo.version),
           },
         };
+      } else {
+        console.log(`"${songId}" is already deleted. Just keep the data.`);
+        return old;
       }
     }
     const extra = extraIndex[songId];
