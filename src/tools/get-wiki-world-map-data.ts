@@ -7,7 +7,7 @@ import {
   RewardType,
 } from "@arcaea-toolbelt/models/world-mode";
 import { CharacterData } from "@arcaea-toolbelt/models/character";
-import { arcaeaCNClient, findNextElWhere, findParentWhere, htmlDocument, initPageDocument, wikiURL } from "./wiki-util";
+import { arcaeaCNClient, filterNonAscii, findNextElWhere, findParentWhere, htmlDocument, initPageDocument, wikiURL } from "./wiki-util";
 
 const wikiLongtermWorldMapTable = wikiURL("世界模式地图详表 (移动版常驻)");
 const wikiEventWorldMapTable = wikiURL("世界模式地图详表_(移动版限时活动)");
@@ -46,7 +46,7 @@ async function getWikiLontermWorldMapTable() {
     }
     const chapter: WikiChapterData = {
       maps: [],
-      name: th.textContent!.trim(),
+      name: filterNonAscii(th.textContent!.trim()),
     };
     if (chapter.name.startsWith("Breached")) {
       // 跳过Beyond Chain

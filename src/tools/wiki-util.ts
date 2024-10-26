@@ -50,5 +50,14 @@ export function findParentWhere<T extends Element>(start: Element, where: (el: E
   return node;
 }
 
+export function isAscii(char: string) {
+  const charCode = char.charCodeAt(0);
+  return 0 < charCode && charCode <= 0x7f;
+}
+
+export function filterNonAscii(str: string) {
+  return [...str].filter(isAscii).join("");
+}
+
 export const arcaeaCNClient = new CachedHttpGetClient("arcaea-cn-cache");
 Object.assign(window, { arcaeaCNClient });
