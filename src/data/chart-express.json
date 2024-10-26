@@ -1,6 +1,24 @@
 [
   {
-    "songId": "saintorsinner",
+    "songId": "prayer",
+    "charts": [
+      {
+        "constant": 2.5
+      },
+      {
+        "constant": 5.5
+      },
+      {
+        "constant": 8.2
+      },
+      null,
+      {
+        "constant": 9.1
+      }
+    ]
+  },
+  {
+    "songId": "crimsonquartz",
     "charts": [
       {
         "constant": 3
@@ -12,11 +30,13 @@
         "constant": 8.8
       },
       null,
-      null
+      {
+        "constant": 9.8
+      }
     ]
   },
   {
-    "songId": "hailstone",
+    "songId": "thirdsun",
     "charts": [
       {
         "constant": 3.5
@@ -25,45 +45,45 @@
         "constant": 7
       },
       {
-        "constant": 9.7
+        "constant": 9.4
+      },
+      null,
+      {
+        "constant": 10
+      }
+    ]
+  },
+  {
+    "songId": "spiritdauntless",
+    "charts": [
+      {
+        "constant": 4.5
+      },
+      {
+        "constant": 7.8
+      },
+      {
+        "constant": 10.5
       },
       null,
       null
     ]
   },
   {
-    "songId": "furetemitai",
+    "songId": "diesirae",
     "charts": [
       {
-        "constant": 2.5
+        "constant": 4.5
       },
       {
-        "constant": 6
+        "constant": 7.5
       },
       {
-        "constant": 8.4
+        "constant": 9.5
       },
       null,
       {
-        "constant": 9.4
-      }
-    ]
-  },
-  {
-    "songId": "gensounosatellite",
-    "charts": [
-      {
-        "constant": 2.5
-      },
-      {
-        "constant": 6.5
-      },
-      {
-        "constant": 8.7
-      },
-      null,
-      {
-        "constant": 10.1
+        "constant": 10.6
       }
     ]
   }

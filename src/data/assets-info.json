@@ -3020,6 +3020,41 @@
         "1080_base.jpg",
         "1080_base_256.jpg"
       ]
+    },
+    {
+      "id": "prayer",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "id": "crimsonquartz",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "id": "thirdsun",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "id": "spiritdauntless",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "id": "diesirae",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
     }
   ],
   "banners": [
@@ -3052,6 +3087,12 @@
       "file": "online_banner_2024_10.png",
       "year": 2024,
       "month": 10
+    },
+    {
+      "type": "aol",
+      "file": "online_banner_2024_11.png",
+      "year": 2024,
+      "month": 11
     },
     {
       "type": "course",

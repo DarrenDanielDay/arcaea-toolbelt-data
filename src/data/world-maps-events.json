@@ -3827,8 +3827,7 @@
           "count": 1
         }
       }
-    ],
-    "expire": 1728572400000
+    ]
   },
   {
     "id": "限时：Phantasia",
@@ -14588,7 +14587,8 @@
           "count": 7
         }
       }
-    ]
+    ],
+    "expire": 1731596400000
   },
   {
     "id": "限时：Life_is_PIANO",
@@ -32043,8 +32043,7 @@
           "id": "rainofconflict"
         }
       }
-    ],
-    "expire": 1727362800000
+    ]
   },
   {
     "id": "限时：Hailstone",
@@ -32941,5 +32940,308 @@
       }
     ],
     "expire": 1729782000000
+  },
+  {
+    "id": "限时：Prayer",
+    "platforms": [
+      {
+        "length": 30
+      },
+      {
+        "length": 40
+      },
+      {
+        "length": 50,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 100
+        }
+      },
+      {
+        "length": 60
+      },
+      {
+        "length": 70,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 300
+        }
+      },
+      {
+        "length": 80,
+        "special": {
+          "type": 2,
+          "range": [
+            "Prayer",
+            "Shades of Light in a Transcendent Realm",
+            "Faint Light (Arcaea Edit)",
+            "Far Away Light",
+            "Divine Light of Myriad",
+            "Lights of Muse",
+            "PRIMITIVE LIGHTS",
+            "LIVHT MY WΔY",
+            "Hikari"
+          ]
+        }
+      },
+      {
+        "length": 90,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 2
+        }
+      },
+      {
+        "length": 1,
+        "special": {
+          "type": 0,
+          "count": 2
+        }
+      },
+      {
+        "length": 1,
+        "special": {
+          "type": 0,
+          "count": 2
+        }
+      },
+      {
+        "length": 1,
+        "special": {
+          "type": 0,
+          "count": 2
+        }
+      },
+      {
+        "length": 1,
+        "special": {
+          "type": 0,
+          "count": 2
+        }
+      },
+      {
+        "length": 1,
+        "special": {
+          "type": 0,
+          "count": 2
+        }
+      },
+      {
+        "length": 1,
+        "special": {
+          "type": 0,
+          "count": 2
+        },
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 500
+        }
+      },
+      {
+        "length": 1,
+        "special": {
+          "type": 0,
+          "count": 2
+        }
+      },
+      {
+        "length": 1,
+        "special": {
+          "type": 0,
+          "count": 2
+        }
+      },
+      {
+        "length": 1,
+        "special": {
+          "type": 0,
+          "count": 2
+        }
+      },
+      {
+        "length": 1,
+        "special": {
+          "type": 0,
+          "count": 2
+        }
+      },
+      {
+        "length": 1,
+        "special": {
+          "type": 0,
+          "count": 2
+        }
+      },
+      {
+        "length": 1,
+        "special": {
+          "type": 0,
+          "count": 2
+        },
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 2
+        }
+      },
+      {
+        "length": 1,
+        "special": {
+          "type": 0,
+          "count": 2
+        }
+      },
+      {
+        "length": 1,
+        "special": {
+          "type": 0,
+          "count": 2
+        }
+      },
+      {
+        "length": 1,
+        "special": {
+          "type": 0,
+          "count": 2
+        }
+      },
+      {
+        "length": 1,
+        "special": {
+          "type": 0,
+          "count": 2
+        }
+      },
+      {
+        "length": 1,
+        "special": {
+          "type": 0,
+          "count": 2
+        }
+      },
+      {
+        "length": 15,
+        "special": {
+          "type": 2,
+          "range": [
+            "Prayer",
+            "Brand new world",
+            "Redraw the Colorless World",
+            "Rise of the World",
+            "Floating World",
+            "Inverted World"
+          ]
+        },
+        "reward": {
+          "type": 1,
+          "id": "prayer"
+        }
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 15,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 100
+        }
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 15,
+        "special": {
+          "type": 2,
+          "range": [
+            "Prayer",
+            "Brand new world",
+            "Redraw the Colorless World",
+            "Rise of the World",
+            "Floating World",
+            "Inverted World"
+          ]
+        }
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 15,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 150
+        }
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 15,
+        "special": {
+          "type": 2,
+          "range": [
+            "Prayer",
+            "Brand new world",
+            "Redraw the Colorless World",
+            "Rise of the World",
+            "Floating World",
+            "Inverted World"
+          ]
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "次元结晶",
+          "count": 1
+        }
+      }
+    ],
+    "expire": 1731596400000
   }
 ]
