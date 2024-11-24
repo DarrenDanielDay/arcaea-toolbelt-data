@@ -7,7 +7,15 @@ import {
   RewardType,
 } from "@arcaea-toolbelt/models/world-mode";
 import { CharacterData } from "@arcaea-toolbelt/models/character";
-import { arcaeaCNClient, filterNonAscii, findNextElWhere, findParentWhere, htmlDocument, initPageDocument, wikiURL } from "./wiki-util";
+import {
+  arcaeaCNClient,
+  filterNonAscii,
+  findNextElWhere,
+  findParentWhere,
+  htmlDocument,
+  initPageDocument,
+  wikiURL,
+} from "./wiki-util";
 
 const wikiLongtermWorldMapTable = wikiURL("世界模式地图详表 (移动版常驻)");
 const wikiEventWorldMapTable = wikiURL("世界模式地图详表_(移动版限时活动)");
@@ -307,7 +315,10 @@ export async function fetchWikiWorldMapData(songs: SongData[], characters: Chara
   const longtermTableItems = await getWikiLontermWorldMapTable();
   const longterm = longtermTableItems.map<ChapterData>((d) => ({
     chapter: d.name,
-    maps: d.maps.map((map) => getWorldMap(htmlDocument, map, backgrounds, songs, characters)).filter(isNonNullable),
+    maps: d.maps
+      .filter((map) => !map.id.includes("?")) // 剧情特殊地图
+      .map((map) => getWorldMap(htmlDocument, map, backgrounds, songs, characters))
+      .filter(isNonNullable),
   }));
   const legacyMaps = new Set([
     // chapter 1

@@ -689,7 +689,7 @@
         "songId": "shadesoflight"
       },
       {
-        "constant": 9,
+        "constant": 9.1,
         "difficulty": "byd",
         "designer": "N↑TRO",
         "id": "shadesoflight@byd",
@@ -856,7 +856,7 @@
         "songId": "qualia"
       },
       {
-        "constant": 9.7,
+        "constant": 9.8,
         "difficulty": "byd",
         "designer": "moonquay -end of chartaesthesia-",
         "id": "qualia@byd",
@@ -919,7 +919,7 @@
         "songId": "pragmatism"
       },
       {
-        "constant": 11,
+        "constant": 11.2,
         "difficulty": "byd",
         "designer": "THE LAST DREAM",
         "id": "pragmatism@byd",
@@ -972,11 +972,10 @@
         "id": "sheriruth@prs",
         "level": 7,
         "note": 832,
-        "songId": "sheriruth",
-        "plus": true
+        "songId": "sheriruth"
       },
       {
-        "constant": 10.1,
+        "constant": 10,
         "difficulty": "ftr",
         "designer": "夜浪",
         "id": "sheriruth@ftr",
@@ -1316,7 +1315,7 @@
         "songId": "partyvinyl"
       },
       {
-        "constant": 10.1,
+        "constant": 10.3,
         "difficulty": "byd",
         "designer": "Party Exschwasion",
         "id": "partyvinyl@byd",
@@ -1463,7 +1462,7 @@
         "songId": "nirvluce"
       },
       {
-        "constant": 10.3,
+        "constant": 10.2,
         "difficulty": "ftr",
         "designer": "東星※紅空",
         "id": "nirvluce@ftr",
@@ -2694,13 +2693,14 @@
         "songId": "modelista"
       },
       {
-        "constant": 10,
+        "constant": 9.9,
         "difficulty": "ftr",
         "designer": "NITRO",
         "id": "modelista@ftr",
-        "level": 10,
+        "level": 9,
         "note": 1010,
-        "songId": "modelista"
+        "songId": "modelista",
+        "plus": true
       }
     ],
     "version": {
@@ -2741,7 +2741,7 @@
         "songId": "soundwitch"
       },
       {
-        "constant": 9.9,
+        "constant": 9.8,
         "difficulty": "ftr",
         "designer": "NiTRO",
         "id": "soundwitch@ftr",
@@ -2791,16 +2791,17 @@
         "songId": "trappola"
       },
       {
-        "constant": 10,
+        "constant": 9.9,
         "difficulty": "ftr",
         "designer": "k//urorak",
         "id": "trappola@ftr",
-        "level": 10,
+        "level": 9,
         "note": 1044,
-        "songId": "trappola"
+        "songId": "trappola",
+        "plus": true
       },
       {
-        "constant": 10.5,
+        "constant": 10.6,
         "difficulty": "byd",
         "designer": "NITRO -mesmerize-",
         "id": "trappola@byd",
@@ -2951,14 +2952,13 @@
         "songId": "axiumcrisis"
       },
       {
-        "constant": 10.7,
+        "constant": 10.6,
         "difficulty": "ftr",
         "designer": "The Monolith",
         "id": "axiumcrisis@ftr",
         "level": 10,
         "note": 1094,
-        "songId": "axiumcrisis",
-        "plus": true
+        "songId": "axiumcrisis"
       }
     ],
     "version": {
@@ -3001,7 +3001,7 @@
         "songId": "grievouslady"
       },
       {
-        "constant": 11.3,
+        "constant": 11.1,
         "difficulty": "ftr",
         "designer": "迷路深層",
         "id": "grievouslady@ftr",
@@ -3110,7 +3110,7 @@
         "songId": "redandblue"
       },
       {
-        "constant": 10,
+        "constant": 10.2,
         "difficulty": "byd",
         "designer": "moonquay \"retrograde\"\nBLUE=LEFT RIGHT=RED",
         "id": "redandblue@byd",
@@ -3456,7 +3456,7 @@
         "songId": "specta"
       },
       {
-        "constant": 9.5,
+        "constant": 9.4,
         "difficulty": "ftr",
         "designer": "Toaster",
         "id": "specta@ftr",
@@ -3696,14 +3696,13 @@
         "plus": true
       },
       {
-        "constant": 10.7,
+        "constant": 10.5,
         "difficulty": "ftr",
         "designer": "東星※コラプサー",
         "id": "singularity@ftr",
         "level": 10,
         "note": 1105,
-        "songId": "singularity",
-        "plus": true
+        "songId": "singularity"
       },
       {
         "constant": 10.4,
@@ -4491,14 +4490,13 @@
         "songId": "halcyon"
       },
       {
-        "constant": 10.7,
+        "constant": 10.5,
         "difficulty": "ftr",
         "designer": "東星※太陽",
         "id": "halcyon@ftr",
         "level": 10,
         "note": 1227,
-        "songId": "halcyon",
-        "plus": true
+        "songId": "halcyon"
       }
     ],
     "version": {
@@ -4602,7 +4600,7 @@
         "songId": "fractureray"
       },
       {
-        "constant": 11.3,
+        "constant": 11.1,
         "difficulty": "ftr",
         "designer": "Paradox Zero",
         "id": "fractureray@ftr",
@@ -4886,13 +4884,14 @@
         "songId": "fallensquare"
       },
       {
-        "constant": 9.6,
+        "constant": 9.7,
         "difficulty": "ftr",
         "designer": "Haruba",
         "id": "fallensquare@ftr",
         "level": 9,
         "note": 703,
-        "songId": "fallensquare"
+        "songId": "fallensquare",
+        "plus": true
       }
     ],
     "version": {
@@ -5292,7 +5291,7 @@
         "plus": true
       },
       {
-        "constant": 10.4,
+        "constant": 10.3,
         "difficulty": "ftr",
         "designer": "夜浪[Spherical]",
         "id": "tiferet@ftr",
@@ -5489,7 +5488,7 @@
         "songId": "phantasia"
       },
       {
-        "constant": 9.2,
+        "constant": 9.4,
         "difficulty": "ftr",
         "designer": "Toaster",
         "id": "phantasia@ftr",
@@ -5541,7 +5540,7 @@
         "songId": "empireofwinter"
       },
       {
-        "constant": 9,
+        "constant": 9.1,
         "difficulty": "ftr",
         "designer": "0°Nitro",
         "id": "empireofwinter@ftr",
@@ -5647,7 +5646,7 @@
         "songId": "dxfullmetal"
       },
       {
-        "constant": 9.8,
+        "constant": 9.7,
         "difficulty": "ftr",
         "designer": "DX譜面作者フルメタルNitro",
         "id": "dxfullmetal@ftr",
@@ -5702,7 +5701,7 @@
         "songId": "omakeno"
       },
       {
-        "constant": 10.2,
+        "constant": 10.3,
         "difficulty": "byd",
         "designer": "NITRO",
         "id": "omakeno@byd",
@@ -5752,7 +5751,7 @@
         "songId": "scarletlance"
       },
       {
-        "constant": 10.1,
+        "constant": 10,
         "difficulty": "ftr",
         "designer": "闇運",
         "id": "scarletlance@ftr",
@@ -5973,7 +5972,7 @@
         "plus": true
       },
       {
-        "constant": 9.5,
+        "constant": 9.6,
         "difficulty": "byd",
         "designer": "石樂",
         "id": "antithese@byd",
@@ -6136,7 +6135,7 @@
         "songId": "viciousheroism"
       },
       {
-        "constant": 11.1,
+        "constant": 11.2,
         "difficulty": "byd",
         "designer": "[FUTiLE] Defiance",
         "id": "viciousheroism@byd",
@@ -6242,7 +6241,7 @@
         "songId": "revixy"
       },
       {
-        "constant": 9,
+        "constant": 9.1,
         "difficulty": "ftr",
         "designer": "Revoke Kurorak",
         "id": "revixy@ftr",
@@ -6542,7 +6541,7 @@
         "songId": "ikazuchi"
       },
       {
-        "constant": 10.4,
+        "constant": 10.3,
         "difficulty": "ftr",
         "designer": "先史の機械神【夜浪】",
         "id": "ikazuchi@ftr",
@@ -6592,7 +6591,7 @@
         "songId": "worldvanquisher"
       },
       {
-        "constant": 10.8,
+        "constant": 10.7,
         "difficulty": "ftr",
         "designer": "処刑人【東星】",
         "id": "worldvanquisher@ftr",
@@ -7101,7 +7100,7 @@
         "songId": "valhallazero"
       },
       {
-        "constant": 10.4,
+        "constant": 10.2,
         "difficulty": "ftr",
         "designer": "夜浪",
         "id": "valhallazero@ftr",
@@ -7149,13 +7148,14 @@
         "songId": "mirzam"
       },
       {
-        "constant": 10,
+        "constant": 9.9,
         "difficulty": "ftr",
         "designer": "東星※おおいぬ座β星",
         "id": "mirzam@ftr",
-        "level": 10,
+        "level": 9,
         "note": 1303,
-        "songId": "mirzam"
+        "songId": "mirzam",
+        "plus": true
       }
     ],
     "version": {
@@ -7311,7 +7311,7 @@
         "songId": "gloryroad"
       },
       {
-        "constant": 10.6,
+        "constant": 10.5,
         "difficulty": "ftr",
         "designer": "東星※紅空",
         "id": "gloryroad@ftr",
@@ -7672,14 +7672,13 @@
         "songId": "laqryma"
       },
       {
-        "constant": 9.9,
+        "constant": 10,
         "difficulty": "byd",
         "designer": "Nitro 「The Forsaken」",
         "id": "laqryma@byd",
-        "level": 9,
+        "level": 10,
         "note": 1161,
         "songId": "laqryma",
-        "plus": true,
         "override": {
           "cover": true
         }
@@ -8313,7 +8312,7 @@
         "songId": "dantalion"
       },
       {
-        "constant": 10.9,
+        "constant": 10.8,
         "difficulty": "ftr",
         "designer": "夜浪 X 東星 \"The Lost\"",
         "id": "dantalion@ftr",
@@ -8362,14 +8361,13 @@
         "songId": "ifi"
       },
       {
-        "constant": 10.9,
+        "constant": 11.1,
         "difficulty": "ftr",
         "designer": "夜浪 VS 東星 \"Convergence\"",
         "id": "ifi@ftr",
-        "level": 10,
+        "level": 11,
         "note": 1576,
-        "songId": "ifi",
-        "plus": true
+        "songId": "ifi"
       }
     ],
     "version": {
@@ -8430,7 +8428,7 @@
         "plus": true
       },
       {
-        "constant": 11.5,
+        "constant": 11.7,
         "difficulty": "byd",
         "designer": "Finale - The Tempest",
         "id": "tempestissimo@byd",
@@ -8530,7 +8528,7 @@
         "songId": "altale"
       },
       {
-        "constant": 9.7,
+        "constant": 9.8,
         "difficulty": "ftr",
         "designer": "Kurorak",
         "id": "altale@ftr",
@@ -9230,7 +9228,7 @@
         "songId": "buchigireberserker"
       },
       {
-        "constant": 10.9,
+        "constant": 10.8,
         "difficulty": "ftr",
         "designer": "東星 vs 夜浪 《BERSERK》",
         "id": "buchigireberserker@ftr",
@@ -9280,7 +9278,7 @@
         "songId": "galaxyfriends"
       },
       {
-        "constant": 9.8,
+        "constant": 9.9,
         "difficulty": "ftr",
         "designer": "Nitrome X",
         "id": "galaxyfriends@ftr",
@@ -10420,7 +10418,7 @@
         "songId": "lastcelebration"
       },
       {
-        "constant": 10.5,
+        "constant": 10.4,
         "difficulty": "ftr",
         "designer": "Nitro affected by 'CHUNITHM'",
         "id": "lastcelebration@ftr",
@@ -10709,7 +10707,7 @@
         "songId": "gimmedablood"
       },
       {
-        "constant": 10.4,
+        "constant": 10.5,
         "difficulty": "ftr",
         "designer": "夜浪",
         "id": "gimmedablood@ftr",
@@ -11052,7 +11050,7 @@
         "songId": "aegleseeker"
       },
       {
-        "constant": 11.1,
+        "constant": 11.2,
         "difficulty": "ftr",
         "designer": "L₆ː The Void",
         "id": "aegleseeker@ftr",
@@ -11100,7 +11098,7 @@
         "songId": "coastalhighway"
       },
       {
-        "constant": 9,
+        "constant": 9.1,
         "difficulty": "ftr",
         "designer": "Exschwasion",
         "id": "coastalhighway@ftr",
@@ -11589,7 +11587,7 @@
         "songId": "smallcloud"
       },
       {
-        "constant": 9.1,
+        "constant": 9.3,
         "difficulty": "ftr",
         "designer": "én",
         "id": "smallcloud@ftr",
@@ -11735,7 +11733,7 @@
         "plus": true
       },
       {
-        "constant": 9.7,
+        "constant": 9.8,
         "difficulty": "ftr",
         "designer": "Exschwasion",
         "id": "mazymetroplex@ftr",
@@ -11894,7 +11892,7 @@
         "plus": true
       },
       {
-        "constant": 10.7,
+        "constant": 10.8,
         "difficulty": "ftr",
         "designer": "Toaster",
         "id": "genocider@ftr",
@@ -11994,10 +11992,11 @@
         "id": "sheriruthrmx@prs",
         "level": 7,
         "note": 795,
-        "songId": "sheriruthrmx"
+        "songId": "sheriruthrmx",
+        "plus": true
       },
       {
-        "constant": 10.6,
+        "constant": 10.5,
         "difficulty": "ftr",
         "designer": "東星※恣意",
         "id": "sheriruthrmx@ftr",
@@ -12188,7 +12187,7 @@
         "songId": "gengaozo"
       },
       {
-        "constant": 10.2,
+        "constant": 10.1,
         "difficulty": "ftr",
         "designer": "_ F U T U R E",
         "id": "gengaozo@ftr",
@@ -12288,7 +12287,7 @@
         "songId": "lastendconductor"
       },
       {
-        "constant": 10.1,
+        "constant": 10.2,
         "difficulty": "byd",
         "designer": "Toaster",
         "id": "lastendconductor@byd",
@@ -12973,7 +12972,7 @@
         "songId": "medusa"
       },
       {
-        "constant": 10.2,
+        "constant": 10.1,
         "difficulty": "ftr",
         "designer": "Toaster",
         "id": "medusa@ftr",
@@ -13116,7 +13115,7 @@
         "songId": "sakurafubuki"
       },
       {
-        "constant": 9.3,
+        "constant": 9.4,
         "difficulty": "ftr",
         "designer": "én",
         "id": "sakurafubuki@ftr",
@@ -13682,7 +13681,7 @@
         }
       },
       {
-        "constant": 10.7,
+        "constant": 10.8,
         "difficulty": "ftr",
         "designer": "東星",
         "id": "stasis@ftr",
@@ -13730,7 +13729,7 @@
         "songId": "picopicotranslation"
       },
       {
-        "constant": 9.3,
+        "constant": 9.4,
         "difficulty": "ftr",
         "designer": "Translated by én",
         "id": "picopicotranslation@ftr",
@@ -13972,7 +13971,7 @@
         "songId": "mukishitsu"
       },
       {
-        "constant": 9.2,
+        "constant": 9.4,
         "difficulty": "ftr",
         "designer": "antymis ~虹色~",
         "id": "mukishitsu@ftr",
@@ -14242,17 +14241,16 @@
         "plus": true
       },
       {
-        "constant": 9.9,
+        "constant": 10,
         "difficulty": "ftr",
         "designer": "Imaginary Sky",
         "id": "worldender@ftr",
-        "level": 9,
+        "level": 10,
         "note": 1225,
-        "songId": "worldender",
-        "plus": true
+        "songId": "worldender"
       },
       {
-        "constant": 11.2,
+        "constant": 11.1,
         "difficulty": "byd",
         "designer": "Imaginary Sky",
         "id": "worldender@byd",
@@ -14306,7 +14304,7 @@
         "plus": true
       },
       {
-        "constant": 10.3,
+        "constant": 10.4,
         "difficulty": "ftr",
         "designer": "Paradox Blight",
         "id": "pentiment@ftr",
@@ -14315,7 +14313,7 @@
         "songId": "pentiment"
       },
       {
-        "constant": 11.4,
+        "constant": 11.5,
         "difficulty": "byd",
         "designer": "Paradox Blight",
         "id": "pentiment@byd",
@@ -14376,7 +14374,7 @@
         "songId": "arcanaeden"
       },
       {
-        "constant": 11.4,
+        "constant": 11.6,
         "difficulty": "byd",
         "designer": "Eye of the Storm",
         "id": "arcanaeden@byd",
@@ -14434,7 +14432,7 @@
         "songId": "testify"
       },
       {
-        "constant": 10.8,
+        "constant": 10.9,
         "difficulty": "ftr",
         "designer": "Black¦FUTURE",
         "id": "testify@ftr",
@@ -14494,13 +14492,14 @@
         "songId": "lovelessdress"
       },
       {
-        "constant": 9.6,
+        "constant": 9.7,
         "difficulty": "ftr",
         "designer": "Final Prayer",
         "id": "lovelessdress@ftr",
         "level": 9,
         "note": 850,
-        "songId": "lovelessdress"
+        "songId": "lovelessdress",
+        "plus": true
       }
     ],
     "version": {
@@ -14684,7 +14683,7 @@
         "songId": "kokoro"
       },
       {
-        "constant": 9.3,
+        "constant": 9.6,
         "difficulty": "ftr",
         "designer": "écologie (from SEGA)",
         "id": "kokoro@ftr",
@@ -14823,7 +14822,7 @@
         "songId": "goodbyemerry"
       },
       {
-        "constant": 10.5,
+        "constant": 10.6,
         "difficulty": "ftr",
         "designer": "絶滅",
         "id": "goodbyemerry@ftr",
@@ -14871,14 +14870,13 @@
         "songId": "lamia"
       },
       {
-        "constant": 10.9,
+        "constant": 11,
         "difficulty": "ftr",
         "designer": "[漆黒の執行者] 夜浪",
         "id": "lamia@ftr",
-        "level": 10,
+        "level": 11,
         "note": 1385,
-        "songId": "lamia",
-        "plus": true
+        "songId": "lamia"
       }
     ],
     "version": {
@@ -15160,7 +15158,7 @@
         "songId": "mantis"
       },
       {
-        "constant": 9.3,
+        "constant": 9.4,
         "difficulty": "ftr",
         "designer": "ANTyMIS",
         "id": "mantis@ftr",
@@ -15305,7 +15303,7 @@
         "plus": true
       },
       {
-        "constant": 10.4,
+        "constant": 10.5,
         "difficulty": "ftr",
         "designer": "夜浪 -Annales Historiae-",
         "id": "chronicle@ftr",
@@ -15353,13 +15351,14 @@
         "plus": true
       },
       {
-        "constant": 10.6,
+        "constant": 10.7,
         "difficulty": "ftr",
         "designer": "東星 vs 夜浪《APOPHÄNIE》",
         "id": "nullapophenia@ftr",
         "level": 10,
         "note": 1299,
-        "songId": "nullapophenia"
+        "songId": "nullapophenia",
+        "plus": true
       }
     ],
     "version": {
@@ -15398,7 +15397,7 @@
         "songId": "crimsonthrone"
       },
       {
-        "constant": 10.4,
+        "constant": 10.6,
         "difficulty": "ftr",
         "designer": "Toaster",
         "id": "crimsonthrone@ftr",
@@ -15678,7 +15677,7 @@
         "plus": true
       },
       {
-        "constant": 10.4,
+        "constant": 10.6,
         "difficulty": "ftr",
         "designer": "東星",
         "id": "infinity@ftr",
@@ -15773,7 +15772,7 @@
         "plus": true
       },
       {
-        "constant": 10.7,
+        "constant": 10.8,
         "difficulty": "ftr",
         "designer": "東星※原初の灯",
         "id": "primitivelights@ftr",
@@ -15925,7 +15924,7 @@
         "songId": "genesischunithm"
       },
       {
-        "constant": 9.9,
+        "constant": 9.8,
         "difficulty": "ftr",
         "designer": "Exschwasion",
         "id": "genesischunithm@ftr",
@@ -16451,7 +16450,7 @@
         "plus": true
       },
       {
-        "constant": 10.5,
+        "constant": 10.4,
         "difficulty": "ftr",
         "designer": "Nitroだー！",
         "id": "tothemilkyway@ftr",
@@ -16501,10 +16500,9 @@
         "difficulty": "ftr",
         "designer": "該当チャンネルが停止されたため、\nこの譜面は再生できません。",
         "id": "internetyamero@ftr",
-        "level": 9,
+        "level": 10,
         "note": 1222,
-        "songId": "internetyamero",
-        "plus": true
+        "songId": "internetyamero"
       }
     ],
     "version": {
@@ -16642,7 +16640,7 @@
         "plus": true
       },
       {
-        "constant": 10.4,
+        "constant": 10.5,
         "difficulty": "ftr",
         "designer": "Toaster vs ₸öα$†ε₹",
         "id": "lucidtraveler@ftr",
@@ -16786,7 +16784,7 @@
         "songId": "ultimatetaste"
       },
       {
-        "constant": 9.7,
+        "constant": 9.9,
         "difficulty": "ftr",
         "designer": "Arcaea Charting Team【Full Flavor】",
         "id": "ultimatetaste@ftr",
@@ -16880,7 +16878,7 @@
         "songId": "drg"
       },
       {
-        "constant": 9.5,
+        "constant": 9.4,
         "difficulty": "ftr",
         "designer": "_CHAOS",
         "id": "drg@ftr",
@@ -17060,7 +17058,7 @@
     "alias": [],
     "charts": [
       {
-        "constant": 3,
+        "constant": 3.5,
         "difficulty": "pst",
         "designer": "Luxance",
         "id": "sacrifice@pst",
@@ -17125,7 +17123,7 @@
         "plus": true
       },
       {
-        "constant": 9.7,
+        "constant": 9.8,
         "difficulty": "ftr",
         "designer": "NO₂",
         "id": "rgb@ftr",
@@ -17263,7 +17261,7 @@
         "songId": "riseoftheworld"
       },
       {
-        "constant": 10.4,
+        "constant": 10.5,
         "difficulty": "ftr",
         "designer": "N⇑TRO",
         "id": "riseoftheworld@ftr",
@@ -17354,7 +17352,7 @@
         "plus": true
       },
       {
-        "constant": 11.1,
+        "constant": 11.3,
         "difficulty": "ftr",
         "designer": "Remnant ⇑⇓ Volition",
         "id": "abstrusedilemma@ftr",
@@ -17501,7 +17499,7 @@
         "songId": "remindthesouls"
       },
       {
-        "constant": 9.5,
+        "constant": 9.6,
         "difficulty": "ftr",
         "designer": "Nitro",
         "id": "remindthesouls@ftr",
@@ -17775,7 +17773,7 @@
         "plus": true
       },
       {
-        "constant": 10.1,
+        "constant": 10.2,
         "difficulty": "ftr",
         "designer": "絶滅",
         "id": "logos@ftr",
@@ -17856,7 +17854,7 @@
         "songId": "arghena"
       },
       {
-        "constant": 9.4,
+        "constant": 9.6,
         "difficulty": "prs",
         "designer": "第二識 \"Causality\"",
         "id": "arghena@prs",
@@ -18000,7 +17998,7 @@
         "songId": "namelesspassion"
       },
       {
-        "constant": 9.9,
+        "constant": 9.8,
         "difficulty": "ftr",
         "designer": "Luxance",
         "id": "namelesspassion@ftr",
@@ -18047,7 +18045,7 @@
         "plus": true
       },
       {
-        "constant": 10.9,
+        "constant": 10.8,
         "difficulty": "ftr",
         "designer": "超東星 × 雷夜浪",
         "id": "teravolt@ftr",
@@ -18412,7 +18410,7 @@
         "songId": "overdrive"
       },
       {
-        "constant": 10,
+        "constant": 10.1,
         "difficulty": "ftr",
         "designer": "C7H11NO配合!!!!!!",
         "id": "overdrive@ftr",
@@ -19034,7 +19032,7 @@
         "songId": "qovat"
       },
       {
-        "constant": 10.6,
+        "constant": 10.4,
         "difficulty": "ftr",
         "designer": "ny＊tree",
         "id": "qovat@ftr",
@@ -19088,7 +19086,7 @@
         "songId": "hellohell"
       },
       {
-        "constant": 9.4,
+        "constant": 9.3,
         "difficulty": "etr",
         "designer": "eién",
         "id": "hellohell@etr",
@@ -19178,7 +19176,7 @@
         "songId": "awakeninruins"
       },
       {
-        "constant": 9.9,
+        "constant": 9.7,
         "difficulty": "ftr",
         "designer": "antymis",
         "id": "awakeninruins@ftr",
@@ -19326,7 +19324,7 @@
         "songId": "mirinae"
       },
       {
-        "constant": 10.5,
+        "constant": 10.4,
         "difficulty": "ftr",
         "designer": "N↑TRO",
         "id": "mirinae@ftr",
@@ -19371,7 +19369,7 @@
         "songId": "ultradiaxon"
       },
       {
-        "constant": 10.5,
+        "constant": 10.3,
         "difficulty": "ftr",
         "designer": "Nitro",
         "id": "ultradiaxon@ftr",
@@ -19471,7 +19469,7 @@
         "songId": "distortedfate"
       },
       {
-        "constant": 10.9,
+        "constant": 10.8,
         "difficulty": "etr",
         "designer": "TOASTER DATA PATCHER",
         "id": "distortedfate@etr",
@@ -19728,7 +19726,7 @@
         "songId": "tasogare"
       },
       {
-        "constant": 10.4,
+        "constant": 10.5,
         "difficulty": "etr",
         "designer": "Exschwasion",
         "id": "tasogare@etr",
@@ -19868,7 +19866,7 @@
         "plus": true
       },
       {
-        "constant": 10.5,
+        "constant": 10.6,
         "difficulty": "ftr",
         "designer": "夜浪 THE FUMEn ANARCHIST",
         "id": "backtobasics@ftr",
@@ -19922,13 +19920,14 @@
         "songId": "stargateextreme"
       },
       {
-        "constant": 10,
+        "constant": 9.9,
         "difficulty": "etr",
         "designer": "eién",
         "id": "stargateextreme@etr",
-        "level": 10,
+        "level": 9,
         "note": 915,
-        "songId": "stargateextreme"
+        "songId": "stargateextreme",
+        "plus": true
       }
     ],
     "version": {
@@ -20013,7 +20012,7 @@
         "plus": true
       },
       {
-        "constant": 9.7,
+        "constant": 9.8,
         "difficulty": "ftr",
         "designer": "Nite Schwa Power",
         "id": "temptationgc@ftr",
@@ -20023,7 +20022,7 @@
         "plus": true
       },
       {
-        "constant": 10.4,
+        "constant": 10.5,
         "difficulty": "etr",
         "designer": "Nite Schwa Power",
         "id": "temptationgc@etr",
@@ -20160,7 +20159,7 @@
         "songId": "distortionhuman"
       },
       {
-        "constant": 9.8,
+        "constant": 9.9,
         "difficulty": "ftr",
         "designer": "ディストーション・ルクアンス",
         "id": "distortionhuman@ftr",
@@ -20292,7 +20291,7 @@
         "difficulty": "prs",
         "designer": "én",
         "id": "hypnotize@prs",
-        "level": 6,
+        "level": 7,
         "note": 761,
         "songId": "hypnotize"
       },
@@ -20400,7 +20399,7 @@
         "songId": "judgement"
       },
       {
-        "constant": 10.4,
+        "constant": 10.5,
         "difficulty": "ftr",
         "designer": "絶滅 » collapse",
         "id": "judgement@ftr",
@@ -20454,7 +20453,7 @@
         "songId": "alterego"
       },
       {
-        "constant": 11.2,
+        "constant": 11.3,
         "difficulty": "etr",
         "designer": "Article 0x8《Enmity》",
         "id": "alterego@etr",
@@ -21297,6 +21296,620 @@
     ],
     "version": {
       "added": "5.10"
+    }
+  },
+  {
+    "bpm": "174",
+    "side": 0,
+    "id": "astralexe",
+    "name": "astral.exe",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "World Extend 3",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 3,
+        "difficulty": "pst",
+        "designer": "antymis.exe",
+        "id": "astralexe@pst",
+        "level": 3,
+        "note": 654,
+        "songId": "astralexe"
+      },
+      {
+        "constant": 6,
+        "difficulty": "prs",
+        "designer": "antymis.exe",
+        "id": "astralexe@prs",
+        "level": 6,
+        "note": 734,
+        "songId": "astralexe"
+      },
+      {
+        "constant": 9.5,
+        "difficulty": "ftr",
+        "designer": "antymis.exe",
+        "id": "astralexe@ftr",
+        "level": 9,
+        "note": 1059,
+        "songId": "astralexe"
+      }
+    ],
+    "version": {
+      "added": "6.0"
+    }
+  },
+  {
+    "bpm": "137",
+    "side": 1,
+    "id": "liftoff",
+    "name": "LiftOff",
+    "covers": [
+      "base.jpg",
+      "base_256.jpg"
+    ],
+    "pack": "O.N.G.E.K.I. - Collaboration Chapter 3",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 3,
+        "difficulty": "pst",
+        "designer": "Luxance's Case-Book",
+        "id": "liftoff@pst",
+        "level": 3,
+        "note": 459,
+        "songId": "liftoff"
+      },
+      {
+        "constant": 6.5,
+        "difficulty": "prs",
+        "designer": "Luxance's Case-Book",
+        "id": "liftoff@prs",
+        "level": 6,
+        "note": 500,
+        "songId": "liftoff"
+      },
+      {
+        "constant": 8.2,
+        "difficulty": "ftr",
+        "designer": "Luxance's Case-Book",
+        "id": "liftoff@ftr",
+        "level": 8,
+        "note": 660,
+        "songId": "liftoff"
+      },
+      {
+        "constant": 9.8,
+        "difficulty": "etr",
+        "designer": "Luxance's Case-Book",
+        "id": "liftoff@etr",
+        "level": 9,
+        "note": 988,
+        "songId": "liftoff",
+        "plus": true
+      }
+    ],
+    "version": {
+      "added": "6.0"
+    }
+  },
+  {
+    "bpm": "200",
+    "side": 0,
+    "id": "superambulance",
+    "name": "SUPER AMBULANCE",
+    "covers": [
+      "base.jpg",
+      "base_256.jpg"
+    ],
+    "pack": "O.N.G.E.K.I. - Collaboration Chapter 3",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 4.5,
+        "difficulty": "pst",
+        "designer": "moonquay【新入生】",
+        "id": "superambulance@pst",
+        "level": 4,
+        "note": 740,
+        "songId": "superambulance"
+      },
+      {
+        "constant": 7.5,
+        "difficulty": "prs",
+        "designer": "moonquay v.EXPERT",
+        "id": "superambulance@prs",
+        "level": 7,
+        "note": 971,
+        "songId": "superambulance"
+      },
+      {
+        "constant": 10.3,
+        "difficulty": "ftr",
+        "designer": "moonquay v.MASTER",
+        "id": "superambulance@ftr",
+        "level": 10,
+        "note": 1371,
+        "songId": "superambulance"
+      }
+    ],
+    "version": {
+      "added": "6.0"
+    }
+  },
+  {
+    "bpm": "190-200",
+    "side": 1,
+    "id": "dontfightmusic",
+    "name": "Don't Fight The Music",
+    "covers": [
+      "base.jpg",
+      "base_256.jpg"
+    ],
+    "pack": "O.N.G.E.K.I. - Collaboration Chapter 3",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 4.5,
+        "difficulty": "pst",
+        "designer": "絶滅 (AQUA) Lv.70",
+        "id": "dontfightmusic@pst",
+        "level": 4,
+        "note": 757,
+        "songId": "dontfightmusic"
+      },
+      {
+        "constant": 7.8,
+        "difficulty": "prs",
+        "designer": "絶滅 (AQUA) Lv.70",
+        "id": "dontfightmusic@prs",
+        "level": 7,
+        "note": 962,
+        "songId": "dontfightmusic",
+        "plus": true
+      },
+      {
+        "constant": 9.3,
+        "difficulty": "ftr",
+        "designer": "絶滅 (AQUA) Lv.70",
+        "id": "dontfightmusic@ftr",
+        "level": 9,
+        "note": 1043,
+        "songId": "dontfightmusic"
+      },
+      {
+        "constant": 10.7,
+        "difficulty": "etr",
+        "designer": "絶滅 (AQUA) Lv.70",
+        "id": "dontfightmusic@etr",
+        "level": 10,
+        "note": 1385,
+        "songId": "dontfightmusic",
+        "plus": true
+      }
+    ],
+    "version": {
+      "added": "6.0"
+    }
+  },
+  {
+    "bpm": "210-220",
+    "side": 1,
+    "id": "andrevivemelody",
+    "name": "And Revive The Melody",
+    "covers": [
+      "base.jpg",
+      "base_256.jpg"
+    ],
+    "pack": "O.N.G.E.K.I. - Collaboration Chapter 3",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 5.5,
+        "difficulty": "pst",
+        "designer": "夜浪 (FIRE) Lv.75",
+        "id": "andrevivemelody@pst",
+        "level": 5,
+        "note": 962,
+        "songId": "andrevivemelody"
+      },
+      {
+        "constant": 8.5,
+        "difficulty": "prs",
+        "designer": "夜浪 (FIRE) Lv.75",
+        "id": "andrevivemelody@prs",
+        "level": 8,
+        "note": 1269,
+        "songId": "andrevivemelody"
+      },
+      {
+        "constant": 10.9,
+        "difficulty": "ftr",
+        "designer": "夜浪 (FIRE) Lv.75",
+        "id": "andrevivemelody@ftr",
+        "level": 10,
+        "note": 1710,
+        "songId": "andrevivemelody",
+        "plus": true
+      }
+    ],
+    "version": {
+      "added": "6.0"
+    }
+  },
+  {
+    "bpm": "148",
+    "side": 3,
+    "id": "swansong",
+    "name": "Swan Song",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Lucent Historia",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 3,
+        "difficulty": "pst",
+        "designer": "小終点",
+        "id": "swansong@pst",
+        "level": 3,
+        "note": 563,
+        "songId": "swansong"
+      },
+      {
+        "constant": 7.5,
+        "difficulty": "prs",
+        "designer": "小終点",
+        "id": "swansong@prs",
+        "level": 7,
+        "note": 719,
+        "songId": "swansong"
+      },
+      {
+        "constant": 9.9,
+        "difficulty": "ftr",
+        "designer": "小終点",
+        "id": "swansong@ftr",
+        "level": 9,
+        "note": 1225,
+        "songId": "swansong",
+        "plus": true
+      }
+    ],
+    "version": {
+      "added": "6.0"
+    }
+  },
+  {
+    "bpm": "186",
+    "side": 3,
+    "id": "renegade",
+    "name": "Renegade",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Lucent Historia",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 4.5,
+        "difficulty": "pst",
+        "designer": "raycast, The Devout",
+        "id": "renegade@pst",
+        "level": 4,
+        "note": 655,
+        "songId": "renegade"
+      },
+      {
+        "constant": 7.8,
+        "difficulty": "prs",
+        "designer": "raycast, The Devout",
+        "id": "renegade@prs",
+        "level": 7,
+        "note": 751,
+        "songId": "renegade",
+        "plus": true
+      },
+      {
+        "constant": 9.6,
+        "difficulty": "ftr",
+        "designer": "raycast, The Devout",
+        "id": "renegade@ftr",
+        "level": 9,
+        "note": 994,
+        "songId": "renegade"
+      },
+      {
+        "constant": 10.2,
+        "difficulty": "byd",
+        "designer": "raycast, The Irresolute",
+        "id": "renegade@byd",
+        "level": 10,
+        "note": 1165,
+        "songId": "renegade"
+      }
+    ],
+    "version": {
+      "added": "6.0"
+    }
+  },
+  {
+    "bpm": "200",
+    "side": 3,
+    "id": "raysofremnant",
+    "name": "Rays of Remnant",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Lucent Historia",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 4.5,
+        "difficulty": "pst",
+        "designer": "nora::nue",
+        "id": "raysofremnant@pst",
+        "level": 4,
+        "note": 710,
+        "songId": "raysofremnant"
+      },
+      {
+        "constant": 7.5,
+        "difficulty": "prs",
+        "designer": "nora::nue",
+        "id": "raysofremnant@prs",
+        "level": 7,
+        "note": 766,
+        "songId": "raysofremnant"
+      },
+      {
+        "constant": 9.7,
+        "difficulty": "ftr",
+        "designer": "nora::nue",
+        "id": "raysofremnant@ftr",
+        "level": 9,
+        "note": 982,
+        "songId": "raysofremnant",
+        "plus": true
+      },
+      {
+        "constant": 10.4,
+        "difficulty": "byd",
+        "designer": "nora::nue",
+        "id": "raysofremnant@byd",
+        "level": 10,
+        "note": 1118,
+        "songId": "raysofremnant"
+      }
+    ],
+    "version": {
+      "added": "6.0"
+    }
+  },
+  {
+    "bpm": "172",
+    "side": 3,
+    "id": "breachoffaith",
+    "name": "Breach of Faith",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Lucent Historia",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 5.5,
+        "difficulty": "pst",
+        "designer": "夜浪「perfidulo」",
+        "id": "breachoffaith@pst",
+        "level": 5,
+        "note": 986,
+        "songId": "breachoffaith"
+      },
+      {
+        "constant": 8.4,
+        "difficulty": "prs",
+        "designer": "夜浪「perfidulo」",
+        "id": "breachoffaith@prs",
+        "level": 8,
+        "note": 1171,
+        "songId": "breachoffaith"
+      },
+      {
+        "constant": 10.3,
+        "difficulty": "ftr",
+        "designer": "夜浪「perfidulo」",
+        "id": "breachoffaith@ftr",
+        "level": 10,
+        "note": 1373,
+        "songId": "breachoffaith"
+      },
+      {
+        "constant": 10.9,
+        "difficulty": "byd",
+        "designer": "夜浪「perfidulo」",
+        "id": "breachoffaith@byd",
+        "level": 10,
+        "note": 1448,
+        "songId": "breachoffaith",
+        "plus": true
+      }
+    ],
+    "version": {
+      "added": "6.0"
+    }
+  },
+  {
+    "bpm": "200",
+    "side": 3,
+    "id": "lamentrain",
+    "name": "Lament Rain",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Lucent Historia",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 6.5,
+        "difficulty": "pst",
+        "designer": "⇆ Fixation",
+        "id": "lamentrain@pst",
+        "level": 6,
+        "note": 1025,
+        "songId": "lamentrain"
+      },
+      {
+        "constant": 8.8,
+        "difficulty": "prs",
+        "designer": "⇆ Sublimation",
+        "id": "lamentrain@prs",
+        "level": 8,
+        "note": 1186,
+        "songId": "lamentrain",
+        "plus": true
+      },
+      {
+        "constant": 10.6,
+        "difficulty": "ftr",
+        "designer": "⇆ Separation",
+        "id": "lamentrain@ftr",
+        "level": 10,
+        "note": 1380,
+        "songId": "lamentrain"
+      },
+      {
+        "constant": 11.4,
+        "difficulty": "byd",
+        "designer": "⇆ Projection",
+        "id": "lamentrain@byd",
+        "level": 11,
+        "note": 1637,
+        "songId": "lamentrain"
+      }
+    ],
+    "version": {
+      "added": "6.0"
+    }
+  },
+  {
+    "bpm": "200",
+    "side": 3,
+    "id": "designant",
+    "name": "Designant.",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Lucent Historia",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 7.5,
+        "difficulty": "pst",
+        "designer": "1st Command ≒ Legacy",
+        "id": "designant@pst",
+        "level": 7,
+        "note": 1055,
+        "songId": "designant"
+      },
+      {
+        "constant": 9.6,
+        "difficulty": "prs",
+        "designer": "2nd Command ≒ Perfection",
+        "id": "designant@prs",
+        "level": 9,
+        "note": 1426,
+        "songId": "designant"
+      },
+      {
+        "constant": 10.9,
+        "difficulty": "ftr",
+        "designer": "3rd Command ≒ Ascendance",
+        "id": "designant@ftr",
+        "level": 10,
+        "note": 1768,
+        "songId": "designant",
+        "plus": true
+      },
+      {
+        "constant": 11.9,
+        "difficulty": "byd",
+        "designer": "Final Command. Infinity",
+        "id": "designant@byd",
+        "level": 11,
+        "note": 2184,
+        "songId": "designant",
+        "plus": true
+      }
+    ],
+    "version": {
+      "added": "6.0"
+    }
+  },
+  {
+    "bpm": "185",
+    "side": 3,
+    "id": "astralquant",
+    "name": "Astral Quantization",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Lucent Historia",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 5,
+        "difficulty": "pst",
+        "designer": "Ψ",
+        "id": "astralquant@pst",
+        "level": 5,
+        "note": 782,
+        "songId": "astralquant"
+      },
+      {
+        "constant": 8.1,
+        "difficulty": "prs",
+        "designer": "Ψ",
+        "id": "astralquant@prs",
+        "level": 8,
+        "note": 943,
+        "songId": "astralquant"
+      },
+      {
+        "constant": 10.6,
+        "difficulty": "ftr",
+        "designer": "Ψ",
+        "id": "astralquant@ftr",
+        "level": 10,
+        "note": 1388,
+        "songId": "astralquant"
+      }
+    ],
+    "version": {
+      "added": "6.0"
     }
   }
 ]

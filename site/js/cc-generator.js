@@ -133,11 +133,13 @@ export const ChartConstantGenerator = () => {
     const oldCC = file
       ? await readFileAsJSON(file)
       : jsonModule(await import("../../src/data/ChartConstant.json", { assert: { type: "json" } }));
+    /** @type {NotesAndConstantsJSON} */
     const oldNotes = jsonModule(await import("../../src/data/notes-and-constants.json", { assert: { type: "json" } }));
     if (oldCC == null) {
       alert("ChartConstant.json无效");
       return;
     }
+    const oldNotesMap = Object.fromEntries(oldNotes.map((item) => [item.id, item.charts]));
     ccTestContext.set({
       items: slst.songs
         .filter((song) => !song.deleted)
@@ -151,6 +153,11 @@ export const ChartConstantGenerator = () => {
           if (song.id === "lasteternity" && chart.ratingClass !== /** Beyond */ 3) {
             // 不存在实际谱面
             return false;
+          }
+          const oldNotesData = oldNotesMap[song.id]?.[chart.ratingClass];
+          if (!(oldNotesData?.constant && oldNotesData.notes)) {
+            // notes-and-constants内数据缺失
+            return true;
           }
           // 新难度（BTD/ETR）
           return !oldC[chart.ratingClass];

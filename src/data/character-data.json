@@ -9013,8 +9013,8 @@
   {
     "id": 72,
     "name": {
-      "en": "Insight (Ascendant - 8th Seeker)",
-      "zh": "洞烛（至高：第八探索者）"
+      "en": "Lacrymira (Ascendant - 8th Seeker)",
+      "zh": "拉可弥拉（至高：第八探索者）"
     },
     "levels": []
   },
@@ -9618,6 +9618,336 @@
         "frag": 37,
         "over": 30,
         "step": 50
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "name": {
+      "en": "Nell (Ascendant - 6th Seeker)",
+      "zh": "尼尔（至高：第六探索者）"
+    },
+    "levels": [
+      null,
+      {
+        "frag": 63,
+        "over": 38,
+        "step": 72
+      },
+      {
+        "frag": 63,
+        "over": 38,
+        "step": 72
+      },
+      {
+        "frag": 63,
+        "over": 38,
+        "step": 72
+      },
+      {
+        "frag": 63,
+        "over": 38,
+        "step": 72
+      },
+      {
+        "frag": 64,
+        "over": 39,
+        "step": 73
+      },
+      {
+        "frag": 64,
+        "over": 39,
+        "step": 74
+      },
+      {
+        "frag": 66,
+        "over": 40,
+        "step": 75
+      },
+      {
+        "frag": 68,
+        "over": 41,
+        "step": 78
+      },
+      {
+        "frag": 71,
+        "over": 43,
+        "step": 81
+      },
+      {
+        "frag": 74,
+        "over": 45,
+        "step": 85
+      },
+      {
+        "frag": 78,
+        "over": 48,
+        "step": 89
+      },
+      {
+        "frag": 81,
+        "over": 50,
+        "step": 93
+      },
+      {
+        "frag": 84,
+        "over": 52,
+        "step": 96
+      },
+      {
+        "frag": 86,
+        "over": 53,
+        "step": 99
+      },
+      {
+        "frag": 88,
+        "over": 54,
+        "step": 100
+      },
+      {
+        "frag": 88,
+        "over": 54,
+        "step": 101
+      },
+      {
+        "frag": 89,
+        "over": 55,
+        "step": 102
+      },
+      {
+        "frag": 89,
+        "over": 55,
+        "step": 102
+      },
+      {
+        "frag": 89,
+        "over": 55,
+        "step": 102
+      },
+      {
+        "frag": 90,
+        "over": 55,
+        "step": 103
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "name": {
+      "en": "Tsumugi",
+      "zh": "纺"
+    },
+    "levels": [
+      null,
+      {
+        "frag": 23,
+        "over": 26,
+        "step": 16
+      },
+      {
+        "frag": 23,
+        "over": 26,
+        "step": 16
+      },
+      {
+        "frag": 23,
+        "over": 26,
+        "step": 16
+      },
+      {
+        "frag": 23,
+        "over": 26,
+        "step": 16
+      },
+      {
+        "frag": 24,
+        "over": 27,
+        "step": 17
+      },
+      {
+        "frag": 25,
+        "over": 28,
+        "step": 17
+      },
+      {
+        "frag": 26,
+        "over": 29,
+        "step": 18
+      },
+      {
+        "frag": 28,
+        "over": 31,
+        "step": 20
+      },
+      {
+        "frag": 31,
+        "over": 34,
+        "step": 22
+      },
+      {
+        "frag": 34,
+        "over": 38,
+        "step": 24
+      },
+      {
+        "frag": 39,
+        "over": 42,
+        "step": 27
+      },
+      {
+        "frag": 42,
+        "over": 46,
+        "step": 29
+      },
+      {
+        "frag": 45,
+        "over": 49,
+        "step": 31
+      },
+      {
+        "frag": 47,
+        "over": 51,
+        "step": 33
+      },
+      {
+        "frag": 48,
+        "over": 52,
+        "step": 34
+      },
+      {
+        "frag": 49,
+        "over": 53,
+        "step": 34
+      },
+      {
+        "frag": 50,
+        "over": 54,
+        "step": 35
+      },
+      {
+        "frag": 50,
+        "over": 54,
+        "step": 35
+      },
+      {
+        "frag": 50,
+        "over": 54,
+        "step": 35
+      },
+      {
+        "frag": 50,
+        "over": 55,
+        "step": 35
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "name": {
+      "en": "Chinatsu",
+      "zh": "千夏"
+    },
+    "levels": [
+      null,
+      {
+        "frag": 37,
+        "over": 40,
+        "step": 40
+      },
+      {
+        "frag": 37,
+        "over": 40,
+        "step": 40
+      },
+      {
+        "frag": 37,
+        "over": 40,
+        "step": 40
+      },
+      {
+        "frag": 37,
+        "over": 40,
+        "step": 40
+      },
+      {
+        "frag": 37,
+        "over": 40,
+        "step": 40
+      },
+      {
+        "frag": 38,
+        "over": 41,
+        "step": 41
+      },
+      {
+        "frag": 39,
+        "over": 43,
+        "step": 43
+      },
+      {
+        "frag": 41,
+        "over": 45,
+        "step": 45
+      },
+      {
+        "frag": 43,
+        "over": 47,
+        "step": 47
+      },
+      {
+        "frag": 46,
+        "over": 51,
+        "step": 51
+      },
+      {
+        "frag": 50,
+        "over": 54,
+        "step": 54
+      },
+      {
+        "frag": 53,
+        "over": 58,
+        "step": 58
+      },
+      {
+        "frag": 55,
+        "over": 60,
+        "step": 60
+      },
+      {
+        "frag": 57,
+        "over": 62,
+        "step": 62
+      },
+      {
+        "frag": 58,
+        "over": 64,
+        "step": 64
+      },
+      {
+        "frag": 59,
+        "over": 65,
+        "step": 65
+      },
+      {
+        "frag": 59,
+        "over": 65,
+        "step": 65
+      },
+      {
+        "frag": 59,
+        "over": 65,
+        "step": 65
+      },
+      {
+        "frag": 59,
+        "over": 65,
+        "step": 65
+      },
+      {
+        "frag": 60,
+        "over": 66,
+        "step": 66
       }
     ]
   },

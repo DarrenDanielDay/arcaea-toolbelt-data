@@ -3833,30 +3833,32 @@
     "id": "限时：Phantasia",
     "platforms": [
       {
-        "length": 10,
-        "special": {
-          "type": 2,
-          "range": "Phantasia"
-        }
+        "length": 1
       },
       {
-        "length": 9
+        "length": 1
       },
       {
-        "length": 8
+        "length": 2
       },
       {
-        "length": 7
+        "length": 3
       },
       {
-        "length": 6
+        "length": 3
       },
       {
-        "length": 2,
+        "length": 4,
         "special": {
           "type": 0,
           "count": 2
         }
+      },
+      {
+        "length": 5
+      },
+      {
+        "length": 5
       },
       {
         "length": 6,
@@ -3870,26 +3872,53 @@
         "length": 7
       },
       {
+        "length": 7
+      },
+      {
         "length": 8
       },
       {
         "length": 9
       },
       {
-        "length": 10,
-        "special": {
-          "type": 2,
-          "range": "Phantasia"
+        "length": 9,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 100
         }
+      },
+      {
+        "length": 10
       },
       {
         "length": 11
       },
       {
-        "length": 12
+        "length": 11,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 100
+        }
+      },
+      {
+        "length": 12,
+        "special": {
+          "type": 0,
+          "count": 2
+        }
       },
       {
         "length": 13
+      },
+      {
+        "length": 13,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 100
+        }
       },
       {
         "length": 14
@@ -3898,36 +3927,616 @@
         "length": 15
       },
       {
-        "length": 14,
-        "reward": {
-          "type": 0,
-          "name": "残片",
-          "count": 200
+        "length": 15
+      },
+      {
+        "length": 16,
+        "special": {
+          "type": 2,
+          "range": "MERLIN"
         }
       },
       {
-        "length": 13
+        "length": 1,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 110
+        }
       },
       {
-        "length": 12
+        "length": 1
       },
       {
-        "length": 11
+        "length": 2
       },
       {
-        "length": 2,
+        "length": 3
+      },
+      {
+        "length": 3
+      },
+      {
+        "length": 4,
         "special": {
           "type": 0,
           "count": 2
         }
+      },
+      {
+        "length": 5
+      },
+      {
+        "length": 5
+      },
+      {
+        "length": 6,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 110
+        }
+      },
+      {
+        "length": 7
+      },
+      {
+        "length": 7
+      },
+      {
+        "length": 8
+      },
+      {
+        "length": 9
+      },
+      {
+        "length": 9,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 110
+        }
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 11
       },
       {
         "length": 11,
         "reward": {
           "type": 0,
           "name": "残片",
-          "count": 300
+          "count": 110
         }
+      },
+      {
+        "length": 12,
+        "special": {
+          "type": 0,
+          "count": 2
+        }
+      },
+      {
+        "length": 13
+      },
+      {
+        "length": 13,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 110
+        }
+      },
+      {
+        "length": 14
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 16,
+        "special": {
+          "type": 2,
+          "range": "DX Choseinou Full Metal Shojo"
+        }
+      },
+      {
+        "length": 1,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 120
+        }
+      },
+      {
+        "length": 1
+      },
+      {
+        "length": 2
+      },
+      {
+        "length": 3
+      },
+      {
+        "length": 3
+      },
+      {
+        "length": 4,
+        "special": {
+          "type": 0,
+          "count": 2
+        }
+      },
+      {
+        "length": 5
+      },
+      {
+        "length": 5
+      },
+      {
+        "length": 6,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 120
+        }
+      },
+      {
+        "length": 7
+      },
+      {
+        "length": 7
+      },
+      {
+        "length": 8
+      },
+      {
+        "length": 9
+      },
+      {
+        "length": 9,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 120
+        }
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 11
+      },
+      {
+        "length": 11,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 120
+        }
+      },
+      {
+        "length": 12,
+        "special": {
+          "type": 0,
+          "count": 2
+        }
+      },
+      {
+        "length": 13
+      },
+      {
+        "length": 13,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 120
+        }
+      },
+      {
+        "length": 14
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 16,
+        "special": {
+          "type": 2,
+          "range": "OMAKENO Stroke"
+        }
+      },
+      {
+        "length": 1,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 130
+        }
+      },
+      {
+        "length": 1
+      },
+      {
+        "length": 2
+      },
+      {
+        "length": 3
+      },
+      {
+        "length": 3
+      },
+      {
+        "length": 4,
+        "special": {
+          "type": 0,
+          "count": 2
+        }
+      },
+      {
+        "length": 5
+      },
+      {
+        "length": 5
+      },
+      {
+        "length": 6,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 130
+        }
+      },
+      {
+        "length": 7
+      },
+      {
+        "length": 7
+      },
+      {
+        "length": 8
+      },
+      {
+        "length": 9
+      },
+      {
+        "length": 9,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 130
+        }
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 11
+      },
+      {
+        "length": 11,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 130
+        }
+      },
+      {
+        "length": 12,
+        "special": {
+          "type": 0,
+          "count": 2
+        }
+      },
+      {
+        "length": 13
+      },
+      {
+        "length": 13,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 130
+        }
+      },
+      {
+        "length": 14
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 16,
+        "special": {
+          "type": 2,
+          "range": "Scarlet Lance"
+        }
+      },
+      {
+        "length": 1,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 140
+        }
+      },
+      {
+        "length": 1
+      },
+      {
+        "length": 2
+      },
+      {
+        "length": 3
+      },
+      {
+        "length": 3
+      },
+      {
+        "length": 4,
+        "special": {
+          "type": 0,
+          "count": 2
+        }
+      },
+      {
+        "length": 5
+      },
+      {
+        "length": 5
+      },
+      {
+        "length": 6,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 140
+        }
+      },
+      {
+        "length": 7
+      },
+      {
+        "length": 7
+      },
+      {
+        "length": 8
+      },
+      {
+        "length": 9
+      },
+      {
+        "length": 9,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 140
+        }
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 11
+      },
+      {
+        "length": 11,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 140
+        }
+      },
+      {
+        "length": 12,
+        "special": {
+          "type": 0,
+          "count": 2
+        }
+      },
+      {
+        "length": 13
+      },
+      {
+        "length": 13,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 140
+        }
+      },
+      {
+        "length": 14
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 16,
+        "special": {
+          "type": 2,
+          "range": "ouroboros -twin stroke of the end-"
+        }
+      },
+      {
+        "length": 1,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 150
+        }
+      },
+      {
+        "length": 1
+      },
+      {
+        "length": 2
+      },
+      {
+        "length": 3
+      },
+      {
+        "length": 3
+      },
+      {
+        "length": 4,
+        "special": {
+          "type": 0,
+          "count": 2
+        }
+      },
+      {
+        "length": 5
+      },
+      {
+        "length": 5
+      },
+      {
+        "length": 6,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 150
+        }
+      },
+      {
+        "length": 7
+      },
+      {
+        "length": 7
+      },
+      {
+        "length": 8
+      },
+      {
+        "length": 9
+      },
+      {
+        "length": 9,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 150
+        }
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 11
+      },
+      {
+        "length": 11,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 150
+        }
+      },
+      {
+        "length": 12,
+        "special": {
+          "type": 0,
+          "count": 2
+        }
+      },
+      {
+        "length": 13
+      },
+      {
+        "length": 13,
+        "special": {
+          "type": 2,
+          "range": "Groove Coaster Collaboration"
+        }
+      },
+      {
+        "length": 14,
+        "special": {
+          "type": 2,
+          "range": "Groove Coaster Collaboration"
+        }
+      },
+      {
+        "length": 15,
+        "special": {
+          "type": 2,
+          "range": "Groove Coaster Collaboration"
+        }
+      },
+      {
+        "length": 15,
+        "special": {
+          "type": 2,
+          "range": "Groove Coaster Collaboration"
+        }
+      },
+      {
+        "length": 16,
+        "special": {
+          "type": 2,
+          "range": "Groove Coaster Collaboration"
+        }
+      },
+      {
+        "length": 1,
+        "reward": {
+          "type": 2,
+          "id": 21
+        }
+      },
+      {
+        "length": 2
+      },
+      {
+        "length": 3
+      },
+      {
+        "length": 4
+      },
+      {
+        "length": 5
+      },
+      {
+        "length": 6,
+        "special": {
+          "type": 0,
+          "count": 2
+        }
+      },
+      {
+        "length": 7
+      },
+      {
+        "length": 8
+      },
+      {
+        "length": 9,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 160
+        }
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 11
       },
       {
         "length": 12
@@ -3936,322 +4545,67 @@
         "length": 13
       },
       {
-        "length": 14
-      },
-      {
-        "length": 15,
-        "special": {
-          "type": 2,
-          "range": "Phantasia"
-        }
-      },
-      {
-        "length": 16
-      },
-      {
-        "length": 17
-      },
-      {
-        "length": 18
-      },
-      {
-        "length": 19
-      },
-      {
-        "length": 20
-      },
-      {
-        "length": 19,
+        "length": 14,
         "reward": {
           "type": 0,
           "name": "残片",
-          "count": 400
+          "count": 160
         }
       },
       {
-        "length": 18
-      },
-      {
-        "length": 17
+        "length": 15
       },
       {
         "length": 16
       },
       {
-        "length": 2,
+        "length": 17,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 160
+        }
+      },
+      {
+        "length": 18,
         "special": {
           "type": 0,
           "count": 2
         }
-      },
-      {
-        "length": 16,
-        "reward": {
-          "type": 0,
-          "name": "残片",
-          "count": 500
-        }
-      },
-      {
-        "length": 17
-      },
-      {
-        "length": 18
       },
       {
         "length": 19
       },
       {
         "length": 20,
-        "special": {
-          "type": 2,
-          "range": "Phantasia"
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 160
         }
       },
       {
         "length": 21
       },
       {
-        "length": 22
-      },
-      {
-        "length": 23
-      },
-      {
-        "length": 24
-      },
-      {
-        "length": 2,
+        "length": 22,
         "special": {
-          "type": 0,
-          "count": 2
+          "type": 3,
+          "range": "Groove Coaster Collaboration"
+        }
+      },
+      {
+        "length": 23,
+        "special": {
+          "type": 3,
+          "range": "Groove Coaster Collaboration"
         }
       },
       {
         "length": 24,
-        "reward": {
-          "type": 0,
-          "name": "残片",
-          "count": 600
-        }
-      },
-      {
-        "length": 23
-      },
-      {
-        "length": 22
-      },
-      {
-        "length": 21
-      },
-      {
-        "length": 2,
         "special": {
-          "type": 0,
-          "count": 2
-        }
-      },
-      {
-        "length": 21,
-        "reward": {
-          "type": 0,
-          "name": "残片",
-          "count": 700
-        }
-      },
-      {
-        "length": 22
-      },
-      {
-        "length": 23
-      },
-      {
-        "length": 24
-      },
-      {
-        "length": 25,
-        "special": {
-          "type": 2,
-          "range": "Phantasia"
-        }
-      },
-      {
-        "length": 26
-      },
-      {
-        "length": 27
-      },
-      {
-        "length": 28
-      },
-      {
-        "length": 29
-      },
-      {
-        "length": 30,
-        "special": {
-          "type": 2,
-          "range": "Phantasia"
-        }
-      },
-      {
-        "length": 29,
-        "special": {
-          "type": 0,
-          "count": 2
-        }
-      },
-      {
-        "length": 28,
-        "special": {
-          "type": 0,
-          "count": 2
-        }
-      },
-      {
-        "length": 27,
-        "special": {
-          "type": 0,
-          "count": 2
-        }
-      },
-      {
-        "length": 26,
-        "special": {
-          "type": 0,
-          "count": 2
-        }
-      },
-      {
-        "length": 2,
-        "reward": {
-          "type": 2,
-          "id": 19
-        }
-      },
-      {
-        "length": 26
-      },
-      {
-        "length": 27,
-        "reward": {
-          "type": 0,
-          "name": "残片",
-          "count": 200
-        }
-      },
-      {
-        "length": 28,
-        "reward": {
-          "type": 0,
-          "name": "以太之滴",
-          "count": 2
-        }
-      },
-      {
-        "length": 29,
-        "special": {
-          "type": 2,
-          "range": "Phantasia"
-        }
-      },
-      {
-        "length": 2,
-        "special": {
-          "type": 0,
-          "count": 2
-        }
-      },
-      {
-        "length": 29
-      },
-      {
-        "length": 30,
-        "reward": {
-          "type": 0,
-          "name": "残片",
-          "count": 200
-        }
-      },
-      {
-        "length": 31,
-        "reward": {
-          "type": 0,
-          "name": "以太之滴",
-          "count": 2
-        }
-      },
-      {
-        "length": 32,
-        "special": {
-          "type": 2,
-          "range": "Phantasia"
-        }
-      },
-      {
-        "length": 2,
-        "special": {
-          "type": 0,
-          "count": 2
-        }
-      },
-      {
-        "length": 33
-      },
-      {
-        "length": 34,
-        "reward": {
-          "type": 0,
-          "name": "残片",
-          "count": 200
-        }
-      },
-      {
-        "length": 35,
-        "reward": {
-          "type": 0,
-          "name": "以太之滴",
-          "count": 2
-        }
-      },
-      {
-        "length": 36,
-        "special": {
-          "type": 2,
-          "range": "Phantasia"
-        }
-      },
-      {
-        "length": 2,
-        "special": {
-          "type": 0,
-          "count": 2
-        }
-      },
-      {
-        "length": 36
-      },
-      {
-        "length": 37,
-        "reward": {
-          "type": 0,
-          "name": "残片",
-          "count": 200
-        }
-      },
-      {
-        "length": 38,
-        "reward": {
-          "type": 0,
-          "name": "以太之滴",
-          "count": 2
-        }
-      },
-      {
-        "length": 39,
-        "special": {
-          "type": 2,
-          "range": "Phantasia"
+          "type": 3,
+          "range": "Groove Coaster Collaboration"
         }
       },
       {
@@ -4259,7 +4613,7 @@
         "reward": {
           "type": 0,
           "name": "以太之滴",
-          "count": 2
+          "count": 4
         }
       }
     ]
@@ -10616,8 +10970,7 @@
           "id": 37
         }
       }
-    ],
-    "expire": 1729782000000
+    ]
   },
   {
     "id": "限时：BUCHiGiRE_Berserker",
@@ -14587,8 +14940,7 @@
           "count": 7
         }
       }
-    ],
-    "expire": 1731596400000
+    ]
   },
   {
     "id": "限时：Life_is_PIANO",
@@ -20313,7 +20665,8 @@
           "id": 57
         }
       }
-    ]
+    ],
+    "expire": 1734620400000
   },
   {
     "id": "限时：Free_Myself",
@@ -32640,8 +32993,7 @@
           "count": 1
         }
       }
-    ],
-    "expire": 1729782000000
+    ]
   },
   {
     "id": "限时：FURETE-MITAI",
@@ -32938,8 +33290,7 @@
           "count": 1
         }
       }
-    ],
-    "expire": 1729782000000
+    ]
   },
   {
     "id": "限时：Prayer",
@@ -33241,7 +33592,682 @@
           "count": 1
         }
       }
+    ]
+  },
+  {
+    "id": "限时：astral.exe",
+    "platforms": [
+      {
+        "length": 11
+      },
+      {
+        "length": 11
+      },
+      {
+        "length": 11
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 1
+      },
+      {
+        "length": 1
+      },
+      {
+        "length": 1
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 100
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 100
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 100
+        }
+      },
+      {
+        "length": 1
+      },
+      {
+        "length": 1
+      },
+      {
+        "length": 1
+      },
+      {
+        "length": 10,
+        "special": {
+          "type": 2,
+          "range": [
+            "astral.exe",
+            "world.execute(me);",
+            "Kanagawa Cyber Culvert",
+            "dropdead",
+            "NULCTRL",
+            "INTERNET OVERDOSE",
+            "INTERNET YAMERO"
+          ]
+        }
+      },
+      {
+        "length": 10,
+        "special": {
+          "type": 2,
+          "range": [
+            "astral.exe",
+            "world.execute(me);",
+            "Kanagawa Cyber Culvert",
+            "dropdead",
+            "NULCTRL",
+            "INTERNET OVERDOSE",
+            "INTERNET YAMERO"
+          ]
+        }
+      },
+      {
+        "length": 10,
+        "special": {
+          "type": 2,
+          "range": [
+            "astral.exe",
+            "world.execute(me);",
+            "Kanagawa Cyber Culvert",
+            "dropdead",
+            "NULCTRL",
+            "INTERNET OVERDOSE",
+            "INTERNET YAMERO"
+          ]
+        }
+      },
+      {
+        "length": 11
+      },
+      {
+        "length": 11
+      },
+      {
+        "length": 11
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 1
+      },
+      {
+        "length": 1
+      },
+      {
+        "length": 1
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 100
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 100
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 100
+        }
+      },
+      {
+        "length": 1
+      },
+      {
+        "length": 1
+      },
+      {
+        "length": 1
+      },
+      {
+        "length": 10,
+        "special": {
+          "type": 2,
+          "range": [
+            "astral.exe",
+            "world.execute(me);",
+            "Kanagawa Cyber Culvert",
+            "dropdead",
+            "NULCTRL",
+            "INTERNET OVERDOSE",
+            "INTERNET YAMERO"
+          ]
+        }
+      },
+      {
+        "length": 10,
+        "special": {
+          "type": 2,
+          "range": [
+            "astral.exe",
+            "world.execute(me);",
+            "Kanagawa Cyber Culvert",
+            "dropdead",
+            "NULCTRL",
+            "INTERNET OVERDOSE",
+            "INTERNET YAMERO"
+          ]
+        }
+      },
+      {
+        "length": 10,
+        "special": {
+          "type": 2,
+          "range": [
+            "astral.exe",
+            "world.execute(me);",
+            "Kanagawa Cyber Culvert",
+            "dropdead",
+            "NULCTRL",
+            "INTERNET OVERDOSE",
+            "INTERNET YAMERO"
+          ]
+        }
+      },
+      {
+        "length": 11
+      },
+      {
+        "length": 11
+      },
+      {
+        "length": 11
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 1
+      },
+      {
+        "length": 1
+      },
+      {
+        "length": 1
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 100
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 100
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 100
+        }
+      },
+      {
+        "length": 1
+      },
+      {
+        "length": 1
+      },
+      {
+        "length": 1
+      },
+      {
+        "length": 10,
+        "special": {
+          "type": 2,
+          "range": [
+            "astral.exe",
+            "world.execute(me);",
+            "Kanagawa Cyber Culvert",
+            "dropdead",
+            "NULCTRL",
+            "INTERNET OVERDOSE",
+            "INTERNET YAMERO"
+          ]
+        }
+      },
+      {
+        "length": 10,
+        "special": {
+          "type": 2,
+          "range": [
+            "astral.exe",
+            "world.execute(me);",
+            "Kanagawa Cyber Culvert",
+            "dropdead",
+            "NULCTRL",
+            "INTERNET OVERDOSE",
+            "INTERNET YAMERO"
+          ]
+        }
+      },
+      {
+        "length": 10,
+        "special": {
+          "type": 2,
+          "range": [
+            "astral.exe",
+            "world.execute(me);",
+            "Kanagawa Cyber Culvert",
+            "dropdead",
+            "NULCTRL",
+            "INTERNET OVERDOSE",
+            "INTERNET YAMERO"
+          ]
+        }
+      },
+      {
+        "length": 11
+      },
+      {
+        "length": 11
+      },
+      {
+        "length": 11
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 1
+      },
+      {
+        "length": 1
+      },
+      {
+        "length": 1
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 1
+      },
+      {
+        "length": 1
+      },
+      {
+        "length": 1
+      },
+      {
+        "length": 10,
+        "special": {
+          "type": 2,
+          "range": [
+            "astral.exe",
+            "world.execute(me);",
+            "Kanagawa Cyber Culvert",
+            "dropdead",
+            "NULCTRL",
+            "INTERNET OVERDOSE",
+            "INTERNET YAMERO"
+          ]
+        }
+      },
+      {
+        "length": 10,
+        "special": {
+          "type": 2,
+          "range": [
+            "astral.exe",
+            "world.execute(me);",
+            "Kanagawa Cyber Culvert",
+            "dropdead",
+            "NULCTRL",
+            "INTERNET OVERDOSE",
+            "INTERNET YAMERO"
+          ]
+        }
+      },
+      {
+        "length": 10,
+        "special": {
+          "type": 2,
+          "range": [
+            "astral.exe",
+            "world.execute(me);",
+            "Kanagawa Cyber Culvert",
+            "dropdead",
+            "NULCTRL",
+            "INTERNET OVERDOSE",
+            "INTERNET YAMERO"
+          ]
+        }
+      },
+      {
+        "length": 11
+      },
+      {
+        "length": 11
+      },
+      {
+        "length": 11,
+        "reward": {
+          "type": 1,
+          "id": "astralexe"
+        }
+      },
+      {
+        "length": 100,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 100,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 100
+        }
+      },
+      {
+        "length": 100,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 100
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "次元结晶",
+          "count": 1
+        }
+      }
     ],
-    "expire": 1731596400000
+    "expire": 1734620400000
+  },
+  {
+    "id": "限时：O.N.G.E.K.I._2",
+    "platforms": [
+      {
+        "length": 40,
+        "special": {
+          "type": 2,
+          "range": [
+            "Lazy Addiction",
+            "Heart",
+            "Dazzle hop",
+            "Ai Drew",
+            "FLUFFY FLASH",
+            "Viyella's Tears",
+            "Good bye, Merry-Go-Round.",
+            "ω4",
+            "LAMIA",
+            "LiftOff",
+            "SUPER AMBULANCE",
+            "Don't Fight The Music",
+            "And Revive The Melody"
+          ]
+        }
+      },
+      {
+        "length": 30
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 50,
+        "special": {
+          "type": 2,
+          "range": [
+            "LiftOff",
+            "SUPER AMBULANCE",
+            "Don't Fight The Music",
+            "And Revive The Melody"
+          ]
+        }
+      },
+      {
+        "length": 40
+      },
+      {
+        "length": 30
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 822
+        }
+      },
+      {
+        "length": 60,
+        "special": {
+          "type": 3,
+          "range": [
+            "Lazy Addiction",
+            "Heart",
+            "Dazzle hop",
+            "Ai Drew",
+            "FLUFFY FLASH",
+            "Viyella's Tears",
+            "Good bye, Merry-Go-Round.",
+            "ω4",
+            "LAMIA",
+            "LiftOff",
+            "SUPER AMBULANCE",
+            "Don't Fight The Music",
+            "And Revive The Melody"
+          ]
+        }
+      },
+      {
+        "length": 50
+      },
+      {
+        "length": 40
+      },
+      {
+        "length": 30
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 822
+        }
+      },
+      {
+        "length": 70,
+        "special": {
+          "type": 2,
+          "range": [
+            "Lazy Addiction",
+            "Good bye, Merry-Go-Round.",
+            "ω4",
+            "LiftOff",
+            "SUPER AMBULANCE"
+          ]
+        }
+      },
+      {
+        "length": 60
+      },
+      {
+        "length": 50
+      },
+      {
+        "length": 40
+      },
+      {
+        "length": 30
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 3
+        }
+      },
+      {
+        "length": 80,
+        "special": {
+          "type": 2,
+          "range": [
+            "Good bye, Merry-Go-Round.",
+            "SUPER AMBULANCE"
+          ]
+        }
+      },
+      {
+        "length": 70
+      },
+      {
+        "length": 60
+      },
+      {
+        "length": 50
+      },
+      {
+        "length": 40
+      },
+      {
+        "length": 30
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 822
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 2,
+          "id": 80
+        }
+      }
+    ],
+    "expire": 1734620400000
   }
 ]

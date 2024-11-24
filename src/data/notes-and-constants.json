@@ -256,7 +256,7 @@
       },
       {
         "notes": 1042,
-        "constant": 9
+        "constant": 9.1
       },
       null
     ]
@@ -319,7 +319,7 @@
       },
       {
         "notes": 1288,
-        "constant": 9.7
+        "constant": 9.8
       },
       null
     ]
@@ -341,7 +341,7 @@
       },
       {
         "notes": 1502,
-        "constant": 11
+        "constant": 11.2
       },
       null
     ]
@@ -359,7 +359,7 @@
       },
       {
         "notes": 1151,
-        "constant": 10.1
+        "constant": 10
       },
       null,
       null
@@ -486,7 +486,7 @@
       },
       {
         "notes": 946,
-        "constant": 10.1
+        "constant": 10.3
       },
       null
     ]
@@ -542,7 +542,7 @@
       },
       {
         "notes": 980,
-        "constant": 10.3
+        "constant": 10.2
       },
       null,
       null
@@ -1010,7 +1010,7 @@
       },
       {
         "notes": 1010,
-        "constant": 10
+        "constant": 9.9
       },
       null,
       null
@@ -1029,7 +1029,7 @@
       },
       {
         "notes": 785,
-        "constant": 9.9
+        "constant": 9.8
       },
       null,
       null
@@ -1048,11 +1048,11 @@
       },
       {
         "notes": 1044,
-        "constant": 10
+        "constant": 9.9
       },
       {
         "notes": 1086,
-        "constant": 10.5
+        "constant": 10.6
       },
       null
     ]
@@ -1108,7 +1108,7 @@
       },
       {
         "notes": 1094,
-        "constant": 10.7
+        "constant": 10.6
       },
       null,
       null
@@ -1127,7 +1127,7 @@
       },
       {
         "notes": 1450,
-        "constant": 11.3
+        "constant": 11.1
       },
       null,
       null
@@ -1169,7 +1169,7 @@
       },
       {
         "notes": 1194,
-        "constant": 10
+        "constant": 10.2
       },
       null
     ]
@@ -1301,7 +1301,7 @@
       },
       {
         "notes": 1096,
-        "constant": 9.5
+        "constant": 9.4
       },
       null,
       null
@@ -1396,7 +1396,7 @@
       },
       {
         "notes": 1105,
-        "constant": 10.7
+        "constant": 10.5
       },
       {
         "notes": 1114,
@@ -1693,7 +1693,7 @@
       },
       {
         "notes": 1227,
-        "constant": 10.7
+        "constant": 10.5
       },
       null,
       null
@@ -1731,7 +1731,7 @@
       },
       {
         "notes": 1279,
-        "constant": 11.3
+        "constant": 11.1
       },
       null,
       null
@@ -1835,7 +1835,7 @@
       },
       {
         "notes": 703,
-        "constant": 9.6
+        "constant": 9.7
       },
       null,
       null
@@ -1990,7 +1990,7 @@
       },
       {
         "notes": 1086,
-        "constant": 10.4
+        "constant": 10.3
       },
       null,
       null
@@ -2066,7 +2066,7 @@
       },
       {
         "notes": 952,
-        "constant": 9.2
+        "constant": 9.4
       },
       null,
       null
@@ -2085,7 +2085,7 @@
       },
       {
         "notes": 920,
-        "constant": 9
+        "constant": 9.1
       },
       null,
       null
@@ -2126,7 +2126,7 @@
       },
       {
         "notes": 808,
-        "constant": 9.8
+        "constant": 9.7
       },
       null,
       null
@@ -2149,7 +2149,7 @@
       },
       {
         "notes": 931,
-        "constant": 10.2
+        "constant": 10.3
       },
       null
     ]
@@ -2167,7 +2167,7 @@
       },
       {
         "notes": 1130,
-        "constant": 10.1
+        "constant": 10
       },
       null,
       null
@@ -2250,7 +2250,7 @@
       },
       {
         "notes": 968,
-        "constant": 9.5
+        "constant": 9.6
       },
       null
     ]
@@ -2310,7 +2310,7 @@
       },
       {
         "notes": 1772,
-        "constant": 11.1
+        "constant": 11.2
       },
       null
     ]
@@ -2347,7 +2347,7 @@
       },
       {
         "notes": 1047,
-        "constant": 9
+        "constant": 9.1
       },
       null,
       null
@@ -2461,7 +2461,7 @@
       },
       {
         "notes": 1347,
-        "constant": 10.4
+        "constant": 10.3
       },
       null,
       null
@@ -2480,7 +2480,7 @@
       },
       {
         "notes": 1452,
-        "constant": 10.8
+        "constant": 10.7
       },
       null,
       null
@@ -2673,7 +2673,7 @@
       },
       {
         "notes": 1173,
-        "constant": 10.4
+        "constant": 10.2
       },
       null,
       null
@@ -2692,7 +2692,7 @@
       },
       {
         "notes": 1303,
-        "constant": 10
+        "constant": 9.9
       },
       null,
       null
@@ -2752,7 +2752,7 @@
       },
       {
         "notes": 1479,
-        "constant": 10.6
+        "constant": 10.5
       },
       null,
       null
@@ -2889,7 +2889,7 @@
       },
       {
         "notes": 1161,
-        "constant": 9.9
+        "constant": 10
       },
       null
     ]
@@ -3122,7 +3122,7 @@
       },
       {
         "notes": 1476,
-        "constant": 10.9
+        "constant": 10.8
       },
       null,
       null
@@ -3141,7 +3141,7 @@
       },
       {
         "notes": 1576,
-        "constant": 10.9
+        "constant": 11.1
       },
       null,
       null
@@ -3164,7 +3164,7 @@
       },
       {
         "notes": 1540,
-        "constant": 11.5
+        "constant": 11.7
       },
       null
     ]
@@ -3201,7 +3201,7 @@
       },
       {
         "notes": 690,
-        "constant": 9.7
+        "constant": 9.8
       },
       null,
       null
@@ -3470,7 +3470,7 @@
       },
       {
         "notes": 1412,
-        "constant": 10.9
+        "constant": 10.8
       },
       null,
       null
@@ -3489,7 +3489,7 @@
       },
       {
         "notes": 1013,
-        "constant": 9.8
+        "constant": 9.9
       },
       null,
       null
@@ -3929,7 +3929,7 @@
       },
       {
         "notes": 1475,
-        "constant": 10.5
+        "constant": 10.4
       },
       null,
       null
@@ -4043,7 +4043,7 @@
       },
       {
         "notes": 1093,
-        "constant": 10.4
+        "constant": 10.5
       },
       null,
       null
@@ -4176,7 +4176,7 @@
       },
       {
         "notes": 1568,
-        "constant": 11.1
+        "constant": 11.2
       },
       null,
       null
@@ -4195,7 +4195,7 @@
       },
       {
         "notes": 732,
-        "constant": 9
+        "constant": 9.1
       },
       null,
       null
@@ -4385,7 +4385,7 @@
       },
       {
         "notes": 919,
-        "constant": 9.1
+        "constant": 9.3
       },
       null,
       null
@@ -4442,7 +4442,7 @@
       },
       {
         "notes": 952,
-        "constant": 9.7
+        "constant": 9.8
       },
       null,
       null
@@ -4502,7 +4502,7 @@
       },
       {
         "notes": 1483,
-        "constant": 10.7
+        "constant": 10.8
       },
       null,
       null
@@ -4540,7 +4540,7 @@
       },
       {
         "notes": 1134,
-        "constant": 10.6
+        "constant": 10.5
       },
       null,
       null
@@ -4616,7 +4616,7 @@
       },
       {
         "notes": 1353,
-        "constant": 10.2
+        "constant": 10.1
       },
       null,
       null
@@ -4658,7 +4658,7 @@
       },
       {
         "notes": 1339,
-        "constant": 10.1
+        "constant": 10.2
       },
       null
     ]
@@ -4923,7 +4923,7 @@
       },
       {
         "notes": 931,
-        "constant": 10.2
+        "constant": 10.1
       },
       null,
       null
@@ -4980,7 +4980,7 @@
       },
       {
         "notes": 837,
-        "constant": 9.3
+        "constant": 9.4
       },
       null,
       null
@@ -5189,7 +5189,7 @@
       },
       {
         "notes": 1521,
-        "constant": 10.7
+        "constant": 10.8
       },
       null,
       null
@@ -5208,7 +5208,7 @@
       },
       {
         "notes": 1049,
-        "constant": 9.3
+        "constant": 9.4
       },
       null,
       null
@@ -5303,7 +5303,7 @@
       },
       {
         "notes": 886,
-        "constant": 9.2
+        "constant": 9.4
       },
       null,
       null
@@ -5401,11 +5401,11 @@
       },
       {
         "notes": 1225,
-        "constant": 9.9
+        "constant": 10
       },
       {
         "notes": 1661,
-        "constant": 11.2
+        "constant": 11.1
       },
       null
     ]
@@ -5423,11 +5423,11 @@
       },
       {
         "notes": 1345,
-        "constant": 10.3
+        "constant": 10.4
       },
       {
         "notes": 1741,
-        "constant": 11.4
+        "constant": 11.5
       },
       null
     ]
@@ -5449,7 +5449,7 @@
       },
       {
         "notes": 2134,
-        "constant": 11.4
+        "constant": 11.6
       },
       null
     ]
@@ -5467,7 +5467,7 @@
       },
       {
         "notes": 1766,
-        "constant": 10.8
+        "constant": 10.9
       },
       {
         "notes": 2221,
@@ -5489,7 +5489,7 @@
       },
       {
         "notes": 850,
-        "constant": 9.6
+        "constant": 9.7
       },
       null,
       null
@@ -5562,7 +5562,7 @@
       },
       {
         "notes": 872,
-        "constant": 9.3
+        "constant": 9.6
       },
       null,
       null
@@ -5619,7 +5619,7 @@
       },
       {
         "notes": 1084,
-        "constant": 10.5
+        "constant": 10.6
       },
       null,
       null
@@ -5638,7 +5638,7 @@
       },
       {
         "notes": 1385,
-        "constant": 10.9
+        "constant": 11
       },
       null,
       null
@@ -5752,7 +5752,7 @@
       },
       {
         "notes": 1014,
-        "constant": 9.3
+        "constant": 9.4
       },
       null,
       null
@@ -5809,7 +5809,7 @@
       },
       {
         "notes": 1264,
-        "constant": 10.4
+        "constant": 10.5
       },
       null,
       null
@@ -5828,7 +5828,7 @@
       },
       {
         "notes": 1299,
-        "constant": 10.6
+        "constant": 10.7
       },
       null,
       null
@@ -5847,7 +5847,7 @@
       },
       {
         "notes": 1313,
-        "constant": 10.4
+        "constant": 10.6
       },
       null,
       null
@@ -5961,7 +5961,7 @@
       },
       {
         "notes": 1190,
-        "constant": 10.4
+        "constant": 10.6
       },
       null,
       null
@@ -5999,7 +5999,7 @@
       },
       {
         "notes": 1524,
-        "constant": 10.7
+        "constant": 10.8
       },
       null,
       null
@@ -6059,7 +6059,7 @@
       },
       {
         "notes": 867,
-        "constant": 9.9
+        "constant": 9.8
       },
       null,
       null
@@ -6268,7 +6268,7 @@
       },
       {
         "notes": 1392,
-        "constant": 10.5
+        "constant": 10.4
       },
       null,
       null
@@ -6344,7 +6344,7 @@
       },
       {
         "notes": 1341,
-        "constant": 10.4
+        "constant": 10.5
       },
       null,
       null
@@ -6401,7 +6401,7 @@
       },
       {
         "notes": 1405,
-        "constant": 9.7
+        "constant": 9.9
       },
       null,
       null
@@ -6439,7 +6439,7 @@
       },
       {
         "notes": 872,
-        "constant": 9.5
+        "constant": 9.4
       },
       null,
       null
@@ -6507,7 +6507,7 @@
     "charts": [
       {
         "notes": 548,
-        "constant": 3
+        "constant": 3.5
       },
       {
         "notes": 779,
@@ -6534,7 +6534,7 @@
       },
       {
         "notes": 1131,
-        "constant": 9.7
+        "constant": 9.8
       },
       null,
       null
@@ -6591,7 +6591,7 @@
       },
       {
         "notes": 1176,
-        "constant": 10.4
+        "constant": 10.5
       },
       null,
       null
@@ -6629,7 +6629,7 @@
       },
       {
         "notes": 1467,
-        "constant": 11.1
+        "constant": 11.3
       },
       null,
       null
@@ -6686,7 +6686,7 @@
       },
       {
         "notes": 945,
-        "constant": 9.5
+        "constant": 9.6
       },
       null,
       null
@@ -6800,7 +6800,7 @@
       },
       {
         "notes": 1040,
-        "constant": 10.1
+        "constant": 10.2
       },
       null,
       null
@@ -6834,7 +6834,7 @@
       },
       {
         "notes": 1082,
-        "constant": 9.4
+        "constant": 9.6
       },
       {
         "notes": 1444,
@@ -6895,7 +6895,7 @@
       },
       {
         "notes": 1223,
-        "constant": 9.9
+        "constant": 9.8
       },
       null,
       null
@@ -6914,7 +6914,7 @@
       },
       {
         "notes": 1008,
-        "constant": 10.9
+        "constant": 10.8
       },
       null,
       null
@@ -7066,7 +7066,7 @@
       },
       {
         "notes": 1108,
-        "constant": 10
+        "constant": 10.1
       },
       null,
       null
@@ -7322,7 +7322,7 @@
       },
       {
         "notes": 1299,
-        "constant": 10.6
+        "constant": 10.4
       },
       null,
       null
@@ -7346,7 +7346,7 @@
       null,
       {
         "notes": 770,
-        "constant": 9.4
+        "constant": 9.3
       }
     ]
   },
@@ -7382,7 +7382,7 @@
       },
       {
         "notes": 754,
-        "constant": 9.9
+        "constant": 9.7
       },
       null,
       null
@@ -7442,7 +7442,7 @@
       },
       {
         "notes": 1277,
-        "constant": 10.5
+        "constant": 10.4
       },
       null,
       null
@@ -7461,7 +7461,7 @@
       },
       {
         "notes": 1228,
-        "constant": 10.5
+        "constant": 10.3
       },
       null,
       null
@@ -7504,7 +7504,7 @@
       null,
       {
         "notes": 1402,
-        "constant": 10.9
+        "constant": 10.8
       }
     ]
   },
@@ -7608,7 +7608,7 @@
       null,
       {
         "notes": 962,
-        "constant": 10.4
+        "constant": 10.5
       }
     ]
   },
@@ -7663,7 +7663,7 @@
       },
       {
         "notes": 1544,
-        "constant": 10.5
+        "constant": 10.6
       },
       null,
       null
@@ -7687,8 +7687,27 @@
       null,
       {
         "notes": 915,
-        "constant": 10
+        "constant": 9.9
       }
+    ]
+  },
+  {
+    "id": "hypervision",
+    "charts": [
+      {
+        "notes": 639,
+        "constant": 4.5
+      },
+      {
+        "notes": 839,
+        "constant": 7.5
+      },
+      {
+        "notes": 1040,
+        "constant": 9.8
+      },
+      null,
+      null
     ]
   },
   {
@@ -7723,12 +7742,12 @@
       },
       {
         "notes": 906,
-        "constant": 9.7
+        "constant": 9.8
       },
       null,
       {
         "notes": 1087,
-        "constant": 10.4
+        "constant": 10.5
       }
     ]
   },
@@ -7752,25 +7771,6 @@
     ]
   },
   {
-    "id": "hypervision",
-    "charts": [
-      {
-        "notes": 639,
-        "constant": 4.5
-      },
-      {
-        "notes": 839,
-        "constant": 7.5
-      },
-      {
-        "notes": 1040,
-        "constant": 9.8
-      },
-      null,
-      null
-    ]
-  },
-  {
     "id": "distortionhuman",
     "charts": [
       {
@@ -7783,7 +7783,7 @@
       },
       {
         "notes": 1317,
-        "constant": 9.8
+        "constant": 9.9
       },
       null,
       null
@@ -7809,25 +7809,6 @@
     ]
   },
   {
-    "id": "invain",
-    "charts": [
-      {
-        "notes": 562,
-        "constant": 3.5
-      },
-      {
-        "notes": 677,
-        "constant": 6.5
-      },
-      {
-        "notes": 1111,
-        "constant": 9.5
-      },
-      null,
-      null
-    ]
-  },
-  {
     "id": "hypnotize",
     "charts": [
       {
@@ -7847,6 +7828,25 @@
         "notes": 1164,
         "constant": 9.9
       }
+    ]
+  },
+  {
+    "id": "invain",
+    "charts": [
+      {
+        "notes": 562,
+        "constant": 3.5
+      },
+      {
+        "notes": 677,
+        "constant": 6.5
+      },
+      {
+        "notes": 1111,
+        "constant": 9.5
+      },
+      null,
+      null
     ]
   },
   {
@@ -7881,7 +7881,7 @@
       },
       {
         "notes": 1432,
-        "constant": 10.4
+        "constant": 10.5
       },
       null,
       null
@@ -7905,7 +7905,7 @@
       null,
       {
         "notes": 1644,
-        "constant": 11.2
+        "constant": 11.3
       }
     ]
   },
@@ -8244,6 +8244,255 @@
         "notes": 1263,
         "constant": 10.6
       }
+    ]
+  },
+  {
+    "id": "astralexe",
+    "charts": [
+      {
+        "notes": 654,
+        "constant": 3
+      },
+      {
+        "notes": 734,
+        "constant": 6
+      },
+      {
+        "notes": 1059,
+        "constant": 9.5
+      },
+      null,
+      null
+    ]
+  },
+  {
+    "id": "liftoff",
+    "charts": [
+      {
+        "notes": 459,
+        "constant": 3
+      },
+      {
+        "notes": 500,
+        "constant": 6.5
+      },
+      {
+        "notes": 660,
+        "constant": 8.2
+      },
+      null,
+      {
+        "notes": 988,
+        "constant": 9.8
+      }
+    ]
+  },
+  {
+    "id": "superambulance",
+    "charts": [
+      {
+        "notes": 740,
+        "constant": 4.5
+      },
+      {
+        "notes": 971,
+        "constant": 7.5
+      },
+      {
+        "notes": 1371,
+        "constant": 10.3
+      },
+      null,
+      null
+    ]
+  },
+  {
+    "id": "dontfightmusic",
+    "charts": [
+      {
+        "notes": 757,
+        "constant": 4.5
+      },
+      {
+        "notes": 962,
+        "constant": 7.8
+      },
+      {
+        "notes": 1043,
+        "constant": 9.3
+      },
+      null,
+      {
+        "notes": 1385,
+        "constant": 10.7
+      }
+    ]
+  },
+  {
+    "id": "andrevivemelody",
+    "charts": [
+      {
+        "notes": 962,
+        "constant": 5.5
+      },
+      {
+        "notes": 1269,
+        "constant": 8.5
+      },
+      {
+        "notes": 1710,
+        "constant": 10.9
+      },
+      null,
+      null
+    ]
+  },
+  {
+    "id": "swansong",
+    "charts": [
+      {
+        "notes": 563,
+        "constant": 3
+      },
+      {
+        "notes": 719,
+        "constant": 7.5
+      },
+      {
+        "notes": 1225,
+        "constant": 9.9
+      },
+      null,
+      null
+    ]
+  },
+  {
+    "id": "renegade",
+    "charts": [
+      {
+        "notes": 655,
+        "constant": 4.5
+      },
+      {
+        "notes": 751,
+        "constant": 7.8
+      },
+      {
+        "notes": 994,
+        "constant": 9.6
+      },
+      {
+        "notes": 1165,
+        "constant": 10.2
+      },
+      null
+    ]
+  },
+  {
+    "id": "raysofremnant",
+    "charts": [
+      {
+        "notes": 710,
+        "constant": 4.5
+      },
+      {
+        "notes": 766,
+        "constant": 7.5
+      },
+      {
+        "notes": 982,
+        "constant": 9.7
+      },
+      {
+        "notes": 1118,
+        "constant": 10.4
+      },
+      null
+    ]
+  },
+  {
+    "id": "breachoffaith",
+    "charts": [
+      {
+        "notes": 986,
+        "constant": 5.5
+      },
+      {
+        "notes": 1171,
+        "constant": 8.4
+      },
+      {
+        "notes": 1373,
+        "constant": 10.3
+      },
+      {
+        "notes": 1448,
+        "constant": 10.9
+      },
+      null
+    ]
+  },
+  {
+    "id": "lamentrain",
+    "charts": [
+      {
+        "notes": 1025,
+        "constant": 6.5
+      },
+      {
+        "notes": 1186,
+        "constant": 8.8
+      },
+      {
+        "notes": 1380,
+        "constant": 10.6
+      },
+      {
+        "notes": 1637,
+        "constant": 11.4
+      },
+      null
+    ]
+  },
+  {
+    "id": "designant",
+    "charts": [
+      {
+        "notes": 1055,
+        "constant": 7.5
+      },
+      {
+        "notes": 1426,
+        "constant": 9.6
+      },
+      {
+        "notes": 1768,
+        "constant": 10.9
+      },
+      {
+        "notes": 2184,
+        "constant": 11.9
+      },
+      null
+    ]
+  },
+  {
+    "id": "astralquant",
+    "charts": [
+      {
+        "notes": 782,
+        "constant": 5
+      },
+      {
+        "notes": 943,
+        "constant": 8.1
+      },
+      {
+        "notes": 1388,
+        "constant": 10.6
+      },
+      null,
+      null
     ]
   }
 ]

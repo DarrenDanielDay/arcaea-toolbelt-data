@@ -72,6 +72,22 @@
       }
     },
     {
+      "id": "lephon",
+      "section": "mainstory2",
+      "plus_character": -1,
+      "custom_banner": true,
+      "name_localized": {
+        "en": "Lucent Historia"
+      },
+      "description_localized": {
+        "en": "An old history and world has been brought up.\nA tale of guidance and insight that another must tell.\nUncover that past, and see into the soul of God...\n\n\"Lucent Historia\" details a world apart from Arcaea,\nits story unfolding across 5 new songs. And within, you\nmay find the Ascendant - 8th Seeker: \"Compassion\"...",
+        "ja": "旧き地に纏わる歴史が、いま甦る。\nここに啓くは、導きと天啓の物語。\n神の御霊の一端に触れ、過去を明かせ――。\n\n異なる世界を巡る異譚『Lucent Historia』\n5つの新曲が示す、とある神の始まり。\nそれは、天賦第八究明者『慈哀』と――。",
+        "ko": "아주 오래 전 존재했던 세계와 그 역사가, 다시금.\n또 다른 이가 전해야만 할, 인도와 혜안의 이야기.\n과거를 드러내어, 신의 영혼을 보아라.\n\n\"Lucent Historia\"에서는 아르케아가 아닌\n또다른 세계의 이야기가 펼쳐집니다.\n다섯 개의 악곡에 걸쳐 펼쳐지는 서사시.\n그 주인공은 초월자 - 여덟 번째 추적자...\n\"연민\".",
+        "zh-Hant": "一段遠古的往事被再次提起，\n快被遺忘的世界再度落入世人視野。\n引路人與洞察者的過往，須由另一位來講述。\n揭開那過去的面紗，看向祂靈魂的深處吧……\n\n《Lucent Historia》為你揭開Arcaea世界之外的篇章。\n隨五首歌曲尋找「至高：第八探索者 - 慈悲」的過往。",
+        "zh-Hans": "一段远古的往事被再次提起，\n快被遗忘的世界再度落入世人视野。\n引路人与洞察者的过往，须由另一位来讲述。\n揭开那过去的面纱，看向祂灵魂的深处吧……\n\n《Lucent Historia》为你揭开Arcaea世界之外的篇章。\n随五首歌曲寻找“至高：第八探索者 - 慈悲”的过往。"
+      }
+    },
+    {
       "id": "epilogue",
       "section": "mainstory",
       "plus_character": -1,
@@ -179,7 +195,7 @@
     },
     {
       "id": "nihil",
-      "section": "sidestory",
+      "section": "mainstory2",
       "plus_character": 23,
       "custom_banner": true,
       "name_localized": {
@@ -195,7 +211,7 @@
     },
     {
       "id": "eden",
-      "section": "sidestory",
+      "section": "mainstory2",
       "plus_character": 71,
       "custom_banner": true,
       "name_localized": {
@@ -211,7 +227,7 @@
     },
     {
       "id": "eden_append_1",
-      "section": "sidestory",
+      "section": "mainstory2",
       "pack_parent": "eden",
       "plus_character": -1,
       "name_localized": {
@@ -227,7 +243,7 @@
     },
     {
       "id": "eden_append_2",
-      "section": "sidestory",
+      "section": "mainstory2",
       "pack_parent": "eden",
       "plus_character": -1,
       "name_localized": {
@@ -585,6 +601,22 @@
         "ko": "당신의 신념에 도전하는 새롭고\n위협적인 시험이 다가온다...\n\n이번 Pack Append는 O.N.G.E.K.I.를\n통해 대면하고 이겨낼 다섯 곡을 추가합니다!\n두 번째 장에서는 사키가 싸움에 가담합니다!",
         "zh-Hant": "一場全新的試煉已蓄勢待發，\n你的信念會因此動搖嗎？\n\n在這個Pack Append中，\n你將面對並挑戰另外5首來自O.N.G.E.K.I.的歌曲。\n而作為聯動第二彈的搭檔，咲姬也將加入這場挑戰！",
         "zh-Hans": "一场全新的试炼已蓄势待发，\n你的信念会因此动摇吗？\n\n在这个Pack Append中，\n你将面对并挑战另外5首来自O.N.G.E.K.I.的歌曲。\n而作为联动第二弹的搭档，咲姬也将加入这场挑战！"
+      }
+    },
+    {
+      "id": "ongeki_append_2",
+      "section": "collab",
+      "pack_parent": "ongeki",
+      "plus_character": -1,
+      "name_localized": {
+        "en": "Collaboration Chapter 3"
+      },
+      "description_localized": {
+        "en": "Seal this moment: 4 vivid songs from\nO.N.G.E.K.I. are waiting to be conquered!\nAnd of these, a formidable two promise\nunforgettable, lasting memories...\n\nTsumugi too rises to the occasion. She's serious\nand ready to help! ...At least, in her own way!",
+        "ja": "オンゲキより魅惑の4曲が襲来！\n記憶に刻め、そして畏れよ――\nかの名だたる双璧を。\n\nちょっと背伸びしがちでも\n頼れるパートナー『つむぎ』も登場！",
+        "ko": "기억을 새겨보세요.\nO.N.G.E.K.I.에서 건너온\n4개의 생생한 악곡들이 기다립니다!\n그리고 그 중에는, 결코 잊을 수 없는 순간을 선사할\n두 개의 압도적인 악곡이...\n\n파트너 츠무기 또한\n여러분을 도우러 등장합니다...! 좀 버겁겠지만...",
+        "zh-Hant": "四首來自O.N.G.E.K.I.的\n動聽歌曲等待你來征服！\n相信其中的兩首強大存在一定會\n給你帶去難忘的、永恆的回憶。\n\n紡也將挺身而出，用自己的方式幫助大家！\n她是認真的：\"那便將此刻封存吧！\"",
+        "zh-Hans": "四首来自O.N.G.E.K.I.的\n动听歌曲等待你来征服！\n相信其中的两首强大存在一定会\n给你带去难忘的、永恒的回忆。\n\n纺也将挺身而出，用自己的方式帮助大家！\n她是认真的：\"那便将此刻封存吧！\""
       }
     },
     {

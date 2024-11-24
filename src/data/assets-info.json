@@ -3055,6 +3055,90 @@
         "1080_base.jpg",
         "1080_base_256.jpg"
       ]
+    },
+    {
+      "id": "astralexe",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "id": "liftoff",
+      "covers": [
+        "base.jpg",
+        "base_256.jpg"
+      ]
+    },
+    {
+      "id": "superambulance",
+      "covers": [
+        "base.jpg",
+        "base_256.jpg"
+      ]
+    },
+    {
+      "id": "dontfightmusic",
+      "covers": [
+        "base.jpg",
+        "base_256.jpg"
+      ]
+    },
+    {
+      "id": "andrevivemelody",
+      "covers": [
+        "base.jpg",
+        "base_256.jpg"
+      ]
+    },
+    {
+      "id": "swansong",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "id": "renegade",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "id": "raysofremnant",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "id": "breachoffaith",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "id": "lamentrain",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "id": "designant",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "id": "astralquant",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
     }
   ],
   "banners": [
@@ -3093,6 +3177,12 @@
       "file": "online_banner_2024_11.png",
       "year": 2024,
       "month": 11
+    },
+    {
+      "type": "aol",
+      "file": "online_banner_2024_12.png",
+      "year": 2024,
+      "month": 12
     },
     {
       "type": "course",
@@ -3148,6 +3238,11 @@
       "type": "course",
       "file": "course_banner_11.png",
       "level": 11
+    },
+    {
+      "type": "course",
+      "file": "course_banner_12.png",
+      "level": 12
     }
   ]
 }

@@ -2589,11 +2589,11 @@
     },
     {
         "skill_id_text": {
-            "en": "",
-            "ja": "",
-            "ko": "",
-            "zh-Hans": "",
-            "zh-Hant": ""
+            "en": "HARD - Irruption Gauge - Chance to usurp\nPartners' World plays with 2x progress",
+            "ja": "HARD - Irruptionゲージ - World進行度2倍\n稀に他パートナーの想起率を簒奪",
+            "ko": "HARD - Irruption - 확률적으로 다른 파트너의\n월드 플레이를 찬탈해 진행도 2배 획득",
+            "zh-Hans": "困难 - 侵袭收集条 - 有概率以两倍\n进度侵占当前搭档的世界模式进度",
+            "zh-Hant": "困難 - 侵襲收集條 - 有機率以兩倍\n進度侵占當前搭檔的世界模式進度"
         },
         "variant": {
             "en": "Ascendant - 8th Seeker",
@@ -2603,27 +2603,28 @@
             "zh-Hant": "至高：第八探索者"
         },
         "display_name": {
-            "en": "Insight",
-            "ja": "識眼",
-            "ko": "혜안",
-            "zh-Hans": "洞烛",
-            "zh-Hant": "洞燭"
+            "en": "Lacrymira",
+            "ja": "ラクリミラ",
+            "ko": "라크리미라",
+            "zh-Hans": "拉可弥拉",
+            "zh-Hant": "拉可彌拉"
         },
+        "icon": "4cf56e73f2f6b885fc52b064bc9d1c79",
         "base_character": false,
         "is_uncapped_override": false,
         "is_uncapped": false,
         "uncap_cores": [],
-        "char_type": 0,
+        "char_type": 4,
         "skill_id_uncap": "",
         "skill_requires_uncap": false,
         "skill_unlock_level": 0,
-        "skill_id": "???",
-        "overdrive": -1,
-        "prog": -1,
-        "frag": -1,
-        "level_exp": 0,
-        "exp": 0,
-        "level": 1,
+        "skill_id": "skill_intruder",
+        "overdrive": 43.00116635078,
+        "prog": 48.00116635078,
+        "frag": 63.001895320017496,
+        "level_exp": 650,
+        "exp": 719.21226,
+        "level": 8,
         "name": "intruder",
         "character_id": 72
     },
@@ -2803,6 +2804,129 @@
         "level": 2,
         "name": "eto_hoppe",
         "character_id": 77
+    },
+    {
+        "skill_id_text": {
+            "en": "HARD - Forlorn Gauge",
+            "ja": "HARD - 『佗棄』ゲージ",
+            "ko": "HARD - 고독 게이지",
+            "zh-Hans": "困难 - 哀寂收集条",
+            "zh-Hant": "困難 - 哀寂收集條"
+        },
+        "variant": {
+            "en": "Ascendant - 6th Seeker",
+            "ja": "天賦第六究明者",
+            "ko": "초월자 - 여섯 번째 추적자",
+            "zh-Hans": "至高：第六探索者",
+            "zh-Hant": "至高：第六探索者"
+        },
+        "display_name": {
+            "en": "Nell",
+            "ja": "ネール",
+            "ko": "넬",
+            "zh-Hans": "尼尔",
+            "zh-Hant": "尼爾"
+        },
+        "icon": "a5bdd3211c5139efb62f179530e46780",
+        "base_character": false,
+        "is_uncapped_override": false,
+        "is_uncapped": false,
+        "uncap_cores": [],
+        "char_type": 2,
+        "skill_id_uncap": "",
+        "skill_requires_uncap": false,
+        "skill_unlock_level": 0,
+        "skill_id": "skill_nell",
+        "overdrive": 41.900495699081496,
+        "prog": 78.20090392185449,
+        "frag": 68.40078728677649,
+        "level_exp": 650,
+        "exp": 860.5259099999998,
+        "level": 8,
+        "name": "nell",
+        "character_id": 78
+    },
+    {
+        "skill_id_text": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh-Hans": "",
+            "zh-Hant": ""
+        },
+        "variant": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh-Hans": "",
+            "zh-Hant": ""
+        },
+        "display_name": {
+            "en": "Tsumugi",
+            "ja": "つむぎ",
+            "ko": "",
+            "zh-Hans": "纺",
+            "zh-Hant": ""
+        },
+        "icon": "",
+        "base_character": false,
+        "is_uncapped_override": false,
+        "is_uncapped": false,
+        "uncap_cores": [],
+        "char_type": 2,
+        "skill_id_uncap": "",
+        "skill_requires_uncap": false,
+        "skill_unlock_level": 0,
+        "skill_id": "",
+        "overdrive": 0,
+        "prog": 0,
+        "frag": 0,
+        "level_exp": 0,
+        "exp": 0,
+        "level": 1,
+        "name": "tsumugi",
+        "character_id": 79
+    },
+    {
+        "skill_id_text": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh-Hans": "",
+            "zh-Hant": ""
+        },
+        "variant": {
+            "en": "",
+            "ja": "",
+            "ko": "",
+            "zh-Hans": "",
+            "zh-Hant": ""
+        },
+        "display_name": {
+            "en": "Chinatsu",
+            "ja": "",
+            "ko": "",
+            "zh-Hans": "千夏",
+            "zh-Hant": ""
+        },
+        "icon": "",
+        "base_character": false,
+        "is_uncapped_override": false,
+        "is_uncapped": false,
+        "uncap_cores": [],
+        "char_type": 2,
+        "skill_id_uncap": "",
+        "skill_requires_uncap": false,
+        "skill_unlock_level": 0,
+        "skill_id": "",
+        "overdrive": 0,
+        "prog": 0,
+        "frag": 0,
+        "level_exp": 0,
+        "exp": 0,
+        "level": 1,
+        "name": "chinatsu",
+        "character_id": 80
     },
     {
         "skill_id_text": {

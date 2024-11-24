@@ -217,7 +217,7 @@
       "old": false
     },
     {
-      "constant": 9,
+      "constant": 9.1,
       "old": false
     },
     null
@@ -271,7 +271,7 @@
       "old": false
     },
     {
-      "constant": 9.7,
+      "constant": 9.8,
       "old": false
     },
     null
@@ -290,7 +290,7 @@
       "old": false
     },
     {
-      "constant": 11,
+      "constant": 11.2,
       "old": false
     },
     null
@@ -305,7 +305,7 @@
       "old": false
     },
     {
-      "constant": 10.1,
+      "constant": 10,
       "old": false
     },
     null,
@@ -414,7 +414,7 @@
       "old": false
     },
     {
-      "constant": 10.1,
+      "constant": 10.3,
       "old": false
     },
     null
@@ -461,7 +461,7 @@
       "old": false
     },
     {
-      "constant": 10.3,
+      "constant": 10.2,
       "old": false
     },
     null,
@@ -857,7 +857,7 @@
       "old": false
     },
     {
-      "constant": 10,
+      "constant": 9.9,
       "old": false
     },
     null,
@@ -873,7 +873,7 @@
       "old": false
     },
     {
-      "constant": 9.9,
+      "constant": 9.8,
       "old": false
     },
     null,
@@ -889,11 +889,11 @@
       "old": false
     },
     {
-      "constant": 10,
+      "constant": 9.9,
       "old": false
     },
     {
-      "constant": 10.5,
+      "constant": 10.6,
       "old": false
     },
     null
@@ -940,7 +940,7 @@
       "old": false
     },
     {
-      "constant": 10.7,
+      "constant": 10.6,
       "old": false
     },
     null,
@@ -956,7 +956,7 @@
       "old": false
     },
     {
-      "constant": 11.3,
+      "constant": 11.1,
       "old": false
     },
     null,
@@ -992,7 +992,7 @@
       "old": false
     },
     {
-      "constant": 10,
+      "constant": 10.2,
       "old": false
     },
     null
@@ -1103,7 +1103,7 @@
       "old": false
     },
     {
-      "constant": 9.5,
+      "constant": 9.4,
       "old": false
     },
     null,
@@ -1183,7 +1183,7 @@
       "old": false
     },
     {
-      "constant": 10.7,
+      "constant": 10.5,
       "old": false
     },
     {
@@ -1435,7 +1435,7 @@
       "old": false
     },
     {
-      "constant": 10.7,
+      "constant": 10.5,
       "old": false
     },
     null,
@@ -1467,7 +1467,7 @@
       "old": false
     },
     {
-      "constant": 11.3,
+      "constant": 11.1,
       "old": false
     },
     null,
@@ -1556,7 +1556,7 @@
       "old": false
     },
     {
-      "constant": 9.6,
+      "constant": 9.7,
       "old": false
     },
     null,
@@ -1687,7 +1687,7 @@
       "old": false
     },
     {
-      "constant": 10.4,
+      "constant": 10.3,
       "old": false
     },
     null,
@@ -1751,7 +1751,7 @@
       "old": false
     },
     {
-      "constant": 9.2,
+      "constant": 9.4,
       "old": false
     },
     null,
@@ -1767,7 +1767,7 @@
       "old": false
     },
     {
-      "constant": 9,
+      "constant": 9.1,
       "old": false
     },
     null,
@@ -1802,7 +1802,7 @@
       "old": false
     },
     {
-      "constant": 9.8,
+      "constant": 9.7,
       "old": false
     },
     null,
@@ -1822,7 +1822,7 @@
       "old": false
     },
     {
-      "constant": 10.2,
+      "constant": 10.3,
       "old": false
     },
     null
@@ -1837,7 +1837,7 @@
       "old": false
     },
     {
-      "constant": 10.1,
+      "constant": 10,
       "old": false
     },
     null,
@@ -1908,7 +1908,7 @@
       "old": false
     },
     {
-      "constant": 9.5,
+      "constant": 9.6,
       "old": false
     },
     null
@@ -1959,7 +1959,7 @@
       "old": false
     },
     {
-      "constant": 11.1,
+      "constant": 11.2,
       "old": false
     },
     null
@@ -1990,7 +1990,7 @@
       "old": false
     },
     {
-      "constant": 9,
+      "constant": 9.1,
       "old": false
     },
     null,
@@ -2086,7 +2086,7 @@
       "old": false
     },
     {
-      "constant": 10.4,
+      "constant": 10.3,
       "old": false
     },
     null,
@@ -2102,7 +2102,7 @@
       "old": false
     },
     {
-      "constant": 10.8,
+      "constant": 10.7,
       "old": false
     },
     null,
@@ -2265,7 +2265,7 @@
       "old": false
     },
     {
-      "constant": 10.4,
+      "constant": 10.2,
       "old": false
     },
     null,
@@ -2281,7 +2281,7 @@
       "old": false
     },
     {
-      "constant": 10,
+      "constant": 9.9,
       "old": false
     },
     null,
@@ -2332,7 +2332,7 @@
       "old": false
     },
     {
-      "constant": 10.6,
+      "constant": 10.5,
       "old": false
     },
     null,
@@ -2448,7 +2448,7 @@
       "old": false
     },
     {
-      "constant": 9.9,
+      "constant": 10,
       "old": false
     },
     null
@@ -2645,7 +2645,7 @@
       "old": false
     },
     {
-      "constant": 10.9,
+      "constant": 10.8,
       "old": false
     },
     null,
@@ -2661,7 +2661,7 @@
       "old": false
     },
     {
-      "constant": 10.9,
+      "constant": 11.1,
       "old": false
     },
     null,
@@ -2681,7 +2681,7 @@
       "old": false
     },
     {
-      "constant": 11.5,
+      "constant": 11.7,
       "old": false
     },
     null
@@ -2712,7 +2712,7 @@
       "old": false
     },
     {
-      "constant": 9.7,
+      "constant": 9.8,
       "old": false
     },
     null,
@@ -2939,7 +2939,7 @@
       "old": false
     },
     {
-      "constant": 10.9,
+      "constant": 10.8,
       "old": false
     },
     null,
@@ -2955,7 +2955,7 @@
       "old": false
     },
     {
-      "constant": 9.8,
+      "constant": 9.9,
       "old": false
     },
     null,
@@ -3326,7 +3326,7 @@
       "old": false
     },
     {
-      "constant": 10.5,
+      "constant": 10.4,
       "old": false
     },
     null,
@@ -3422,7 +3422,7 @@
       "old": false
     },
     {
-      "constant": 10.4,
+      "constant": 10.5,
       "old": false
     },
     null,
@@ -3534,7 +3534,7 @@
       "old": false
     },
     {
-      "constant": 11.1,
+      "constant": 11.2,
       "old": false
     },
     null,
@@ -3550,7 +3550,7 @@
       "old": false
     },
     {
-      "constant": 9,
+      "constant": 9.1,
       "old": false
     },
     null,
@@ -3710,7 +3710,7 @@
       "old": false
     },
     {
-      "constant": 9.1,
+      "constant": 9.3,
       "old": false
     },
     null,
@@ -3758,7 +3758,7 @@
       "old": false
     },
     {
-      "constant": 9.7,
+      "constant": 9.8,
       "old": false
     },
     null,
@@ -3809,7 +3809,7 @@
       "old": false
     },
     {
-      "constant": 10.7,
+      "constant": 10.8,
       "old": false
     },
     null,
@@ -3841,7 +3841,7 @@
       "old": false
     },
     {
-      "constant": 10.6,
+      "constant": 10.5,
       "old": false
     },
     null,
@@ -3905,7 +3905,7 @@
       "old": false
     },
     {
-      "constant": 10.2,
+      "constant": 10.1,
       "old": false
     },
     null,
@@ -3941,7 +3941,7 @@
       "old": false
     },
     {
-      "constant": 10.1,
+      "constant": 10.2,
       "old": false
     },
     null
@@ -4164,7 +4164,7 @@
       "old": false
     },
     {
-      "constant": 10.2,
+      "constant": 10.1,
       "old": false
     },
     null,
@@ -4212,7 +4212,7 @@
       "old": false
     },
     {
-      "constant": 9.3,
+      "constant": 9.4,
       "old": false
     },
     null,
@@ -4388,7 +4388,7 @@
       "old": false
     },
     {
-      "constant": 10.7,
+      "constant": 10.8,
       "old": false
     },
     null,
@@ -4404,7 +4404,7 @@
       "old": false
     },
     {
-      "constant": 9.3,
+      "constant": 9.4,
       "old": false
     },
     null,
@@ -4484,7 +4484,7 @@
       "old": false
     },
     {
-      "constant": 9.2,
+      "constant": 9.4,
       "old": false
     },
     null,
@@ -4567,11 +4567,11 @@
       "old": false
     },
     {
-      "constant": 9.9,
+      "constant": 10,
       "old": false
     },
     {
-      "constant": 11.2,
+      "constant": 11.1,
       "old": false
     },
     null
@@ -4586,11 +4586,11 @@
       "old": false
     },
     {
-      "constant": 10.3,
+      "constant": 10.4,
       "old": false
     },
     {
-      "constant": 11.4,
+      "constant": 11.5,
       "old": false
     },
     null
@@ -4609,7 +4609,7 @@
       "old": false
     },
     {
-      "constant": 11.4,
+      "constant": 11.6,
       "old": false
     },
     null
@@ -4624,7 +4624,7 @@
       "old": false
     },
     {
-      "constant": 10.8,
+      "constant": 10.9,
       "old": false
     },
     {
@@ -4643,7 +4643,7 @@
       "old": false
     },
     {
-      "constant": 9.6,
+      "constant": 9.7,
       "old": false
     },
     null,
@@ -4704,7 +4704,7 @@
       "old": false
     },
     {
-      "constant": 9.3,
+      "constant": 9.6,
       "old": false
     },
     null,
@@ -4752,7 +4752,7 @@
       "old": false
     },
     {
-      "constant": 10.5,
+      "constant": 10.6,
       "old": false
     },
     null,
@@ -4768,7 +4768,7 @@
       "old": false
     },
     {
-      "constant": 10.9,
+      "constant": 11,
       "old": false
     },
     null,
@@ -4864,7 +4864,7 @@
       "old": false
     },
     {
-      "constant": 9.3,
+      "constant": 9.4,
       "old": false
     },
     null,
@@ -4912,7 +4912,7 @@
       "old": false
     },
     {
-      "constant": 10.4,
+      "constant": 10.5,
       "old": false
     },
     null,
@@ -4928,7 +4928,7 @@
       "old": false
     },
     {
-      "constant": 10.6,
+      "constant": 10.7,
       "old": false
     },
     null,
@@ -4944,7 +4944,7 @@
       "old": false
     },
     {
-      "constant": 10.4,
+      "constant": 10.6,
       "old": false
     },
     null,
@@ -5040,7 +5040,7 @@
       "old": false
     },
     {
-      "constant": 10.4,
+      "constant": 10.6,
       "old": false
     },
     null,
@@ -5072,7 +5072,7 @@
       "old": false
     },
     {
-      "constant": 10.7,
+      "constant": 10.8,
       "old": false
     },
     null,
@@ -5123,7 +5123,7 @@
       "old": false
     },
     {
-      "constant": 9.9,
+      "constant": 9.8,
       "old": false
     },
     null,
@@ -5299,7 +5299,7 @@
       "old": false
     },
     {
-      "constant": 10.5,
+      "constant": 10.4,
       "old": false
     },
     null,
@@ -5363,7 +5363,7 @@
       "old": false
     },
     {
-      "constant": 10.4,
+      "constant": 10.5,
       "old": false
     },
     null,
@@ -5411,7 +5411,7 @@
       "old": false
     },
     {
-      "constant": 9.7,
+      "constant": 9.9,
       "old": false
     },
     null,
@@ -5443,7 +5443,7 @@
       "old": false
     },
     {
-      "constant": 9.5,
+      "constant": 9.4,
       "old": false
     },
     null,
@@ -5499,7 +5499,7 @@
   ],
   "sacrifice": [
     {
-      "constant": 3,
+      "constant": 3.5,
       "old": false
     },
     {
@@ -5523,7 +5523,7 @@
       "old": false
     },
     {
-      "constant": 9.7,
+      "constant": 9.8,
       "old": false
     },
     null,
@@ -5571,7 +5571,7 @@
       "old": false
     },
     {
-      "constant": 10.4,
+      "constant": 10.5,
       "old": false
     },
     null,
@@ -5603,7 +5603,7 @@
       "old": false
     },
     {
-      "constant": 11.1,
+      "constant": 11.3,
       "old": false
     },
     null,
@@ -5651,7 +5651,7 @@
       "old": false
     },
     {
-      "constant": 9.5,
+      "constant": 9.6,
       "old": false
     },
     null,
@@ -5747,7 +5747,7 @@
       "old": false
     },
     {
-      "constant": 10.1,
+      "constant": 10.2,
       "old": false
     },
     null,
@@ -5775,7 +5775,7 @@
       "old": false
     },
     {
-      "constant": 9.4,
+      "constant": 9.6,
       "old": false
     },
     {
@@ -5827,7 +5827,7 @@
       "old": false
     },
     {
-      "constant": 9.9,
+      "constant": 9.8,
       "old": false
     },
     null,
@@ -5843,7 +5843,7 @@
       "old": false
     },
     {
-      "constant": 10.9,
+      "constant": 10.8,
       "old": false
     },
     null,
@@ -5971,7 +5971,7 @@
       "old": false
     },
     {
-      "constant": 10,
+      "constant": 10.1,
       "old": false
     },
     null,
@@ -6188,7 +6188,7 @@
       "old": false
     },
     {
-      "constant": 10.6,
+      "constant": 10.4,
       "old": false
     },
     null,
@@ -6209,7 +6209,7 @@
     },
     null,
     {
-      "constant": 9.4,
+      "constant": 9.3,
       "old": false
     }
   ],
@@ -6239,7 +6239,7 @@
       "old": false
     },
     {
-      "constant": 9.9,
+      "constant": 9.7,
       "old": false
     },
     null,
@@ -6290,7 +6290,7 @@
       "old": false
     },
     {
-      "constant": 10.5,
+      "constant": 10.4,
       "old": false
     },
     null,
@@ -6306,7 +6306,7 @@
       "old": false
     },
     {
-      "constant": 10.5,
+      "constant": 10.3,
       "old": false
     },
     null,
@@ -6343,7 +6343,7 @@
     },
     null,
     {
-      "constant": 10.9,
+      "constant": 10.8,
       "old": false
     }
   ],
@@ -6432,7 +6432,7 @@
     },
     null,
     {
-      "constant": 10.4,
+      "constant": 10.5,
       "old": false
     }
   ],
@@ -6478,7 +6478,7 @@
       "old": false
     },
     {
-      "constant": 10.5,
+      "constant": 10.6,
       "old": false
     },
     null,
@@ -6499,9 +6499,25 @@
     },
     null,
     {
-      "constant": 10,
+      "constant": 9.9,
       "old": false
     }
+  ],
+  "hypervision": [
+    {
+      "constant": 4.5,
+      "old": false
+    },
+    {
+      "constant": 7.5,
+      "old": false
+    },
+    {
+      "constant": 9.8,
+      "old": false
+    },
+    null,
+    null
   ],
   "signof": [
     {
@@ -6529,12 +6545,12 @@
       "old": false
     },
     {
-      "constant": 9.7,
+      "constant": 9.8,
       "old": false
     },
     null,
     {
-      "constant": 10.4,
+      "constant": 10.5,
       "old": false
     }
   ],
@@ -6554,22 +6570,6 @@
     null,
     null
   ],
-  "hypervision": [
-    {
-      "constant": 4.5,
-      "old": false
-    },
-    {
-      "constant": 7.5,
-      "old": false
-    },
-    {
-      "constant": 9.8,
-      "old": false
-    },
-    null,
-    null
-  ],
   "distortionhuman": [
     {
       "constant": 3,
@@ -6580,7 +6580,7 @@
       "old": false
     },
     {
-      "constant": 9.8,
+      "constant": 9.9,
       "old": false
     },
     null,
@@ -6597,22 +6597,6 @@
     },
     {
       "constant": 9.8,
-      "old": false
-    },
-    null,
-    null
-  ],
-  "invain": [
-    {
-      "constant": 3.5,
-      "old": false
-    },
-    {
-      "constant": 6.5,
-      "old": false
-    },
-    {
-      "constant": 9.5,
       "old": false
     },
     null,
@@ -6636,6 +6620,22 @@
       "constant": 9.9,
       "old": false
     }
+  ],
+  "invain": [
+    {
+      "constant": 3.5,
+      "old": false
+    },
+    {
+      "constant": 6.5,
+      "old": false
+    },
+    {
+      "constant": 9.5,
+      "old": false
+    },
+    null,
+    null
   ],
   "ashenboundary": [
     {
@@ -6663,7 +6663,7 @@
       "old": false
     },
     {
-      "constant": 10.4,
+      "constant": 10.5,
       "old": false
     },
     null,
@@ -6684,7 +6684,7 @@
     },
     null,
     {
-      "constant": 11.2,
+      "constant": 11.3,
       "old": false
     }
   ],
@@ -6976,5 +6976,218 @@
       "constant": 10.6,
       "old": false
     }
+  ],
+  "astralexe": [
+    {
+      "constant": 3,
+      "old": false
+    },
+    {
+      "constant": 6,
+      "old": false
+    },
+    {
+      "constant": 9.5,
+      "old": false
+    },
+    null,
+    null
+  ],
+  "liftoff": [
+    {
+      "constant": 3,
+      "old": false
+    },
+    {
+      "constant": 6.5,
+      "old": false
+    },
+    {
+      "constant": 8.2,
+      "old": false
+    },
+    null,
+    {
+      "constant": 9.8,
+      "old": false
+    }
+  ],
+  "superambulance": [
+    {
+      "constant": 4.5,
+      "old": false
+    },
+    {
+      "constant": 7.5,
+      "old": false
+    },
+    {
+      "constant": 10.3,
+      "old": false
+    },
+    null,
+    null
+  ],
+  "dontfightmusic": [
+    {
+      "constant": 4.5,
+      "old": false
+    },
+    {
+      "constant": 7.8,
+      "old": false
+    },
+    {
+      "constant": 9.3,
+      "old": false
+    },
+    null,
+    {
+      "constant": 10.7,
+      "old": false
+    }
+  ],
+  "andrevivemelody": [
+    {
+      "constant": 5.5,
+      "old": false
+    },
+    {
+      "constant": 8.5,
+      "old": false
+    },
+    {
+      "constant": 10.9,
+      "old": false
+    },
+    null,
+    null
+  ],
+  "swansong": [
+    {
+      "constant": 3,
+      "old": false
+    },
+    {
+      "constant": 7.5,
+      "old": false
+    },
+    {
+      "constant": 9.9,
+      "old": false
+    },
+    null,
+    null
+  ],
+  "renegade": [
+    {
+      "constant": 4.5,
+      "old": false
+    },
+    {
+      "constant": 7.8,
+      "old": false
+    },
+    {
+      "constant": 9.6,
+      "old": false
+    },
+    {
+      "constant": 10.2,
+      "old": false
+    },
+    null
+  ],
+  "raysofremnant": [
+    {
+      "constant": 4.5,
+      "old": false
+    },
+    {
+      "constant": 7.5,
+      "old": false
+    },
+    {
+      "constant": 9.7,
+      "old": false
+    },
+    {
+      "constant": 10.4,
+      "old": false
+    },
+    null
+  ],
+  "breachoffaith": [
+    {
+      "constant": 5.5,
+      "old": false
+    },
+    {
+      "constant": 8.4,
+      "old": false
+    },
+    {
+      "constant": 10.3,
+      "old": false
+    },
+    {
+      "constant": 10.9,
+      "old": false
+    },
+    null
+  ],
+  "lamentrain": [
+    {
+      "constant": 6.5,
+      "old": false
+    },
+    {
+      "constant": 8.8,
+      "old": false
+    },
+    {
+      "constant": 10.6,
+      "old": false
+    },
+    {
+      "constant": 11.4,
+      "old": false
+    },
+    null
+  ],
+  "designant": [
+    {
+      "constant": 7.5,
+      "old": false
+    },
+    {
+      "constant": 9.6,
+      "old": false
+    },
+    {
+      "constant": 10.9,
+      "old": false
+    },
+    {
+      "constant": 11.9,
+      "old": false
+    },
+    null
+  ],
+  "astralquant": [
+    {
+      "constant": 5,
+      "old": false
+    },
+    {
+      "constant": 8.1,
+      "old": false
+    },
+    {
+      "constant": 10.6,
+      "old": false
+    },
+    null,
+    null
   ]
 }

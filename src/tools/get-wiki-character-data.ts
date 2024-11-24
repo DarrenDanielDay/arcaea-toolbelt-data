@@ -36,9 +36,16 @@ async function getWikiCharacterTable(): Promise<CharacterTableData[]> {
     if (!name) {
       throw new Error("名称格式未匹配");
     }
-    if (name === "咲弥 & 伊丽莎白") {
+    const renames: [string, string][] = [
       // wiki上的音译是“丽”，修正为和官方一致用于匹配
-      name = "咲弥 & 伊莉莎白";
+      ["咲弥 & 伊丽莎白", "咲弥 & 伊莉莎白"],
+      // 新的别名，没办法
+      ["洞烛", "拉可弥拉"],
+      ["哀寂", "尼尔"],
+    ];
+    const rename = renames.find((r) => name?.includes(r[0]));
+    if (rename) {
+      name = name.replaceAll(...rename);
     }
     const ref = characters.find(
       (c) => c.display_name["zh-Hans"] === name && (!variant || variant === c.variant?.["zh-Hans"])

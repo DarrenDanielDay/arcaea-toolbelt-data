@@ -27,3 +27,6 @@ export const keyFactorsListFile = resource("../src/data/factors.json");
 
 /** @type {JSONResource<import("@arcaea-toolbelt/models/character.js").CharacterData[]>} */
 export const characterDataFile = resource("../src/data/character-data.json");
+
+/** @type {JSONResource<WikiChartConstantJSON>} */
+export const chartConstant = resource("../src/data/ChartConstant.json");
