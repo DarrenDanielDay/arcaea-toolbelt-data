@@ -1,7 +1,7 @@
 {
-  "version": "6.0.3c",
-  "apk": "https://arcaea-static.lowiro-cdn.net/7uYfowblYvKFvGC9xRhdvTwKfwBE0VTmdIn62C4b9X%2FfEFlik6d%2FiJMSfgR0yr1%2BFrcvYkqvJjCigGhrcXkiKPcKCFXXyF9A85A%2Fip3lxRAk5k24JX8%2FlmAhPtcoqoLJATwmnRF3LlvScaA%3D?filename=arcaea_6.0.3c.apk",
-  "time": 1732470597090,
+  "version": "6.0.5c",
+  "apk": "https://arcaea-static.lowiro-cdn.net/7OrO2CBmGXH1Xteqd7gTif3fV1RPGwlLhNoPXZag0VF8Np5aMj61ezuVSX7emXBaXHpMi7vOQTnPfzhJjRFdhhCDt7%2Fv29c79qTUJdoBozS6C5gNObNwkIwO4VHt7oUTbw0Ayv3jJFWjZYc%3D?filename=arcaea_6.0.5c.apk",
+  "time": 1733157697708,
   "index": [
     {
       "file": "alias.json",
@@ -13,7 +13,7 @@
     },
     {
       "file": "character-data.json",
-      "hash": "42ec7f74"
+      "hash": "b34d7da5"
     },
     {
       "file": "characters.json",
@@ -25,7 +25,7 @@
     },
     {
       "file": "chart-data.json",
-      "hash": "304bf938"
+      "hash": "1e09e74b"
     },
     {
       "file": "chart-express.json",
@@ -33,11 +33,11 @@
     },
     {
       "file": "ChartConstant.json",
-      "hash": "01abd7f7"
+      "hash": "ad6cca2d"
     },
     {
       "file": "factors.json",
-      "hash": "2ec0b837"
+      "hash": "f010b1ad"
     },
     {
       "file": "item-data.json",
@@ -45,7 +45,7 @@
     },
     {
       "file": "notes-and-constants.json",
-      "hash": "b1e8526d"
+      "hash": "bfab8881"
     },
     {
       "file": "packlist.json",

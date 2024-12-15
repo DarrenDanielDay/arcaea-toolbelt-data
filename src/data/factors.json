@@ -1298,18 +1298,18 @@
   {
     "id": 72,
     "frag": [
-      null,
-      null,
+      50,
+      115,
       null
     ],
     "over": [
-      null,
-      null,
+      35,
+      75,
       null
     ],
     "step": [
-      null,
-      null,
+      40,
+      80,
       null
     ]
   },
@@ -1400,6 +1400,60 @@
     "step": [
       31,
       50,
+      null
+    ]
+  },
+  {
+    "id": 78,
+    "frag": [
+      63,
+      90,
+      null
+    ],
+    "over": [
+      38.5,
+      55.5,
+      null
+    ],
+    "step": [
+      72,
+      103,
+      null
+    ]
+  },
+  {
+    "id": 79,
+    "frag": [
+      23.5,
+      50.5,
+      null
+    ],
+    "over": [
+      26,
+      55,
+      null
+    ],
+    "step": [
+      16.5,
+      35.5,
+      null
+    ]
+  },
+  {
+    "id": 80,
+    "frag": [
+      37,
+      60,
+      null
+    ],
+    "over": [
+      40,
+      66,
+      null
+    ],
+    "step": [
+      40,
+      66,
       null
     ]
   },

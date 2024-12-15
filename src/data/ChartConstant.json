@@ -1751,7 +1751,7 @@
       "old": false
     },
     {
-      "constant": 9.4,
+      "constant": 9.2,
       "old": false
     },
     null,
@@ -2119,22 +2119,6 @@
     },
     {
       "constant": 9.7,
-      "old": false
-    },
-    null,
-    null
-  ],
-  "particlearts": [
-    {
-      "constant": 3.5,
-      "old": false
-    },
-    {
-      "constant": 6,
-      "old": false
-    },
-    {
-      "constant": 8.8,
       "old": false
     },
     null,

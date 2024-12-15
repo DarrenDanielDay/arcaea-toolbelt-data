@@ -98,8 +98,18 @@ export async function generateFactorsByKeyFactors(keyFactorsList) {
         const generateFactor = (name) => {
           const value = fitFactor(level, ...keyFactors[name]);
           const old = currentFactors?.[name];
+          /**
+           * @param {number} v value
+           * @param {number} l length
+           */
+          const space = (v, l) => v.toString().padEnd(l, " ");
           if (old != null && Math.abs(old - value) >= 1) {
-            console.log(`Generated factor ${name} of ${character.name.en} may be invalid.`);
+            console.log(
+              `Generated factor ${name} of ${character.name.en} at level ${space(
+                level,
+                2
+              )} may be invalid. old = ${space(old, 5)} new = ${space(value, 5)}`
+            );
           }
           return value;
         };
