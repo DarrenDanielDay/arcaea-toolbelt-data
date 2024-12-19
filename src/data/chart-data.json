@@ -21911,5 +21911,207 @@
     "version": {
       "added": "6.0"
     }
+  },
+  {
+    "bpm": "160",
+    "side": 0,
+    "id": "ignition",
+    "name": "Ignition",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "CHUNITHM - Collaboration Chapter 4",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 3.5,
+        "difficulty": "pst",
+        "designer": "るくあんす",
+        "id": "ignition@pst",
+        "level": 3,
+        "note": 578,
+        "songId": "ignition"
+      },
+      {
+        "constant": 6,
+        "difficulty": "prs",
+        "designer": "るくあんす",
+        "id": "ignition@prs",
+        "level": 6,
+        "note": 621,
+        "songId": "ignition"
+      },
+      {
+        "constant": 9.8,
+        "difficulty": "ftr",
+        "designer": "るくあんす",
+        "id": "ignition@ftr",
+        "level": 9,
+        "note": 994,
+        "songId": "ignition",
+        "plus": true
+      }
+    ],
+    "version": {
+      "added": "6.1"
+    }
+  },
+  {
+    "bpm": "150",
+    "side": 0,
+    "id": "blazingair",
+    "name": "BlazinG AIR",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "CHUNITHM - Collaboration Chapter 4",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 3,
+        "difficulty": "pst",
+        "designer": "BlazinG ÉND",
+        "id": "blazingair@pst",
+        "level": 3,
+        "note": 433,
+        "songId": "blazingair"
+      },
+      {
+        "constant": 6,
+        "difficulty": "prs",
+        "designer": "BlazinG ÉND",
+        "id": "blazingair@prs",
+        "level": 6,
+        "note": 571,
+        "songId": "blazingair"
+      },
+      {
+        "constant": 8.9,
+        "difficulty": "ftr",
+        "designer": "BlazinG ÉND",
+        "id": "blazingair@ftr",
+        "level": 8,
+        "note": 757,
+        "songId": "blazingair",
+        "plus": true
+      },
+      {
+        "constant": 10.1,
+        "difficulty": "etr",
+        "designer": "BlazinG ÉND",
+        "id": "blazingair@etr",
+        "level": 10,
+        "note": 1129,
+        "songId": "blazingair"
+      }
+    ],
+    "version": {
+      "added": "6.1"
+    }
+  },
+  {
+    "bpm": "168",
+    "side": 1,
+    "id": "eightem",
+    "name": "8-EM",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "CHUNITHM - Collaboration Chapter 4",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 4.5,
+        "difficulty": "pst",
+        "designer": "Exschwasion",
+        "id": "eightem@pst",
+        "level": 4,
+        "note": 557,
+        "songId": "eightem"
+      },
+      {
+        "constant": 7.8,
+        "difficulty": "prs",
+        "designer": "Exschwasion",
+        "id": "eightem@prs",
+        "level": 7,
+        "note": 847,
+        "songId": "eightem",
+        "plus": true
+      },
+      {
+        "constant": 9.5,
+        "difficulty": "ftr",
+        "designer": "Rave Gallery",
+        "id": "eightem@ftr",
+        "level": 9,
+        "note": 1081,
+        "songId": "eightem"
+      },
+      {
+        "constant": 10.3,
+        "difficulty": "etr",
+        "designer": "X-SCHWASION",
+        "id": "eightem@etr",
+        "level": 10,
+        "note": 1201,
+        "songId": "eightem"
+      }
+    ],
+    "version": {
+      "added": "6.1"
+    }
+  },
+  {
+    "bpm": "222",
+    "side": 1,
+    "id": "daat",
+    "name": "DA'AT -The First Seeker of Souls-",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "CHUNITHM - Collaboration Chapter 4",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 5.5,
+        "difficulty": "pst",
+        "designer": "夜浪 -Revolutions-",
+        "id": "daat@pst",
+        "level": 5,
+        "note": 921,
+        "songId": "daat"
+      },
+      {
+        "constant": 8.4,
+        "difficulty": "prs",
+        "designer": "夜浪 -Revolutions-",
+        "id": "daat@prs",
+        "level": 8,
+        "note": 1091,
+        "songId": "daat"
+      },
+      {
+        "constant": 10.9,
+        "difficulty": "ftr",
+        "designer": "夜浪 -Revolutions-",
+        "id": "daat@ftr",
+        "level": 10,
+        "note": 1500,
+        "songId": "daat",
+        "plus": true
+      }
+    ],
+    "version": {
+      "added": "6.1"
+    }
   }
 ]

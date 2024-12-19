@@ -2848,44 +2848,111 @@
     },
     {
         "skill_id_text": {
-            "en": "",
-            "ja": "",
-            "ko": "",
-            "zh-Hans": "",
-            "zh-Hant": ""
-        },
-        "variant": {
-            "en": "",
-            "ja": "",
-            "ko": "",
-            "zh-Hans": "",
-            "zh-Hant": ""
+          "en": "O.N.G.E.K.I. - Boost random stats\non dealing Overdamage",
+          "ja": "O.N.G.E.K.I. - オーバーダメージで\nステータスがランダムにブースト",
+          "ko": "O.N.G.E.K.I - 오버대미지 시 무작위 스탯 보너스",
+          "zh-Hans": "O.N.G.E.K.I. - 造成溢伤\n后随机提高一种搭档能力",
+          "zh-Hant": "O.N.G.E.K.I. - 造成溢傷\n後隨機提升一種搭檔能力"
         },
         "display_name": {
-            "en": "Tsumugi",
-            "ja": "つむぎ",
-            "ko": "",
-            "zh-Hans": "纺",
-            "zh-Hant": ""
+          "en": "Chinatsu",
+          "ja": "千夏",
+          "ko": "치나츠",
+          "zh-Hans": "千夏",
+          "zh-Hant": "千夏"
         },
-        "icon": "",
+        "icon": "38a9f275142e520ad873734d5f25e0bb",
         "base_character": false,
         "is_uncapped_override": false,
         "is_uncapped": false,
         "uncap_cores": [],
-        "char_type": 2,
+        "char_type": 0,
         "skill_id_uncap": "",
         "skill_requires_uncap": false,
         "skill_unlock_level": 0,
-        "skill_id": "",
-        "overdrive": 0,
-        "prog": 0,
-        "frag": 0,
+        "skill_id": "skill_chinatsu",
+        "overdrive": 40.970403848957574,
+        "prog": 40.970403848957574,
+        "frag": 37.85843417407786,
+        "level_exp": 200,
+        "exp": 250,
+        "level": 5,
+        "name": "chinatsu",
+        "character_id": 79
+    },
+    {
+        "skill_id_text": {
+          "en": "O.N.G.E.K.I. - Reward Overdamage fragments\nbased on performance",
+          "ja": "O.N.G.E.K.I. - オーバーダメージ毎に\nパフォーマンスに応じた欠片を獲得",
+          "ko": "O.N.G.E.K.I. - 퍼포먼스에 따라\n오버대미지 시 조각 획득",
+          "zh-Hans": "O.N.G.E.K.I. - 根据溢伤表现获得残片奖励",
+          "zh-Hant": "O.N.G.E.K.I. - 根據溢傷表現獲得殘片獎勵"
+        },
+        "display_name": {
+          "en": "Tsumugi",
+          "ja": "つむぎ",
+          "ko": "츠무기",
+          "zh-Hans": "纺",
+          "zh-Hant": "紡"
+        },
+        "icon": "238a5e73606a7c24506629c72a23ac5f",
+        "base_character": false,
+        "is_uncapped_override": false,
+        "is_uncapped": false,
+        "uncap_cores": [],
+        "char_type": 0,
+        "skill_id_uncap": "",
+        "skill_requires_uncap": false,
+        "skill_unlock_level": 0,
+        "skill_id": "skill_tsumugi",
+        "overdrive": 27.082373523837294,
+        "prog": 17.209141274238227,
+        "frag": 24.50772707391748,
+        "level_exp": 200,
+        "exp": 250,
+        "level": 5,
+        "name": "tsumugi",
+        "character_id": 80
+    },
+    {
+        "skill_id_text": {
+          "en": "After 5 LOST notes, lose -3 FRAG for each\nfollowing LOST note",
+          "ja": "6ノーツ以上LOSTを獲得したとき\nLOST毎にFRAG値が3減少",
+          "ko": "5개 노트 LOST시,\n추가 LOST 1개당 FRAG 3 감소",
+          "zh-Hans": "流失五个音符后，每多流失\n一个音符，残数将减少3",
+          "zh-Hant": "流失五個音符後，每多流失\n一個音符，殘數將減少3"
+        },
+        "display_name": {
+          "en": "Nai",
+          "ja": "ナイ",
+          "ko": "나이",
+          "zh-Hans": "奈伊",
+          "zh-Hant": "奈伊"
+        },
+        "icon": "657df8e85b062827f091d11e4143ec00",
+        "base_character": false,
+        "is_uncapped_override": false,
+        "is_uncapped": false,
+        "uncap_cores": [
+          {
+            "_id": "6757e81a2f6938046cba4c80",
+            "core_type": "core_chunithm",
+            "amount": 15
+          }
+        ],
+        "char_type": 0,
+        "skill_id_uncap": "",
+        "skill_requires_uncap": false,
+        "skill_unlock_level": 0,
+        "skill_id": "skill_nai",
+        "overdrive": 39.5,
+        "prog": 33,
+        "frag": 59,
         "level_exp": 0,
         "exp": 0,
         "level": 1,
-        "name": "tsumugi",
-        "character_id": 79
+        "name": "nai",
+        "character_id": 81
     },
     {
         "skill_id_text": {
@@ -2896,17 +2963,17 @@
             "zh-Hant": ""
         },
         "variant": {
-            "en": "",
+            "en": "MIR-203",
             "ja": "",
             "ko": "",
-            "zh-Hans": "",
+            "zh-Hans": "MIR-203",
             "zh-Hant": ""
         },
         "display_name": {
-            "en": "Chinatsu",
+            "en": "Selene Sheryl",
             "ja": "",
             "ko": "",
-            "zh-Hans": "千夏",
+            "zh-Hans": "赛润妮·雪儿",
             "zh-Hant": ""
         },
         "icon": "",
@@ -2925,8 +2992,8 @@
         "level_exp": 0,
         "exp": 0,
         "level": 1,
-        "name": "chinatsu",
-        "character_id": 80
+        "name": "selenesheryl",
+        "character_id": 82
     },
     {
         "skill_id_text": {

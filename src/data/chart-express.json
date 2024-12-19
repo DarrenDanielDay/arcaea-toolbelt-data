@@ -1,6 +1,22 @@
 [
   {
-    "songId": "astralexe",
+    "songId": "ignition",
+    "charts": [
+      {
+        "constant": 3.5
+      },
+      {
+        "constant": 6
+      },
+      {
+        "constant": 9.8
+      },
+      null,
+      null
+    ]
+  },
+  {
+    "songId": "blazingair",
     "charts": [
       {
         "constant": 3
@@ -9,134 +25,34 @@
         "constant": 6
       },
       {
+        "constant": 8.9
+      },
+      null,
+      {
+        "constant": 10.1
+      }
+    ]
+  },
+  {
+    "songId": "eightem",
+    "charts": [
+      {
+        "constant": 4.5
+      },
+      {
+        "constant": 7.8
+      },
+      {
         "constant": 9.5
       },
       null,
-      null
-    ]
-  },
-  {
-    "songId": "liftoff",
-    "charts": [
-      {
-        "constant": 3
-      },
-      {
-        "constant": 6.5
-      },
-      {
-        "constant": 8.2
-      },
-      null,
-      {
-        "constant": 9.8
-      }
-    ]
-  },
-  {
-    "songId": "superambulance",
-    "charts": [
-      {
-        "constant": 4.5
-      },
-      {
-        "constant": 7.5
-      },
       {
         "constant": 10.3
-      },
-      null,
-      null
-    ]
-  },
-  {
-    "songId": "dontfightmusic",
-    "charts": [
-      {
-        "constant": 4.5
-      },
-      {
-        "constant": 7.8
-      },
-      {
-        "constant": 9.3
-      },
-      null,
-      {
-        "constant": 10.7
       }
     ]
   },
   {
-    "songId": "andrevivemelody",
-    "charts": [
-      {
-        "constant": 5.5
-      },
-      {
-        "constant": 8.5
-      },
-      {
-        "constant": 10.9
-      },
-      null,
-      null
-    ]
-  },
-  {
-    "songId": "swansong",
-    "charts": [
-      {
-        "constant": 3
-      },
-      {
-        "constant": 7.5
-      },
-      {
-        "constant": 9.9
-      },
-      null,
-      null
-    ]
-  },
-  {
-    "songId": "renegade",
-    "charts": [
-      {
-        "constant": 4.5
-      },
-      {
-        "constant": 7.8
-      },
-      {
-        "constant": 9.6
-      },
-      {
-        "constant": 10.2
-      },
-      null
-    ]
-  },
-  {
-    "songId": "raysofremnant",
-    "charts": [
-      {
-        "constant": 4.5
-      },
-      {
-        "constant": 7.5
-      },
-      {
-        "constant": 9.7
-      },
-      {
-        "constant": 10.4
-      },
-      null
-    ]
-  },
-  {
-    "songId": "breachoffaith",
+    "songId": "daat",
     "charts": [
       {
         "constant": 5.5
@@ -145,61 +61,7 @@
         "constant": 8.4
       },
       {
-        "constant": 10.3
-      },
-      {
         "constant": 10.9
-      },
-      null
-    ]
-  },
-  {
-    "songId": "lamentrain",
-    "charts": [
-      {
-        "constant": 6.5
-      },
-      {
-        "constant": 8.8
-      },
-      {
-        "constant": 10.6
-      },
-      {
-        "constant": 11.4
-      },
-      null
-    ]
-  },
-  {
-    "songId": "designant",
-    "charts": [
-      {
-        "constant": 7.5
-      },
-      {
-        "constant": 9.6
-      },
-      {
-        "constant": 10.9
-      },
-      {
-        "constant": 11.9
-      },
-      null
-    ]
-  },
-  {
-    "songId": "astralquant",
-    "charts": [
-      {
-        "constant": 5
-      },
-      {
-        "constant": 8.1
-      },
-      {
-        "constant": 10.6
       },
       null,
       null

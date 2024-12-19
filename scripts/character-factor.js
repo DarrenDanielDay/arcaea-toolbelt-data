@@ -27,8 +27,8 @@ async function convertCSV() {
     const factors = {
       id,
       frag: [f(1), f(4), f(7)],
-      over: [f(3), f(6), f(9)],
       step: [f(2), f(5), f(8)],
+      over: [f(3), f(6), f(9)],
     };
     return factors;
   });

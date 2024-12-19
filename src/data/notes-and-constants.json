@@ -8494,5 +8494,87 @@
       null,
       null
     ]
+  },
+  {
+    "id": "ignition",
+    "charts": [
+      {
+        "notes": 578,
+        "constant": 3.5
+      },
+      {
+        "notes": 621,
+        "constant": 6
+      },
+      {
+        "notes": 994,
+        "constant": 9.8
+      },
+      null,
+      null
+    ]
+  },
+  {
+    "id": "blazingair",
+    "charts": [
+      {
+        "notes": 433,
+        "constant": 3
+      },
+      {
+        "notes": 571,
+        "constant": 6
+      },
+      {
+        "notes": 757,
+        "constant": 8.9
+      },
+      null,
+      {
+        "notes": 1129,
+        "constant": 10.1
+      }
+    ]
+  },
+  {
+    "id": "eightem",
+    "charts": [
+      {
+        "notes": 557,
+        "constant": 4.5
+      },
+      {
+        "notes": 847,
+        "constant": 7.8
+      },
+      {
+        "notes": 1081,
+        "constant": 9.5
+      },
+      null,
+      {
+        "notes": 1201,
+        "constant": 10.3
+      }
+    ]
+  },
+  {
+    "id": "daat",
+    "charts": [
+      {
+        "notes": 921,
+        "constant": 5.5
+      },
+      {
+        "notes": 1091,
+        "constant": 8.4
+      },
+      {
+        "notes": 1500,
+        "constant": 10.9
+      },
+      null,
+      null
+    ]
   }
 ]

@@ -3139,6 +3139,34 @@
         "1080_base.jpg",
         "1080_base_256.jpg"
       ]
+    },
+    {
+      "id": "ignition",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "id": "blazingair",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "id": "eightem",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "id": "daat",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
     }
   ],
   "banners": [
@@ -3183,6 +3211,12 @@
       "file": "online_banner_2024_12.png",
       "year": 2024,
       "month": 12
+    },
+    {
+      "type": "aol",
+      "file": "online_banner_2025_01.png",
+      "year": 2025,
+      "month": 1
     },
     {
       "type": "course",

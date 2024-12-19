@@ -22,7 +22,15 @@ async function getWikiCharacterTable(): Promise<CharacterTableData[]> {
   if (!tableDiv) {
     throw new Error("搭档表格未找到");
   }
-  const characterGrids = Array.from(tableDiv.querySelectorAll(".content > div > div"));
+  let characterGrids = Array.from(tableDiv.querySelectorAll(".content > div > div"));
+  const charTexts = new Set(characterGrids.map((g) => g.textContent));
+  characterGrids = characterGrids.filter((g) => {
+    if (charTexts.has(g.textContent)) {
+      charTexts.delete(g.textContent);
+      return true;
+    }
+    return false;
+  });
   if (characterGrids.length !== characters.length) {
     throw new Error("角色总数不一致");
   }
@@ -85,7 +93,7 @@ export async function fetchWikiCharacterAndCharacterCoreItemData(): Promise<{
   cores: ItemData[];
 }> {
   const tableData = await getWikiCharacterTable();
-  const itemTable = htmlDocument.querySelector(`#mw-content-text > div.mw-parser-output > table:nth-child(46)`)!;
+  const itemTable = htmlDocument.querySelector(`#mw-content-text > div.mw-parser-output > table:nth-child(47)`)!;
   const itemImgs = Array.from(itemTable.querySelectorAll("img"));
   const items = itemImgs.map<ItemData>((img) => {
     return {
@@ -134,9 +142,9 @@ export async function fetchWikiCharacterAndCharacterCoreItemData(): Promise<{
             const factors = (levels[level] ??= { ...defaultFactors });
             const value = dataCells[col]!.textContent!.trim();
             if (!value) {
-              throw new Error(`等级 ${level} 的 ${factor} 无数据`);
+              console.error(`等级 ${level} 的 ${factor} 无数据`);
             }
-            factors[factor] = +value;
+            factors[factor] = value ? +value : NaN;
           }
         }
       }

@@ -668,6 +668,22 @@
       }
     },
     {
+      "id": "chunithm_append_3",
+      "section": "collab",
+      "pack_parent": "chunithm",
+      "plus_character": -1,
+      "name_localized": {
+        "en": "Collaboration Chapter 4"
+      },
+      "description_localized": {
+        "en": "Come, bring the heat!\n\nWith the 4th chapter of the CHUNITHM\ncollaboration, 4 new songs burst onto\nthe scene to take center stage!\n\nIn this endless pursuit of trials, ready your soul.",
+        "ja": "4回目となるCHUNITHMコラボでは、\n4つの楽曲が新たにステージへ！\n\nさあ、祭典へ。\n果てない試練を魂で超えて行け。\n",
+        "ko": "뜨거운 열기를, 모두와 함께!\n\nCHUNITHM 콜라보레이션 Chapter 4!\n4개의 신곡이 무대의 시선을 독차지합니다!\n\n끝없는 도전이 기다립니다.\n영혼을 단단히 붙잡으세요.",
+        "zh-Hant": "來吧，鼓動起來！\n\nCHUNITHM聯動第四章，現已推出：\n四首新曲突然登上舞台，一躍成為全部視線的焦點！\n\n探求的靈魂啊，上前來，接受那無盡的試煉吧！",
+        "zh-Hans": "来吧，鼓动起来！\n\nCHUNITHM联动第四章，现已推出：\n四首新曲骤然登上舞台，一跃成为全部视线的焦点！\n\n探求的灵魂啊，上前来，接受那无尽的试炼吧！"
+      }
+    },
+    {
       "id": "groovecoaster",
       "section": "collab",
       "custom_banner": true,
