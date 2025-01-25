@@ -303,7 +303,7 @@ async function getBackgounds(): Promise<Backgrounds> {
   ) as HTMLTableElement;
   for (const tbody of Array.from(table.tBodies)) {
     for (const row of Array.from(tbody.rows).slice(1)) {
-      const name = row.cells[2]!.textContent!;
+      const name = row.cells[2]!.textContent!.trim();
       map[name] = row.cells[1]!.querySelector("img")!.src;
     }
   }

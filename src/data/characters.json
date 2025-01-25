@@ -2254,7 +2254,7 @@
             "en": "Shama",
             "ja": "しゃま",
             "ko": "샤마",
-            "zh-Hans": "霞玛",
+            "zh-Hans": "夏玛",
             "zh-Hant": "霞瑪"
         },
         "base_character": false,
@@ -2294,7 +2294,7 @@
             "en": "Milk",
             "ja": "みるく",
             "ko": "밀크",
-            "zh-Hans": "米露可",
+            "zh-Hans": "咪璐库",
             "zh-Hant": "米露可"
         },
         "base_character": false,
@@ -2956,24 +2956,92 @@
     },
     {
         "skill_id_text": {
+            "en": "HARD + Gain 10 STEP for every 1/3rd of total\nnote count that max combo reaches",
+            "ja": "HARD + 最大コンボ数がトータルノーツ数の\n1/3に達するごとにSTEP値が10増加",
+            "ko": "HARD + 총 노트수의 3분의 1 지점에\n최대 콤보수가 도달할 때마다 STEP 10 증가",
+            "zh-Hans": "困难 + 最大连击数达到歌曲音符总量\n的每1/3时，增加10步数",
+            "zh-Hant": "困難 + 最大連擊數達到歌曲音符總量\n的每1/3時，增加10步數"
+        },
+        "variant": {
+            "en": "MIR-203",
+            "ja": "MIR-203",
+            "ko": "MIR-203",
+            "zh-Hans": "MIR-203",
+            "zh-Hant": "MIR-203"
+        },
+        "display_name": {
+            "en": "Selene Sheryl",
+            "ja": "セレネ・シェリル",
+            "ko": "셀레네 셰릴",
+            "zh-Hans": "赛润妮·雪儿",
+            "zh-Hant": "賽潤妮·雪兒"
+        },
+        "icon": "c14441e255f0a331d377e4914e159daf",
+        "base_character": false,
+        "is_uncapped_override": true,
+        "is_uncapped": true,
+        "uncap_cores": [],
+        "char_type": 2,
+        "skill_id_uncap": "",
+        "skill_requires_uncap": false,
+        "skill_unlock_level": 0,
+        "skill_id": "skill_selene",
+        "overdrive": 81.5,
+        "prog": 65,
+        "frag": 66,
+        "level_exp": 10000,
+        "exp": 10599.704949999998,
+        "level": 20,
+        "name": "selene",
+        "character_id": 82
+    },
+    {
+        "skill_id_text": {
+          "en": "World progress increased by up to 10\nbased on completed Maps in a Chapter",
+          "ja": "同Chapter内の開拓済みマップの数に応じて\nWorld進行度に最大10のボーナス",
+          "ko": "챕터 내 완료한 맵 수에 따라 \n최대 10까지 월드 진행도 증가",
+          "zh-Hans": "根据单个章节地图的完成情况\n额外获得最高10的世界模式进度",
+          "zh-Hant": "根據單一章節地圖的完成情況\n額外獲得最高10的世界模式進度"
+        },
+        "display_name": {
+          "en": "Salt",
+          "ja": "ソルト",
+          "ko": "솔트",
+          "zh-Hans": "莎露朵",
+          "zh-Hant": "莎露朵"
+        },
+        "icon": "1b2927bc17fe00d6812ff68a633efd5d",
+        "base_character": false,
+        "is_uncapped_override": false,
+        "is_uncapped": false,
+        "uncap_cores": [],
+        "char_type": 0,
+        "skill_id_uncap": "",
+        "skill_requires_uncap": false,
+        "skill_unlock_level": 0,
+        "skill_id": "skill_salt",
+        "overdrive": 37.333940807697914,
+        "prog": 41.93818340866015,
+        "frag": 37.333940807697914,
+        "level_exp": 2100,
+        "exp": 2304.72927,
+        "level": 12,
+        "name": "salt",
+        "character_id": 83
+    },
+    {
+        "skill_id_text": {
             "en": "",
             "ja": "",
             "ko": "",
             "zh-Hans": "",
             "zh-Hant": ""
         },
-        "variant": {
-            "en": "MIR-203",
-            "ja": "",
-            "ko": "",
-            "zh-Hans": "MIR-203",
-            "zh-Hant": ""
-        },
         "display_name": {
-            "en": "Selene Sheryl",
+            "en": "Acid",
             "ja": "",
             "ko": "",
-            "zh-Hans": "赛润妮·雪儿",
+            "zh-Hans": "埃希德",
             "zh-Hant": ""
         },
         "icon": "",
@@ -2992,8 +3060,8 @@
         "level_exp": 0,
         "exp": 0,
         "level": 1,
-        "name": "selenesheryl",
-        "character_id": 82
+        "name": "acid",
+        "character_id": 84
     },
     {
         "skill_id_text": {

@@ -3167,6 +3167,34 @@
         "1080_base.jpg",
         "1080_base_256.jpg"
       ]
+    },
+    {
+      "id": "breakbreak",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "id": "straightintolights",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "id": "virtus",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "id": "yomibitoshirazu",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
     }
   ],
   "banners": [
@@ -3217,6 +3245,12 @@
       "file": "online_banner_2025_01.png",
       "year": 2025,
       "month": 1
+    },
+    {
+      "type": "aol",
+      "file": "online_banner_2025_02.png",
+      "year": 2025,
+      "month": 2
     },
     {
       "type": "course",

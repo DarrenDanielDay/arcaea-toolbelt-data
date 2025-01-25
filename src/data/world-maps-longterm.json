@@ -295,41 +295,41 @@
         "id": "1-1",
         "platforms": [
           {
-            "length": 5
+            "length": 1
           },
           {
-            "length": 5
+            "length": 1
           },
           {
-            "length": 5
+            "length": 1
           },
           {
-            "length": 5
+            "length": 1
           },
           {
-            "length": 5
+            "length": 1
           },
           {
-            "length": 6,
+            "length": 1,
             "reward": {
               "type": 1,
               "id": "babaroque"
             }
           },
           {
-            "length": 6
+            "length": 1
           },
           {
-            "length": 6
+            "length": 1
           },
           {
-            "length": 6
+            "length": 1
           },
           {
-            "length": 6
+            "length": 1
           },
           {
-            "length": 6,
+            "length": 1,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -337,27 +337,27 @@
             }
           },
           {
-            "length": 6
+            "length": 1
           },
           {
-            "length": 6
+            "length": 1
           },
           {
-            "length": 6,
+            "length": 1,
             "special": {
               "type": 2,
               "range": "Babaroque"
             }
           },
           {
-            "length": 6,
+            "length": 1,
             "special": {
               "type": 2,
               "range": "Babaroque"
             }
           },
           {
-            "length": 6,
+            "length": 1,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -365,19 +365,19 @@
             }
           },
           {
-            "length": 6
+            "length": 1
           },
           {
-            "length": 6
+            "length": 1
           },
           {
-            "length": 6
+            "length": 1
           },
           {
-            "length": 6
+            "length": 1
           },
           {
-            "length": 6,
+            "length": 1,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -385,19 +385,19 @@
             }
           },
           {
-            "length": 6
+            "length": 1
           },
           {
-            "length": 6
+            "length": 1
           },
           {
-            "length": 6
+            "length": 1
           },
           {
-            "length": 6
+            "length": 1
           },
           {
-            "length": 6,
+            "length": 1,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -405,10 +405,10 @@
             }
           },
           {
-            "length": 6
+            "length": 1
           },
           {
-            "length": 6,
+            "length": 1,
             "reward": {
               "type": 0,
               "name": "以太之滴",
@@ -416,40 +416,41 @@
             }
           },
           {
-            "length": 6,
+            "length": 1,
             "special": {
               "type": 2,
               "range": "Babaroque"
             }
           },
           {
-            "length": 6,
+            "length": 1,
             "special": {
               "type": 2,
               "range": "Babaroque"
             }
           },
           {
-            "length": 7,
+            "length": 1,
             "reward": {
-              "type": 1,
-              "id": "shadesoflight"
+              "type": 0,
+              "name": "以太之滴",
+              "count": 3
             }
           },
           {
-            "length": 7
+            "length": 1
           },
           {
-            "length": 7
+            "length": 1
           },
           {
-            "length": 7
+            "length": 1
           },
           {
-            "length": 7
+            "length": 1
           },
           {
-            "length": 7,
+            "length": 1,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -457,19 +458,19 @@
             }
           },
           {
-            "length": 7
+            "length": 1
           },
           {
-            "length": 7
+            "length": 1
           },
           {
-            "length": 7
+            "length": 1
           },
           {
-            "length": 7
+            "length": 1
           },
           {
-            "length": 7,
+            "length": 1,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -477,27 +478,27 @@
             }
           },
           {
-            "length": 7
+            "length": 1
           },
           {
-            "length": 7
+            "length": 1
           },
           {
-            "length": 7,
+            "length": 1,
             "special": {
               "type": 2,
-              "range": "Shades of Light in a Transcendent Realm"
+              "range": "Babaroque"
             }
           },
           {
-            "length": 7,
+            "length": 1,
             "special": {
               "type": 2,
-              "range": "Shades of Light in a Transcendent Realm"
+              "range": "Babaroque"
             }
           },
           {
-            "length": 7,
+            "length": 1,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -505,19 +506,19 @@
             }
           },
           {
-            "length": 7
+            "length": 1
           },
           {
-            "length": 7
+            "length": 1
           },
           {
-            "length": 7
+            "length": 1
           },
           {
-            "length": 7
+            "length": 1
           },
           {
-            "length": 7,
+            "length": 1,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -525,19 +526,19 @@
             }
           },
           {
-            "length": 7
+            "length": 1
           },
           {
-            "length": 7
+            "length": 1
           },
           {
-            "length": 7
+            "length": 1
           },
           {
-            "length": 7
+            "length": 1
           },
           {
-            "length": 7,
+            "length": 1,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -545,27 +546,27 @@
             }
           },
           {
-            "length": 7
+            "length": 1
           },
           {
-            "length": 7
+            "length": 1
           },
           {
-            "length": 7,
+            "length": 1,
             "special": {
               "type": 2,
-              "range": "Shades of Light in a Transcendent Realm"
+              "range": "Babaroque"
             }
           },
           {
-            "length": 7,
+            "length": 1,
             "special": {
               "type": 2,
-              "range": "Shades of Light in a Transcendent Realm"
+              "range": "Babaroque"
             }
           },
           {
-            "length": 7,
+            "length": 1,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -573,19 +574,19 @@
             }
           },
           {
-            "length": 7
+            "length": 1
           },
           {
-            "length": 7
+            "length": 1
           },
           {
-            "length": 7
+            "length": 1
           },
           {
-            "length": 7
+            "length": 1
           },
           {
-            "length": 7,
+            "length": 1,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -593,19 +594,19 @@
             }
           },
           {
-            "length": 7
+            "length": 1
           },
           {
-            "length": 7
+            "length": 1
           },
           {
-            "length": 7
+            "length": 1
           },
           {
-            "length": 7
+            "length": 1
           },
           {
-            "length": 7,
+            "length": 1,
             "reward": {
               "type": 0,
               "name": "以太之滴",
@@ -613,58 +614,58 @@
             }
           },
           {
-            "length": 7,
+            "length": 1,
             "special": {
               "type": 2,
               "range": "Babaroque"
             }
           },
           {
-            "length": 7,
+            "length": 1,
             "special": {
               "type": 2,
               "range": "Babaroque"
             }
           },
           {
-            "length": 7,
+            "length": 1,
             "special": {
               "type": 2,
-              "range": "Shades of Light in a Transcendent Realm"
+              "range": "Babaroque"
             }
           },
           {
-            "length": 7,
+            "length": 1,
             "special": {
               "type": 2,
-              "range": "Shades of Light in a Transcendent Realm"
+              "range": "Babaroque"
             }
           },
           {
-            "length": 100,
+            "length": 17,
             "reward": {
               "type": 1,
               "id": "kanagawa"
             }
           },
           {
-            "length": 100
+            "length": 17
           },
           {
-            "length": 100
+            "length": 17
           },
           {
-            "length": 100
+            "length": 17
           },
           {
-            "length": 100,
+            "length": 17,
             "special": {
               "type": 2,
               "range": "Lucifer"
             }
           },
           {
-            "length": 100,
+            "length": 17,
             "reward": {
               "type": 0,
               "name": "中空核心",
@@ -672,23 +673,23 @@
             }
           },
           {
-            "length": 150
+            "length": 25
           },
           {
-            "length": 150
+            "length": 25
           },
           {
-            "length": 150
+            "length": 25
           },
           {
-            "length": 150,
+            "length": 25,
             "special": {
               "type": 2,
               "range": "Anökumene"
             }
           },
           {
-            "length": 150,
+            "length": 25,
             "reward": {
               "type": 0,
               "name": "中空核心",
@@ -696,16 +697,16 @@
             }
           },
           {
-            "length": 200
+            "length": 33
           },
           {
-            "length": 200
+            "length": 33
           },
           {
-            "length": 200
+            "length": 33
           },
           {
-            "length": 200,
+            "length": 33,
             "special": {
               "type": 2,
               "range": "Ignotus"
@@ -726,41 +727,41 @@
         "id": "1-2",
         "platforms": [
           {
-            "length": 5
+            "length": 1
           },
           {
-            "length": 5
+            "length": 1
           },
           {
-            "length": 5
+            "length": 1
           },
           {
-            "length": 5
+            "length": 1
           },
           {
-            "length": 5
+            "length": 1
           },
           {
-            "length": 6,
+            "length": 1,
             "reward": {
               "type": 1,
               "id": "lucifer"
             }
           },
           {
-            "length": 6
+            "length": 1
           },
           {
-            "length": 6
+            "length": 1
           },
           {
-            "length": 6
+            "length": 1
           },
           {
-            "length": 6
+            "length": 1
           },
           {
-            "length": 6,
+            "length": 1,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -768,27 +769,27 @@
             }
           },
           {
-            "length": 6
+            "length": 1
           },
           {
-            "length": 6
+            "length": 1
           },
           {
-            "length": 6,
+            "length": 1,
             "special": {
               "type": 2,
               "range": "Lucifer"
             }
           },
           {
-            "length": 6,
+            "length": 1,
             "special": {
               "type": 2,
               "range": "Lucifer"
             }
           },
           {
-            "length": 6,
+            "length": 1,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -796,19 +797,19 @@
             }
           },
           {
-            "length": 6
+            "length": 1
           },
           {
-            "length": 6
+            "length": 1
           },
           {
-            "length": 6
+            "length": 1
           },
           {
-            "length": 6
+            "length": 1
           },
           {
-            "length": 6,
+            "length": 1,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -816,19 +817,19 @@
             }
           },
           {
-            "length": 6
+            "length": 1
           },
           {
-            "length": 6
+            "length": 1
           },
           {
-            "length": 6
+            "length": 1
           },
           {
-            "length": 6
+            "length": 1
           },
           {
-            "length": 6,
+            "length": 1,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -836,10 +837,10 @@
             }
           },
           {
-            "length": 6
+            "length": 1
           },
           {
-            "length": 6,
+            "length": 1,
             "reward": {
               "type": 0,
               "name": "以太之滴",
@@ -847,40 +848,40 @@
             }
           },
           {
-            "length": 6,
+            "length": 1,
             "special": {
               "type": 2,
               "range": "Lucifer"
             }
           },
           {
-            "length": 6,
+            "length": 1,
             "special": {
               "type": 2,
               "range": "Lucifer"
             }
           },
           {
-            "length": 7,
+            "length": 1,
             "reward": {
               "type": 1,
               "id": "anokumene"
             }
           },
           {
-            "length": 7
+            "length": 1
           },
           {
-            "length": 7
+            "length": 1
           },
           {
-            "length": 7
+            "length": 1
           },
           {
-            "length": 7
+            "length": 1
           },
           {
-            "length": 7,
+            "length": 1,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -888,19 +889,19 @@
             }
           },
           {
-            "length": 7
+            "length": 1
           },
           {
-            "length": 7
+            "length": 1
           },
           {
-            "length": 7
+            "length": 1
           },
           {
-            "length": 7
+            "length": 1
           },
           {
-            "length": 7,
+            "length": 1,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -908,27 +909,27 @@
             }
           },
           {
-            "length": 7
+            "length": 1
           },
           {
-            "length": 7
+            "length": 1
           },
           {
-            "length": 7,
+            "length": 1,
             "special": {
               "type": 2,
               "range": "Anökumene"
             }
           },
           {
-            "length": 7,
+            "length": 1,
             "special": {
               "type": 2,
               "range": "Anökumene"
             }
           },
           {
-            "length": 7,
+            "length": 1,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -936,19 +937,19 @@
             }
           },
           {
-            "length": 7
+            "length": 1
           },
           {
-            "length": 7
+            "length": 1
           },
           {
-            "length": 7
+            "length": 1
           },
           {
-            "length": 7
+            "length": 1
           },
           {
-            "length": 7,
+            "length": 1,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -956,19 +957,19 @@
             }
           },
           {
-            "length": 7
+            "length": 1
           },
           {
-            "length": 7
+            "length": 1
           },
           {
-            "length": 7
+            "length": 1
           },
           {
-            "length": 7
+            "length": 1
           },
           {
-            "length": 7,
+            "length": 1,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -976,27 +977,27 @@
             }
           },
           {
-            "length": 7
+            "length": 1
           },
           {
-            "length": 7
+            "length": 1
           },
           {
-            "length": 7,
+            "length": 1,
             "special": {
               "type": 2,
               "range": "Anökumene"
             }
           },
           {
-            "length": 7,
+            "length": 1,
             "special": {
               "type": 2,
               "range": "Anökumene"
             }
           },
           {
-            "length": 7,
+            "length": 1,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -1004,19 +1005,19 @@
             }
           },
           {
-            "length": 7
+            "length": 1
           },
           {
-            "length": 7
+            "length": 1
           },
           {
-            "length": 7
+            "length": 1
           },
           {
-            "length": 7
+            "length": 1
           },
           {
-            "length": 7,
+            "length": 1,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -1024,19 +1025,19 @@
             }
           },
           {
-            "length": 7
+            "length": 1
           },
           {
-            "length": 7
+            "length": 1
           },
           {
-            "length": 7
+            "length": 1
           },
           {
-            "length": 7
+            "length": 1
           },
           {
-            "length": 7,
+            "length": 1,
             "reward": {
               "type": 0,
               "name": "以太之滴",
@@ -1044,58 +1045,58 @@
             }
           },
           {
-            "length": 7,
+            "length": 1,
             "special": {
               "type": 2,
               "range": "Lucifer"
             }
           },
           {
-            "length": 7,
+            "length": 1,
             "special": {
               "type": 2,
               "range": "Lucifer"
             }
           },
           {
-            "length": 7,
+            "length": 1,
             "special": {
               "type": 2,
               "range": "Anökumene"
             }
           },
           {
-            "length": 7,
+            "length": 1,
             "special": {
               "type": 2,
               "range": "Anökumene"
             }
           },
           {
-            "length": 100,
+            "length": 17,
             "reward": {
               "type": 1,
               "id": "ignotus"
             }
           },
           {
-            "length": 100
+            "length": 17
           },
           {
-            "length": 100
+            "length": 17
           },
           {
-            "length": 100
+            "length": 17
           },
           {
-            "length": 100,
+            "length": 17,
             "special": {
               "type": 2,
               "range": "Babaroque"
             }
           },
           {
-            "length": 100,
+            "length": 17,
             "reward": {
               "type": 0,
               "name": "荒芜核心",
@@ -1103,23 +1104,23 @@
             }
           },
           {
-            "length": 150
+            "length": 25
           },
           {
-            "length": 150
+            "length": 25
           },
           {
-            "length": 150
+            "length": 25
           },
           {
-            "length": 150,
+            "length": 25,
             "special": {
               "type": 2,
               "range": "Shades of Light in a Transcendent Realm"
             }
           },
           {
-            "length": 150,
+            "length": 25,
             "reward": {
               "type": 0,
               "name": "荒芜核心",
@@ -1127,16 +1128,16 @@
             }
           },
           {
-            "length": 200
+            "length": 33
           },
           {
-            "length": 200
+            "length": 33
           },
           {
-            "length": 200
+            "length": 33
           },
           {
-            "length": 200,
+            "length": 33,
             "special": {
               "type": 2,
               "range": "Kanagawa Cyber Culvert"
@@ -1157,22 +1158,22 @@
         "id": "1-3",
         "platforms": [
           {
-            "length": 8
+            "length": 1
           },
           {
-            "length": 8
+            "length": 1
           },
           {
-            "length": 8
+            "length": 1
           },
           {
-            "length": 8
+            "length": 1
           },
           {
-            "length": 8
+            "length": 1
           },
           {
-            "length": 8,
+            "length": 1,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -1180,38 +1181,38 @@
             }
           },
           {
-            "length": 8
+            "length": 1
           },
           {
-            "length": 8
+            "length": 1
           },
           {
-            "length": 8
+            "length": 1
           },
           {
-            "length": 8
+            "length": 1
           },
           {
-            "length": 9,
+            "length": 2,
             "reward": {
               "type": 1,
               "id": "harutopia"
             }
           },
           {
-            "length": 9
+            "length": 2
           },
           {
-            "length": 9
+            "length": 2
           },
           {
-            "length": 9
+            "length": 2
           },
           {
-            "length": 9
+            "length": 2
           },
           {
-            "length": 9,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -1219,27 +1220,27 @@
             }
           },
           {
-            "length": 9
+            "length": 2
           },
           {
-            "length": 9
+            "length": 2
           },
           {
-            "length": 9,
+            "length": 2,
             "special": {
               "type": 2,
               "range": "Harutopia ~Utopia of Spring~"
             }
           },
           {
-            "length": 9,
+            "length": 2,
             "special": {
               "type": 2,
               "range": "Harutopia ~Utopia of Spring~"
             }
           },
           {
-            "length": 9,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -1247,19 +1248,19 @@
             }
           },
           {
-            "length": 9
+            "length": 2
           },
           {
-            "length": 9
+            "length": 2
           },
           {
-            "length": 9
+            "length": 2
           },
           {
-            "length": 9
+            "length": 2
           },
           {
-            "length": 9,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -1267,19 +1268,19 @@
             }
           },
           {
-            "length": 9
+            "length": 2
           },
           {
-            "length": 9
+            "length": 2
           },
           {
-            "length": 9
+            "length": 2
           },
           {
-            "length": 9
+            "length": 2
           },
           {
-            "length": 9,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -1287,10 +1288,10 @@
             }
           },
           {
-            "length": 9
+            "length": 2
           },
           {
-            "length": 9,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "以太之滴",
@@ -1298,21 +1299,21 @@
             }
           },
           {
-            "length": 9,
+            "length": 2,
             "special": {
               "type": 2,
               "range": "Harutopia ~Utopia of Spring~"
             }
           },
           {
-            "length": 9,
+            "length": 2,
             "special": {
               "type": 2,
               "range": "Harutopia ~Utopia of Spring~"
             }
           },
           {
-            "length": 9,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -1320,19 +1321,19 @@
             }
           },
           {
-            "length": 9
+            "length": 2
           },
           {
-            "length": 9
+            "length": 2
           },
           {
-            "length": 9
+            "length": 2
           },
           {
-            "length": 9
+            "length": 2
           },
           {
-            "length": 9,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -1340,19 +1341,19 @@
             }
           },
           {
-            "length": 9
+            "length": 2
           },
           {
-            "length": 9
+            "length": 2
           },
           {
-            "length": 9
+            "length": 2
           },
           {
-            "length": 9
+            "length": 2
           },
           {
-            "length": 9,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -1360,19 +1361,19 @@
             }
           },
           {
-            "length": 9
+            "length": 2
           },
           {
-            "length": 9
+            "length": 2
           },
           {
-            "length": 9
+            "length": 2
           },
           {
-            "length": 9
+            "length": 2
           },
           {
-            "length": 9,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "以太之滴",
@@ -1380,46 +1381,46 @@
             }
           },
           {
-            "length": 9
+            "length": 2
           },
           {
-            "length": 9
+            "length": 2
           },
           {
-            "length": 9,
+            "length": 2,
             "special": {
               "type": 2,
               "range": "Harutopia ~Utopia of Spring~"
             }
           },
           {
-            "length": 9,
+            "length": 2,
             "special": {
               "type": 2,
               "range": "Harutopia ~Utopia of Spring~"
             }
           },
           {
-            "length": 10,
+            "length": 2,
             "reward": {
               "type": 1,
               "id": "goodtek"
             }
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -1427,19 +1428,19 @@
             }
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -1447,27 +1448,27 @@
             }
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10,
+            "length": 2,
             "special": {
               "type": 2,
               "range": "GOODTEK (Arcaea Edit)"
             }
           },
           {
-            "length": 10,
+            "length": 2,
             "special": {
               "type": 2,
               "range": "GOODTEK (Arcaea Edit)"
             }
           },
           {
-            "length": 10,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -1475,19 +1476,19 @@
             }
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -1495,19 +1496,19 @@
             }
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -1515,10 +1516,10 @@
             }
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "以太之滴",
@@ -1526,21 +1527,21 @@
             }
           },
           {
-            "length": 10,
+            "length": 2,
             "special": {
               "type": 2,
               "range": "GOODTEK (Arcaea Edit)"
             }
           },
           {
-            "length": 10,
+            "length": 2,
             "special": {
               "type": 2,
               "range": "GOODTEK (Arcaea Edit)"
             }
           },
           {
-            "length": 10,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -1548,19 +1549,19 @@
             }
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -1568,19 +1569,19 @@
             }
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -1588,10 +1589,10 @@
             }
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "以太之滴",
@@ -1599,21 +1600,21 @@
             }
           },
           {
-            "length": 10,
+            "length": 2,
             "special": {
               "type": 2,
               "range": "GOODTEK (Arcaea Edit)"
             }
           },
           {
-            "length": 10,
+            "length": 2,
             "special": {
               "type": 2,
               "range": "GOODTEK (Arcaea Edit)"
             }
           },
           {
-            "length": 10,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -1621,19 +1622,19 @@
             }
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -1641,19 +1642,19 @@
             }
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -1661,19 +1662,19 @@
             }
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -1681,19 +1682,19 @@
             }
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "以太之滴",
@@ -1701,61 +1702,61 @@
             }
           },
           {
-            "length": 10,
+            "length": 2,
             "special": {
               "type": 2,
               "range": "Harutopia ~Utopia of Spring~"
             }
           },
           {
-            "length": 10,
+            "length": 2,
             "special": {
               "type": 2,
               "range": "Harutopia ~Utopia of Spring~"
             }
           },
           {
-            "length": 10,
+            "length": 2,
             "special": {
               "type": 2,
               "range": "GOODTEK (Arcaea Edit)"
             }
           },
           {
-            "length": 10,
+            "length": 2,
             "special": {
               "type": 2,
               "range": "GOODTEK (Arcaea Edit)"
             }
           },
           {
-            "length": 25,
+            "length": 4,
             "reward": {
               "type": 1,
               "id": "dreaminattraction"
             }
           },
           {
-            "length": 25
+            "length": 4
           },
           {
-            "length": 25
+            "length": 4
           },
           {
-            "length": 25
+            "length": 4
           },
           {
-            "length": 25
+            "length": 4
           },
           {
-            "length": 25,
+            "length": 4,
             "special": {
               "type": 0,
               "count": 4
             }
           },
           {
-            "length": 25,
+            "length": 4,
             "special": {
               "type": 2,
               "range": [
@@ -1766,7 +1767,7 @@
             }
           },
           {
-            "length": 25,
+            "length": 4,
             "special": {
               "type": 2,
               "range": [
@@ -1777,7 +1778,7 @@
             }
           },
           {
-            "length": 25,
+            "length": 4,
             "special": {
               "type": 2,
               "range": [
@@ -1788,7 +1789,7 @@
             }
           },
           {
-            "length": 25,
+            "length": 4,
             "special": {
               "type": 2,
               "range": [
@@ -1799,7 +1800,7 @@
             }
           },
           {
-            "length": 70,
+            "length": 12,
             "reward": {
               "type": 0,
               "name": "中空核心",
@@ -1807,54 +1808,54 @@
             }
           },
           {
-            "length": 70
+            "length": 12
           },
           {
-            "length": 70
+            "length": 12
           },
           {
-            "length": 70
+            "length": 12
           },
           {
-            "length": 70
+            "length": 12
           },
           {
-            "length": 70,
+            "length": 12,
             "special": {
               "type": 0,
               "count": 4
             }
           },
           {
-            "length": 70,
+            "length": 12,
             "special": {
               "type": 2,
               "range": "Arcaea"
             }
           },
           {
-            "length": 70,
+            "length": 12,
             "special": {
               "type": 2,
               "range": "Arcaea"
             }
           },
           {
-            "length": 70,
+            "length": 12,
             "special": {
               "type": 2,
               "range": "Arcaea"
             }
           },
           {
-            "length": 70,
+            "length": 12,
             "special": {
               "type": 2,
               "range": "Arcaea"
             }
           },
           {
-            "length": 80,
+            "length": 13,
             "reward": {
               "type": 0,
               "name": "中空核心",
@@ -1862,47 +1863,47 @@
             }
           },
           {
-            "length": 80
+            "length": 13
           },
           {
-            "length": 80
+            "length": 13
           },
           {
-            "length": 80
+            "length": 13
           },
           {
-            "length": 80
+            "length": 13
           },
           {
-            "length": 80,
+            "length": 13,
             "special": {
               "type": 0,
               "count": 4
             }
           },
           {
-            "length": 80,
+            "length": 13,
             "special": {
               "type": 2,
               "range": "Dreamin' Attraction!!"
             }
           },
           {
-            "length": 80,
+            "length": 13,
             "special": {
               "type": 2,
               "range": "Dreamin' Attraction!!"
             }
           },
           {
-            "length": 80,
+            "length": 13,
             "special": {
               "type": 2,
               "range": "Dreamin' Attraction!!"
             }
           },
           {
-            "length": 80,
+            "length": 13,
             "special": {
               "type": 2,
               "range": "Dreamin' Attraction!!"
@@ -1923,22 +1924,22 @@
         "id": "1-4",
         "platforms": [
           {
-            "length": 8
+            "length": 1
           },
           {
-            "length": 8
+            "length": 1
           },
           {
-            "length": 8
+            "length": 1
           },
           {
-            "length": 8
+            "length": 1
           },
           {
-            "length": 8
+            "length": 1
           },
           {
-            "length": 8,
+            "length": 1,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -1946,38 +1947,38 @@
             }
           },
           {
-            "length": 8
+            "length": 1
           },
           {
-            "length": 8
+            "length": 1
           },
           {
-            "length": 8
+            "length": 1
           },
           {
-            "length": 8
+            "length": 1
           },
           {
-            "length": 9,
+            "length": 2,
             "reward": {
               "type": 1,
               "id": "rabbitintheblackroom"
             }
           },
           {
-            "length": 9
+            "length": 2
           },
           {
-            "length": 9
+            "length": 2
           },
           {
-            "length": 9
+            "length": 2
           },
           {
-            "length": 9
+            "length": 2
           },
           {
-            "length": 9,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -1985,27 +1986,27 @@
             }
           },
           {
-            "length": 9
+            "length": 2
           },
           {
-            "length": 9
+            "length": 2
           },
           {
-            "length": 9,
+            "length": 2,
             "special": {
               "type": 2,
               "range": "Rabbit In The Black Room"
             }
           },
           {
-            "length": 9,
+            "length": 2,
             "special": {
               "type": 2,
               "range": "Rabbit In The Black Room"
             }
           },
           {
-            "length": 9,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -2013,19 +2014,19 @@
             }
           },
           {
-            "length": 9
+            "length": 2
           },
           {
-            "length": 9
+            "length": 2
           },
           {
-            "length": 9
+            "length": 2
           },
           {
-            "length": 9
+            "length": 2
           },
           {
-            "length": 9,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -2033,19 +2034,19 @@
             }
           },
           {
-            "length": 9
+            "length": 2
           },
           {
-            "length": 9
+            "length": 2
           },
           {
-            "length": 9
+            "length": 2
           },
           {
-            "length": 9
+            "length": 2
           },
           {
-            "length": 9,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -2053,10 +2054,10 @@
             }
           },
           {
-            "length": 9
+            "length": 2
           },
           {
-            "length": 9,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "以太之滴",
@@ -2064,21 +2065,21 @@
             }
           },
           {
-            "length": 9,
+            "length": 2,
             "special": {
               "type": 2,
               "range": "Rabbit In The Black Room"
             }
           },
           {
-            "length": 9,
+            "length": 2,
             "special": {
               "type": 2,
               "range": "Rabbit In The Black Room"
             }
           },
           {
-            "length": 9,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -2086,19 +2087,19 @@
             }
           },
           {
-            "length": 9
+            "length": 2
           },
           {
-            "length": 9
+            "length": 2
           },
           {
-            "length": 9
+            "length": 2
           },
           {
-            "length": 9
+            "length": 2
           },
           {
-            "length": 9,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -2106,19 +2107,19 @@
             }
           },
           {
-            "length": 9
+            "length": 2
           },
           {
-            "length": 9
+            "length": 2
           },
           {
-            "length": 9
+            "length": 2
           },
           {
-            "length": 9
+            "length": 2
           },
           {
-            "length": 9,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -2126,19 +2127,19 @@
             }
           },
           {
-            "length": 9
+            "length": 2
           },
           {
-            "length": 9
+            "length": 2
           },
           {
-            "length": 9
+            "length": 2
           },
           {
-            "length": 9
+            "length": 2
           },
           {
-            "length": 9,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "以太之滴",
@@ -2146,46 +2147,46 @@
             }
           },
           {
-            "length": 9
+            "length": 2
           },
           {
-            "length": 9
+            "length": 2
           },
           {
-            "length": 9,
+            "length": 2,
             "special": {
               "type": 2,
               "range": "Rabbit In The Black Room"
             }
           },
           {
-            "length": 9,
+            "length": 2,
             "special": {
               "type": 2,
               "range": "Rabbit In The Black Room"
             }
           },
           {
-            "length": 10,
+            "length": 2,
             "reward": {
               "type": 1,
               "id": "qualia"
             }
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -2193,19 +2194,19 @@
             }
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -2213,27 +2214,27 @@
             }
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10,
+            "length": 2,
             "special": {
               "type": 2,
               "range": "qualia -ideaesthesia-"
             }
           },
           {
-            "length": 10,
+            "length": 2,
             "special": {
               "type": 2,
               "range": "qualia -ideaesthesia-"
             }
           },
           {
-            "length": 10,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -2241,19 +2242,19 @@
             }
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -2261,19 +2262,19 @@
             }
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -2281,10 +2282,10 @@
             }
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "以太之滴",
@@ -2292,21 +2293,21 @@
             }
           },
           {
-            "length": 10,
+            "length": 2,
             "special": {
               "type": 2,
               "range": "qualia -ideaesthesia-"
             }
           },
           {
-            "length": 10,
+            "length": 2,
             "special": {
               "type": 2,
               "range": "qualia -ideaesthesia-"
             }
           },
           {
-            "length": 10,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -2314,19 +2315,19 @@
             }
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -2334,19 +2335,19 @@
             }
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -2354,10 +2355,10 @@
             }
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "以太之滴",
@@ -2365,21 +2366,21 @@
             }
           },
           {
-            "length": 10,
+            "length": 2,
             "special": {
               "type": 2,
               "range": "qualia -ideaesthesia-"
             }
           },
           {
-            "length": 10,
+            "length": 2,
             "special": {
               "type": 2,
               "range": "qualia -ideaesthesia-"
             }
           },
           {
-            "length": 10,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -2387,19 +2388,19 @@
             }
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -2407,19 +2408,19 @@
             }
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -2427,19 +2428,19 @@
             }
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -2447,19 +2448,19 @@
             }
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "以太之滴",
@@ -2467,61 +2468,61 @@
             }
           },
           {
-            "length": 10,
+            "length": 2,
             "special": {
               "type": 2,
               "range": "Rabbit In The Black Room"
             }
           },
           {
-            "length": 10,
+            "length": 2,
             "special": {
               "type": 2,
               "range": "Rabbit In The Black Room"
             }
           },
           {
-            "length": 10,
+            "length": 2,
             "special": {
               "type": 2,
               "range": "qualia -ideaesthesia-"
             }
           },
           {
-            "length": 10,
+            "length": 2,
             "special": {
               "type": 2,
               "range": "qualia -ideaesthesia-"
             }
           },
           {
-            "length": 25,
+            "length": 4,
             "reward": {
               "type": 1,
               "id": "redandblue"
             }
           },
           {
-            "length": 25
+            "length": 4
           },
           {
-            "length": 25
+            "length": 4
           },
           {
-            "length": 25
+            "length": 4
           },
           {
-            "length": 25
+            "length": 4
           },
           {
-            "length": 25,
+            "length": 4,
             "special": {
               "type": 0,
               "count": 4
             }
           },
           {
-            "length": 25,
+            "length": 4,
             "special": {
               "type": 2,
               "range": [
@@ -2532,7 +2533,7 @@
             }
           },
           {
-            "length": 25,
+            "length": 4,
             "special": {
               "type": 2,
               "range": [
@@ -2543,7 +2544,7 @@
             }
           },
           {
-            "length": 25,
+            "length": 4,
             "special": {
               "type": 2,
               "range": [
@@ -2554,7 +2555,7 @@
             }
           },
           {
-            "length": 25,
+            "length": 4,
             "special": {
               "type": 2,
               "range": [
@@ -2565,7 +2566,7 @@
             }
           },
           {
-            "length": 70,
+            "length": 12,
             "reward": {
               "type": 0,
               "name": "荒芜核心",
@@ -2573,54 +2574,54 @@
             }
           },
           {
-            "length": 70
+            "length": 12
           },
           {
-            "length": 70
+            "length": 12
           },
           {
-            "length": 70
+            "length": 12
           },
           {
-            "length": 70
+            "length": 12
           },
           {
-            "length": 70,
+            "length": 12,
             "special": {
               "type": 0,
               "count": 4
             }
           },
           {
-            "length": 70,
+            "length": 12,
             "special": {
               "type": 2,
               "range": "Arcaea"
             }
           },
           {
-            "length": 70,
+            "length": 12,
             "special": {
               "type": 2,
               "range": "Arcaea"
             }
           },
           {
-            "length": 70,
+            "length": 12,
             "special": {
               "type": 2,
               "range": "Arcaea"
             }
           },
           {
-            "length": 70,
+            "length": 12,
             "special": {
               "type": 2,
               "range": "Arcaea"
             }
           },
           {
-            "length": 80,
+            "length": 13,
             "reward": {
               "type": 0,
               "name": "荒芜核心",
@@ -2628,47 +2629,47 @@
             }
           },
           {
-            "length": 80
+            "length": 13
           },
           {
-            "length": 80
+            "length": 13
           },
           {
-            "length": 80
+            "length": 13
           },
           {
-            "length": 80
+            "length": 13
           },
           {
-            "length": 80,
+            "length": 13,
             "special": {
               "type": 0,
               "count": 4
             }
           },
           {
-            "length": 80,
+            "length": 13,
             "special": {
               "type": 2,
               "range": "Red and Blue"
             }
           },
           {
-            "length": 80,
+            "length": 13,
             "special": {
               "type": 2,
               "range": "Red and Blue"
             }
           },
           {
-            "length": 80,
+            "length": 13,
             "special": {
               "type": 2,
               "range": "Red and Blue"
             }
           },
           {
-            "length": 80,
+            "length": 13,
             "special": {
               "type": 2,
               "range": "Red and Blue"
@@ -3879,74 +3880,74 @@
         "id": "2-1",
         "platforms": [
           {
+            "length": 1
+          },
+          {
+            "length": 1
+          },
+          {
+            "length": 1
+          },
+          {
+            "length": 1
+          },
+          {
+            "length": 1,
+            "special": {
+              "type": 2,
+              "range": "Infinity Heaven"
+            }
+          },
+          {
+            "length": 1,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 50
+            }
+          },
+          {
+            "length": 1
+          },
+          {
+            "length": 2
+          },
+          {
+            "length": 2
+          },
+          {
+            "length": 2,
+            "special": {
+              "type": 2,
+              "range": "Infinity Heaven"
+            }
+          },
+          {
+            "length": 2,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 60
+            }
+          },
+          {
+            "length": 2
+          },
+          {
             "length": 2
           },
           {
             "length": 3
           },
           {
-            "length": 4
-          },
-          {
-            "length": 5
-          },
-          {
-            "length": 6,
+            "length": 3,
             "special": {
               "type": 2,
               "range": "Infinity Heaven"
             }
           },
           {
-            "length": 7,
-            "reward": {
-              "type": 0,
-              "name": "残片",
-              "count": 50
-            }
-          },
-          {
-            "length": 8
-          },
-          {
-            "length": 9
-          },
-          {
-            "length": 10
-          },
-          {
-            "length": 11,
-            "special": {
-              "type": 2,
-              "range": "Infinity Heaven"
-            }
-          },
-          {
-            "length": 12,
-            "reward": {
-              "type": 0,
-              "name": "残片",
-              "count": 60
-            }
-          },
-          {
-            "length": 13
-          },
-          {
-            "length": 14
-          },
-          {
-            "length": 15
-          },
-          {
-            "length": 16,
-            "special": {
-              "type": 2,
-              "range": "Infinity Heaven"
-            }
-          },
-          {
-            "length": 17,
+            "length": 3,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -3954,23 +3955,23 @@
             }
           },
           {
-            "length": 16,
+            "length": 3,
             "special": {
               "type": 2,
               "range": "Reinvent"
             }
           },
           {
-            "length": 15
+            "length": 3
           },
           {
-            "length": 14
+            "length": 2
           },
           {
-            "length": 13
+            "length": 2
           },
           {
-            "length": 12,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -3978,23 +3979,23 @@
             }
           },
           {
-            "length": 11,
+            "length": 2,
             "special": {
               "type": 2,
               "range": "Reinvent"
             }
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 9
+            "length": 2
           },
           {
-            "length": 8
+            "length": 1
           },
           {
-            "length": 7,
+            "length": 1,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -4002,20 +4003,20 @@
             }
           },
           {
-            "length": 6,
+            "length": 1,
             "special": {
               "type": 2,
               "range": "Reinvent"
             }
           },
           {
-            "length": 5
+            "length": 1
           },
           {
-            "length": 4
+            "length": 1
           },
           {
-            "length": 3,
+            "length": 1,
             "reward": {
               "type": 0,
               "name": "以太之滴",
@@ -4023,14 +4024,14 @@
             }
           },
           {
-            "length": 4,
+            "length": 1,
             "reward": {
               "type": 1,
               "id": "syro"
             }
           },
           {
-            "length": 5,
+            "length": 1,
             "reward": {
               "type": 0,
               "name": "以太之滴",
@@ -4038,20 +4039,20 @@
             }
           },
           {
-            "length": 6
+            "length": 1
           },
           {
-            "length": 7
+            "length": 1
           },
           {
-            "length": 8,
+            "length": 1,
             "special": {
               "type": 2,
               "range": "Dement ~after legend~"
             }
           },
           {
-            "length": 9,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -4059,23 +4060,23 @@
             }
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 11
+            "length": 2
           },
           {
-            "length": 12
+            "length": 2
           },
           {
-            "length": 13,
+            "length": 2,
             "special": {
               "type": 2,
               "range": "Dement ~after legend~"
             }
           },
           {
-            "length": 14,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -4083,23 +4084,23 @@
             }
           },
           {
-            "length": 15
+            "length": 3
           },
           {
-            "length": 16
+            "length": 3
           },
           {
-            "length": 17
+            "length": 3
           },
           {
-            "length": 18,
+            "length": 3,
             "special": {
               "type": 2,
               "range": "Dement ~after legend~"
             }
           },
           {
-            "length": 19,
+            "length": 3,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -4107,23 +4108,23 @@
             }
           },
           {
-            "length": 18,
+            "length": 3,
             "special": {
               "type": 2,
               "range": "Syro"
             }
           },
           {
-            "length": 17
+            "length": 3
           },
           {
-            "length": 16
+            "length": 3
           },
           {
-            "length": 15
+            "length": 3
           },
           {
-            "length": 14,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -4131,23 +4132,23 @@
             }
           },
           {
-            "length": 13,
+            "length": 2,
             "special": {
               "type": 2,
               "range": "Syro"
             }
           },
           {
-            "length": 12
+            "length": 2
           },
           {
-            "length": 11
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 9,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -4155,20 +4156,20 @@
             }
           },
           {
-            "length": 8,
+            "length": 1,
             "special": {
               "type": 2,
               "range": "Syro"
             }
           },
           {
-            "length": 7
+            "length": 1
           },
           {
-            "length": 6
+            "length": 1
           },
           {
-            "length": 5,
+            "length": 1,
             "reward": {
               "type": 0,
               "name": "以太之滴",
@@ -4176,14 +4177,14 @@
             }
           },
           {
-            "length": 6,
+            "length": 1,
             "reward": {
               "type": 1,
               "id": "blaster"
             }
           },
           {
-            "length": 7,
+            "length": 1,
             "reward": {
               "type": 0,
               "name": "以太之滴",
@@ -4191,20 +4192,20 @@
             }
           },
           {
-            "length": 8
+            "length": 1
           },
           {
-            "length": 9
+            "length": 2
           },
           {
-            "length": 10,
+            "length": 2,
             "special": {
               "type": 2,
               "range": "Syro"
             }
           },
           {
-            "length": 11,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -4212,23 +4213,23 @@
             }
           },
           {
-            "length": 12
+            "length": 2
           },
           {
-            "length": 13
+            "length": 2
           },
           {
-            "length": 14
+            "length": 2
           },
           {
-            "length": 15,
+            "length": 3,
             "special": {
               "type": 2,
               "range": "Syro"
             }
           },
           {
-            "length": 16,
+            "length": 3,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -4236,23 +4237,23 @@
             }
           },
           {
-            "length": 17
+            "length": 3
           },
           {
-            "length": 18
+            "length": 3
           },
           {
-            "length": 19
+            "length": 3
           },
           {
-            "length": 20,
+            "length": 3,
             "special": {
               "type": 2,
               "range": "Syro"
             }
           },
           {
-            "length": 21,
+            "length": 4,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -4260,19 +4261,19 @@
             }
           },
           {
-            "length": 22
+            "length": 4
           },
           {
-            "length": 23
+            "length": 4
           },
           {
-            "length": 23
+            "length": 4
           },
           {
-            "length": 22
+            "length": 4
           },
           {
-            "length": 21,
+            "length": 4,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -4280,23 +4281,23 @@
             }
           },
           {
-            "length": 20,
+            "length": 3,
             "special": {
               "type": 2,
               "range": "Blaster"
             }
           },
           {
-            "length": 19
+            "length": 3
           },
           {
-            "length": 18
+            "length": 3
           },
           {
-            "length": 17
+            "length": 3
           },
           {
-            "length": 16,
+            "length": 3,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -4304,23 +4305,23 @@
             }
           },
           {
-            "length": 15,
+            "length": 3,
             "special": {
               "type": 2,
               "range": "Blaster"
             }
           },
           {
-            "length": 14
+            "length": 2
           },
           {
-            "length": 13
+            "length": 2
           },
           {
-            "length": 12
+            "length": 2
           },
           {
-            "length": 11,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -4328,20 +4329,20 @@
             }
           },
           {
-            "length": 10,
+            "length": 2,
             "special": {
               "type": 2,
               "range": "Blaster"
             }
           },
           {
-            "length": 9
+            "length": 2
           },
           {
-            "length": 8
+            "length": 1
           },
           {
-            "length": 7,
+            "length": 1,
             "reward": {
               "type": 0,
               "name": "以太之滴",
@@ -4349,24 +4350,24 @@
             }
           },
           {
-            "length": 8,
+            "length": 1,
             "reward": {
               "type": 1,
               "id": "cyberneciacatharsis"
             }
           },
           {
-            "length": 400
+            "length": 67
           },
           {
-            "length": 2,
+            "length": 1,
             "special": {
               "type": 0,
               "count": 6
             }
           },
           {
-            "length": 450,
+            "length": 75,
             "reward": {
               "type": 0,
               "name": "深红核心",
@@ -6719,49 +6720,49 @@
         "id": "3-1",
         "platforms": [
           {
-            "length": 11
+            "length": 2
           },
           {
-            "length": 11
+            "length": 2
           },
           {
-            "length": 11
+            "length": 2
           },
           {
-            "length": 11
+            "length": 2
           },
           {
-            "length": 11,
+            "length": 2,
             "special": {
               "type": 2,
               "range": "Arcaea"
             }
           },
           {
-            "length": 11,
+            "length": 2,
             "special": {
               "type": 0,
               "count": 2
             }
           },
           {
-            "length": 11
+            "length": 2
           },
           {
-            "length": 11
+            "length": 2
           },
           {
-            "length": 11
+            "length": 2
           },
           {
-            "length": 11,
+            "length": 2,
             "special": {
               "type": 2,
               "range": "Arcaea"
             }
           },
           {
-            "length": 12,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -6769,13 +6770,13 @@
             }
           },
           {
-            "length": 12
+            "length": 2
           },
           {
-            "length": 12
+            "length": 2
           },
           {
-            "length": 12,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "以太之滴",
@@ -6783,37 +6784,37 @@
             }
           },
           {
-            "length": 12,
+            "length": 2,
             "special": {
               "type": 2,
               "range": "Arcaea"
             }
           },
           {
-            "length": 12,
+            "length": 2,
             "special": {
               "type": 0,
               "count": 2
             }
           },
           {
-            "length": 12
+            "length": 2
           },
           {
-            "length": 12
+            "length": 2
           },
           {
-            "length": 12
+            "length": 2
           },
           {
-            "length": 12,
+            "length": 2,
             "special": {
               "type": 2,
               "range": "Arcaea"
             }
           },
           {
-            "length": 13,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -6821,13 +6822,13 @@
             }
           },
           {
-            "length": 13
+            "length": 2
           },
           {
-            "length": 13
+            "length": 2
           },
           {
-            "length": 13,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "以太之滴",
@@ -6835,83 +6836,83 @@
             }
           },
           {
-            "length": 13,
+            "length": 2,
             "special": {
               "type": 2,
               "range": "Arcaea"
             }
           },
           {
-            "length": 13,
+            "length": 2,
             "special": {
               "type": 0,
               "count": 2
             }
           },
           {
-            "length": 13
+            "length": 2
           },
           {
-            "length": 13
+            "length": 2
           },
           {
-            "length": 13
+            "length": 2
           },
           {
-            "length": 13,
+            "length": 2,
             "special": {
               "type": 2,
               "range": "Arcaea"
             }
           },
           {
-            "length": 14,
+            "length": 2,
             "reward": {
               "type": 1,
               "id": "suomi"
             }
           },
           {
-            "length": 14
+            "length": 2
           },
           {
-            "length": 14
+            "length": 2
           },
           {
-            "length": 14
+            "length": 2
           },
           {
-            "length": 14,
+            "length": 2,
             "special": {
               "type": 2,
               "range": "Suomi"
             }
           },
           {
-            "length": 14,
+            "length": 2,
             "special": {
               "type": 0,
               "count": 2
             }
           },
           {
-            "length": 14
+            "length": 2
           },
           {
-            "length": 14
+            "length": 2
           },
           {
-            "length": 14
+            "length": 2
           },
           {
-            "length": 14,
+            "length": 2,
             "special": {
               "type": 2,
               "range": "Suomi"
             }
           },
           {
-            "length": 15,
+            "length": 3,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -6919,13 +6920,13 @@
             }
           },
           {
-            "length": 15
+            "length": 3
           },
           {
-            "length": 15
+            "length": 3
           },
           {
-            "length": 15,
+            "length": 3,
             "reward": {
               "type": 0,
               "name": "以太之滴",
@@ -6933,37 +6934,37 @@
             }
           },
           {
-            "length": 15,
+            "length": 3,
             "special": {
               "type": 2,
               "range": "Suomi"
             }
           },
           {
-            "length": 15,
+            "length": 3,
             "special": {
               "type": 0,
               "count": 2
             }
           },
           {
-            "length": 15
+            "length": 3
           },
           {
-            "length": 15
+            "length": 3
           },
           {
-            "length": 15
+            "length": 3
           },
           {
-            "length": 15,
+            "length": 3,
             "special": {
               "type": 2,
               "range": "Suomi"
             }
           },
           {
-            "length": 16,
+            "length": 3,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -6971,13 +6972,13 @@
             }
           },
           {
-            "length": 16
+            "length": 3
           },
           {
-            "length": 16
+            "length": 3
           },
           {
-            "length": 16,
+            "length": 3,
             "reward": {
               "type": 0,
               "name": "以太之滴",
@@ -6985,56 +6986,56 @@
             }
           },
           {
-            "length": 16,
+            "length": 3,
             "special": {
               "type": 2,
               "range": "Suomi"
             }
           },
           {
-            "length": 16,
+            "length": 3,
             "special": {
               "type": 0,
               "count": 2
             }
           },
           {
-            "length": 16
+            "length": 3
           },
           {
-            "length": 16
+            "length": 3
           },
           {
-            "length": 16
+            "length": 3
           },
           {
-            "length": 16,
+            "length": 3,
             "reward": {
               "type": 1,
               "id": "rugie"
             }
           },
           {
-            "length": 55
+            "length": 9
           },
           {
-            "length": 56
+            "length": 9
           },
           {
-            "length": 57
+            "length": 10
           },
           {
-            "length": 58
+            "length": 10
           },
           {
-            "length": 59,
+            "length": 10,
             "special": {
               "type": 2,
               "range": "Bookmaker (2D Version)"
             }
           },
           {
-            "length": 65,
+            "length": 11,
             "reward": {
               "type": 0,
               "name": "中空核心",
@@ -7042,23 +7043,23 @@
             }
           },
           {
-            "length": 66
+            "length": 11
           },
           {
-            "length": 67
+            "length": 11
           },
           {
-            "length": 68
+            "length": 11
           },
           {
-            "length": 69,
+            "length": 12,
             "special": {
               "type": 2,
               "range": "Illegal Paradise"
             }
           },
           {
-            "length": 75,
+            "length": 13,
             "reward": {
               "type": 0,
               "name": "中空核心",
@@ -7066,16 +7067,16 @@
             }
           },
           {
-            "length": 76
+            "length": 13
           },
           {
-            "length": 77
+            "length": 13
           },
           {
-            "length": 78
+            "length": 13
           },
           {
-            "length": 79,
+            "length": 13,
             "special": {
               "type": 2,
               "range": "LunarOrbit -believe in the Espebranch road-"
@@ -7096,19 +7097,19 @@
         "id": "3-2",
         "platforms": [
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10,
+            "length": 2,
             "special": {
               "type": 3,
               "range": "Arcaea"
@@ -7143,7 +7144,7 @@
             "length": 1
           },
           {
-            "length": 20,
+            "length": 3,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -7151,23 +7152,23 @@
             }
           },
           {
-            "length": 20
+            "length": 3
           },
           {
-            "length": 20
+            "length": 3
           },
           {
-            "length": 20
+            "length": 3
           },
           {
-            "length": 20,
+            "length": 3,
             "special": {
               "type": 3,
               "range": "Arcaea"
             }
           },
           {
-            "length": 2,
+            "length": 1,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -7175,24 +7176,24 @@
             }
           },
           {
-            "length": 2
+            "length": 1
           },
           {
-            "length": 2,
+            "length": 1,
             "special": {
               "type": 2,
               "range": "Arcaea"
             }
           },
           {
-            "length": 2,
+            "length": 1,
             "special": {
               "type": 2,
               "range": "Arcaea"
             }
           },
           {
-            "length": 2,
+            "length": 1,
             "reward": {
               "type": 0,
               "name": "以太之滴",
@@ -7200,7 +7201,7 @@
             }
           },
           {
-            "length": 30,
+            "length": 5,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -7208,136 +7209,10 @@
             }
           },
           {
-            "length": 30
+            "length": 5
           },
           {
-            "length": 30
-          },
-          {
-            "length": 30
-          },
-          {
-            "length": 30,
-            "special": {
-              "type": 3,
-              "range": "Arcaea"
-            }
-          },
-          {
-            "length": 3,
-            "reward": {
-              "type": 0,
-              "name": "残片",
-              "count": 150
-            }
-          },
-          {
-            "length": 3
-          },
-          {
-            "length": 3,
-            "special": {
-              "type": 2,
-              "range": "Arcaea"
-            }
-          },
-          {
-            "length": 3,
-            "special": {
-              "type": 2,
-              "range": "Arcaea"
-            }
-          },
-          {
-            "length": 3
-          },
-          {
-            "length": 40,
-            "reward": {
-              "type": 1,
-              "id": "bookmaker"
-            }
-          },
-          {
-            "length": 40
-          },
-          {
-            "length": 40
-          },
-          {
-            "length": 40
-          },
-          {
-            "length": 40,
-            "special": {
-              "type": 3,
-              "range": "Arcaea"
-            }
-          },
-          {
-            "length": 4,
-            "reward": {
-              "type": 0,
-              "name": "残片",
-              "count": 200
-            }
-          },
-          {
-            "length": 4
-          },
-          {
-            "length": 4,
-            "special": {
-              "type": 2,
-              "range": "Bookmaker (2D Version)"
-            }
-          },
-          {
-            "length": 4,
-            "special": {
-              "type": 2,
-              "range": "Bookmaker (2D Version)"
-            }
-          },
-          {
-            "length": 4,
-            "reward": {
-              "type": 0,
-              "name": "以太之滴",
-              "count": 2
-            }
-          },
-          {
-            "length": 50,
-            "reward": {
-              "type": 0,
-              "name": "残片",
-              "count": 25
-            }
-          },
-          {
-            "length": 50
-          },
-          {
-            "length": 50
-          },
-          {
-            "length": 50
-          },
-          {
-            "length": 50,
-            "special": {
-              "type": 3,
-              "range": "Arcaea"
-            }
-          },
-          {
-            "length": 5,
-            "reward": {
-              "type": 0,
-              "name": "残片",
-              "count": 250
-            }
+            "length": 5
           },
           {
             "length": 5
@@ -7345,108 +7220,107 @@
           {
             "length": 5,
             "special": {
-              "type": 2,
-              "range": "Bookmaker (2D Version)"
+              "type": 3,
+              "range": "Arcaea"
             }
           },
           {
-            "length": 5,
-            "special": {
-              "type": 2,
-              "range": "Bookmaker (2D Version)"
-            }
-          },
-          {
-            "length": 5,
-            "reward": {
-              "type": 1,
-              "id": "darakunosono"
-            }
-          },
-          {
-            "length": 60,
+            "length": 1,
             "reward": {
               "type": 0,
               "name": "残片",
-              "count": 30
+              "count": 150
             }
           },
           {
-            "length": 60
+            "length": 1
           },
           {
-            "length": 60
+            "length": 1,
+            "special": {
+              "type": 2,
+              "range": "Arcaea"
+            }
           },
           {
-            "length": 60
+            "length": 1,
+            "special": {
+              "type": 2,
+              "range": "Arcaea"
+            }
           },
           {
-            "length": 60,
+            "length": 1
+          },
+          {
+            "length": 7,
+            "reward": {
+              "type": 1,
+              "id": "bookmaker"
+            }
+          },
+          {
+            "length": 7
+          },
+          {
+            "length": 7
+          },
+          {
+            "length": 7
+          },
+          {
+            "length": 7,
             "special": {
               "type": 3,
               "range": "Arcaea"
             }
           },
           {
-            "length": 6,
+            "length": 1,
             "reward": {
               "type": 0,
               "name": "残片",
-              "count": 300
+              "count": 200
             }
           },
           {
-            "length": 6
+            "length": 1
           },
           {
-            "length": 6,
+            "length": 1,
             "special": {
               "type": 2,
-              "range": "Illegal Paradise"
+              "range": "Bookmaker (2D Version)"
             }
           },
           {
-            "length": 6,
+            "length": 1,
             "special": {
               "type": 2,
-              "range": "Illegal Paradise"
+              "range": "Bookmaker (2D Version)"
             }
           },
           {
-            "length": 6,
+            "length": 1,
             "reward": {
               "type": 0,
               "name": "以太之滴",
-              "count": 3
+              "count": 2
             }
           },
           {
-            "length": 70,
+            "length": 8,
             "reward": {
               "type": 0,
               "name": "残片",
-              "count": 40
+              "count": 25
             }
           },
           {
-            "length": 70
+            "length": 8
           },
           {
-            "length": 70,
-            "reward": {
-              "type": 1,
-              "id": "espebranch"
-            }
-          },
-          {
-            "length": 70
-          },
-          {
-            "length": 70,
-            "special": {
-              "type": 3,
-              "range": "Arcaea"
-            }
+            "length": 8
           },
           {
             "length": 8
@@ -7454,57 +7328,160 @@
           {
             "length": 8,
             "special": {
-              "type": 2,
-              "range": "Suomi"
+              "type": 3,
+              "range": "Arcaea"
             }
           },
           {
-            "length": 8,
-            "special": {
-              "type": 2,
-              "range": "Suomi"
-            }
-          },
-          {
-            "length": 8,
-            "special": {
-              "type": 2,
-              "range": "Suomi"
-            }
-          },
-          {
-            "length": 8,
-            "special": {
-              "type": 2,
-              "range": "Suomi"
-            }
-          },
-          {
-            "length": 80,
+            "length": 1,
             "reward": {
               "type": 0,
-              "name": "荒芜核心",
-              "count": 5
+              "name": "残片",
+              "count": 250
             }
           },
           {
-            "length": 80
+            "length": 1
           },
           {
-            "length": 80
+            "length": 1,
+            "special": {
+              "type": 2,
+              "range": "Bookmaker (2D Version)"
+            }
           },
           {
-            "length": 80
+            "length": 1,
+            "special": {
+              "type": 2,
+              "range": "Bookmaker (2D Version)"
+            }
           },
           {
-            "length": 80,
+            "length": 1,
+            "reward": {
+              "type": 1,
+              "id": "darakunosono"
+            }
+          },
+          {
+            "length": 10,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 30
+            }
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 10,
             "special": {
               "type": 3,
               "range": "Arcaea"
             }
           },
           {
-            "length": 9,
+            "length": 1,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 300
+            }
+          },
+          {
+            "length": 1
+          },
+          {
+            "length": 1,
+            "special": {
+              "type": 2,
+              "range": "Illegal Paradise"
+            }
+          },
+          {
+            "length": 1,
+            "special": {
+              "type": 2,
+              "range": "Illegal Paradise"
+            }
+          },
+          {
+            "length": 1,
+            "reward": {
+              "type": 0,
+              "name": "以太之滴",
+              "count": 3
+            }
+          },
+          {
+            "length": 12,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 40
+            }
+          },
+          {
+            "length": 12
+          },
+          {
+            "length": 12,
+            "reward": {
+              "type": 1,
+              "id": "espebranch"
+            }
+          },
+          {
+            "length": 12
+          },
+          {
+            "length": 12,
+            "special": {
+              "type": 3,
+              "range": "Arcaea"
+            }
+          },
+          {
+            "length": 1
+          },
+          {
+            "length": 1,
+            "special": {
+              "type": 2,
+              "range": "Suomi"
+            }
+          },
+          {
+            "length": 1,
+            "special": {
+              "type": 2,
+              "range": "Suomi"
+            }
+          },
+          {
+            "length": 1,
+            "special": {
+              "type": 2,
+              "range": "Suomi"
+            }
+          },
+          {
+            "length": 1,
+            "special": {
+              "type": 2,
+              "range": "Suomi"
+            }
+          },
+          {
+            "length": 13,
             "reward": {
               "type": 0,
               "name": "荒芜核心",
@@ -7512,44 +7489,68 @@
             }
           },
           {
-            "length": 9,
+            "length": 13
+          },
+          {
+            "length": 13
+          },
+          {
+            "length": 13
+          },
+          {
+            "length": 13,
+            "special": {
+              "type": 3,
+              "range": "Arcaea"
+            }
+          },
+          {
+            "length": 2,
+            "reward": {
+              "type": 0,
+              "name": "荒芜核心",
+              "count": 5
+            }
+          },
+          {
+            "length": 2,
             "special": {
               "type": 2,
               "range": "Rugie"
             }
           },
           {
-            "length": 9,
+            "length": 2,
             "special": {
               "type": 2,
               "range": "Rugie"
             }
           },
           {
-            "length": 9,
+            "length": 2,
             "special": {
               "type": 2,
               "range": "Rugie"
             }
           },
           {
-            "length": 9,
+            "length": 2,
             "special": {
               "type": 2,
               "range": "Rugie"
             }
           },
           {
-            "length": 90
+            "length": 15
           },
           {
-            "length": 90
+            "length": 15
           },
           {
-            "length": 90
+            "length": 15
           },
           {
-            "length": 90
+            "length": 15
           },
           {
             "length": 0,
@@ -8009,27 +8010,27 @@
         "id": "3-5",
         "platforms": [
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10,
+            "length": 2,
             "special": {
               "type": 2,
               "range": "Arcaea"
             }
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10,
+            "length": 2,
             "special": {
               "type": 3,
               "range": "Arcaea"
             }
           },
           {
-            "length": 10,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "以太之滴",
@@ -8037,27 +8038,27 @@
             }
           },
           {
-            "length": 10,
+            "length": 2,
             "special": {
               "type": 1,
               "max": 2
             }
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10,
+            "length": 2,
             "special": {
               "type": 0,
               "count": 2
             }
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -8065,27 +8066,27 @@
             }
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10,
+            "length": 2,
             "special": {
               "type": 2,
               "range": "Arcaea"
             }
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10,
+            "length": 2,
             "special": {
               "type": 3,
               "range": "Arcaea"
             }
           },
           {
-            "length": 10,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "以太之滴",
@@ -8093,27 +8094,27 @@
             }
           },
           {
-            "length": 10,
+            "length": 2,
             "special": {
               "type": 1,
               "max": 2
             }
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10,
+            "length": 2,
             "special": {
               "type": 0,
               "count": 2
             }
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -8121,27 +8122,27 @@
             }
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10,
+            "length": 2,
             "special": {
               "type": 2,
               "range": "Arcaea"
             }
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10,
+            "length": 2,
             "special": {
               "type": 3,
               "range": "Arcaea"
             }
           },
           {
-            "length": 10,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "以太之滴",
@@ -8149,27 +8150,27 @@
             }
           },
           {
-            "length": 10,
+            "length": 2,
             "special": {
               "type": 1,
               "max": 2
             }
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10,
+            "length": 2,
             "special": {
               "type": 0,
               "count": 2
             }
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -8177,27 +8178,27 @@
             }
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10,
+            "length": 2,
             "special": {
               "type": 2,
               "range": "Arcaea"
             }
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10,
+            "length": 2,
             "special": {
               "type": 3,
               "range": "Arcaea"
             }
           },
           {
-            "length": 10,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "以太之滴",
@@ -8205,27 +8206,27 @@
             }
           },
           {
-            "length": 10,
+            "length": 2,
             "special": {
               "type": 1,
               "max": 2
             }
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10,
+            "length": 2,
             "special": {
               "type": 0,
               "count": 2
             }
           },
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -8233,30 +8234,30 @@
             }
           },
           {
-            "length": 10,
+            "length": 2,
             "reward": {
               "type": 1,
               "id": "nhelv"
             }
           },
           {
-            "length": 100
+            "length": 17
           },
           {
-            "length": 100
+            "length": 17
           },
           {
-            "length": 100,
+            "length": 17,
             "special": {
               "type": 0,
               "count": 2
             }
           },
           {
-            "length": 100
+            "length": 17
           },
           {
-            "length": 100,
+            "length": 17,
             "reward": {
               "type": 0,
               "name": "悖异核心",
@@ -8264,20 +8265,20 @@
             }
           },
           {
-            "length": 100
+            "length": 17
           },
           {
-            "length": 100,
+            "length": 17,
             "special": {
               "type": 0,
               "count": 2
             }
           },
           {
-            "length": 100
+            "length": 17
           },
           {
-            "length": 20,
+            "length": 3,
             "special": {
               "type": 2,
               "range": "Nhelv"
@@ -9741,19 +9742,19 @@
         "id": "4-2",
         "platforms": [
           {
-            "length": 13
+            "length": 2
           },
           {
-            "length": 14
+            "length": 2
           },
           {
-            "length": 15
+            "length": 3
           },
           {
-            "length": 16
+            "length": 3
           },
           {
-            "length": 17,
+            "length": 3,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -9761,40 +9762,40 @@
             }
           },
           {
-            "length": 16,
+            "length": 3,
             "special": {
               "type": 2,
               "range": "Arcaea"
             }
           },
           {
-            "length": 15,
+            "length": 3,
             "special": {
               "type": 2,
               "range": "Arcaea"
             }
           },
           {
-            "length": 14,
+            "length": 2,
             "special": {
               "type": 2,
               "range": "Arcaea"
             }
           },
           {
-            "length": 13
+            "length": 2
           },
           {
-            "length": 14
+            "length": 2
           },
           {
-            "length": 15
+            "length": 3
           },
           {
-            "length": 16
+            "length": 3
           },
           {
-            "length": 17,
+            "length": 3,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -9802,28 +9803,28 @@
             }
           },
           {
-            "length": 16,
+            "length": 3,
             "special": {
               "type": 2,
               "range": "Arcaea"
             }
           },
           {
-            "length": 15,
+            "length": 3,
             "special": {
               "type": 2,
               "range": "Arcaea"
             }
           },
           {
-            "length": 14,
+            "length": 2,
             "special": {
               "type": 2,
               "range": "Arcaea"
             }
           },
           {
-            "length": 13,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "以太之滴",
@@ -9831,273 +9832,136 @@
             }
           },
           {
-            "length": 14
+            "length": 2
           },
           {
-            "length": 15
+            "length": 3
           },
           {
-            "length": 16
+            "length": 3
           },
           {
-            "length": 17,
-            "reward": {
-              "type": 1,
-              "id": "grimheart"
-            }
-          },
-          {
-            "length": 16
-          },
-          {
-            "length": 15
-          },
-          {
-            "length": 16
-          },
-          {
-            "length": 17
-          },
-          {
-            "length": 18
-          },
-          {
-            "length": 19,
-            "reward": {
-              "type": 0,
-              "name": "残片",
-              "count": 190
-            }
-          },
-          {
-            "length": 18,
-            "special": {
-              "type": 2,
-              "range": "Grimheart"
-            }
-          },
-          {
-            "length": 17,
-            "special": {
-              "type": 2,
-              "range": "Grimheart"
-            }
-          },
-          {
-            "length": 16,
-            "special": {
-              "type": 2,
-              "range": "Grimheart"
-            }
-          },
-          {
-            "length": 15
-          },
-          {
-            "length": 16
-          },
-          {
-            "length": 17
-          },
-          {
-            "length": 18
-          },
-          {
-            "length": 19,
-            "special": {
-              "type": 0,
-              "count": 2
-            }
-          },
-          {
-            "length": 18
-          },
-          {
-            "length": 17
-          },
-          {
-            "length": 16
-          },
-          {
-            "length": 15
-          },
-          {
-            "length": 16
-          },
-          {
-            "length": 17
-          },
-          {
-            "length": 18
-          },
-          {
-            "length": 19,
-            "reward": {
-              "type": 0,
-              "name": "残片",
-              "count": 190
-            }
-          },
-          {
-            "length": 18,
-            "special": {
-              "type": 2,
-              "range": "Grimheart"
-            }
-          },
-          {
-            "length": 17,
-            "special": {
-              "type": 2,
-              "range": "Grimheart"
-            }
-          },
-          {
-            "length": 16,
-            "special": {
-              "type": 2,
-              "range": "Grimheart"
-            }
-          },
-          {
-            "length": 15,
-            "reward": {
-              "type": 0,
-              "name": "以太之滴",
-              "count": 1
-            }
-          },
-          {
-            "length": 16
-          },
-          {
-            "length": 17
-          },
-          {
-            "length": 18
-          },
-          {
-            "length": 19,
+            "length": 3,
             "reward": {
               "type": 1,
               "id": "vector"
             }
           },
           {
-            "length": 18
+            "length": 3
           },
           {
-            "length": 17
+            "length": 3
           },
           {
-            "length": 18
+            "length": 3
           },
           {
-            "length": 19
+            "length": 3
           },
           {
-            "length": 20
+            "length": 3
           },
           {
-            "length": 21,
+            "length": 3,
             "reward": {
               "type": 0,
               "name": "残片",
-              "count": 210
+              "count": 190
             }
           },
           {
-            "length": 20,
+            "length": 3,
             "special": {
               "type": 2,
               "range": "VECTOЯ"
             }
           },
           {
-            "length": 19,
+            "length": 3,
             "special": {
               "type": 2,
-              "range": "Arcaea"
+              "range": "VECTOЯ"
             }
           },
           {
-            "length": 18,
+            "length": 3,
             "special": {
               "type": 2,
-              "range": "Arcaea"
+              "range": "VECTOЯ"
             }
           },
           {
-            "length": 17
+            "length": 3
           },
           {
-            "length": 18
+            "length": 3
           },
           {
-            "length": 19
+            "length": 3
           },
           {
-            "length": 20
+            "length": 3
           },
           {
-            "length": 21,
+            "length": 3,
             "special": {
               "type": 0,
               "count": 2
             }
           },
           {
-            "length": 20
+            "length": 3
           },
           {
-            "length": 19
+            "length": 3
           },
           {
-            "length": 18
+            "length": 3
           },
           {
-            "length": 17
+            "length": 3
           },
           {
-            "length": 18
+            "length": 3
           },
           {
-            "length": 19
+            "length": 3
           },
           {
-            "length": 20
+            "length": 3
           },
           {
-            "length": 21,
+            "length": 3,
             "reward": {
               "type": 0,
               "name": "残片",
-              "count": 210
+              "count": 190
             }
           },
           {
-            "length": 20,
+            "length": 3,
             "special": {
               "type": 2,
               "range": "VECTOЯ"
             }
           },
           {
-            "length": 19,
+            "length": 3,
             "special": {
               "type": 2,
-              "range": "Arcaea"
+              "range": "VECTOЯ"
             }
           },
           {
-            "length": 18,
+            "length": 3,
             "special": {
               "type": 2,
-              "range": "Arcaea"
+              "range": "VECTOЯ"
             }
           },
           {
-            "length": 17,
+            "length": 3,
             "reward": {
               "type": 0,
               "name": "以太之滴",
@@ -10105,13 +9969,151 @@
             }
           },
           {
-            "length": 18
+            "length": 3
           },
           {
-            "length": 19
+            "length": 3
           },
           {
-            "length": 20
+            "length": 3
+          },
+          {
+            "length": 3,
+            "reward": {
+              "type": 0,
+              "name": "以太之滴",
+              "count": 3
+            }
+          },
+          {
+            "length": 3
+          },
+          {
+            "length": 3
+          },
+          {
+            "length": 3
+          },
+          {
+            "length": 3
+          },
+          {
+            "length": 3
+          },
+          {
+            "length": 4,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 210
+            }
+          },
+          {
+            "length": 3,
+            "special": {
+              "type": 2,
+              "range": "VECTOЯ"
+            }
+          },
+          {
+            "length": 3,
+            "special": {
+              "type": 2,
+              "range": "Arcaea"
+            }
+          },
+          {
+            "length": 3,
+            "special": {
+              "type": 2,
+              "range": "Arcaea"
+            }
+          },
+          {
+            "length": 3
+          },
+          {
+            "length": 3
+          },
+          {
+            "length": 3
+          },
+          {
+            "length": 3
+          },
+          {
+            "length": 4,
+            "special": {
+              "type": 0,
+              "count": 2
+            }
+          },
+          {
+            "length": 3
+          },
+          {
+            "length": 3
+          },
+          {
+            "length": 3
+          },
+          {
+            "length": 3
+          },
+          {
+            "length": 3
+          },
+          {
+            "length": 3
+          },
+          {
+            "length": 3
+          },
+          {
+            "length": 4,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 210
+            }
+          },
+          {
+            "length": 3,
+            "special": {
+              "type": 2,
+              "range": "VECTOЯ"
+            }
+          },
+          {
+            "length": 3,
+            "special": {
+              "type": 2,
+              "range": "Arcaea"
+            }
+          },
+          {
+            "length": 3,
+            "special": {
+              "type": 2,
+              "range": "Arcaea"
+            }
+          },
+          {
+            "length": 3,
+            "reward": {
+              "type": 0,
+              "name": "以太之滴",
+              "count": 1
+            }
+          },
+          {
+            "length": 3
+          },
+          {
+            "length": 3
+          },
+          {
+            "length": 3
           },
           {
             "length": 0,
@@ -10128,22 +10130,22 @@
         "id": "4-3",
         "platforms": [
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 11
+            "length": 2
           },
           {
-            "length": 13
+            "length": 2
           },
           {
-            "length": 16
+            "length": 3
           },
           {
-            "length": 20
+            "length": 3
           },
           {
-            "length": 25,
+            "length": 4,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -10151,21 +10153,21 @@
             }
           },
           {
-            "length": 20,
+            "length": 3,
             "special": {
               "type": 2,
               "range": "Arcaea"
             }
           },
           {
-            "length": 16,
+            "length": 3,
             "special": {
               "type": 2,
               "range": "Arcaea"
             }
           },
           {
-            "length": 13,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "以太之滴",
@@ -10173,29 +10175,29 @@
             }
           },
           {
-            "length": 11
+            "length": 2
           },
           {
-            "length": 10,
+            "length": 2,
             "special": {
               "type": 1,
               "max": 2
             }
           },
           {
-            "length": 11
+            "length": 2
           },
           {
-            "length": 13
+            "length": 2
           },
           {
-            "length": 16
+            "length": 3
           },
           {
-            "length": 20
+            "length": 3
           },
           {
-            "length": 25,
+            "length": 4,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -10203,21 +10205,21 @@
             }
           },
           {
-            "length": 20,
+            "length": 3,
             "special": {
               "type": 2,
               "range": "Arcaea"
             }
           },
           {
-            "length": 16,
+            "length": 3,
             "special": {
               "type": 2,
               "range": "Arcaea"
             }
           },
           {
-            "length": 13,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "以太之滴",
@@ -10225,48 +10227,48 @@
             }
           },
           {
-            "length": 11
+            "length": 2
           },
           {
-            "length": 10,
+            "length": 2,
             "special": {
               "type": 1,
               "max": 2
             }
           },
           {
-            "length": 11
+            "length": 2
           },
           {
-            "length": 13
+            "length": 2
           },
           {
-            "length": 16
+            "length": 3
           },
           {
-            "length": 20
+            "length": 3
           },
           {
-            "length": 25,
+            "length": 4,
             "reward": {
               "type": 1,
               "id": "revixy"
             }
           },
           {
-            "length": 26
+            "length": 4
           },
           {
-            "length": 28
+            "length": 5
           },
           {
-            "length": 31
+            "length": 5
           },
           {
-            "length": 35
+            "length": 6
           },
           {
-            "length": 40,
+            "length": 7,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -10274,21 +10276,21 @@
             }
           },
           {
-            "length": 35,
+            "length": 6,
             "special": {
               "type": 2,
               "range": "ReviXy"
             }
           },
           {
-            "length": 31,
+            "length": 5,
             "special": {
               "type": 2,
               "range": "ReviXy"
             }
           },
           {
-            "length": 28,
+            "length": 5,
             "reward": {
               "type": 0,
               "name": "以太之滴",
@@ -10296,48 +10298,48 @@
             }
           },
           {
-            "length": 26
+            "length": 4
           },
           {
-            "length": 25,
+            "length": 4,
             "special": {
               "type": 1,
               "max": 2
             }
           },
           {
-            "length": 26
+            "length": 4
           },
           {
-            "length": 28
+            "length": 5
           },
           {
-            "length": 31
+            "length": 5
           },
           {
-            "length": 35
+            "length": 6
           },
           {
-            "length": 40,
+            "length": 7,
             "reward": {
               "type": 1,
               "id": "supernova"
             }
           },
           {
-            "length": 41
+            "length": 7
           },
           {
-            "length": 43
+            "length": 7
           },
           {
-            "length": 46
+            "length": 8
           },
           {
-            "length": 50
+            "length": 8
           },
           {
-            "length": 55,
+            "length": 9,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -10345,21 +10347,21 @@
             }
           },
           {
-            "length": 50,
+            "length": 8,
             "special": {
               "type": 2,
               "range": "Arcaea"
             }
           },
           {
-            "length": 46,
+            "length": 8,
             "special": {
               "type": 2,
               "range": "SUPERNOVA"
             }
           },
           {
-            "length": 43,
+            "length": 7,
             "reward": {
               "type": 0,
               "name": "以太之滴",
@@ -10367,7 +10369,7 @@
             }
           },
           {
-            "length": 41
+            "length": 7
           },
           {
             "length": 0,
@@ -10857,10 +10859,10 @@
         "id": "4-7",
         "platforms": [
           {
-            "length": 10
+            "length": 2
           },
           {
-            "length": 10,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -10868,7 +10870,7 @@
             }
           },
           {
-            "length": 10,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -10876,7 +10878,7 @@
             }
           },
           {
-            "length": 10,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -10884,7 +10886,7 @@
             }
           },
           {
-            "length": 10,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -10892,7 +10894,7 @@
             }
           },
           {
-            "length": 10
+            "length": 2
           },
           {
             "length": 1,
@@ -10923,10 +10925,10 @@
             }
           },
           {
-            "length": 11
+            "length": 2
           },
           {
-            "length": 11,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -10934,7 +10936,7 @@
             }
           },
           {
-            "length": 11,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -10942,7 +10944,7 @@
             }
           },
           {
-            "length": 11,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -10950,7 +10952,7 @@
             }
           },
           {
-            "length": 11,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -10958,7 +10960,7 @@
             }
           },
           {
-            "length": 11
+            "length": 2
           },
           {
             "length": 1,
@@ -10989,10 +10991,10 @@
             }
           },
           {
-            "length": 12
+            "length": 2
           },
           {
-            "length": 12,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -11000,7 +11002,7 @@
             }
           },
           {
-            "length": 12,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -11008,7 +11010,7 @@
             }
           },
           {
-            "length": 12,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -11016,7 +11018,7 @@
             }
           },
           {
-            "length": 12,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -11024,7 +11026,7 @@
             }
           },
           {
-            "length": 12
+            "length": 2
           },
           {
             "length": 1,
@@ -11055,10 +11057,10 @@
             }
           },
           {
-            "length": 13
+            "length": 2
           },
           {
-            "length": 13,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -11066,7 +11068,7 @@
             }
           },
           {
-            "length": 13,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -11074,7 +11076,7 @@
             }
           },
           {
-            "length": 13,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -11082,7 +11084,7 @@
             }
           },
           {
-            "length": 13,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -11090,7 +11092,7 @@
             }
           },
           {
-            "length": 13
+            "length": 2
           },
           {
             "length": 1,
@@ -11121,10 +11123,10 @@
             }
           },
           {
-            "length": 14
+            "length": 2
           },
           {
-            "length": 14,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -11132,7 +11134,7 @@
             }
           },
           {
-            "length": 14,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -11140,7 +11142,7 @@
             }
           },
           {
-            "length": 14,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -11148,7 +11150,7 @@
             }
           },
           {
-            "length": 14,
+            "length": 2,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -11156,7 +11158,7 @@
             }
           },
           {
-            "length": 14
+            "length": 2
           },
           {
             "length": 1,
@@ -11187,10 +11189,10 @@
             }
           },
           {
-            "length": 15
+            "length": 3
           },
           {
-            "length": 15,
+            "length": 3,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -11198,7 +11200,7 @@
             }
           },
           {
-            "length": 15,
+            "length": 3,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -11206,7 +11208,7 @@
             }
           },
           {
-            "length": 15,
+            "length": 3,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -11214,14 +11216,14 @@
             }
           },
           {
-            "length": 15,
+            "length": 3,
             "reward": {
               "type": 1,
               "id": "diode"
             }
           },
           {
-            "length": 15
+            "length": 3
           },
           {
             "length": 1,
@@ -11252,17 +11254,17 @@
             }
           },
           {
-            "length": 16
+            "length": 3
           },
           {
-            "length": 16,
+            "length": 3,
             "special": {
               "type": 2,
               "range": "Diode"
             }
           },
           {
-            "length": 16,
+            "length": 3,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -11270,14 +11272,14 @@
             }
           },
           {
-            "length": 16,
+            "length": 3,
             "special": {
               "type": 2,
               "range": "Diode"
             }
           },
           {
-            "length": 16,
+            "length": 3,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -11285,7 +11287,7 @@
             }
           },
           {
-            "length": 16
+            "length": 3
           },
           {
             "length": 1,
@@ -11316,17 +11318,17 @@
             }
           },
           {
-            "length": 17
+            "length": 3
           },
           {
-            "length": 17,
+            "length": 3,
             "special": {
               "type": 2,
               "range": "Diode"
             }
           },
           {
-            "length": 17,
+            "length": 3,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -11334,14 +11336,14 @@
             }
           },
           {
-            "length": 17,
+            "length": 3,
             "special": {
               "type": 2,
               "range": "Diode"
             }
           },
           {
-            "length": 17,
+            "length": 3,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -11349,7 +11351,7 @@
             }
           },
           {
-            "length": 17
+            "length": 3
           },
           {
             "length": 1,
@@ -11380,17 +11382,17 @@
             }
           },
           {
-            "length": 18
+            "length": 3
           },
           {
-            "length": 18,
+            "length": 3,
             "special": {
               "type": 2,
               "range": "Diode"
             }
           },
           {
-            "length": 18,
+            "length": 3,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -11398,14 +11400,14 @@
             }
           },
           {
-            "length": 18,
+            "length": 3,
             "special": {
               "type": 2,
               "range": "Diode"
             }
           },
           {
-            "length": 18,
+            "length": 3,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -11413,7 +11415,7 @@
             }
           },
           {
-            "length": 18
+            "length": 3
           },
           {
             "length": 1,
@@ -11444,17 +11446,17 @@
             }
           },
           {
-            "length": 19
+            "length": 3
           },
           {
-            "length": 19,
+            "length": 3,
             "special": {
               "type": 2,
               "range": "Diode"
             }
           },
           {
-            "length": 19,
+            "length": 3,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -11462,21 +11464,21 @@
             }
           },
           {
-            "length": 19,
+            "length": 3,
             "special": {
               "type": 2,
               "range": "Diode"
             }
           },
           {
-            "length": 19,
+            "length": 3,
             "reward": {
               "type": 1,
               "id": "freefall"
             }
           },
           {
-            "length": 19
+            "length": 3
           },
           {
             "length": 1,
@@ -11507,17 +11509,17 @@
             }
           },
           {
-            "length": 20
+            "length": 3
           },
           {
-            "length": 20,
+            "length": 3,
             "special": {
               "type": 2,
               "range": "FREEF4LL"
             }
           },
           {
-            "length": 20,
+            "length": 3,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -11525,14 +11527,14 @@
             }
           },
           {
-            "length": 20,
+            "length": 3,
             "special": {
               "type": 2,
               "range": "FREEF4LL"
             }
           },
           {
-            "length": 20,
+            "length": 3,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -11540,7 +11542,7 @@
             }
           },
           {
-            "length": 20
+            "length": 3
           },
           {
             "length": 1,
@@ -11571,17 +11573,17 @@
             }
           },
           {
-            "length": 21
+            "length": 4
           },
           {
-            "length": 21,
+            "length": 4,
             "special": {
               "type": 2,
               "range": "FREEF4LL"
             }
           },
           {
-            "length": 21,
+            "length": 4,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -11589,14 +11591,14 @@
             }
           },
           {
-            "length": 21,
+            "length": 4,
             "special": {
               "type": 2,
               "range": "FREEF4LL"
             }
           },
           {
-            "length": 21,
+            "length": 4,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -11604,7 +11606,7 @@
             }
           },
           {
-            "length": 21
+            "length": 4
           },
           {
             "length": 1,
@@ -11635,17 +11637,17 @@
             }
           },
           {
-            "length": 22
+            "length": 4
           },
           {
-            "length": 22,
+            "length": 4,
             "special": {
               "type": 2,
               "range": "FREEF4LL"
             }
           },
           {
-            "length": 22,
+            "length": 4,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -11653,14 +11655,14 @@
             }
           },
           {
-            "length": 22,
+            "length": 4,
             "special": {
               "type": 2,
               "range": "FREEF4LL"
             }
           },
           {
-            "length": 22,
+            "length": 4,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -11668,7 +11670,7 @@
             }
           },
           {
-            "length": 22
+            "length": 4
           },
           {
             "length": 1,
@@ -11699,17 +11701,17 @@
             }
           },
           {
-            "length": 23
+            "length": 4
           },
           {
-            "length": 23,
+            "length": 4,
             "special": {
               "type": 2,
               "range": "FREEF4LL"
             }
           },
           {
-            "length": 23,
+            "length": 4,
             "reward": {
               "type": 0,
               "name": "残片",
@@ -11717,21 +11719,21 @@
             }
           },
           {
-            "length": 23,
+            "length": 4,
             "special": {
               "type": 2,
               "range": "FREEF4LL"
             }
           },
           {
-            "length": 23,
+            "length": 4,
             "reward": {
               "type": 1,
               "id": "monochromeprincess"
             }
           },
           {
-            "length": 23
+            "length": 4
           },
           {
             "length": 1,
@@ -11762,34 +11764,34 @@
             }
           },
           {
-            "length": 24
+            "length": 4
           },
           {
-            "length": 24,
+            "length": 4,
             "special": {
               "type": 2,
               "range": "Diode"
             }
           },
           {
-            "length": 24,
+            "length": 4,
             "special": {
               "type": 2,
               "range": "FREEF4LL"
             }
           },
           {
-            "length": 24,
+            "length": 4,
             "special": {
               "type": 2,
               "range": "Monochrome Princess"
             }
           },
           {
-            "length": 24
+            "length": 4
           },
           {
-            "length": 24,
+            "length": 4,
             "reward": {
               "type": 0,
               "name": "以太之滴",
@@ -11825,10 +11827,10 @@
             }
           },
           {
-            "length": 75
+            "length": 13
           },
           {
-            "length": 75,
+            "length": 13,
             "special": {
               "type": 2,
               "range": [
@@ -11844,13 +11846,13 @@
             }
           },
           {
-            "length": 75
+            "length": 13
           },
           {
-            "length": 75
+            "length": 13
           },
           {
-            "length": 75,
+            "length": 13,
             "special": {
               "type": 2,
               "range": [
@@ -11863,7 +11865,7 @@
             }
           },
           {
-            "length": 75,
+            "length": 13,
             "reward": {
               "type": 0,
               "name": "暮色核心",
@@ -11899,10 +11901,10 @@
             }
           },
           {
-            "length": 75
+            "length": 13
           },
           {
-            "length": 75,
+            "length": 13,
             "special": {
               "type": 2,
               "range": [
@@ -11923,13 +11925,13 @@
             }
           },
           {
-            "length": 75
+            "length": 13
           },
           {
-            "length": 75
+            "length": 13
           },
           {
-            "length": 75,
+            "length": 13,
             "special": {
               "type": 3,
               "range": [
@@ -11950,7 +11952,7 @@
             }
           },
           {
-            "length": 75
+            "length": 13
           },
           {
             "length": 0,
@@ -18435,6 +18437,414 @@
     "chapter": "Evanescent Domain",
     "maps": [
       {
+        "id": "8-0",
+        "platforms": [
+          {
+            "length": 50
+          },
+          {
+            "length": 0
+          },
+          {
+            "length": 0
+          },
+          {
+            "length": 0
+          },
+          {
+            "length": 0
+          },
+          {
+            "length": 45,
+            "reward": {
+              "type": 3,
+              "name": "崩落的界域",
+              "img": "https://wiki.arcaea.cn/images/thumb/0/09/Background_scenery_chap8.jpg/195px-Background_scenery_chap8.jpg"
+            }
+          },
+          {
+            "length": 0
+          },
+          {
+            "length": 0
+          },
+          {
+            "length": 0
+          },
+          {
+            "length": 0
+          },
+          {
+            "length": 40,
+            "special": {
+              "type": 2,
+              "range": [
+                "Abstruse Dilemma",
+                "Hotarubi no Yuki",
+                "Désive",
+                "Vulcānus",
+                "ALTER EGO",
+                "ViRTUS"
+              ]
+            }
+          },
+          {
+            "length": 0
+          },
+          {
+            "length": 0
+          },
+          {
+            "length": 0
+          },
+          {
+            "length": 0
+          },
+          {
+            "length": 35,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 8
+            }
+          },
+          {
+            "length": 0
+          },
+          {
+            "length": 0
+          },
+          {
+            "length": 0
+          },
+          {
+            "length": 0
+          },
+          {
+            "length": 30,
+            "special": {
+              "type": 3,
+              "range": []
+            }
+          },
+          {
+            "length": 0
+          },
+          {
+            "length": 0
+          },
+          {
+            "length": 0
+          },
+          {
+            "length": 0
+          },
+          {
+            "length": 25,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 8
+            }
+          },
+          {
+            "length": 0
+          },
+          {
+            "length": 0
+          },
+          {
+            "length": 0
+          },
+          {
+            "length": 0
+          },
+          {
+            "length": 20,
+            "special": {
+              "type": 3,
+              "range": []
+            }
+          },
+          {
+            "length": 0
+          },
+          {
+            "length": 0
+          },
+          {
+            "length": 0
+          },
+          {
+            "length": 0
+          },
+          {
+            "length": 15,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 8
+            }
+          },
+          {
+            "length": 10,
+            "special": {
+              "type": 2,
+              "range": [
+                "Abstruse Dilemma",
+                "Hotarubi no Yuki",
+                "Désive",
+                "Vulcānus",
+                "ALTER EGO",
+                "ViRTUS"
+              ]
+            }
+          },
+          {
+            "length": 10,
+            "special": {
+              "type": 2,
+              "range": [
+                "Abstruse Dilemma",
+                "Hotarubi no Yuki",
+                "Désive",
+                "Vulcānus",
+                "ALTER EGO",
+                "ViRTUS"
+              ]
+            }
+          },
+          {
+            "length": 10,
+            "special": {
+              "type": 2,
+              "range": [
+                "Abstruse Dilemma",
+                "Hotarubi no Yuki",
+                "Désive",
+                "Vulcānus",
+                "ALTER EGO",
+                "ViRTUS"
+              ]
+            }
+          },
+          {
+            "length": 10,
+            "special": {
+              "type": 2,
+              "range": [
+                "Abstruse Dilemma",
+                "Hotarubi no Yuki",
+                "Désive",
+                "Vulcānus",
+                "ALTER EGO",
+                "ViRTUS"
+              ]
+            }
+          },
+          {
+            "length": 0,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 8
+            }
+          },
+          {
+            "length": 15
+          },
+          {
+            "length": 15
+          },
+          {
+            "length": 15
+          },
+          {
+            "length": 15
+          },
+          {
+            "length": 0,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 100
+            }
+          },
+          {
+            "length": 20
+          },
+          {
+            "length": 20
+          },
+          {
+            "length": 20
+          },
+          {
+            "length": 20
+          },
+          {
+            "length": 0,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 100
+            }
+          },
+          {
+            "length": 25
+          },
+          {
+            "length": 25
+          },
+          {
+            "length": 25
+          },
+          {
+            "length": 25
+          },
+          {
+            "length": 0,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 200
+            }
+          },
+          {
+            "length": 30,
+            "special": {
+              "type": 3,
+              "range": []
+            }
+          },
+          {
+            "length": 30,
+            "special": {
+              "type": 3,
+              "range": []
+            }
+          },
+          {
+            "length": 30,
+            "special": {
+              "type": 3,
+              "range": []
+            }
+          },
+          {
+            "length": 30,
+            "special": {
+              "type": 3,
+              "range": []
+            }
+          },
+          {
+            "length": 0,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 200
+            }
+          },
+          {
+            "length": 35
+          },
+          {
+            "length": 35
+          },
+          {
+            "length": 35
+          },
+          {
+            "length": 35
+          },
+          {
+            "length": 0,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 400
+            }
+          },
+          {
+            "length": 40
+          },
+          {
+            "length": 40
+          },
+          {
+            "length": 40
+          },
+          {
+            "length": 40
+          },
+          {
+            "length": 0,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 400
+            }
+          },
+          {
+            "length": 45
+          },
+          {
+            "length": 45
+          },
+          {
+            "length": 45
+          },
+          {
+            "length": 45
+          },
+          {
+            "length": 0,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 800
+            }
+          },
+          {
+            "length": 50,
+            "special": {
+              "type": 3,
+              "range": []
+            }
+          },
+          {
+            "length": 50,
+            "special": {
+              "type": 3,
+              "range": []
+            }
+          },
+          {
+            "length": 50,
+            "special": {
+              "type": 3,
+              "range": []
+            }
+          },
+          {
+            "length": 50,
+            "special": {
+              "type": 3,
+              "range": []
+            }
+          },
+          {
+            "length": 0,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 800
+            }
+          }
+        ]
+      },
+      {
         "id": "8-1",
         "platforms": [
           {
@@ -19139,6 +19549,118 @@
             "reward": {
               "type": 2,
               "id": 76
+            }
+          }
+        ]
+      },
+      {
+        "id": "8-6",
+        "platforms": [
+          {
+            "length": 12
+          },
+          {
+            "length": 8,
+            "special": {
+              "type": 2,
+              "range": [
+                "BREaK! BREaK! BREaK!",
+                "yomibito_shirazu",
+                "Straight into the lights",
+                "ViRTUS"
+              ]
+            }
+          },
+          {
+            "length": 23
+          },
+          {
+            "length": 12
+          },
+          {
+            "length": 8,
+            "special": {
+              "type": 2,
+              "range": [
+                "BREaK! BREaK! BREaK!",
+                "yomibito_shirazu",
+                "Straight into the lights",
+                "ViRTUS"
+              ]
+            }
+          },
+          {
+            "length": 23,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 100
+            }
+          },
+          {
+            "length": 12
+          },
+          {
+            "length": 8,
+            "special": {
+              "type": 2,
+              "range": [
+                "BREaK! BREaK! BREaK!",
+                "yomibito_shirazu",
+                "Straight into the lights",
+                "ViRTUS"
+              ]
+            }
+          },
+          {
+            "length": 23
+          },
+          {
+            "length": 12
+          },
+          {
+            "length": 8,
+            "special": {
+              "type": 2,
+              "range": [
+                "BREaK! BREaK! BREaK!",
+                "yomibito_shirazu",
+                "Straight into the lights",
+                "ViRTUS"
+              ]
+            }
+          },
+          {
+            "length": 23
+          },
+          {
+            "length": 12
+          },
+          {
+            "length": 8,
+            "special": {
+              "type": 3,
+              "range": [
+                "BREaK! BREaK! BREaK!",
+                "yomibito_shirazu",
+                "Straight into the lights",
+                "ViRTUS"
+              ]
+            }
+          },
+          {
+            "length": 23,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 100
+            }
+          },
+          {
+            "length": 0,
+            "reward": {
+              "type": 2,
+              "id": 83
             }
           }
         ]

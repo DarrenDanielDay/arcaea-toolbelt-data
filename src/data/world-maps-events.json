@@ -5807,7 +5807,7 @@
         }
       },
       {
-        "length": 18,
+        "length": 8,
         "special": {
           "type": 3,
           "range": "CHUNITHM Collaboration"
@@ -6053,8 +6053,7 @@
           "count": 5
         }
       }
-    ],
-    "expire": 1735484400000
+    ]
   },
   {
     "id": "限时：CHUNITHM_2",
@@ -6685,8 +6684,7 @@
           "count": 5
         }
       }
-    ],
-    "expire": 1735484400000
+    ]
   },
   {
     "id": "限时：CHUNITHM_3",
@@ -7006,7 +7004,7 @@
         "length": 13
       },
       {
-        "length": 11,
+        "length": 14,
         "reward": {
           "type": 0,
           "name": "残片",
@@ -7321,8 +7319,7 @@
           "count": 5
         }
       }
-    ],
-    "expire": 1735484400000
+    ]
   },
   {
     "id": "限时：Avant_Raze",
@@ -20748,7 +20745,8 @@
           "count": 1
         }
       }
-    ]
+    ],
+    "expire": 1739631600000
   },
   {
     "id": "限时：Capella",
@@ -21066,8 +21064,7 @@
           "id": 59
         }
       }
-    ],
-    "expire": 1735743600000
+    ]
   },
   {
     "id": "限时：Tsuki_ni_Murakumo,_Hana_ni_Kaze",
@@ -22283,7 +22280,8 @@
           "id": 65
         }
       }
-    ]
+    ],
+    "expire": 1740063600000
   },
   {
     "id": "限时：Let's_Rock_(Arcaea_mix)",
@@ -34236,7 +34234,426 @@
           "count": 15
         }
       }
+    ]
+  },
+  {
+    "id": "限时：maimai_2",
+    "platforms": [
+      {
+        "length": 40
+      },
+      {
+        "length": 40
+      },
+      {
+        "length": 40
+      },
+      {
+        "length": 40
+      },
+      {
+        "length": 40
+      },
+      {
+        "length": 40,
+        "special": {
+          "type": 2,
+          "range": [
+            "BREaK! BREaK! BREaK!",
+            "yomibito_shirazu",
+            "Straight into the lights",
+            "ViRTUS"
+          ]
+        }
+      },
+      {
+        "length": 40
+      },
+      {
+        "length": 40
+      },
+      {
+        "length": 40
+      },
+      {
+        "length": 40
+      },
+      {
+        "length": 40,
+        "special": {
+          "type": 2,
+          "range": [
+            "BREaK! BREaK! BREaK!",
+            "yomibito_shirazu",
+            "Straight into the lights",
+            "ViRTUS"
+          ]
+        }
+      },
+      {
+        "length": 23
+      },
+      {
+        "length": 31
+      },
+      {
+        "length": 12,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 400
+        }
+      },
+      {
+        "length": 27
+      },
+      {
+        "length": 21,
+        "special": {
+          "type": 3,
+          "range": [
+            "BREaK! BREaK! BREaK!",
+            "yomibito_shirazu",
+            "Straight into the lights",
+            "ViRTUS"
+          ]
+        }
+      },
+      {
+        "length": 26
+      },
+      {
+        "length": 19
+      },
+      {
+        "length": 40,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 2
+        }
+      },
+      {
+        "length": 38
+      },
+      {
+        "length": 19,
+        "special": {
+          "type": 3,
+          "range": [
+            "BREaK! BREaK! BREaK!",
+            "yomibito_shirazu",
+            "Straight into the lights",
+            "ViRTUS"
+          ]
+        }
+      },
+      {
+        "length": 26
+      },
+      {
+        "length": 29
+      },
+      {
+        "length": 13,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 400
+        }
+      },
+      {
+        "length": 19
+      },
+      {
+        "length": 16,
+        "special": {
+          "type": 3,
+          "range": [
+            "BREaK! BREaK! BREaK!",
+            "yomibito_shirazu",
+            "Straight into the lights",
+            "ViRTUS"
+          ]
+        }
+      },
+      {
+        "length": 19
+      },
+      {
+        "length": 35
+      },
+      {
+        "length": 20,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 2
+        }
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 17,
+        "special": {
+          "type": 3,
+          "range": [
+            "BREaK! BREaK! BREaK!",
+            "yomibito_shirazu",
+            "Straight into the lights",
+            "ViRTUS"
+          ]
+        }
+      },
+      {
+        "length": 33
+      },
+      {
+        "length": 28
+      },
+      {
+        "length": 25,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 400
+        }
+      },
+      {
+        "length": 12
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 40,
+        "special": {
+          "type": 2,
+          "range": "Straight into the lights"
+        }
+      },
+      {
+        "length": 40,
+        "special": {
+          "type": 1,
+          "max": 3.3
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 2,
+          "id": 84
+        }
+      },
+      {
+        "length": 50,
+        "special": {
+          "type": 2,
+          "range": "yomibito_shirazu"
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 400
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 400
+        }
+      },
+      {
+        "length": 60
+      },
+      {
+        "length": 70
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 400
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 400
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 400
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 400
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 80
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "舞萌核心",
+          "count": 5
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 400
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 90
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 400
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 100
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 400
+        }
+      },
+      {
+        "length": 110
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "舞萌核心",
+          "count": 5
+        }
+      },
+      {
+        "length": 120
+      },
+      {
+        "length": 130
+      },
+      {
+        "length": 140
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 400
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 150,
+        "special": {
+          "type": 2,
+          "range": [
+            "Garakuta Doll Play",
+            "April showers",
+            "7thSense",
+            "Oshama Scramble!",
+            "AMAZING MIGHTYYYY!!!!",
+            "CYCLES",
+            "MAXRAGE",
+            "[X]",
+            "TEmPTaTiON",
+            "BREaK! BREaK! BREaK!",
+            "yomibito_shirazu",
+            "Straight into the lights",
+            "ViRTUS"
+          ]
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "舞萌核心",
+          "count": 5
+        }
+      }
     ],
-    "expire": 1737212400000
+    "expire": 1740063600000
   }
 ]

@@ -1,7 +1,7 @@
 {
-  "version": "6.1.1c",
-  "apk": "https://arcaea-static.lowiro-cdn.net/E5X7S1sXaYcAId0nmHs4CLaKXmr%2FxY0Y9I6kFUvE5m2vecxW%2FcWoVcKsxi5xZdpj9G55aQvmJC2noSoy95Wu7%2BdGSZ4eGtuuUPAEZzfLGXMwDDUnuNtkMUjK0keBLuP1j55gtL2kiXZuAa0%3D?filename=arcaea_6.1.1c.apk",
-  "time": 1734627406287,
+  "version": "6.2.1c",
+  "apk": "https://arcaea-static.lowiro-cdn.net/4t19kfft3z%2FzR5Ry6vNSpMSEUU124O0CJT1wqG9a6ipS%2FA%2FURbVaJ76tg7ZmEJ6YX92%2FHFv%2BcvHcWOC0mmI4ouwPoongHw6iA8DlPHdn9RFXWK9oY0ojkg4DJC66d89%2B401qolDQ04PK1vg%3D?filename=arcaea_6.2.1c.apk",
+  "time": 1737639073876,
   "index": [
     {
       "file": "alias.json",
@@ -9,15 +9,15 @@
     },
     {
       "file": "assets-info.json",
-      "hash": "b1e25691"
+      "hash": "0aea2822"
     },
     {
       "file": "character-data.json",
-      "hash": "0eee2eb3"
+      "hash": "9df7d61a"
     },
     {
       "file": "characters.json",
-      "hash": "0a4474e9"
+      "hash": "cc039289"
     },
     {
       "file": "chart-data-legacy-1.json",
@@ -25,43 +25,43 @@
     },
     {
       "file": "chart-data.json",
-      "hash": "81f7d370"
+      "hash": "0c260a6a"
     },
     {
       "file": "chart-express.json",
-      "hash": "785bdf6c"
+      "hash": "dcbbc0dc"
     },
     {
       "file": "ChartConstant.json",
-      "hash": "4df4831d"
+      "hash": "9a53d671"
     },
     {
       "file": "factors.json",
-      "hash": "3e81bb95"
+      "hash": "38a756e3"
     },
     {
       "file": "item-data.json",
-      "hash": "814b0b79"
+      "hash": "2e8a127f"
     },
     {
       "file": "notes-and-constants.json",
-      "hash": "5190276b"
+      "hash": "1b732585"
     },
     {
       "file": "packlist.json",
-      "hash": "2b6186b4"
+      "hash": "42f8488b"
     },
     {
       "file": "songlist.json",
-      "hash": "86f0d13f"
+      "hash": "a001231f"
     },
     {
       "file": "world-maps-events.json",
-      "hash": "7ec0e463"
+      "hash": "a36a3576"
     },
     {
       "file": "world-maps-longterm.json",
-      "hash": "9f74682c"
+      "hash": "af139cb5"
     }
   ]
 }

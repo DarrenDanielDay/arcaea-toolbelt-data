@@ -93,7 +93,7 @@ export async function fetchWikiCharacterAndCharacterCoreItemData(): Promise<{
   cores: ItemData[];
 }> {
   const tableData = await getWikiCharacterTable();
-  const itemTable = htmlDocument.querySelector(`#mw-content-text > div.mw-parser-output > table:nth-child(47)`)!;
+  const itemTable = htmlDocument.querySelector(`#mw-content-text > div.mw-parser-output > table:nth-child(70)`)!;
   const itemImgs = Array.from(itemTable.querySelectorAll("img"));
   const items = itemImgs.map<ItemData>((img) => {
     return {

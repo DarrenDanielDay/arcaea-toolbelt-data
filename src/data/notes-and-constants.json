@@ -2506,25 +2506,6 @@
     ]
   },
   {
-    "id": "particlearts",
-    "charts": [
-      {
-        "notes": 529,
-        "constant": 3.5
-      },
-      {
-        "notes": 637,
-        "constant": 6
-      },
-      {
-        "notes": 925,
-        "constant": 8.8
-      },
-      null,
-      null
-    ]
-  },
-  {
     "id": "vindication",
     "charts": [
       {
@@ -8496,6 +8477,16 @@
     ]
   },
   {
+    "id": "particlearts",
+    "charts": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  {
     "id": "ignition",
     "charts": [
       {
@@ -8572,6 +8563,91 @@
       {
         "notes": 1500,
         "constant": 10.9
+      },
+      null,
+      null
+    ]
+  },
+  {
+    "id": "breakbreak",
+    "charts": [
+      {
+        "notes": 472,
+        "constant": 3.5
+      },
+      {
+        "notes": 614,
+        "constant": 6.5
+      },
+      {
+        "notes": 894,
+        "constant": 8.8
+      },
+      null,
+      {
+        "notes": 1251,
+        "constant": 10.3
+      }
+    ]
+  },
+  {
+    "id": "straightintolights",
+    "charts": [
+      {
+        "notes": 583,
+        "constant": 4
+      },
+      {
+        "notes": 714,
+        "constant": 7.5
+      },
+      {
+        "notes": 1226,
+        "constant": 9.5
+      },
+      null,
+      {
+        "notes": 1280,
+        "constant": 10.5
+      }
+    ]
+  },
+  {
+    "id": "virtus",
+    "charts": [
+      {
+        "notes": 877,
+        "constant": 5.5
+      },
+      {
+        "notes": 1000,
+        "constant": 8.6
+      },
+      {
+        "notes": 1222,
+        "constant": 9.9
+      },
+      null,
+      {
+        "notes": 1341,
+        "constant": 10.9
+      }
+    ]
+  },
+  {
+    "id": "yomibitoshirazu",
+    "charts": [
+      {
+        "notes": 641,
+        "constant": 4.5
+      },
+      {
+        "notes": 764,
+        "constant": 8
+      },
+      {
+        "notes": 1075,
+        "constant": 9.8
       },
       null,
       null
