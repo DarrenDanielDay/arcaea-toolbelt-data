@@ -3195,6 +3195,13 @@
         "1080_base.jpg",
         "1080_base_256.jpg"
       ]
+    },
+    {
+      "id": "aethercrest",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
     }
   ],
   "banners": [
@@ -3251,6 +3258,12 @@
       "file": "online_banner_2025_02.png",
       "year": 2025,
       "month": 2
+    },
+    {
+      "type": "aol",
+      "file": "online_banner_2025_03.png",
+      "year": 2025,
+      "month": 3
     },
     {
       "type": "course",

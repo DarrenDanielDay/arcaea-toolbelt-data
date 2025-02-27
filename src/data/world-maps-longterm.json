@@ -20618,6 +20618,158 @@
             }
           }
         ]
+      },
+      {
+        "id": "9-5",
+        "platforms": [
+          {
+            "length": 11,
+            "special": {
+              "type": 2,
+              "range": [
+                "inkar-usi",
+                "Tie me down gently",
+                "Ringed Genesis",
+                "Tempestissimo",
+                "Alexandrite",
+                "PRAGMATISM",
+                "Alice's Suitcase",
+                "A Wandering Melody of Love",
+                "Sheriruth",
+                "Cyaegha",
+                "Arcahv",
+                "AttraqtiA",
+                "Last Celebration",
+                "Axium Crisis",
+                "Grievous Lady",
+                "Fracture Ray",
+                "Auxesia",
+                "Ignition",
+                "BlazinG AIR",
+                "8-EM",
+                "DA'AT -The First Seeker of Souls-",
+                "Genesis",
+                "Cosmo Pop Funclub",
+                "Trrricksters!!",
+                "IMPACT",
+                "Spider's Thread",
+                "Climax",
+                "Misdeed -la bonté de Dieu et l'origine du mal-",
+                "Garakuta Doll Play",
+                "Ikazuchi",
+                "World Vanquisher",
+                "Teriqma",
+                "GOODTEK (Arcaea Edit)",
+                "DataErr0r",
+                "Clotho and the stargazer",
+                "conflict",
+                "Halcyon",
+                "Nhelv",
+                "STAGER (ALL STAGE CLEAR)",
+                "Dreadnought",
+                "Black Lotus",
+                "Altale",
+                "Lapis",
+                "Bamboo",
+                "Life is PIANO",
+                "ENERGY SYNERGY MATRIX",
+                "G e n g a o z o",
+                "Sakura Fubuki",
+                "PUPA",
+                "New York Back Raise",
+                "Hybris (The one who shattered)",
+                "B.B.K.K.B.K.K.",
+                "felys final remix",
+                "The Formula",
+                "Aleph-0"
+              ]
+            }
+          },
+          {
+            "length": 15
+          },
+          {
+            "length": 11
+          },
+          {
+            "length": 15,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 10
+            }
+          },
+          {
+            "length": 11
+          },
+          {
+            "length": 15,
+            "special": {
+              "type": 2,
+              "range": "DA'AT -The First Seeker of Souls-"
+            }
+          },
+          {
+            "length": 11
+          },
+          {
+            "length": 15
+          },
+          {
+            "length": 11,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 100
+            }
+          },
+          {
+            "length": 15
+          },
+          {
+            "length": 11,
+            "special": {
+              "type": 2,
+              "range": [
+                "World Vanquisher",
+                "Swan Song",
+                "Surrender",
+                "Testify"
+              ]
+            }
+          },
+          {
+            "length": 15
+          },
+          {
+            "length": 11
+          },
+          {
+            "length": 15,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 100
+            }
+          },
+          {
+            "length": 11
+          },
+          {
+            "length": 15,
+            "special": {
+              "type": 2,
+              "range": "Aether Crest: Astral"
+            }
+          },
+          {
+            "length": 0,
+            "reward": {
+              "type": 2,
+              "id": 85
+            }
+          }
+        ]
       }
     ]
   }

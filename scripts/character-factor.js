@@ -126,7 +126,7 @@ export async function generateFactorsByKeyFactors(keyFactorsList) {
   });
 }
 
-async function main() {
+export async function main() {
   const factors = await convertCSV();
   await generateFactorsByKeyFactors(factors);
 }

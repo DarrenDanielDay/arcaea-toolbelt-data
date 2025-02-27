@@ -1,7 +1,7 @@
 {
-  "version": "6.2.1c",
-  "apk": "https://arcaea-static.lowiro-cdn.net/4t19kfft3z%2FzR5Ry6vNSpMSEUU124O0CJT1wqG9a6ipS%2FA%2FURbVaJ76tg7ZmEJ6YX92%2FHFv%2BcvHcWOC0mmI4ouwPoongHw6iA8DlPHdn9RFXWK9oY0ojkg4DJC66d89%2B401qolDQ04PK1vg%3D?filename=arcaea_6.2.1c.apk",
-  "time": 1737639073876,
+  "version": "6.2.6c",
+  "apk": "https://arcaea-static.lowiro-cdn.net/cHIGfSX%2F8evMWr77a3sfivfUc0Tjc9Oaw98MytmskbTtUeyXRbI7W%2F%2BuwUPiYPwqGYxJIaedAtSMhU%2B7J9nVv9Hj3q8hDovJQmM1vDWqlpimB0e0ryF3SHYcVZxEEyo0SYasHJdFfolKvWs%3D?filename=arcaea_6.2.6c.apk",
+  "time": 1740673039407,
   "index": [
     {
       "file": "alias.json",
@@ -9,15 +9,19 @@
     },
     {
       "file": "assets-info.json",
-      "hash": "0aea2822"
+      "hash": "22db6ca4"
     },
     {
       "file": "character-data.json",
-      "hash": "9df7d61a"
+      "hash": "2af604d6"
+    },
+    {
+      "file": "characters-patch.json",
+      "hash": "73f1bff3"
     },
     {
       "file": "characters.json",
-      "hash": "cc039289"
+      "hash": "294722ec"
     },
     {
       "file": "chart-data-legacy-1.json",
@@ -25,19 +29,19 @@
     },
     {
       "file": "chart-data.json",
-      "hash": "0c260a6a"
+      "hash": "406be5df"
     },
     {
       "file": "chart-express.json",
-      "hash": "dcbbc0dc"
+      "hash": "26fad0bc"
     },
     {
       "file": "ChartConstant.json",
-      "hash": "9a53d671"
+      "hash": "1769b28c"
     },
     {
       "file": "factors.json",
-      "hash": "38a756e3"
+      "hash": "35a820f6"
     },
     {
       "file": "item-data.json",
@@ -45,7 +49,7 @@
     },
     {
       "file": "notes-and-constants.json",
-      "hash": "1b732585"
+      "hash": "8b154206"
     },
     {
       "file": "packlist.json",
@@ -53,15 +57,15 @@
     },
     {
       "file": "songlist.json",
-      "hash": "a001231f"
+      "hash": "87614acf"
     },
     {
       "file": "world-maps-events.json",
-      "hash": "511c0f23"
+      "hash": "bc39462c"
     },
     {
       "file": "world-maps-longterm.json",
-      "hash": "af139cb5"
+      "hash": "fb2073d4"
     }
   ]
 }

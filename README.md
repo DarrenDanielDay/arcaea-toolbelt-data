@@ -30,6 +30,11 @@ Open <http://localhost:1236/dist-tools> for data tools.
 2. update `ChartConstant.json`, `notes-and-constants.json` and `chart-express.json`
 3. auto-update-chart-data
 
+## New Character
+
+1. add info or copy all into `characters.json`
+2. execute `merge-characters.js`
+
 ## License
 
 MIT License

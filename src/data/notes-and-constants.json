@@ -8652,5 +8652,27 @@
       null,
       null
     ]
+  },
+  {
+    "id": "aethercrest",
+    "charts": [
+      {
+        "notes": 921,
+        "constant": 6
+      },
+      {
+        "notes": 1147,
+        "constant": 8.9
+      },
+      {
+        "notes": 1508,
+        "constant": 10.6
+      },
+      null,
+      {
+        "notes": 1941,
+        "constant": 11.5
+      }
+    ]
   }
 ]

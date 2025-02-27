@@ -30,3 +30,9 @@ export const characterDataFile = resource("../src/data/character-data.json");
 
 /** @type {JSONResource<WikiChartConstantJSON>} */
 export const chartConstant = resource("../src/data/ChartConstant.json");
+
+/** @type {JSONResource<typeof import('../src/data/characters.json')>} */
+export const charactersFile = resource("../src/data/characters.json");
+
+/** @type {JSONResource<typeof import('../src/data/characters.json')>} */
+export const charactersPatchFile = resource("../src/data/characters-patch.json");

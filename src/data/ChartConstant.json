@@ -7323,5 +7323,24 @@
     },
     null,
     null
+  ],
+  "aethercrest": [
+    {
+      "constant": 6,
+      "old": false
+    },
+    {
+      "constant": 8.9,
+      "old": false
+    },
+    {
+      "constant": 10.6,
+      "old": false
+    },
+    null,
+    {
+      "constant": 11.5,
+      "old": false
+    }
   ]
 }

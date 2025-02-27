@@ -7,6 +7,14 @@ import { cwd } from "process";
 import { fileURLToPath } from "url";
 
 /**
+ * @param {string} url
+ * @param {string} path
+ */
+export function relativeTo(url, path) {
+  return fileURLToPath(new URL(path, url));
+}
+
+/**
  * @param {PathLike} path
  */
 export function pathLikeToString(path) {
@@ -153,4 +161,13 @@ export function indexBy(arr, selector) {
     index[selector(item)] = item;
     return index;
   }, acc);
+}
+
+/**
+ * @param {number} a
+ * @param {number} b
+ * @param {number} [delta]
+ */
+export function isNear(a, b, delta = 1e-4) {
+  return Math.abs(a - b) < delta;
 }

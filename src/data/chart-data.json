@@ -22324,5 +22324,60 @@
     "version": {
       "added": "6.2"
     }
+  },
+  {
+    "bpm": "180",
+    "side": 0,
+    "id": "aethercrest",
+    "name": "Aether Crest: Astral",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "CHUNITHM - Collaboration Chapter 4",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 6,
+        "difficulty": "pst",
+        "designer": "Nitro",
+        "id": "aethercrest@pst",
+        "level": 6,
+        "note": 921,
+        "songId": "aethercrest"
+      },
+      {
+        "constant": 8.9,
+        "difficulty": "prs",
+        "designer": "Empyrean",
+        "id": "aethercrest@prs",
+        "level": 8,
+        "note": 1147,
+        "songId": "aethercrest",
+        "plus": true
+      },
+      {
+        "constant": 10.6,
+        "difficulty": "ftr",
+        "designer": "M理論 《Quintessence》",
+        "id": "aethercrest@ftr",
+        "level": 10,
+        "note": 1508,
+        "songId": "aethercrest"
+      },
+      {
+        "constant": 11.5,
+        "difficulty": "etr",
+        "designer": "夜浪 × 絶滅「αἴθων」",
+        "id": "aethercrest@etr",
+        "level": 11,
+        "note": 1941,
+        "songId": "aethercrest"
+      }
+    ],
+    "version": {
+      "added": "6.2"
+    }
   }
 ]
