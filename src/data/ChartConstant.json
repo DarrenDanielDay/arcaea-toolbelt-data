@@ -7342,5 +7342,135 @@
       "constant": 11.5,
       "old": false
     }
+  ],
+  "heartache": [
+    {
+      "constant": 1.5,
+      "old": false
+    },
+    {
+      "constant": 4.5,
+      "old": false
+    },
+    {
+      "constant": 7.5,
+      "old": false
+    },
+    null,
+    {
+      "constant": 8.7,
+      "old": false
+    }
+  ],
+  "deathbyglamour": [
+    {
+      "constant": 2.5,
+      "old": false
+    },
+    {
+      "constant": 5,
+      "old": false
+    },
+    {
+      "constant": 7.8,
+      "old": false
+    },
+    null,
+    {
+      "constant": 9.4,
+      "old": false
+    }
+  ],
+  "yourbestnightmare": [
+    {
+      "constant": 3.5,
+      "old": false
+    },
+    {
+      "constant": 6.5,
+      "old": false
+    },
+    {
+      "constant": 8.9,
+      "old": false
+    },
+    {
+      "constant": 10.2,
+      "old": false
+    },
+    null
+  ],
+  "lastgoodbye": [
+    {
+      "constant": 2.5,
+      "old": false
+    },
+    {
+      "constant": 6.5,
+      "old": false
+    },
+    {
+      "constant": 8.2,
+      "old": false
+    },
+    null,
+    {
+      "constant": 9.7,
+      "old": false
+    }
+  ],
+  "megalovania": [
+    {
+      "constant": 4.5,
+      "old": false
+    },
+    {
+      "constant": 7.5,
+      "old": false
+    },
+    {
+      "constant": 9.5,
+      "old": false
+    },
+    null,
+    {
+      "constant": 10.5,
+      "old": false
+    }
+  ],
+  "megalovaniarmx": [
+    {
+      "constant": 5.5,
+      "old": false
+    },
+    {
+      "constant": 8.4,
+      "old": false
+    },
+    {
+      "constant": 9.8,
+      "old": false
+    },
+    null,
+    {
+      "constant": 10.9,
+      "old": false
+    }
+  ],
+  "placebobattler": [
+    {
+      "constant": 5.5,
+      "old": false
+    },
+    {
+      "constant": 8.3,
+      "old": false
+    },
+    {
+      "constant": 10.4,
+      "old": false
+    },
+    null,
+    null
   ]
 }

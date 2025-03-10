@@ -3202,6 +3202,55 @@
         "1080_base.jpg",
         "1080_base_256.jpg"
       ]
+    },
+    {
+      "id": "heartache",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "id": "deathbyglamour",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "id": "yourbestnightmare",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "id": "lastgoodbye",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "id": "megalovania",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "id": "megalovaniarmx",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "id": "placebobattler",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
     }
   ],
   "banners": [
@@ -3264,6 +3313,12 @@
       "file": "online_banner_2025_03.png",
       "year": 2025,
       "month": 3
+    },
+    {
+      "type": "aol",
+      "file": "online_banner_2025_04.png",
+      "year": 2025,
+      "month": 4
     },
     {
       "type": "course",

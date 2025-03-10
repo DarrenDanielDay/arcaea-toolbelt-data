@@ -1,20 +1,126 @@
 [
   {
-    "songId": "aethercrest",
+    "songId": "heartache",
     "charts": [
       {
-        "constant": 6
+        "constant": 1.5
+      },
+      {
+        "constant": 4.5
+      },
+      {
+        "constant": 7.5
+      },
+      null,
+      {
+        "constant": 8.7
+      }
+    ]
+  },
+  {
+    "songId": "deathbyglamour",
+    "charts": [
+      {
+        "constant": 2.5
+      },
+      {
+        "constant": 5
+      },
+      {
+        "constant": 7.8
+      },
+      null,
+      {
+        "constant": 9.4
+      }
+    ]
+  },
+  {
+    "songId": "yourbestnightmare",
+    "charts": [
+      {
+        "constant": 3.5
+      },
+      {
+        "constant": 6.5
       },
       {
         "constant": 8.9
       },
       {
-        "constant": 10.6
+        "constant": 10.2
+      },
+      null
+    ]
+  },
+  {
+    "songId": "lastgoodbye",
+    "charts": [
+      {
+        "constant": 2.5
+      },
+      {
+        "constant": 6.5
+      },
+      {
+        "constant": 8.2
       },
       null,
       {
-        "constant": 11.5
+        "constant": 9.7
       }
+    ]
+  },
+  {
+    "songId": "megalovania",
+    "charts": [
+      {
+        "constant": 4.5
+      },
+      {
+        "constant": 7.5
+      },
+      {
+        "constant": 9.5
+      },
+      null,
+      {
+        "constant": 10.5
+      }
+    ]
+  },
+  {
+    "songId": "megalovaniarmx",
+    "charts": [
+      {
+        "constant": 5.5
+      },
+      {
+        "constant": 8.4
+      },
+      {
+        "constant": 9.8
+      },
+      null,
+      {
+        "constant": 10.9
+      }
+    ]
+  },
+  {
+    "songId": "placebobattler",
+    "charts": [
+      {
+        "constant": 5.5
+      },
+      {
+        "constant": 8.3
+      },
+      {
+        "constant": 10.4
+      },
+      null,
+      null
     ]
   }
 ]

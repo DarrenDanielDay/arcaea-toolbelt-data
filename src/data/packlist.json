@@ -444,6 +444,23 @@
       }
     },
     {
+      "id": "undertale",
+      "section": "collab",
+      "plus_character": -1,
+      "custom_banner": true,
+      "limitedSaleEndTime": 1773014400,
+      "name_localized": {
+        "en": "UNDERTALE"
+      },
+      "description_localized": {
+        "en": "A long time ago, a human fell into the ruins...\n\n5 iconic songs from UNDERTALE bring\nmemories flooding back.\n\nFight, or show mercy, but always remember:\nnever lose determination!",
+        "ja": "むかしむかし、とあるいせきに落ちた、\nニンゲンとモンスターの物語。\n\nタマシイと共鳴するような、\n5つの楽曲がUNDERTALEより登場！\n\nたたかえ、こうどうせよ、みなぎるケツイをその胸に。",
+        "ko": "오래 전, 한 인간이 폐허로 떨어졌다.\n\nUNDERTALE에서 건너온 5개의 악곡이,\n기억을 파도처럼 몰고 옵니다.\n\n맞서 싸우거나, 자비를 보이세요.\n넘치는 결의를, 잊지 마세요.",
+        "zh-Hant": "很久很久以前，一個人類掉入了地下的遺跡⋯\n\n五首經典的UNDERTALE曲目將帶你踏上回憶之旅。\n\n戰鬥，或是仁慈，均由你來決定，但請記住：\n永遠不要喪失決心！",
+        "zh-Hans": "很久很久以前，一个人类掉入了地下的遗迹⋯\n\n五首经典的UNDERTALE曲目将带你踏上回忆之旅。\n\n战斗，或是仁慈，均由你来决定，但请记住：\n永远不要丧失决心！"
+      }
+    },
+    {
       "id": "rotaeno",
       "section": "collab",
       "custom_banner": true,

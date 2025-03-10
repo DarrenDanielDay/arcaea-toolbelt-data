@@ -8674,5 +8674,156 @@
         "constant": 11.5
       }
     ]
+  },
+  {
+    "id": "heartache",
+    "charts": [
+      {
+        "notes": 425,
+        "constant": 1.5
+      },
+      {
+        "notes": 687,
+        "constant": 4.5
+      },
+      {
+        "notes": 803,
+        "constant": 7.5
+      },
+      null,
+      {
+        "notes": 851,
+        "constant": 8.7
+      }
+    ]
+  },
+  {
+    "id": "deathbyglamour",
+    "charts": [
+      {
+        "notes": 460,
+        "constant": 2.5
+      },
+      {
+        "notes": 470,
+        "constant": 5
+      },
+      {
+        "notes": 610,
+        "constant": 7.8
+      },
+      null,
+      {
+        "notes": 912,
+        "constant": 9.4
+      }
+    ]
+  },
+  {
+    "id": "yourbestnightmare",
+    "charts": [
+      {
+        "notes": 760,
+        "constant": 3.5
+      },
+      {
+        "notes": 925,
+        "constant": 6.5
+      },
+      {
+        "notes": 1086,
+        "constant": 8.9
+      },
+      {
+        "notes": 1451,
+        "constant": 10.2
+      },
+      null
+    ]
+  },
+  {
+    "id": "lastgoodbye",
+    "charts": [
+      {
+        "notes": 497,
+        "constant": 2.5
+      },
+      {
+        "notes": 605,
+        "constant": 6.5
+      },
+      {
+        "notes": 727,
+        "constant": 8.2
+      },
+      null,
+      {
+        "notes": 911,
+        "constant": 9.7
+      }
+    ]
+  },
+  {
+    "id": "megalovania",
+    "charts": [
+      {
+        "notes": 906,
+        "constant": 4.5
+      },
+      {
+        "notes": 969,
+        "constant": 7.5
+      },
+      {
+        "notes": 1064,
+        "constant": 9.5
+      },
+      null,
+      {
+        "notes": 1202,
+        "constant": 10.5
+      }
+    ]
+  },
+  {
+    "id": "megalovaniarmx",
+    "charts": [
+      {
+        "notes": 946,
+        "constant": 5.5
+      },
+      {
+        "notes": 1161,
+        "constant": 8.4
+      },
+      {
+        "notes": 1345,
+        "constant": 9.8
+      },
+      null,
+      {
+        "notes": 1468,
+        "constant": 10.9
+      }
+    ]
+  },
+  {
+    "id": "placebobattler",
+    "charts": [
+      {
+        "notes": 597,
+        "constant": 5.5
+      },
+      {
+        "notes": 827,
+        "constant": 8.3
+      },
+      {
+        "notes": 1194,
+        "constant": 10.4
+      },
+      null,
+      null
+    ]
   }
 ]
