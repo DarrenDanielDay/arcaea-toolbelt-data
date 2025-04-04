@@ -3251,6 +3251,27 @@
         "1080_base.jpg",
         "1080_base_256.jpg"
       ]
+    },
+    {
+      "id": "blackmirror",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "id": "shinchoku",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "id": "trpno",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
     }
   ],
   "banners": [
@@ -3319,6 +3340,12 @@
       "file": "online_banner_2025_04.png",
       "year": 2025,
       "month": 4
+    },
+    {
+      "type": "aol",
+      "file": "online_banner_2025_05.png",
+      "year": 2025,
+      "month": 5
     },
     {
       "type": "course",

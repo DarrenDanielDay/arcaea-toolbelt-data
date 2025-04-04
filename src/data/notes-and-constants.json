@@ -8825,5 +8825,68 @@
       null,
       null
     ]
+  },
+  {
+    "id": "blackmirror",
+    "charts": [
+      {
+        "notes": 471,
+        "constant": 3.5
+      },
+      {
+        "notes": 613,
+        "constant": 6.5
+      },
+      {
+        "notes": 735,
+        "constant": 8.6
+      },
+      null,
+      {
+        "notes": 894,
+        "constant": 9.7
+      }
+    ]
+  },
+  {
+    "id": "shinchoku",
+    "charts": [
+      {
+        "notes": 595,
+        "constant": 3.5
+      },
+      {
+        "notes": 743,
+        "constant": 7.5
+      },
+      {
+        "notes": 957,
+        "constant": 8.8
+      },
+      null,
+      {
+        "notes": 1162,
+        "constant": 9.9
+      }
+    ]
+  },
+  {
+    "id": "trpno",
+    "charts": [
+      {
+        "notes": 451,
+        "constant": 4.5
+      },
+      {
+        "notes": 562,
+        "constant": 7.8
+      },
+      {
+        "notes": 897,
+        "constant": 10
+      },
+      null,
+      null
+    ]
   }
 ]

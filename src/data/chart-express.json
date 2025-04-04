@@ -1,42 +1,6 @@
 [
   {
-    "songId": "heartache",
-    "charts": [
-      {
-        "constant": 1.5
-      },
-      {
-        "constant": 4.5
-      },
-      {
-        "constant": 7.5
-      },
-      null,
-      {
-        "constant": 8.7
-      }
-    ]
-  },
-  {
-    "songId": "deathbyglamour",
-    "charts": [
-      {
-        "constant": 2.5
-      },
-      {
-        "constant": 5
-      },
-      {
-        "constant": 7.8
-      },
-      null,
-      {
-        "constant": 9.4
-      }
-    ]
-  },
-  {
-    "songId": "yourbestnightmare",
+    "songId": "blackmirror",
     "charts": [
       {
         "constant": 3.5
@@ -45,25 +9,7 @@
         "constant": 6.5
       },
       {
-        "constant": 8.9
-      },
-      {
-        "constant": 10.2
-      },
-      null
-    ]
-  },
-  {
-    "songId": "lastgoodbye",
-    "charts": [
-      {
-        "constant": 2.5
-      },
-      {
-        "constant": 6.5
-      },
-      {
-        "constant": 8.2
+        "constant": 8.6
       },
       null,
       {
@@ -72,52 +18,34 @@
     ]
   },
   {
-    "songId": "megalovania",
+    "songId": "shinchoku",
     "charts": [
       {
-        "constant": 4.5
+        "constant": 3.5
       },
       {
         "constant": 7.5
       },
       {
-        "constant": 9.5
+        "constant": 8.8
       },
       null,
       {
-        "constant": 10.5
+        "constant": 9.9
       }
     ]
   },
   {
-    "songId": "megalovaniarmx",
+    "songId": "trpno",
     "charts": [
       {
-        "constant": 5.5
+        "constant": 4.5
       },
       {
-        "constant": 8.4
+        "constant": 7.8
       },
       {
-        "constant": 9.8
-      },
-      null,
-      {
-        "constant": 10.9
-      }
-    ]
-  },
-  {
-    "songId": "placebobattler",
-    "charts": [
-      {
-        "constant": 5.5
-      },
-      {
-        "constant": 8.3
-      },
-      {
-        "constant": 10.4
+        "constant": 10
       },
       null,
       null

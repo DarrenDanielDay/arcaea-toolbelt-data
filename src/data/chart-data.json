@@ -22754,5 +22754,162 @@
     "version": {
       "added": "6.3"
     }
+  },
+  {
+    "bpm": "130",
+    "side": 1,
+    "id": "blackmirror",
+    "name": "Black Mirror on the Wall",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "World Extend 3",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 3.5,
+        "difficulty": "pst",
+        "designer": "Nitro",
+        "id": "blackmirror@pst",
+        "level": 3,
+        "note": 471,
+        "songId": "blackmirror"
+      },
+      {
+        "constant": 6.5,
+        "difficulty": "prs",
+        "designer": "Nitro",
+        "id": "blackmirror@prs",
+        "level": 6,
+        "note": 613,
+        "songId": "blackmirror"
+      },
+      {
+        "constant": 8.6,
+        "difficulty": "ftr",
+        "designer": "Nitro",
+        "id": "blackmirror@ftr",
+        "level": 8,
+        "note": 735,
+        "songId": "blackmirror"
+      },
+      {
+        "constant": 9.7,
+        "difficulty": "etr",
+        "designer": "KLMNOP",
+        "id": "blackmirror@etr",
+        "level": 9,
+        "note": 894,
+        "songId": "blackmirror",
+        "plus": true
+      }
+    ],
+    "version": {
+      "added": "6.3"
+    }
+  },
+  {
+    "bpm": "199",
+    "side": 0,
+    "id": "shinchoku",
+    "name": "Shinchoku Doudesuka?",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Memory Archive",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 3.5,
+        "difficulty": "pst",
+        "designer": "明日から頑張る",
+        "id": "shinchoku@pst",
+        "level": 3,
+        "note": 595,
+        "songId": "shinchoku"
+      },
+      {
+        "constant": 7.5,
+        "difficulty": "prs",
+        "designer": "今からやります",
+        "id": "shinchoku@prs",
+        "level": 7,
+        "note": 743,
+        "songId": "shinchoku"
+      },
+      {
+        "constant": 8.8,
+        "difficulty": "ftr",
+        "designer": "もう少し待っててね",
+        "id": "shinchoku@ftr",
+        "level": 8,
+        "note": 957,
+        "songId": "shinchoku",
+        "plus": true
+      },
+      {
+        "constant": 9.9,
+        "difficulty": "etr",
+        "designer": "進捗ダメです",
+        "id": "shinchoku@etr",
+        "level": 9,
+        "note": 1162,
+        "songId": "shinchoku",
+        "plus": true
+      }
+    ],
+    "version": {
+      "added": "6.3"
+    }
+  },
+  {
+    "bpm": "150",
+    "side": 0,
+    "id": "trpno",
+    "name": "TRPNO",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "World Extend 3",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 4.5,
+        "difficulty": "pst",
+        "designer": "raycast",
+        "id": "trpno@pst",
+        "level": 4,
+        "note": 451,
+        "songId": "trpno"
+      },
+      {
+        "constant": 7.8,
+        "difficulty": "prs",
+        "designer": "raycast",
+        "id": "trpno@prs",
+        "level": 7,
+        "note": 562,
+        "songId": "trpno",
+        "plus": true
+      },
+      {
+        "constant": 10,
+        "difficulty": "ftr",
+        "designer": "raycast",
+        "id": "trpno@ftr",
+        "level": 10,
+        "note": 897,
+        "songId": "trpno"
+      }
+    ],
+    "version": {
+      "added": "6.3"
+    }
   }
 ]

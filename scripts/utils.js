@@ -135,6 +135,8 @@ export async function downloadFileWithNode(url, save) {
   }
   const { body } = res;
   if (!body) throw new Error("Unexpected empty body.");
+  const parentUrl = new URL(".", save.toString());
+  await mkdir(parentUrl, { recursive: true });
   const handle = await open(save, "w+");
 
   try {

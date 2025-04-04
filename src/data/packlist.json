@@ -1,46 +1,8 @@
 {
   "packs": [
     {
-      "id": "extend",
-      "section": "archive",
-      "is_extend_pack": true,
-      "is_active_extend_pack": false,
-      "custom_banner": true,
-      "small_pack_image": true,
-      "plus_character": -1,
-      "name_localized": {
-        "en": "Extend Archive 1"
-      },
-      "description_localized": {
-        "en": "The first collection of Arcaea's extended\nhistory across 20 songs.\n\nThe price of this Pack is adjusted if you\nhave previously obtained the majority\nof songs within it in the past.\n",
-        "ja": "ここに聳える、始まりの20曲。\n\n初代World Extendパックです。\nかつて獲得期間中だった時期のあいだ、\n無料解禁を達成した楽曲数に応じて、\n本パックの値段は変動します。",
-        "ko": "Arcaea의 긴 역사를\n20개의 악곡에 담은 첫번째 콜렉션입니다.\n\n해당 팩 내 악곡 보유수에 따라\n가격이 조정됩니다.",
-        "zh-Hant": "20首歌曲，歸檔了屬於Arcaea的\n第一批更廣闊的回憶……\n\n若此前已通過其他方式獲取大部分收錄曲目，\n曲包售價會在結算時自動做出相應調整。",
-        "zh-Hans": "20首歌曲，归档了属于Arcaea的\n第一批更广阔的回忆……\n\n若此前已通过其他方式获取大部分收录曲目，\n曲包售价会在结算时自动做出相应调整。"
-      }
-    },
-    {
-      "id": "extend_2",
-      "section": "archive",
-      "is_extend_pack": true,
-      "is_active_extend_pack": false,
-      "custom_banner": true,
-      "small_pack_image": true,
-      "plus_character": -1,
-      "name_localized": {
-        "en": "Extend Archive 2"
-      },
-      "description_localized": {
-        "en": "The second collection of Arcaea's extended\nhistory across 20 songs.\n\nThe price of this Pack is adjusted if you\nhave previously obtained the majority\nof songs within it in the past.\n",
-        "ja": "ここに系譜を継ぐ、更なる20曲。\n\n2代目のWorld Extendパックです。\nかつて獲得期間中だった時期のあいだ、\n無料解禁を達成した楽曲数に応じて、\n本パックの値段は変動します。",
-        "ko": "Arcaea의 긴 역사를\n20개의 악곡에 담은 두번째 콜렉션입니다.\n\n해당 팩 내 악곡 보유수에 따라\n가격이 조정됩니다.",
-        "zh-Hant": "20首歌曲，歸檔了屬於Arcaea的\n第二批更廣闊的回憶……\n\n若此前已通過其他方式獲取大部分收錄曲目，\n曲包售價會在結算時自動做出相應調整。",
-        "zh-Hans": "20首歌曲，归档了属于Arcaea的\n第二批更广阔的回忆……\n\n若此前已通过其他方式获取大部分收录曲目，\n曲包售价会在结算时自动做出相应调整。"
-      }
-    },
-    {
       "id": "base",
-      "section": "free",
+      "section": "arcaea",
       "plus_character": -1,
       "custom_banner": true,
       "cutout_pack_image": true,
@@ -54,7 +16,7 @@
     },
     {
       "id": "extend_3",
-      "section": "free",
+      "section": "arcaea",
       "is_extend_pack": true,
       "is_active_extend_pack": true,
       "custom_banner": true,
@@ -72,6 +34,44 @@
       }
     },
     {
+      "id": "extend_2",
+      "section": "arcaea",
+      "is_extend_pack": true,
+      "is_active_extend_pack": false,
+      "custom_banner": true,
+      "small_pack_image": true,
+      "plus_character": -1,
+      "name_localized": {
+        "en": "Extend Archive 2"
+      },
+      "description_localized": {
+        "en": "The second collection of Arcaea's extended\nhistory across 20 songs.\n\nThe price of this Pack is adjusted if you\nhave previously obtained the majority\nof songs within it in the past.\n",
+        "ja": "ここに系譜を継ぐ、更なる20曲。\n\n2代目のWorld Extendパックです。\nかつて獲得期間中だった時期のあいだ、\n無料解禁を達成した楽曲数に応じて、\n本パックの値段は変動します。",
+        "ko": "Arcaea의 긴 역사를\n20개의 악곡에 담은 두번째 콜렉션입니다.\n\n해당 팩 내 악곡 보유수에 따라\n가격이 조정됩니다.",
+        "zh-Hant": "20首歌曲，歸檔了屬於Arcaea的\n第二批更廣闊的回憶……\n\n若此前已通過其他方式獲取大部分收錄曲目，\n曲包售價會在結算時自動做出相應調整。",
+        "zh-Hans": "20首歌曲，归档了属于Arcaea的\n第二批更广阔的回忆……\n\n若此前已通过其他方式获取大部分收录曲目，\n曲包售价会在结算时自动做出相应调整。"
+      }
+    },
+    {
+      "id": "extend",
+      "section": "arcaea",
+      "is_extend_pack": true,
+      "is_active_extend_pack": false,
+      "custom_banner": true,
+      "small_pack_image": true,
+      "plus_character": -1,
+      "name_localized": {
+        "en": "Extend Archive 1"
+      },
+      "description_localized": {
+        "en": "The first collection of Arcaea's extended\nhistory across 20 songs.\n\nThe price of this Pack is adjusted if you\nhave previously obtained the majority\nof songs within it in the past.\n",
+        "ja": "ここに聳える、始まりの20曲。\n\n初代World Extendパックです。\nかつて獲得期間中だった時期のあいだ、\n無料解禁を達成した楽曲数に応じて、\n本パックの値段は変動します。",
+        "ko": "Arcaea의 긴 역사를\n20개의 악곡에 담은 첫번째 콜렉션입니다.\n\n해당 팩 내 악곡 보유수에 따라\n가격이 조정됩니다.",
+        "zh-Hant": "20首歌曲，歸檔了屬於Arcaea的\n第一批更廣闊的回憶……\n\n若此前已通過其他方式獲取大部分收錄曲目，\n曲包售價會在結算時自動做出相應調整。",
+        "zh-Hans": "20首歌曲，归档了属于Arcaea的\n第一批更广阔的回忆……\n\n若此前已通过其他方式获取大部分收录曲目，\n曲包售价会在结算时自动做出相应调整。"
+      }
+    },
+    {
       "id": "lephon",
       "section": "mainstory2",
       "plus_character": -1,
@@ -83,8 +83,8 @@
         "en": "An old history and world has been brought up.\nA tale of guidance and insight that another must tell.\nUncover that past, and see into the soul of God...\n\n\"Lucent Historia\" details a world apart from Arcaea,\nits story unfolding across 5 new songs. And within, you\nmay find the Ascendant - 8th Seeker: \"Compassion\"...",
         "ja": "旧き地に纏わる歴史が、いま甦る。\nここに啓くは、導きと天啓の物語。\n神の御霊の一端に触れ、過去を明かせ――。\n\n異なる世界を巡る異譚『Lucent Historia』\n5つの新曲が示す、とある神の始まり。\nそれは、天賦第八究明者『慈哀』と――。",
         "ko": "아주 오래 전 존재했던 세계와 그 역사가, 다시금.\n또 다른 이가 전해야만 할, 인도와 혜안의 이야기.\n과거를 드러내어, 신의 영혼을 보아라.\n\n\"Lucent Historia\"에서는 아르케아가 아닌\n또다른 세계의 이야기가 펼쳐집니다.\n다섯 개의 악곡에 걸쳐 펼쳐지는 서사시.\n그 주인공은 초월자 - 여덟 번째 추적자...\n\"연민\".",
-        "zh-Hant": "一段遠古的往事被再次提起，\n快被遺忘的世界再度落入世人視野。\n引路人與洞察者的過往，須由另一位來講述。\n揭開那過去的面紗，看向祂靈魂的深處吧……\n\n《Lucent Historia》為你揭開Arcaea世界之外的篇章。\n隨五首歌曲尋找「至高：第八探索者 - 慈悲」的過往。",
-        "zh-Hans": "一段远古的往事被再次提起，\n快被遗忘的世界再度落入世人视野。\n引路人与洞察者的过往，须由另一位来讲述。\n揭开那过去的面纱，看向祂灵魂的深处吧……\n\n《Lucent Historia》为你揭开Arcaea世界之外的篇章。\n随五首歌曲寻找“至高：第八探索者 - 慈悲”的过往。"
+        "zh-Hant": "一段远古的往事被再次提起，\n快被遗忘的世界再度落入世人视野。\n引路人与洞察者的过往，须由另一位来讲述。\n揭开那过去的面纱，看向祂灵魂的深处吧……\n\n《Lucent Historia》为你揭开Arcaea世界之外的篇章。\n随五首歌曲寻找“至高：第八探索者 - 慈悲”的过往。",
+        "zh-Hans": "一段遠古的往事被再次提起，\n快被遺忘的世界再度落入世人視野。\n引路人與洞察者的過往，須由另一位來講述。\n揭開那過去的面紗，看向祂靈魂的深處吧……\n\n《Lucent Historia》為你揭開Arcaea世界之外的篇章。\n隨五首歌曲尋找「至高：第八探索者 - 慈悲」的過往。"
       }
     },
     {
