@@ -10,6 +10,7 @@ import { CharacterData } from "@arcaea-toolbelt/models/character";
 import {
   arcaeaCNClient,
   filterNonAscii,
+  findLastContentful,
   findNextElWhere,
   findParentWhere,
   htmlDocument,
@@ -114,7 +115,9 @@ async function getMainTableInfo(): Promise<MainTableInfo> {
       if (!name || !time) throw new Error("表格格式改变");
       const rawId = decodeURI(new URL(name.querySelector("a")!.href).hash.slice(1));
       const id = rawId.includes("限时") ? rawId : `限时：${rawId}`;
-      const match = /(\d+)\/(\d+)\/(\d+)[^0-9\/]((\d+)\/)?(\d+)\/(\d+)/.exec(time.lastChild!.textContent!.trim());
+      const expire = findLastContentful(time);
+      if (!expire) throw new Error("无活动时间数据！");
+      const match = /(\d+)\/(\d+)\/(\d+)[^0-9\/]((\d+)\/)?(\d+)\/(\d+)/.exec(expire.textContent!.trim());
       if (!match) throw new Error("时间格式未匹配");
       let [, startYear, , , , endYear, endMonth, endDay] = match;
       endYear ??= startYear;
