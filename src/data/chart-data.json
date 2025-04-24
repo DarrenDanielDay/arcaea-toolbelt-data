@@ -590,6 +590,16 @@
         "level": 8,
         "note": 978,
         "songId": "snowwhite"
+      },
+      {
+        "constant": 9.7,
+        "difficulty": "byd",
+        "designer": "én + Nitro",
+        "id": "snowwhite@byd",
+        "level": 9,
+        "note": 1031,
+        "songId": "snowwhite",
+        "plus": true
       }
     ],
     "version": {
@@ -1197,6 +1207,16 @@
         "level": 9,
         "note": 851,
         "songId": "anokumene"
+      },
+      {
+        "constant": 9.9,
+        "difficulty": "byd",
+        "designer": "Astral Luxance",
+        "id": "anokumene@byd",
+        "level": 9,
+        "note": 971,
+        "songId": "anokumene",
+        "plus": true
       }
     ],
     "version": {
@@ -4904,6 +4924,8 @@
     "id": "nhelv",
     "name": "Nhelv",
     "covers": [
+      "1080_3.jpg",
+      "1080_3_256.jpg",
       "1080_base.jpg",
       "1080_base_256.jpg"
     ],
@@ -4943,6 +4965,19 @@
         "note": 1108,
         "songId": "nhelv",
         "plus": true
+      },
+      {
+        "constant": 10.9,
+        "difficulty": "byd",
+        "designer": "零下 -descent-",
+        "id": "nhelv@byd",
+        "level": 10,
+        "note": 1474,
+        "songId": "nhelv",
+        "plus": true,
+        "override": {
+          "cover": true
+        }
       }
     ],
     "version": {
@@ -8536,6 +8571,15 @@
         "note": 690,
         "songId": "altale",
         "plus": true
+      },
+      {
+        "constant": 10,
+        "difficulty": "byd",
+        "designer": "nora::neko << fantasy",
+        "id": "altale@byd",
+        "level": 10,
+        "note": 1074,
+        "songId": "altale"
       }
     ],
     "version": {
@@ -12146,6 +12190,15 @@
         "id": "energysynergymatrix@ftr",
         "level": 9,
         "note": 922,
+        "songId": "energysynergymatrix"
+      },
+      {
+        "constant": 10.3,
+        "difficulty": "byd",
+        "designer": "白亜紀と古第三紀の間の大量絶滅",
+        "id": "energysynergymatrix@byd",
+        "level": 10,
+        "note": 1011,
         "songId": "energysynergymatrix"
       }
     ],
@@ -22910,6 +22963,98 @@
     ],
     "version": {
       "added": "6.3"
+    }
+  },
+  {
+    "bpm": "155",
+    "side": 0,
+    "id": "tau",
+    "name": "τ (tau)",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "World Extend 3",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 4.5,
+        "difficulty": "pst",
+        "designer": "ə (exschwasion)",
+        "id": "tau@pst",
+        "level": 4,
+        "note": 553,
+        "songId": "tau"
+      },
+      {
+        "constant": 7.8,
+        "difficulty": "prs",
+        "designer": "ə (exschwasion)",
+        "id": "tau@prs",
+        "level": 7,
+        "note": 798,
+        "songId": "tau",
+        "plus": true
+      },
+      {
+        "constant": 9.7,
+        "difficulty": "ftr",
+        "designer": "ə (exschwasion)",
+        "id": "tau@ftr",
+        "level": 9,
+        "note": 1057,
+        "songId": "tau",
+        "plus": true
+      }
+    ],
+    "version": {
+      "added": "6.4"
+    }
+  },
+  {
+    "bpm": "128-160",
+    "side": 1,
+    "id": "dullblade",
+    "name": "Dull Blade",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Memory Archive",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 4.5,
+        "difficulty": "pst",
+        "designer": "NITRO",
+        "id": "dullblade@pst",
+        "level": 4,
+        "note": 579,
+        "songId": "dullblade"
+      },
+      {
+        "constant": 8,
+        "difficulty": "prs",
+        "designer": "NITRO",
+        "id": "dullblade@prs",
+        "level": 8,
+        "note": 780,
+        "songId": "dullblade"
+      },
+      {
+        "constant": 10.5,
+        "difficulty": "ftr",
+        "designer": "NITRO",
+        "id": "dullblade@ftr",
+        "level": 10,
+        "note": 1199,
+        "songId": "dullblade"
+      }
+    ],
+    "version": {
+      "added": "6.4"
     }
   }
 ]

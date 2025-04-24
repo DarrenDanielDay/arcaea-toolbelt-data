@@ -698,6 +698,8 @@
     {
       "id": "nhelv",
       "covers": [
+        "1080_3.jpg",
+        "1080_3_256.jpg",
         "1080_base.jpg",
         "1080_base_256.jpg"
       ]
@@ -3268,6 +3270,20 @@
     },
     {
       "id": "trpno",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "id": "tau",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "id": "dullblade",
       "covers": [
         "1080_base.jpg",
         "1080_base_256.jpg"

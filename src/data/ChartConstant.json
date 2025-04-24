@@ -184,7 +184,10 @@
       "constant": 8.4,
       "old": false
     },
-    null,
+    {
+      "constant": 9.7,
+      "old": false
+    },
     null
   ],
   "relentless": [
@@ -378,7 +381,10 @@
       "constant": 9.2,
       "old": false
     },
-    null,
+    {
+      "constant": 9.9,
+      "old": false
+    },
     null
   ],
   "infinityheaven": [
@@ -1575,7 +1581,10 @@
       "constant": 9.9,
       "old": false
     },
-    null,
+    {
+      "constant": 10.9,
+      "old": false
+    },
     null
   ],
   "espebranch": [
@@ -2699,7 +2708,10 @@
       "constant": 9.8,
       "old": false
     },
-    null,
+    {
+      "constant": 10,
+      "old": false
+    },
     null
   ],
   "givemeanightmare": [
@@ -3876,7 +3888,10 @@
       "constant": 9.6,
       "old": false
     },
-    null,
+    {
+      "constant": 10.3,
+      "old": false
+    },
     null
   ],
   "gengaozo": [
@@ -7522,6 +7537,38 @@
     },
     {
       "constant": 10,
+      "old": false
+    },
+    null,
+    null
+  ],
+  "tau": [
+    {
+      "constant": 4.5,
+      "old": false
+    },
+    {
+      "constant": 7.8,
+      "old": false
+    },
+    {
+      "constant": 9.7,
+      "old": false
+    },
+    null,
+    null
+  ],
+  "dullblade": [
+    {
+      "constant": 4.5,
+      "old": false
+    },
+    {
+      "constant": 8,
+      "old": false
+    },
+    {
+      "constant": 10.5,
       "old": false
     },
     null,

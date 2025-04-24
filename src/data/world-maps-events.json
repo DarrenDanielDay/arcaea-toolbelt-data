@@ -1242,8 +1242,7 @@
           "count": 4
         }
       }
-    ],
-    "expire": 1744902000000
+    ]
   },
   {
     "id": "限时：carmine:scythe",
@@ -22845,8 +22844,7 @@
           "count": 20
         }
       }
-    ],
-    "expire": 1744902000000
+    ]
   },
   {
     "id": "限时：CHUNITHM_7",
@@ -24388,8 +24386,7 @@
           "id": 68
         }
       }
-    ],
-    "expire": 1743346800000
+    ]
   },
   {
     "id": "限时：Lawless_Point",
@@ -30357,7 +30354,7 @@
           "range": [
             "Ignotus",
             "ultradiaxon-N3",
-            "Particle Arts",
+            "Saint or Sinner",
             "To the Milky Way"
           ]
         }
@@ -30588,8 +30585,7 @@
           "id": 75
         }
       }
-    ],
-    "expire": 1745420400000
+    ]
   },
   {
     "id": "限时：Leave_All_Behind",
@@ -35067,8 +35063,7 @@
           "count": 1
         }
       }
-    ],
-    "expire": 1744902000000
+    ]
   },
   {
     "id": "限时：TRPNO",
@@ -35375,7 +35370,600 @@
           "count": 1
         }
       }
+    ]
+  },
+  {
+    "id": "限时：τ_(tau)",
+    "platforms": [
+      {
+        "length": 0,
+        "special": {
+          "type": 2,
+          "range": [
+            "τ (tau)",
+            "astral.exe",
+            "world.execute(me);",
+            "Kanagawa Cyber Culvert",
+            "dropdead",
+            "NULCTRL",
+            "INTERNET OVERDOSE",
+            "INTERNET YAMERO"
+          ]
+        }
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 1
+      },
+      {
+        "length": 1
+      },
+      {
+        "length": 1
+      },
+      {
+        "length": 1
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 11
+      },
+      {
+        "length": 11
+      },
+      {
+        "length": 11
+      },
+      {
+        "length": 11
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 100
+        }
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 100
+        }
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 100
+        }
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 100
+        }
+      },
+      {
+        "length": 1
+      },
+      {
+        "length": 1
+      },
+      {
+        "length": 1
+      },
+      {
+        "length": 1
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 1,
+        "special": {
+          "type": 2,
+          "range": [
+            "τ (tau)",
+            "astral.exe",
+            "world.execute(me);",
+            "Kanagawa Cyber Culvert",
+            "dropdead",
+            "NULCTRL",
+            "INTERNET OVERDOSE",
+            "INTERNET YAMERO"
+          ]
+        }
+      },
+      {
+        "length": 1,
+        "special": {
+          "type": 2,
+          "range": [
+            "τ (tau)",
+            "astral.exe",
+            "world.execute(me);",
+            "Kanagawa Cyber Culvert",
+            "dropdead",
+            "NULCTRL",
+            "INTERNET OVERDOSE",
+            "INTERNET YAMERO"
+          ]
+        }
+      },
+      {
+        "length": 1,
+        "special": {
+          "type": 2,
+          "range": [
+            "τ (tau)",
+            "astral.exe",
+            "world.execute(me);",
+            "Kanagawa Cyber Culvert",
+            "dropdead",
+            "NULCTRL",
+            "INTERNET OVERDOSE",
+            "INTERNET YAMERO"
+          ]
+        }
+      },
+      {
+        "length": 1,
+        "special": {
+          "type": 2,
+          "range": [
+            "τ (tau)",
+            "astral.exe",
+            "world.execute(me);",
+            "Kanagawa Cyber Culvert",
+            "dropdead",
+            "NULCTRL",
+            "INTERNET OVERDOSE",
+            "INTERNET YAMERO"
+          ]
+        }
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 11
+      },
+      {
+        "length": 11
+      },
+      {
+        "length": 11
+      },
+      {
+        "length": 11
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 100
+        }
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 100
+        }
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 100
+        }
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 100
+        }
+      },
+      {
+        "length": 1
+      },
+      {
+        "length": 1
+      },
+      {
+        "length": 1
+      },
+      {
+        "length": 1
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 1
+      },
+      {
+        "length": 1
+      },
+      {
+        "length": 1
+      },
+      {
+        "length": 1
+      },
+      {
+        "length": 10,
+        "special": {
+          "type": 2,
+          "range": [
+            "τ (tau)",
+            "astral.exe",
+            "world.execute(me);",
+            "Kanagawa Cyber Culvert",
+            "dropdead",
+            "NULCTRL",
+            "INTERNET OVERDOSE",
+            "INTERNET YAMERO"
+          ]
+        }
+      },
+      {
+        "length": 10,
+        "special": {
+          "type": 2,
+          "range": [
+            "τ (tau)",
+            "astral.exe",
+            "world.execute(me);",
+            "Kanagawa Cyber Culvert",
+            "dropdead",
+            "NULCTRL",
+            "INTERNET OVERDOSE",
+            "INTERNET YAMERO"
+          ]
+        }
+      },
+      {
+        "length": 10,
+        "special": {
+          "type": 2,
+          "range": [
+            "τ (tau)",
+            "astral.exe",
+            "world.execute(me);",
+            "Kanagawa Cyber Culvert",
+            "dropdead",
+            "NULCTRL",
+            "INTERNET OVERDOSE",
+            "INTERNET YAMERO"
+          ]
+        }
+      },
+      {
+        "length": 10,
+        "special": {
+          "type": 2,
+          "range": [
+            "τ (tau)",
+            "astral.exe",
+            "world.execute(me);",
+            "Kanagawa Cyber Culvert",
+            "dropdead",
+            "NULCTRL",
+            "INTERNET OVERDOSE",
+            "INTERNET YAMERO"
+          ]
+        }
+      },
+      {
+        "length": 11
+      },
+      {
+        "length": 11
+      },
+      {
+        "length": 11
+      },
+      {
+        "length": 11
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 100
+        }
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 100
+        }
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 100
+        }
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 100
+        }
+      },
+      {
+        "length": 1
+      },
+      {
+        "length": 1
+      },
+      {
+        "length": 1
+      },
+      {
+        "length": 1
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 1
+      },
+      {
+        "length": 1
+      },
+      {
+        "length": 1
+      },
+      {
+        "length": 1
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 11,
+        "special": {
+          "type": 2,
+          "range": [
+            "τ (tau)",
+            "astral.exe",
+            "world.execute(me);",
+            "Kanagawa Cyber Culvert",
+            "dropdead",
+            "NULCTRL",
+            "INTERNET OVERDOSE",
+            "INTERNET YAMERO"
+          ]
+        }
+      },
+      {
+        "length": 11,
+        "special": {
+          "type": 2,
+          "range": [
+            "τ (tau)",
+            "astral.exe",
+            "world.execute(me);",
+            "Kanagawa Cyber Culvert",
+            "dropdead",
+            "NULCTRL",
+            "INTERNET OVERDOSE",
+            "INTERNET YAMERO"
+          ]
+        }
+      },
+      {
+        "length": 11,
+        "special": {
+          "type": 2,
+          "range": [
+            "τ (tau)",
+            "astral.exe",
+            "world.execute(me);",
+            "Kanagawa Cyber Culvert",
+            "dropdead",
+            "NULCTRL",
+            "INTERNET OVERDOSE",
+            "INTERNET YAMERO"
+          ]
+        }
+      },
+      {
+        "length": 11,
+        "special": {
+          "type": 2,
+          "range": [
+            "τ (tau)",
+            "astral.exe",
+            "world.execute(me);",
+            "Kanagawa Cyber Culvert",
+            "dropdead",
+            "NULCTRL",
+            "INTERNET OVERDOSE",
+            "INTERNET YAMERO"
+          ]
+        }
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 1
+      },
+      {
+        "length": 1
+      },
+      {
+        "length": 1
+      },
+      {
+        "length": 1
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 1,
+          "id": "tau"
+        }
+      },
+      {
+        "length": 100,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 10
+        }
+      },
+      {
+        "length": 100,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 11
+        }
+      },
+      {
+        "length": 100,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 100
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "次元结晶",
+          "count": 1
+        }
+      }
     ],
-    "expire": 1744902000000
+    "expire": 1746716400000
   }
 ]
