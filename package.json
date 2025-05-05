@@ -18,6 +18,9 @@
       "publicUrl": "./"
     }
   },
+  "exports": {
+    "./*": "./*"
+  },
   "scripts": {
     "start:tools": "parcel watch --target tools --no-hmr --no-cache",
     "start:serve": "node ./scripts/serve.js",
