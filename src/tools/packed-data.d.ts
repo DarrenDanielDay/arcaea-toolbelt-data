@@ -1,37 +1,44 @@
-export interface SongList {
+interface SongList {
   songs: Song[];
 }
 
-export interface Song {
+interface Song {
   idx: number;
   id: string;
-  title_localized: Titlelocalized;
-  artist: string;
+  title_localized?: Titlelocalized;
+  artist?: string;
   search_title?: Searchtitle;
-  search_artist: Searchtitle;
-  bpm: string;
-  bpm_base: number;
-  set: string;
-  purchase: string;
-  audioPreview: number;
-  audioPreviewEnd: number;
-  side: number;
-  bg: string;
+  search_artist?: Searchtitle;
+  bpm?: string;
+  bpm_base?: number;
+  set?: string;
+  purchase?: string;
+  audioPreview?: number;
+  audioPreviewEnd?: number;
+  side?: number;
+  bg?: string;
   bg_inverse?: string;
-  date: number;
-  version: string;
-  difficulties: Difficulty[];
+  date?: number;
+  version?: string;
+  difficulties?: Difficulty[];
   world_unlock?: boolean;
   remote_dl?: boolean;
+  category?: string;
   source_localized?: Sourcelocalized;
   source_copyright?: string;
   no_stream?: boolean;
   jacket_localized?: Jacketlocalized;
+  deleted?: boolean;
   bg_daynight?: Bgdaynight;
   byd_local_unlock?: boolean;
-  additional_files?: string[];
+  additional_files?: Additionalfile[];
   songlist_hidden?: boolean;
-  deleted?: boolean;
+  limitedSaleEndTime?: number;
+}
+
+interface Additionalfile {
+  file_name: string;
+  requirement: string;
 }
 
 interface Bgdaynight {
@@ -48,26 +55,27 @@ interface Sourcelocalized {
   ja?: string;
 }
 
-export interface Difficulty {
+interface Difficulty {
   ratingClass: number;
   chartDesigner: string;
   jacketDesigner: string;
   rating: number;
-  jacketOverride?: boolean;
-  ratingPlus?: boolean;
   date?: number;
   version?: string;
+  jacketOverride?: boolean;
+  ratingPlus?: boolean;
+  bg?: string;
+  bg_inverse?: string;
+  hidden_until?: string;
   title_localized?: Titlelocalized2;
   audioOverride?: boolean;
-  bg?: string;
+  legacy11?: boolean;
   plusFingers?: boolean;
   artist?: string;
-  bg_inverse?: string;
   bpm?: string;
   bpm_base?: number;
   jacket_night?: string;
   hidden_until_unlocked?: boolean;
-  hidden_until?: string;
   world_unlock?: boolean;
 }
 
@@ -84,37 +92,42 @@ interface Searchtitle {
 interface Titlelocalized {
   en: string;
   ko?: string;
-  'zh-Hant'?: string;
-  'zh-Hans'?: string;
+  "zh-Hant"?: string;
+  "zh-Hans"?: string;
   ja?: string;
   kr?: string;
+  ko_dialog?: string;
 }
 
-export interface PackList {
+interface PackList {
   packs: Pack[];
 }
 
-export interface Pack {
+interface Pack {
   id: string;
-  is_extend_pack?: boolean;
-  is_active_extend_pack?: boolean;
-  custom_banner?: boolean;
-  small_pack_image?: boolean;
+  section: string;
   plus_character: number;
+  custom_banner?: boolean;
+  cutout_pack_image?: boolean;
   name_localized: Namelocalized;
   description_localized: Descriptionlocalized;
-  cutout_pack_image?: boolean;
+  is_extend_pack?: boolean;
+  is_active_extend_pack?: boolean;
+  small_pack_image?: boolean;
   pack_parent?: string;
+  limitedSaleEndTime?: number;
 }
 
 interface Descriptionlocalized {
   en: string;
   ja: string;
   ko?: string;
-  'zh-Hant'?: string;
-  'zh-Hans'?: string;
+  "zh-Hant"?: string;
+  "zh-Hans"?: string;
 }
 
 interface Namelocalized {
   en: string;
 }
+
+export { Additionalfile, Bgdaynight, Difficulty, Song, SongList, Pack, PackList };
