@@ -2,8 +2,6 @@ import "bootstrap/dist/css/bootstrap.css";
 import "@arcaea-toolbelt/view/components/fancy-dialog/style.css";
 import { AutoRender, computed, element, mount, nil, signal } from "hyplate";
 import {
-  generate,
-  generateDirectly,
   generateVersionMeta,
   updateNotesAndConstantsFileViaFandomWiki,
   generateMergedChartData,
@@ -177,38 +175,9 @@ mount(
         <div class="col-auto">
           <input id="version" class="form-control" h-model={selectedVersion} required></input>
         </div>
-        <div class="col-auto">
-          <button
-            type="button"
-            class="btn btn-primary"
-            onClick={async function () {
-              if (!this.form!.reportValidity()) return;
-              const version = selectedVersion();
-              await generate(version);
-              showAlert("生成完毕");
-            }}
-          >
-            生成数据文件
-          </button>
-        </div>
       </div>
     </form>
     <div class="row">
-      <div class="col-auto">
-        <button
-          type="button"
-          class="btn btn-primary"
-          onClick={async function () {
-            await generateDirectly();
-            showAlert("生成完毕");
-          }}
-        >
-          生成最新数据文件
-        </button>
-      </div>
-      <Action handler={generateAlias}>更新alias</Action>
-      <Action handler={updateNotesAndConstantsFileViaFandomWiki}>通过Fandom Wiki更新定数物量</Action>
-      <Action handler={generateMergedChartData}>生成合并谱面数据</Action>
       <Action handler={generateWorldMapData}>生成地图数据</Action>
       <Action handler={generateCharacterData}>生成搭档数据</Action>
     </div>

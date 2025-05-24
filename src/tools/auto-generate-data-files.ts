@@ -1,4 +1,3 @@
-import { getSongData } from "./get-wiki-chart-data";
 import { getCharacterData } from "./get-wiki-character-data";
 import { fetchWikiWorldMapData } from "./get-wiki-world-map-data";
 import { SongData } from "@arcaea-toolbelt/models/music-play";
@@ -29,45 +28,7 @@ async function getPackList(): Promise<PackList> {
   return res;
 }
 
-/** @deprecated */
-export async function generate(version: string) {
-  const songList = await getSongList();
-  const packList = await getPackList();
-  const newSongs = await getSongData(songList, packList);
-  const oldSongs = await getOldChartData();
-  const songs = sortChartDataBySongListIdx(mergeChartData(oldSongs, newSongs), songList);
-  const { characters, items } = await getCharacterData();
-  const { longterm, events } = await fetchWikiWorldMapData(songs, characters);
-  await saveProjectJSON(songs, "/src/data/chart-data.json");
-  await saveProjectJSON(characters, "/src/data/character-data.json");
-  await saveProjectJSON(items, "/src/data/item-data.json");
-  await saveProjectJSON(longterm, "/src/data/world-maps-longterm.json");
-  await saveProjectJSON(events, "/src/data/world-maps-events.json");
-  await patchMeta({
-    time: Date.now(),
-  });
-}
 
-export async function generateDirectly() {
-  const apkInfo = await getLatestVersion();
-  const songList = await getSongList();
-  const packList = await getPackList();
-  const newSongs = await getSongData(songList, packList);
-  const oldSongs = await getOldChartData();
-  const songs = sortChartDataBySongListIdx(mergeChartData(oldSongs, newSongs), songList);
-  const { characters, items } = await getCharacterData();
-  const { longterm, events } = await fetchWikiWorldMapData(songs, characters);
-  await saveProjectJSON(songs, chartDataPath);
-  await saveProjectJSON(characters, characterDataPath);
-  await saveProjectJSON(items, itemDataPath);
-  await saveProjectJSON(longterm, worldMapLongTermPath);
-  await saveProjectJSON(events, worldMapEventsPath);
-  await patchMeta({
-    time: Date.now(),
-    apk: apkInfo.url,
-    version: apkInfo.version,
-  });
-}
 const characterDataPath = "/src/data/character-data.json";
 const itemDataPath = "/src/data/item-data.json";
 const worldMapLongTermPath = "/src/data/world-maps-longterm.json";
