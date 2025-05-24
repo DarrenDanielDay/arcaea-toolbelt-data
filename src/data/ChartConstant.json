@@ -7573,5 +7573,151 @@
     },
     null,
     null
+  ],
+  "wontbackdown": [
+    {
+      "constant": 3.5,
+      "old": false
+    },
+    {
+      "constant": 6.5,
+      "old": false
+    },
+    {
+      "constant": 9.8,
+      "old": false
+    },
+    null,
+    null
+  ],
+  "dontdie": [
+    {
+      "constant": 3.5,
+      "old": false
+    },
+    {
+      "constant": 7,
+      "old": false
+    },
+    {
+      "constant": 9.4,
+      "old": false
+    },
+    null,
+    {
+      "constant": 10.1,
+      "old": false
+    }
+  ],
+  "ladymadestar": [
+    {
+      "constant": 2.5,
+      "old": false
+    },
+    {
+      "constant": 6.5,
+      "old": false
+    },
+    {
+      "constant": 8.4,
+      "old": false
+    },
+    null,
+    {
+      "constant": 9.2,
+      "old": false
+    }
+  ],
+  "endmoonlight": [
+    {
+      "constant": 3,
+      "old": false
+    },
+    {
+      "constant": 5.5,
+      "old": false
+    },
+    {
+      "constant": 9.5,
+      "old": false
+    },
+    null,
+    null
+  ],
+  "uad": [
+    {
+      "constant": 3.5,
+      "old": false
+    },
+    {
+      "constant": 6.5,
+      "old": false
+    },
+    {
+      "constant": 8.7,
+      "old": false
+    },
+    null,
+    {
+      "constant": 9.8,
+      "old": false
+    }
+  ],
+  "oblivion": [
+    {
+      "constant": 4,
+      "old": false
+    },
+    {
+      "constant": 7,
+      "old": false
+    },
+    {
+      "constant": 9.5,
+      "old": false
+    },
+    null,
+    {
+      "constant": 10.1,
+      "old": false
+    }
+  ],
+  "nightmare": [
+    {
+      "constant": 4.5,
+      "old": false
+    },
+    {
+      "constant": 7.8,
+      "old": false
+    },
+    {
+      "constant": 9.8,
+      "old": false
+    },
+    null,
+    {
+      "constant": 10.8,
+      "old": false
+    }
+  ],
+  "tictactoe": [
+    {
+      "constant": 3.5,
+      "old": false
+    },
+    {
+      "constant": 7.5,
+      "old": false
+    },
+    {
+      "constant": 8.8,
+      "old": false
+    },
+    null,
+    {
+      "constant": 9.9,
+      "old": false
+    }
   ]
 }

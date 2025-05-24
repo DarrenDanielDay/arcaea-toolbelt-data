@@ -1,7 +1,7 @@
 {
-  "version": "6.4.1c",
-  "apk": "https://arcaea-static.lowiro-cdn.net/RWp2svTmCabkm14n6CjpJvIOunqHm2C4IjMelFU2chzPIOfUyD7uquSbvdF1pzrlnZkGx5T%2FF%2F1PP6LerHF4RB%2FmCYpmU2BrTFJLyoFDwquzOAdMWI9ui5wQEHUU60Rjitf1FKseZdpTBS8%3D?filename=arcaea_6.4.1c.apk",
-  "time": 1745468583721,
+  "version": "6.5.0c",
+  "apk": "https://arcaea-static.lowiro-cdn.net/KyqzE0LD7AjX3n0TvNDBnmtqt3PH1F2Y%2FOYWD4ZSgM6fGIpfMnQEU4wx1YyVqnEU4ew2DPCRfINaOjnV5qITCgTjnX93PvYy5gmgW5lstM4XdB1Kp5QQc85AT2ZYuXSJUk47rgEH9FoFHCY%3D?filename=arcaea_6.5.0c.apk",
+  "time": 1747925773067,
   "index": [
     {
       "file": "alias.json",
@@ -9,11 +9,11 @@
     },
     {
       "file": "assets-info.json",
-      "hash": "a04891ea"
+      "hash": "aaad8f10"
     },
     {
       "file": "character-data.json",
-      "hash": "2af604d6"
+      "hash": "bcac03e7"
     },
     {
       "file": "characters-patch.json",
@@ -21,7 +21,7 @@
     },
     {
       "file": "characters.json",
-      "hash": "294722ec"
+      "hash": "39e4d6c5"
     },
     {
       "file": "chart-data-legacy-1.json",
@@ -29,19 +29,19 @@
     },
     {
       "file": "chart-data.json",
-      "hash": "63f12131"
+      "hash": "cd3cd9ed"
     },
     {
       "file": "chart-express.json",
-      "hash": "36ea2279"
+      "hash": "54cd20d7"
     },
     {
       "file": "ChartConstant.json",
-      "hash": "b6a5d0f2"
+      "hash": "65820669"
     },
     {
       "file": "factors.json",
-      "hash": "35a820f6"
+      "hash": "dfd29666"
     },
     {
       "file": "item-data.json",
@@ -49,23 +49,23 @@
     },
     {
       "file": "notes-and-constants.json",
-      "hash": "007e8d4a"
+      "hash": "2dce8658"
     },
     {
       "file": "packlist.json",
-      "hash": "c8a854f4"
+      "hash": "a2afcc4b"
     },
     {
       "file": "songlist.json",
-      "hash": "fe20913a"
+      "hash": "aec140fa"
     },
     {
       "file": "world-maps-events.json",
-      "hash": "1eb31a60"
+      "hash": "35a6a92b"
     },
     {
       "file": "world-maps-longterm.json",
-      "hash": "fb2073d4"
+      "hash": "d0ea1530"
     }
   ]
 }

@@ -14,6 +14,7 @@
       "zh-Hans": "光",
       "zh-Hant": "光"
     },
+    "profile_image": "96d3cc47c08561adc8f02e0ee253659d",
     "icon": "381622e7ff7adc5bfc784edfb286757a",
     "base_character": false,
     "is_uncapped_override": false,
@@ -41,6 +42,7 @@
       "zh-Hans": "对立",
       "zh-Hant": "對立"
     },
+    "profile_image": "f60611715666656f31412a57d12bd929",
     "icon": "7b05c390b0fee24a75f5e774f4e2daa9",
     "base_character_id": 1,
     "base_character": true,
@@ -76,6 +78,7 @@
       "zh-Hans": "红",
       "zh-Hant": "紅"
     },
+    "profile_image": "cfbb61e6e131b824f89fd6684c600e94",
     "icon": "1d8e3e88180c01fea22397da20a925e8",
     "base_character": false,
     "is_uncapped_override": false,
@@ -103,6 +106,7 @@
       "zh-Hans": "萨菲亚",
       "zh-Hant": "薩菲亞"
     },
+    "profile_image": "724fe1e4120ab04e08ca0b048dd1b5df",
     "icon": "7ff31f1f355a99c4f3adb9374a69e672",
     "base_character": false,
     "is_uncapped_override": false,
@@ -144,6 +148,7 @@
       "zh-Hans": "忘却",
       "zh-Hant": "忘卻"
     },
+    "profile_image": "8eb6be5b9dd70f0f0d311479337afe58",
     "icon": "401b08fdac3940d3fc191a872fbe9623",
     "base_character": false,
     "is_uncapped_override": false,
@@ -185,6 +190,7 @@
       "zh-Hans": "光 & 对立",
       "zh-Hant": "光 & 對立"
     },
+    "profile_image": "a475f9aaa405a10d76243e26c65b2cac",
     "icon": "63de46274a1d8ea697f76d45395ba5e0",
     "base_character_id": 1,
     "base_character": false,
@@ -220,6 +226,7 @@
       "zh-Hans": "对立",
       "zh-Hant": "對立"
     },
+    "profile_image": "bc7ce6ba94134ce603e56795e7cba349",
     "icon": "4e3dbc27e3ed33ebb167f890a434ce39",
     "base_character_id": 1,
     "base_character": false,
@@ -262,6 +269,7 @@
       "zh-Hans": "对立",
       "zh-Hant": "對立"
     },
+    "profile_image": "1ee621841ae09eca37457643a030cd17",
     "icon": "6afbf4bef903337a38a200662fa39a3c",
     "base_character_id": 1,
     "base_character": false,
@@ -329,6 +337,7 @@
       "zh-Hans": "光 & 菲希卡",
       "zh-Hant": "光 & 菲希卡"
     },
+    "profile_image": "fa6902b525ebbe2b16b14e7b0b76d511",
     "icon": "3ccfb59cccb4f3d15125f5b732ef973f",
     "base_character": false,
     "is_uncapped_override": false,
@@ -370,6 +379,7 @@
       "zh-Hans": "依莉丝",
       "zh-Hant": "依麗絲"
     },
+    "profile_image": "b76f514f9208708909fa71fd524b6ddc",
     "icon": "a6ec0f08abb965c450adb25b89327428",
     "base_character": false,
     "is_uncapped_override": false,
@@ -411,6 +421,7 @@
       "zh-Hans": "爱托",
       "zh-Hant": "愛托"
     },
+    "profile_image": "f3b2f9685ae39b4991adef0eba7decde",
     "icon": "a96cda08c699688913182062b92fd52a",
     "base_character": false,
     "is_uncapped_override": false,
@@ -452,6 +463,7 @@
       "zh-Hans": "露娜",
       "zh-Hant": "露娜"
     },
+    "profile_image": "b6dde2b0012c570685431df28efcee53",
     "icon": "ff0d2bd2af37ceb678c7d3b2223118ee",
     "base_character": false,
     "is_uncapped_override": false,
@@ -493,6 +505,7 @@
       "zh-Hans": "调",
       "zh-Hant": "調"
     },
+    "profile_image": "54401fb57b47813e7245e9fadf986434",
     "icon": "bf9d50f018f42e613dd81b735419856a",
     "base_character": false,
     "is_uncapped_override": false,
@@ -534,6 +547,7 @@
       "zh-Hans": "光",
       "zh-Hant": "光"
     },
+    "profile_image": "366b5a4cbdd2ccd0accae55bd7e5031c",
     "icon": "b6737028638e6c3fe7d7123349ec2e34",
     "base_character": false,
     "is_uncapped_override": false,
@@ -575,6 +589,7 @@
       "zh-Hans": "光",
       "zh-Hant": "光"
     },
+    "profile_image": "3208314f98b9be955ccd8d2a4ad3cd0b",
     "icon": "98e6bff65d9805650f6e3630fc7e7607",
     "base_character": false,
     "is_uncapped_override": false,
@@ -616,6 +631,7 @@
       "zh-Hans": "光",
       "zh-Hant": "光"
     },
+    "profile_image": "b6fa7d0a850cbc7a28d19f84f63566dc",
     "icon": "85d2904a54db78b8cbfa6d2d6c675d58",
     "base_character": false,
     "is_uncapped_override": false,
@@ -657,6 +673,7 @@
       "zh-Hans": "对立",
       "zh-Hant": "對立"
     },
+    "profile_image": "86db65bb5b7a478bad84a5c78f316525",
     "icon": "11d497788eabe5de6c9e3f19eda82c52",
     "base_character_id": 1,
     "base_character": false,
@@ -692,6 +709,7 @@
       "zh-Hans": "对立 & 托凛",
       "zh-Hant": "對立 & 托凜"
     },
+    "profile_image": "28b47b7c8fcd4faf53e23abdd4255fe3",
     "icon": "0a3d10f2637257acf42cd5f260f018ef",
     "base_character": false,
     "is_uncapped_override": false,
@@ -733,6 +751,7 @@
       "zh-Hans": "彩梦",
       "zh-Hant": "彩夢"
     },
+    "profile_image": "e2a511cb57d5dbab0b86ba817472f1d2",
     "icon": "cc60c557a0afed257eaa3a67150991d2",
     "base_character": false,
     "is_uncapped_override": false,
@@ -774,6 +793,7 @@
       "zh-Hans": "爱托 & 露娜",
       "zh-Hant": "愛托 & 露娜"
     },
+    "profile_image": "bcc7fc99571add1b7edfb3e5208244ec",
     "icon": "e286e8b4a45e0e100bd1dc0e9edb8d65",
     "base_character": false,
     "is_uncapped_override": false,
@@ -815,6 +835,7 @@
       "zh-Hans": "柚梅",
       "zh-Hant": "夢"
     },
+    "profile_image": "604c3d20ed9e823a8ea02fc771d14e10",
     "icon": "83652bde9ac9564161403dda91922f55",
     "base_character": false,
     "voice": [
@@ -858,6 +879,7 @@
       "zh-Hans": "光 & 赛依娜",
       "zh-Hant": "光 & 晴音"
     },
+    "profile_image": "606e187be42158e5be0d39def72f5477",
     "icon": "2d836aa28fc5b66388c158bd73aaa067",
     "base_character": false,
     "is_uncapped_override": false,
@@ -899,6 +921,7 @@
       "zh-Hans": "咲弥",
       "zh-Hant": "咲彌"
     },
+    "profile_image": "03181eac4ee816e86c72f6aa927a9e3e",
     "icon": "4d9e7d33b607386d1b746b71f22545e5",
     "base_character": false,
     "is_uncapped_override": false,
@@ -913,7 +936,7 @@
     "prog": 99,
     "frag": 94,
     "level_exp": 23500,
-    "exp": 24215.465360000002,
+    "exp": 24454.66454,
     "level": 29,
     "name": "saya",
     "character_id": 23
@@ -940,6 +963,7 @@
       "zh-Hans": "对立 & 中二企鹅",
       "zh-Hant": "對立 & 中二企鵝"
     },
+    "profile_image": "c106c6ff4f52e6a66d262b65a706f0bd",
     "icon": "4d43507c56be9817e466d2d0b624cf30",
     "base_character": false,
     "is_uncapped_override": false,
@@ -974,6 +998,7 @@
       "zh-Hans": "中二企鹅",
       "zh-Hant": "中二企鵝"
     },
+    "profile_image": "d9fc86f3bb092f3a32eeb0fe0a67c3d4",
     "icon": "a98d7c224e96ad705d655b459a88e422",
     "base_character": false,
     "is_uncapped_override": false,
@@ -1008,6 +1033,7 @@
       "zh-Hans": "榛名",
       "zh-Hant": "榛名"
     },
+    "profile_image": "47edf33525e878941d863c68272cdd03",
     "icon": "cd19d94b2c27001280b257647d0c103e",
     "base_character": false,
     "is_uncapped_override": false,
@@ -1042,6 +1068,7 @@
       "zh-Hans": "诺诺",
       "zh-Hant": "諾諾"
     },
+    "profile_image": "bdcd4066abf6675a98e3418e58cb7197",
     "icon": "20a9f1095f2a99bf0f3b89fe435b2506",
     "base_character": false,
     "is_uncapped_override": false,
@@ -1083,6 +1110,7 @@
       "zh-Hans": "潘多拉涅墨西斯",
       "zh-Hant": "潘多拉涅墨西斯"
     },
+    "profile_image": "479374be93a43c2c6bc04ce704e6f2f5",
     "icon": "4a8084e7b53a43969eb1774be3d819f2",
     "base_character": false,
     "is_uncapped_override": false,
@@ -1124,6 +1152,7 @@
       "zh-Hans": "轩辕十四",
       "zh-Hant": "軒轅十四"
     },
+    "profile_image": "0cac4c00c9cf6dadff0c0ca942095753",
     "icon": "390f818d90178ab756f437c0a4ab935a",
     "base_character": false,
     "is_uncapped_override": true,
@@ -1165,6 +1194,7 @@
       "zh-Hans": "群愿",
       "zh-Hant": "群願"
     },
+    "profile_image": "811c5927b503e55c4598fc7967b6edd2",
     "icon": "bf89eec0ca5b3c08bdbe39a7535b4ddc",
     "base_character": false,
     "is_uncapped_override": true,
@@ -1199,6 +1229,7 @@
       "zh-Hans": "光",
       "zh-Hant": "光"
     },
+    "profile_image": "892afc44ca2e55886246098ca6f13fdd",
     "icon": "486f120ff061ad3ea961f65b1a75a2bb",
     "base_character": false,
     "is_uncapped_override": false,
@@ -1233,6 +1264,7 @@
       "zh-Hans": "对立",
       "zh-Hant": "對立"
     },
+    "profile_image": "617dc0f6a369d15570251a59f88a687f",
     "icon": "b46ef9e92a4f82c113e411b72d184373",
     "base_character_id": 1,
     "base_character": false,
@@ -1268,6 +1300,7 @@
       "zh-Hans": "兮娅",
       "zh-Hant": "兮婭"
     },
+    "profile_image": "cab0441e6b09b1d081c51cd56e2ea8ea",
     "icon": "d97ba90cd1e56c290d59f81c825d0af7",
     "base_character": false,
     "is_uncapped_override": false,
@@ -1309,6 +1342,7 @@
       "zh-Hans": "DORO*C",
       "zh-Hant": "DORO*C"
     },
+    "profile_image": "69da6e17d3cd81ae6157927b25b0fcce",
     "icon": "3b3c2c81decb09507057b36a32517477",
     "base_character": false,
     "is_uncapped_override": false,
@@ -1351,6 +1385,7 @@
       "zh-Hans": "对立",
       "zh-Hant": "對立"
     },
+    "profile_image": "bc280f78b49394f01c2ab1848eeda6fe",
     "icon": "bdd7fe355a0303914676505736dbc611",
     "base_character_id": 1,
     "base_character": false,
@@ -1393,9 +1428,10 @@
       "zh-Hans": "布丽兰特",
       "zh-Hant": "布麗蘭特"
     },
-    "icon": "d33702e9da5a91936472dbebcf073339",
+    "profile_image": "8811abd3c0c272d88dbe1313c30d5d0d",
+    "icon": "762664760a80443fbce7f489e1102f5e",
     "base_character": false,
-    "is_uncapped_override": false,
+    "is_uncapped_override": true,
     "is_uncapped": true,
     "uncap_cores": [],
     "char_type": 2,
@@ -1407,7 +1443,7 @@
     "prog": 90,
     "frag": 85,
     "level_exp": 10000,
-    "exp": 10062.4,
+    "exp": 10132,
     "level": 20,
     "name": "brilliante",
     "character_id": 36
@@ -1434,6 +1470,7 @@
       "zh-Hans": "依莉丝",
       "zh-Hant": "依麗絲"
     },
+    "profile_image": "7f43c79df522ed003d31d77cf23282bc",
     "icon": "653c9b23108ac97f4d36e00222c3ae2e",
     "base_character": false,
     "is_uncapped_override": false,
@@ -1468,6 +1505,7 @@
       "zh-Hans": "咲弥",
       "zh-Hant": "咲彌"
     },
+    "profile_image": "816b041126a24b9626ffb36352fc15e1",
     "icon": "4eba94a5dee941d77277432464746165",
     "base_character": false,
     "is_uncapped_override": false,
@@ -1502,6 +1540,7 @@
       "zh-Hans": "爱丽丝 & 坦尼尔",
       "zh-Hant": "愛麗絲 & 坦尼爾"
     },
+    "profile_image": "8a21678716f80716266ca515641a85df",
     "icon": "ff38cbd97671e49798d155532f506f08",
     "base_character": false,
     "is_uncapped_override": false,
@@ -1536,6 +1575,7 @@
       "zh-Hans": "露娜 & 美亚",
       "zh-Hant": "露娜 & 美亞"
     },
+    "profile_image": "615d5321cc83d9a9dfa9b268fd8599db",
     "icon": "54cf2b8db47ce6201e8a8a8128977c6e",
     "base_character": false,
     "is_uncapped_override": false,
@@ -1570,6 +1610,7 @@
       "zh-Hans": "阿莱乌斯",
       "zh-Hant": "阿萊烏斯"
     },
+    "profile_image": "98bc94bad78ad073d1904b1ac5955b2a",
     "icon": "7cfaed14aad6e59be583ac7b57cf0c24",
     "base_character": false,
     "is_uncapped_override": false,
@@ -1604,6 +1645,7 @@
       "zh-Hans": "希尔",
       "zh-Hant": "希爾"
     },
+    "profile_image": "7ae9b1fb8dd03fb730c1bf5b2f70803c",
     "icon": "e3b05299dba8a8c95fa1bca08231f8c2",
     "base_character": false,
     "is_uncapped_override": false,
@@ -1638,6 +1680,7 @@
       "zh-Hans": "伊莎贝尔",
       "zh-Hant": "伊莎貝爾"
     },
+    "profile_image": "22691bf13209986d16ca7887da6f333c",
     "icon": "15442349641fcd96006c3f7cb84a5e5d",
     "base_character": false,
     "is_uncapped_override": true,
@@ -1672,6 +1715,7 @@
       "zh-Hans": "迷尔",
       "zh-Hant": "迷爾"
     },
+    "profile_image": "cd683e999d65a86d29afdd0203565ca0",
     "icon": "b1bde1682766437f11d5f490db60c400",
     "base_character": false,
     "is_uncapped_override": false,
@@ -1706,6 +1750,7 @@
       "zh-Hans": "拉格兰",
       "zh-Hant": "拉格蘭"
     },
+    "profile_image": "69e5facbc411097170a0fb6f86e45499",
     "icon": "b47c0db2f6d883689f5693cff131b461",
     "base_character": false,
     "is_uncapped_override": false,
@@ -1740,6 +1785,7 @@
       "zh-Hans": "凛可",
       "zh-Hant": "凜花"
     },
+    "profile_image": "e191c360a15e5f2c34b2dd2d1b561833",
     "icon": "8e891e88d3f7e0a234ba014976627bf3",
     "base_character": false,
     "voice": [
@@ -1783,6 +1829,7 @@
       "zh-Hans": "奈美",
       "zh-Hant": "奈美"
     },
+    "profile_image": "dd82ed47ca165691b421c3d1df58ad8f",
     "icon": "cbbb8eda814b6f1f2798d697d9a22c9c",
     "base_character": false,
     "is_uncapped_override": false,
@@ -1817,6 +1864,7 @@
       "zh-Hans": "咲弥 & 伊莉莎白",
       "zh-Hant": "咲彌 & 伊莉莎白"
     },
+    "profile_image": "0c9e8452c845171043df04c0859d5b94",
     "icon": "fd6f124b41b3e6043f617cb5a00fa57d",
     "base_character": false,
     "is_uncapped_override": false,
@@ -1851,6 +1899,7 @@
       "zh-Hans": "莉莉",
       "zh-Hant": "莉莉"
     },
+    "profile_image": "fd1d4662ad1903928f3d88c292efdfc7",
     "icon": "63c77f27d51548c478cef24db3b0f025",
     "base_character": false,
     "is_uncapped_override": false,
@@ -1892,6 +1941,7 @@
       "zh-Hans": "群愿",
       "zh-Hant": "群願"
     },
+    "profile_image": "2a9bab3e4f0c2efdbab86ae1928ed061",
     "icon": "7cf5ee79e69e26d31f9a08d6fb487749",
     "base_character": false,
     "is_uncapped_override": false,
@@ -1926,6 +1976,7 @@
       "zh-Hans": "爱丽丝 & 坦尼尔",
       "zh-Hant": "愛麗絲 & 坦尼爾"
     },
+    "profile_image": "63e733e7cebed6d523d7918d6b0f598e",
     "icon": "648cc330d6ca424cc1e26872dc236836",
     "base_character": false,
     "is_uncapped_override": false,
@@ -1960,6 +2011,7 @@
       "zh-Hans": "对立",
       "zh-Hant": "對立"
     },
+    "profile_image": "426b481a91803864ad394e8de601fab1",
     "icon": "a0b21a87e96d55f6d4b1adee11d8c1d1",
     "base_character_id": 1,
     "base_character": false,
@@ -1995,6 +2047,7 @@
       "zh-Hans": "玛莉嘉",
       "zh-Hant": "瑪莉嘉"
     },
+    "profile_image": "f08cd04e95a2e65d6beb23965e674d90",
     "icon": "91e2aa69ac7a0abaecdae7e4543d2694",
     "base_character": false,
     "is_uncapped_override": false,
@@ -2029,6 +2082,7 @@
       "zh-Hans": "维塔",
       "zh-Hant": "維塔"
     },
+    "profile_image": "214b1e6591cd5a1babe365c389ba0441",
     "icon": "765111601e0567775d7812cb15c8e581",
     "base_character": false,
     "is_uncapped_override": false,
@@ -2072,6 +2126,7 @@
       "zh-Hans": "光",
       "zh-Hant": "光"
     },
+    "profile_image": "8db0edfefd074924b1cc34ab4595c5f5",
     "icon": "a1f923476a14c5025ca4a253d3b1d441",
     "base_character": false,
     "is_uncapped_override": false,
@@ -2106,6 +2161,7 @@
       "zh-Hans": "咲姬",
       "zh-Hant": "咲姬"
     },
+    "profile_image": "00f6a0b3c9dbea82ff6d5d68b4734d56",
     "icon": "da8c7dcf5a95c35d3891e4d8d176bd32",
     "base_character": false,
     "is_uncapped_override": false,
@@ -2140,6 +2196,7 @@
       "zh-Hans": "刹那",
       "zh-Hant": "剎那"
     },
+    "profile_image": "2674393a23c42831670076c82ae35af5",
     "icon": "370d508453bdaa2ea6f3f97ab8bb331f",
     "base_character": false,
     "is_uncapped_override": false,
@@ -2174,6 +2231,7 @@
       "zh-Hans": "天音",
       "zh-Hant": "天音"
     },
+    "profile_image": "d198b9c6d3a7cef511c8653b9ab72168",
     "icon": "4c736129a9bc3032d1d4e0bb7efcb908",
     "base_character": false,
     "is_uncapped_override": false,
@@ -2215,6 +2273,7 @@
       "zh-Hans": "红",
       "zh-Hant": "紅"
     },
+    "profile_image": "eeab85ef1a7ebf830b5f4c6003b94ed4",
     "icon": "273b9745114c8b96e53ba52cc8ab8078",
     "base_character": false,
     "is_uncapped_override": false,
@@ -2249,6 +2308,7 @@
       "zh-Hans": "拉格兰",
       "zh-Hant": "拉格蘭"
     },
+    "profile_image": "40486c8dcb7845dd64d23dabc5aef987",
     "icon": "da6396ba5aa8df9a507beba344e13adb",
     "base_character": false,
     "is_uncapped_override": false,
@@ -2290,6 +2350,7 @@
       "zh-Hans": "忘却",
       "zh-Hant": "忘卻"
     },
+    "profile_image": "84878dc97dda07179678375b685c92c7",
     "icon": "e25787b4a13afa51f2721965fdd3e699",
     "base_character": false,
     "is_uncapped_override": false,
@@ -2331,6 +2392,7 @@
       "zh-Hans": "夏玛",
       "zh-Hant": "夏瑪"
     },
+    "profile_image": "03f600fea144e9db8008083eb33d7abb",
     "icon": "fbd0903e0da227a5da5427bc79ecf94f",
     "base_character": false,
     "is_uncapped_override": false,
@@ -2372,6 +2434,7 @@
       "zh-Hans": "咪璐库",
       "zh-Hant": "咪璐庫"
     },
+    "profile_image": "ddc97d01912e45a4aeb91f79c74e22cd",
     "icon": "dab2f0df1ac9f09e22b8ac4f5d533c6e",
     "base_character": false,
     "is_uncapped_override": false,
@@ -2406,6 +2469,7 @@
       "zh-Hans": "紫黑",
       "zh-Hant": "紫黑"
     },
+    "profile_image": "637067bd566c61bf0dfd8f35dbf25f9e",
     "icon": "52ddae47852fe860586a2b982730c64c",
     "base_character": false,
     "is_uncapped_override": false,
@@ -2440,6 +2504,7 @@
       "zh-Hans": "百合咲美香",
       "zh-Hant": "百合咲美香"
     },
+    "profile_image": "a5789817741274f4ca80461574f02e81",
     "icon": "e3d130a218ffe1052dac58320cfb2a5b",
     "base_character": false,
     "is_uncapped_override": false,
@@ -2474,6 +2539,7 @@
       "zh-Hans": "密特拉·泰尔塞拉",
       "zh-Hant": "密特拉·泰爾賽拉"
     },
+    "profile_image": "7452896d6a0a2816f696d3781d430ea9",
     "icon": "1873b62848b4f037e00903f925b8cb5d",
     "base_character": false,
     "is_uncapped_override": false,
@@ -2508,6 +2574,7 @@
       "zh-Hans": "不来方永爱",
       "zh-Hant": "不來方永愛"
     },
+    "profile_image": "0b1f6464fb69f5a15165d9723e73502b",
     "icon": "0f62b6df31caf4f12a272baf424c4b3f",
     "base_character": false,
     "is_uncapped_override": false,
@@ -2549,6 +2616,7 @@
       "zh-Hans": "奈美",
       "zh-Hant": "奈美"
     },
+    "profile_image": "5b0028f6f551baf2a812513429b25ee4",
     "icon": "bb176f336c50fc5e2a7a84fd73e016d8",
     "base_character": false,
     "is_uncapped_override": false,
@@ -2559,12 +2627,12 @@
     "skill_requires_uncap": false,
     "skill_unlock_level": 0,
     "skill_id": "skill_nami_twilight",
-    "overdrive": 48.29012975652427,
-    "prog": 59.131068668902174,
-    "frag": 44.251348593089375,
-    "level_exp": 1200,
-    "exp": 1250,
-    "level": 10,
+    "overdrive": 53.67757690625456,
+    "prog": 71.56363901443359,
+    "frag": 47.01414200320747,
+    "level_exp": 2100,
+    "exp": 2629.7527400000004,
+    "level": 12,
     "name": "nami_twilight",
     "character_id": 68
   },
@@ -2583,6 +2651,7 @@
       "zh-Hans": "Ilith & Ivy",
       "zh-Hant": "Ilith & Ivy"
     },
+    "profile_image": "6e023f6cd4e4c580f4c9646f8b315ac4",
     "icon": "bce5ec7004ae093b03a6862082cfc9f4",
     "base_character": false,
     "is_uncapped_override": false,
@@ -2617,6 +2686,7 @@
       "zh-Hans": "Hikari & Vanessa",
       "zh-Hant": "Hikari & Vanessa"
     },
+    "profile_image": "7f69351ddebe38cb238b5d2b53fb6812",
     "icon": "5b2c247b08f5631581ec647a0ff89ae5",
     "base_character": false,
     "is_uncapped_override": false,
@@ -2651,6 +2721,7 @@
       "zh-Hans": "摩耶",
       "zh-Hant": "摩耶"
     },
+    "profile_image": "6a56c09704793b68a4a9f1841d618410",
     "icon": "66d3aee65f83b145676470230cbc0525",
     "skill_state": "add_random",
     "base_character": false,
@@ -2693,6 +2764,7 @@
       "zh-Hans": "洞烛",
       "zh-Hant": "洞燭"
     },
+    "profile_image": "b614d2fe07566492b43018bfd02b5979",
     "icon": "4cf56e73f2f6b885fc52b064bc9d1c79",
     "base_character": false,
     "is_uncapped_override": false,
@@ -2734,6 +2806,7 @@
       "zh-Hans": "露恩",
       "zh-Hant": "露恩"
     },
+    "profile_image": "4aa5972f1dd1325528fd4a572fc1600a",
     "icon": "7b38682cd25ad9892e7b062f114ff5d7",
     "base_character": false,
     "is_uncapped_override": false,
@@ -2768,6 +2841,7 @@
       "zh-Hans": "维塔",
       "zh-Hant": "維塔"
     },
+    "profile_image": "78c417b5139e0d87b6230de7351ccfbf",
     "icon": "a258cc23a8bb181d718958c2d1231a22",
     "base_character": false,
     "is_uncapped_override": false,
@@ -2802,6 +2876,7 @@
       "zh-Hans": "Ai酱",
       "zh-Hant": "Ai醬"
     },
+    "profile_image": "b2954302402a3f416f4d9614d4b8e526",
     "icon": "ce0a6662ccca5a297632f9603349ca6d",
     "base_character": false,
     "is_uncapped_override": false,
@@ -2836,6 +2911,7 @@
       "zh-Hans": "露娜 & 伊洛",
       "zh-Hant": "露娜 & 伊洛"
     },
+    "profile_image": "d61fd2cd4fb7a92eddb22ed83bcffa99",
     "icon": "a9e2cce21ed708259596f0c285ced7de",
     "base_character": false,
     "is_uncapped_override": false,
@@ -2870,6 +2946,7 @@
       "zh-Hans": "爱托 & 荷珀",
       "zh-Hant": "愛托 & 荷珀"
     },
+    "profile_image": "04341ac9921f14c0c70b1c861c0cc251",
     "icon": "79e65f8106dd047c4e94d37a50da2e75",
     "base_character": false,
     "is_uncapped_override": false,
@@ -2884,7 +2961,7 @@
     "prog": 47.606648199445985,
     "frag": 35.610511736404725,
     "level_exp": 3400,
-    "exp": 3604.73562,
+    "exp": 3669.97239,
     "level": 14,
     "name": "eto_hoppe",
     "character_id": 77
@@ -2911,6 +2988,7 @@
       "zh-Hans": "哀寂",
       "zh-Hant": "哀寂"
     },
+    "profile_image": "be0e5fb2b5a3ed2030978b3a200f9560",
     "icon": "a5bdd3211c5139efb62f179530e46780",
     "base_character": false,
     "is_uncapped_override": false,
@@ -2921,12 +2999,12 @@
     "skill_requires_uncap": false,
     "skill_unlock_level": 0,
     "skill_id": "skill_nell",
-    "overdrive": 54.86550517568159,
-    "prog": 101.84298002624288,
-    "frag": 88.99227292608252,
-    "level_exp": 5100,
-    "exp": 6024.427999999999,
-    "level": 16,
+    "overdrive": 55.49008601837002,
+    "prog": 102.98192156291005,
+    "frag": 89.98425426447004,
+    "level_exp": 8500,
+    "exp": 9104.857699999995,
+    "level": 19,
     "name": "nell",
     "character_id": 78
   },
@@ -2945,6 +3023,7 @@
       "zh-Hans": "千夏",
       "zh-Hant": "千夏"
     },
+    "profile_image": "1b478b207751d4f853cc52021fd1a5e5",
     "icon": "38a9f275142e520ad873734d5f25e0bb",
     "base_character": false,
     "is_uncapped_override": false,
@@ -2979,6 +3058,7 @@
       "zh-Hans": "纺",
       "zh-Hant": "紡"
     },
+    "profile_image": "06c6eba54b9d9440babba286cabd3228",
     "icon": "238a5e73606a7c24506629c72a23ac5f",
     "base_character": false,
     "is_uncapped_override": false,
@@ -3013,6 +3093,7 @@
       "zh-Hans": "奈伊",
       "zh-Hant": "奈伊"
     },
+    "profile_image": "8b911d7ab83d05b102a264dc5c8060cf",
     "icon": "664efb508167fb70f0a4bb697d0920b7",
     "base_character": false,
     "is_uncapped_override": false,
@@ -3054,6 +3135,7 @@
       "zh-Hans": "赛润妮·雪儿",
       "zh-Hant": "賽潤妮·雪兒"
     },
+    "profile_image": "b94d3bdc21425f186996f651a37a839f",
     "icon": "c14441e255f0a331d377e4914e159daf",
     "base_character": false,
     "is_uncapped_override": true,
@@ -3088,6 +3170,7 @@
       "zh-Hans": "莎露朵",
       "zh-Hant": "莎露朵"
     },
+    "profile_image": "038c7249af69c0ab9f59787c271b4571",
     "icon": "1b2927bc17fe00d6812ff68a633efd5d",
     "base_character": false,
     "is_uncapped_override": false,
@@ -3122,6 +3205,7 @@
       "zh-Hans": "埃希德",
       "zh-Hant": "埃希德"
     },
+    "profile_image": "29143be506f928ddda23f84b5daceafc",
     "icon": "47c1820f78b6890c53eac1d0ebea76d4",
     "base_character": false,
     "is_uncapped_override": true,
@@ -3163,6 +3247,7 @@
       "zh-Hans": "光 & 赛润妮·雪儿",
       "zh-Hant": "光 & 賽潤妮·雪兒"
     },
+    "profile_image": "8ace1575d0cb5cb9c9971946108684a7",
     "icon": "8b9d6b1a9928a4f21000428019a2a26e",
     "base_character": false,
     "is_uncapped_override": false,
@@ -3184,6 +3269,41 @@
   },
   {
     "skill_id_text": {
+      "en": "FEVER GAUGE + Earn 1 Fragment when\nFEVER reaches x5",
+      "ja": "TODO",
+      "ko": "TODO",
+      "zh-Hans": "TODO",
+      "zh-Hant": "TODO"
+    },
+    "display_name": {
+      "en": "Hikari & El Clear",
+      "ja": "光＆エル・クリア",
+      "ko": "히카리 & 엘 클리어",
+      "zh-Hans": "光 & 克莱尔",
+      "zh-Hant": "光 & 克萊爾"
+    },
+    "profile_image": "47a56ab47acc5e78b4717580320b701c",
+    "icon": "a87dcce5f94c9e197ad7c57be75b9b74",
+    "base_character": false,
+    "is_uncapped_override": false,
+    "is_uncapped": false,
+    "uncap_cores": [],
+    "char_type": 0,
+    "skill_id_uncap": "",
+    "skill_requires_uncap": false,
+    "skill_unlock_level": 0,
+    "skill_id": "skill_hikari_clear",
+    "overdrive": 21.14528356903339,
+    "prog": 29.653010642950868,
+    "frag": 25.149147105992128,
+    "level_exp": 450,
+    "exp": 536.51889,
+    "level": 7,
+    "name": "hikari_clear",
+    "character_id": 86
+  },
+  {
+    "skill_id_text": {
       "en": "Earn +10 Fragments\nupon clearing a preferred song",
       "ja": "白姫の気まぐれ曲をクリア時\n欠片を+10獲得",
       "ko": "파트너의 선호 악곡 클리어시 \n+10 조각 획득",
@@ -3197,6 +3317,7 @@
       "zh-Hans": "白姬",
       "zh-Hant": "白姬"
     },
+    "profile_image": "5144b6b1278f82dc42d9817aa17c5f88",
     "icon": "c7bbddcbf8bef3483ec80278d9bd96cc",
     "base_character": false,
     "is_uncapped_override": false,

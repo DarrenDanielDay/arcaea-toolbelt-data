@@ -119,14 +119,14 @@
             "length": 9,
             "special": {
               "type": 2,
-              "range": "Qualia -ideaesthesia-"
+              "range": "qualia -ideaesthesia-"
             }
           },
           {
             "length": 9,
             "special": {
               "type": 2,
-              "range": "Qualia -ideaesthesia-"
+              "range": "qualia -ideaesthesia-"
             }
           },
           {
@@ -7634,11 +7634,7 @@
             }
           },
           {
-            "length": 10,
-            "reward": {
-              "type": 1,
-              "id": "etherstrike"
-            }
+            "length": 10
           },
           {
             "length": 10,
@@ -9678,6 +9674,8 @@
             "special": {
               "type": 3,
               "range": [
+                "Alexandrite",
+                "Vicious Heroism",
                 "Cyaegha",
                 "In Vain",
                 "Hypnotize",
@@ -9692,6 +9690,8 @@
             "special": {
               "type": 3,
               "range": [
+                "Alexandrite",
+                "Vicious Heroism",
                 "Cyaegha",
                 "In Vain",
                 "Hypnotize",
@@ -9706,6 +9706,8 @@
             "special": {
               "type": 3,
               "range": [
+                "Alexandrite",
+                "Vicious Heroism",
                 "Cyaegha",
                 "In Vain",
                 "Hypnotize",
@@ -9720,6 +9722,8 @@
             "special": {
               "type": 3,
               "range": [
+                "Alexandrite",
+                "Vicious Heroism",
                 "Cyaegha",
                 "In Vain",
                 "Hypnotize",
@@ -12555,21 +12559,21 @@
         "id": "5-4",
         "platforms": [
           {
-            "length": 50,
+            "length": 8,
             "special": {
               "type": 2,
               "range": "Tempestissimo"
             }
           },
           {
-            "length": 50,
+            "length": 8,
             "special": {
               "type": 2,
               "range": "Black Fate"
             }
           },
           {
-            "length": 50,
+            "length": 8,
             "special": {
               "type": 3,
               "range": "Black Fate"
@@ -12589,6 +12593,29 @@
             "length": 1
           },
           {
+            "length": 2,
+            "special": {
+              "type": 2,
+              "range": "Black Fate"
+            }
+          },
+          {
+            "length": 3
+          },
+          {
+            "length": 5
+          },
+          {
+            "length": 7,
+            "special": {
+              "type": 3,
+              "range": "Black Fate"
+            }
+          },
+          {
+            "length": 8
+          },
+          {
             "length": 10,
             "special": {
               "type": 2,
@@ -12596,36 +12623,13 @@
             }
           },
           {
-            "length": 20
+            "length": 12
           },
           {
-            "length": 30
+            "length": 13
           },
           {
-            "length": 40,
-            "special": {
-              "type": 3,
-              "range": "Black Fate"
-            }
-          },
-          {
-            "length": 50
-          },
-          {
-            "length": 60,
-            "special": {
-              "type": 2,
-              "range": "Black Fate"
-            }
-          },
-          {
-            "length": 70
-          },
-          {
-            "length": 80
-          },
-          {
-            "length": 90,
+            "length": 15,
             "special": {
               "type": 3,
               "range": "Black Fate"
@@ -18307,7 +18311,7 @@
             "length": 10,
             "special": {
               "type": 3,
-              "range": "͟͝͞Ⅱ́̕ "
+              "range": "II"
             }
           },
           {
@@ -20767,6 +20771,181 @@
             "reward": {
               "type": 2,
               "id": 85
+            }
+          }
+        ]
+      },
+      {
+        "id": "9-6",
+        "platforms": [
+          {
+            "length": 3
+          },
+          {
+            "length": 3
+          },
+          {
+            "length": 6
+          },
+          {
+            "length": 6
+          },
+          {
+            "length": 9,
+            "special": {
+              "type": 2,
+              "range": [
+                "Won't Back Down",
+                "Ladymade Star",
+                "End of The Moonlight",
+                "OBLIVION",
+                "U.A.D",
+                "Nightmare",
+                "Tic! Tac! Toe!",
+                "Don't Die"
+              ]
+            }
+          },
+          {
+            "length": 9,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 200
+            }
+          },
+          {
+            "length": 6
+          },
+          {
+            "length": 6
+          },
+          {
+            "length": 3
+          },
+          {
+            "length": 3,
+            "special": {
+              "type": 2,
+              "range": [
+                "Won't Back Down",
+                "Ladymade Star",
+                "End of The Moonlight",
+                "OBLIVION",
+                "U.A.D",
+                "Nightmare",
+                "Tic! Tac! Toe!",
+                "Don't Die"
+              ]
+            }
+          },
+          {
+            "length": 6,
+            "reward": {
+              "type": 0,
+              "name": "以太之滴",
+              "count": 1
+            }
+          },
+          {
+            "length": 6
+          },
+          {
+            "length": 9
+          },
+          {
+            "length": 9
+          },
+          {
+            "length": 12,
+            "special": {
+              "type": 2,
+              "range": [
+                "Won't Back Down",
+                "Ladymade Star",
+                "End of The Moonlight",
+                "OBLIVION",
+                "U.A.D",
+                "Nightmare",
+                "Tic! Tac! Toe!",
+                "Don't Die"
+              ]
+            }
+          },
+          {
+            "length": 12,
+            "reward": {
+              "type": 0,
+              "name": "以太之滴",
+              "count": 1
+            }
+          },
+          {
+            "length": 9
+          },
+          {
+            "length": 9
+          },
+          {
+            "length": 6
+          },
+          {
+            "length": 6,
+            "special": {
+              "type": 2,
+              "range": [
+                "Won't Back Down",
+                "Ladymade Star",
+                "End of The Moonlight",
+                "OBLIVION",
+                "U.A.D",
+                "Nightmare",
+                "Tic! Tac! Toe!",
+                "Don't Die"
+              ]
+            }
+          },
+          {
+            "length": 9,
+            "reward": {
+              "type": 0,
+              "name": "以太之滴",
+              "count": 2
+            }
+          },
+          {
+            "length": 9
+          },
+          {
+            "length": 12
+          },
+          {
+            "length": 12
+          },
+          {
+            "length": 15
+          },
+          {
+            "length": 15,
+            "special": {
+              "type": 3,
+              "range": [
+                "Won't Back Down",
+                "Ladymade Star",
+                "End of The Moonlight",
+                "OBLIVION",
+                "U.A.D",
+                "Nightmare",
+                "Tic! Tac! Toe!",
+                "Don't Die"
+              ]
+            }
+          },
+          {
+            "length": 0,
+            "reward": {
+              "type": 2,
+              "id": 86
             }
           }
         ]

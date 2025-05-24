@@ -51,13 +51,17 @@ async function getWikiCharacterTable(): Promise<CharacterTableData[]> {
       ["洞烛", "拉可弥拉"],
       ["哀寂", "尼尔"],
     ];
-    const rename = renames.find((r) => name?.includes(r[0]));
-    if (rename) {
-      name = name.replaceAll(...rename);
-    }
-    const ref = characters.find(
-      (c) => c.display_name["zh-Hans"] === name && (!variant || variant === c.variant?.["zh-Hans"])
-    );
+    const alias = renames.find((r) => r.some((n) => name?.includes(n)));
+    const ref = characters.find((c) => {
+      if (alias) {
+        if (alias.every((n) => !c.display_name["zh-Hans"].includes(n))) {
+          return false;
+        }
+      } else if (c.display_name["zh-Hans"] !== name) {
+        return false;
+      }
+      return !variant || variant === c.variant?.["zh-Hans"];
+    });
     if (!ref) {
       console.log({
         fullName,
@@ -93,7 +97,7 @@ export async function fetchWikiCharacterAndCharacterCoreItemData(): Promise<{
   cores: ItemData[];
 }> {
   const tableData = await getWikiCharacterTable();
-  const itemTable = htmlDocument.querySelector(`#mw-content-text > div.mw-parser-output > table:nth-child(70)`)!;
+  const itemTable = htmlDocument.querySelector(`#mw-content-text > div.mw-parser-output > table:nth-child(69)`)!;
   const itemImgs = Array.from(itemTable.querySelectorAll("img"));
   const items = itemImgs.map<ItemData>((img) => {
     return {

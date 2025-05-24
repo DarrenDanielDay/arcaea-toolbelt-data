@@ -444,6 +444,22 @@
       }
     },
     {
+      "id": "djmax",
+      "section": "collab",
+      "custom_banner": true,
+      "plus_character": 86,
+      "name_localized": {
+        "en": "DJMAX"
+      },
+      "description_localized": {
+        "en": "Ready to pay respect?\n\nFrom across the DJMAX series come 5 timeless\nsongs!\n\nBring Hikari & El Clear to your side,\nlet the fever take hold!",
+        "ja": "DJMAXシリーズより、\n時代を超える不朽の名作を5つ収録！\n最大限の敬意を、いまのあなたへ。\n\n光＆エル・クリアと共に、\nFEVERの渦を駆け昇ろう！",
+        "ko": "RESPECT! 존경을 표하세요.\n\nDJMAX로부터 건너온 5개의 시대를 초월한 악곡들!\n\n히카리 & 엘 클리어와 함께, \n온 몸을 타고 흐르는 FEVER를 느껴보세요!",
+        "zh-Hant": "準備好PAY RESPECT了嗎？\n\n千禧年代經典之作——DJMAX的五首金曲到來。\n\n讓光&克萊爾陪伴你，一起進入FEVER模式吧！",
+        "zh-Hans": "准备好PAY RESPECT了吗？\n\n千禧年代经典之作——DJMAX的五首金曲到来。\n\n让光&克莱尔陪伴你，一起进入FEVER模式吧！"
+      }
+    },
+    {
       "id": "undertale",
       "section": "collab",
       "plus_character": -1,

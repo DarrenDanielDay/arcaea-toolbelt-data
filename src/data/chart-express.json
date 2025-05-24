@@ -1,66 +1,110 @@
 [
   {
-    "songId": "snowwhite",
+    "songId": "wontbackdown",
     "charts": [
-      null,
-      null,
-      null,
       {
-        "constant": 9.7
+        "constant": 3.5
       },
+      {
+        "constant": 6.5
+      },
+      {
+        "constant": 9.8
+      },
+      null,
       null
     ]
   },
   {
-    "songId": "anokumene",
+    "songId": "dontdie",
     "charts": [
-      null,
-      null,
+      {
+        "constant": 3.5
+      },
+      {
+        "constant": 7
+      },
+      {
+        "constant": 9.4
+      },
       null,
       {
-        "constant": 9.9
+        "constant": 10.1
+      }
+    ]
+  },
+  {
+    "songId": "ladymadestar",
+    "charts": [
+      {
+        "constant": 2.5
       },
+      {
+        "constant": 6.5
+      },
+      {
+        "constant": 8.4
+      },
+      null,
+      {
+        "constant": 9.2
+      }
+    ]
+  },
+  {
+    "songId": "endmoonlight",
+    "charts": [
+      {
+        "constant": 3
+      },
+      {
+        "constant": 5.5
+      },
+      {
+        "constant": 9.5
+      },
+      null,
       null
     ]
   },
   {
-    "songId": "nhelv",
+    "songId": "uad",
     "charts": [
-      null,
-      null,
+      {
+        "constant": 3.5
+      },
+      {
+        "constant": 6.5
+      },
+      {
+        "constant": 8.7
+      },
       null,
       {
-        "constant": 10.9
-      },
-      null
+        "constant": 9.8
+      }
     ]
   },
   {
-    "songId": "altale",
+    "songId": "oblivion",
     "charts": [
-      null,
-      null,
+      {
+        "constant": 4
+      },
+      {
+        "constant": 7
+      },
+      {
+        "constant": 9.5
+      },
       null,
       {
-        "constant": 10
-      },
-      null
+        "constant": 10.1
+      }
     ]
   },
   {
-    "songId": "energysynergymatrix",
-    "charts": [
-      null,
-      null,
-      null,
-      {
-        "constant": 10.3
-      },
-      null
-    ]
-  },
-  {
-    "songId": "tau",
+    "songId": "nightmare",
     "charts": [
       {
         "constant": 4.5
@@ -69,26 +113,30 @@
         "constant": 7.8
       },
       {
-        "constant": 9.7
+        "constant": 9.8
       },
       null,
-      null
+      {
+        "constant": 10.8
+      }
     ]
   },
   {
-    "songId": "dullblade",
+    "songId": "tictactoe",
     "charts": [
       {
-        "constant": 4.5
+        "constant": 3.5
       },
       {
-        "constant": 8
+        "constant": 7.5
       },
       {
-        "constant": 10.5
+        "constant": 8.8
       },
       null,
-      null
+      {
+        "constant": 9.9
+      }
     ]
   }
 ]

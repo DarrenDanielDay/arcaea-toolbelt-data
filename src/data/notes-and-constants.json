@@ -8941,5 +8941,175 @@
       null,
       null
     ]
+  },
+  {
+    "id": "wontbackdown",
+    "charts": [
+      {
+        "notes": 437,
+        "constant": 3.5
+      },
+      {
+        "notes": 551,
+        "constant": 6.5
+      },
+      {
+        "notes": 1015,
+        "constant": 9.8
+      },
+      null,
+      null
+    ]
+  },
+  {
+    "id": "dontdie",
+    "charts": [
+      {
+        "notes": 460,
+        "constant": 3.5
+      },
+      {
+        "notes": 565,
+        "constant": 7
+      },
+      {
+        "notes": 793,
+        "constant": 9.4
+      },
+      null,
+      {
+        "notes": 1004,
+        "constant": 10.1
+      }
+    ]
+  },
+  {
+    "id": "ladymadestar",
+    "charts": [
+      {
+        "notes": 394,
+        "constant": 2.5
+      },
+      {
+        "notes": 491,
+        "constant": 6.5
+      },
+      {
+        "notes": 636,
+        "constant": 8.4
+      },
+      null,
+      {
+        "notes": 753,
+        "constant": 9.2
+      }
+    ]
+  },
+  {
+    "id": "endmoonlight",
+    "charts": [
+      {
+        "notes": 340,
+        "constant": 3
+      },
+      {
+        "notes": 434,
+        "constant": 5.5
+      },
+      {
+        "notes": 738,
+        "constant": 9.5
+      },
+      null,
+      null
+    ]
+  },
+  {
+    "id": "uad",
+    "charts": [
+      {
+        "notes": 366,
+        "constant": 3.5
+      },
+      {
+        "notes": 526,
+        "constant": 6.5
+      },
+      {
+        "notes": 643,
+        "constant": 8.7
+      },
+      null,
+      {
+        "notes": 836,
+        "constant": 9.8
+      }
+    ]
+  },
+  {
+    "id": "oblivion",
+    "charts": [
+      {
+        "notes": 469,
+        "constant": 4
+      },
+      {
+        "notes": 527,
+        "constant": 7
+      },
+      {
+        "notes": 759,
+        "constant": 9.5
+      },
+      null,
+      {
+        "notes": 871,
+        "constant": 10.1
+      }
+    ]
+  },
+  {
+    "id": "nightmare",
+    "charts": [
+      {
+        "notes": 680,
+        "constant": 4.5
+      },
+      {
+        "notes": 757,
+        "constant": 7.8
+      },
+      {
+        "notes": 901,
+        "constant": 9.8
+      },
+      null,
+      {
+        "notes": 1116,
+        "constant": 10.8
+      }
+    ]
+  },
+  {
+    "id": "tictactoe",
+    "charts": [
+      {
+        "notes": 353,
+        "constant": 3.5
+      },
+      {
+        "notes": 505,
+        "constant": 7.5
+      },
+      {
+        "notes": 760,
+        "constant": 8.8
+      },
+      null,
+      {
+        "notes": 907,
+        "constant": 9.9
+      }
+    ]
   }
 ]

@@ -23056,5 +23056,426 @@
     "version": {
       "added": "6.4"
     }
+  },
+  {
+    "bpm": "165",
+    "side": 1,
+    "id": "wontbackdown",
+    "name": "Won't Back Down",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "World Extend 3",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 3.5,
+        "difficulty": "pst",
+        "designer": "én",
+        "id": "wontbackdown@pst",
+        "level": 3,
+        "note": 437,
+        "songId": "wontbackdown"
+      },
+      {
+        "constant": 6.5,
+        "difficulty": "prs",
+        "designer": "én",
+        "id": "wontbackdown@prs",
+        "level": 6,
+        "note": 551,
+        "songId": "wontbackdown"
+      },
+      {
+        "constant": 9.8,
+        "difficulty": "ftr",
+        "designer": "én",
+        "id": "wontbackdown@ftr",
+        "level": 9,
+        "note": 1015,
+        "songId": "wontbackdown",
+        "plus": true
+      }
+    ],
+    "version": {
+      "added": "6.5"
+    }
+  },
+  {
+    "bpm": "175",
+    "side": 1,
+    "id": "dontdie",
+    "name": "Don't Die",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Memory Archive",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 3.5,
+        "difficulty": "pst",
+        "designer": "nora::neko",
+        "id": "dontdie@pst",
+        "level": 3,
+        "note": 460,
+        "songId": "dontdie"
+      },
+      {
+        "constant": 7,
+        "difficulty": "prs",
+        "designer": "nora::neko",
+        "id": "dontdie@prs",
+        "level": 7,
+        "note": 565,
+        "songId": "dontdie"
+      },
+      {
+        "constant": 9.4,
+        "difficulty": "ftr",
+        "designer": "nora::neko",
+        "id": "dontdie@ftr",
+        "level": 9,
+        "note": 793,
+        "songId": "dontdie"
+      },
+      {
+        "constant": 10.1,
+        "difficulty": "etr",
+        "designer": "nora::neko",
+        "id": "dontdie@etr",
+        "level": 10,
+        "note": 1004,
+        "songId": "dontdie"
+      }
+    ],
+    "version": {
+      "added": "6.5"
+    }
+  },
+  {
+    "bpm": "136",
+    "side": 0,
+    "id": "ladymadestar",
+    "name": "Ladymade Star",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "DJMAX",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 2.5,
+        "difficulty": "pst",
+        "designer": "Nitro -FEVER-",
+        "id": "ladymadestar@pst",
+        "level": 2,
+        "note": 394,
+        "songId": "ladymadestar"
+      },
+      {
+        "constant": 6.5,
+        "difficulty": "prs",
+        "designer": "Nitro -STAGE-",
+        "id": "ladymadestar@prs",
+        "level": 6,
+        "note": 491,
+        "songId": "ladymadestar"
+      },
+      {
+        "constant": 8.4,
+        "difficulty": "ftr",
+        "designer": "Nitro -PLATINUM-",
+        "id": "ladymadestar@ftr",
+        "level": 8,
+        "note": 636,
+        "songId": "ladymadestar"
+      },
+      {
+        "constant": 9.2,
+        "difficulty": "etr",
+        "designer": "Nitro -RESPECT-",
+        "id": "ladymadestar@etr",
+        "level": 9,
+        "note": 753,
+        "songId": "ladymadestar"
+      }
+    ],
+    "version": {
+      "added": "6.5"
+    }
+  },
+  {
+    "bpm": "155",
+    "side": 1,
+    "id": "endmoonlight",
+    "name": "End of The Moonlight",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "DJMAX",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 3,
+        "difficulty": "pst",
+        "designer": "sidewaves",
+        "id": "endmoonlight@pst",
+        "level": 3,
+        "note": 340,
+        "songId": "endmoonlight"
+      },
+      {
+        "constant": 5.5,
+        "difficulty": "prs",
+        "designer": "sidewaves",
+        "id": "endmoonlight@prs",
+        "level": 5,
+        "note": 434,
+        "songId": "endmoonlight"
+      },
+      {
+        "constant": 9.5,
+        "difficulty": "ftr",
+        "designer": "sidewaves",
+        "id": "endmoonlight@ftr",
+        "level": 9,
+        "note": 738,
+        "songId": "endmoonlight"
+      }
+    ],
+    "version": {
+      "added": "6.5"
+    }
+  },
+  {
+    "bpm": "129",
+    "side": 0,
+    "id": "uad",
+    "name": "U.A.D",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "DJMAX",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 3.5,
+        "difficulty": "pst",
+        "designer": "Exschwas⇅on",
+        "id": "uad@pst",
+        "level": 3,
+        "note": 366,
+        "songId": "uad"
+      },
+      {
+        "constant": 6.5,
+        "difficulty": "prs",
+        "designer": "Exschwas⇅on",
+        "id": "uad@prs",
+        "level": 6,
+        "note": 526,
+        "songId": "uad"
+      },
+      {
+        "constant": 8.7,
+        "difficulty": "ftr",
+        "designer": "Exschwas⇅on",
+        "id": "uad@ftr",
+        "level": 8,
+        "note": 643,
+        "songId": "uad",
+        "plus": true
+      },
+      {
+        "constant": 9.8,
+        "difficulty": "etr",
+        "designer": "Exschwas⇅on",
+        "id": "uad@etr",
+        "level": 9,
+        "note": 836,
+        "songId": "uad",
+        "plus": true
+      }
+    ],
+    "version": {
+      "added": "6.5"
+    }
+  },
+  {
+    "bpm": "141",
+    "side": 1,
+    "id": "oblivion",
+    "name": "OBLIVION",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "DJMAX",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 4,
+        "difficulty": "pst",
+        "designer": "Toaster",
+        "id": "oblivion@pst",
+        "level": 4,
+        "note": 469,
+        "songId": "oblivion"
+      },
+      {
+        "constant": 7,
+        "difficulty": "prs",
+        "designer": "Toaster",
+        "id": "oblivion@prs",
+        "level": 7,
+        "note": 527,
+        "songId": "oblivion"
+      },
+      {
+        "constant": 9.5,
+        "difficulty": "ftr",
+        "designer": "Toaster",
+        "id": "oblivion@ftr",
+        "level": 9,
+        "note": 759,
+        "songId": "oblivion"
+      },
+      {
+        "constant": 10.1,
+        "difficulty": "etr",
+        "designer": "Toaster",
+        "id": "oblivion@etr",
+        "level": 10,
+        "note": 871,
+        "songId": "oblivion"
+      }
+    ],
+    "version": {
+      "added": "6.5"
+    }
+  },
+  {
+    "bpm": "190",
+    "side": 1,
+    "id": "nightmare",
+    "name": "Nightmare",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "DJMAX",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 4.5,
+        "difficulty": "pst",
+        "designer": "零下",
+        "id": "nightmare@pst",
+        "level": 4,
+        "note": 680,
+        "songId": "nightmare"
+      },
+      {
+        "constant": 7.8,
+        "difficulty": "prs",
+        "designer": "零下",
+        "id": "nightmare@prs",
+        "level": 7,
+        "note": 757,
+        "songId": "nightmare"
+      },
+      {
+        "constant": 9.8,
+        "difficulty": "ftr",
+        "designer": "零下",
+        "id": "nightmare@ftr",
+        "level": 9,
+        "note": 901,
+        "songId": "nightmare",
+        "plus": true
+      },
+      {
+        "constant": 10.8,
+        "difficulty": "etr",
+        "designer": "零下",
+        "id": "nightmare@etr",
+        "level": 10,
+        "note": 1116,
+        "songId": "nightmare",
+        "plus": true
+      }
+    ],
+    "version": {
+      "added": "6.5"
+    }
+  },
+  {
+    "bpm": "126",
+    "side": 0,
+    "id": "tictactoe",
+    "name": "Tic! Tac! Toe!",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Memory Archive",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 3.5,
+        "difficulty": "pst",
+        "designer": "moonquay",
+        "id": "tictactoe@pst",
+        "level": 3,
+        "note": 353,
+        "songId": "tictactoe"
+      },
+      {
+        "constant": 7.5,
+        "difficulty": "prs",
+        "designer": "moonquay",
+        "id": "tictactoe@prs",
+        "level": 7,
+        "note": 505,
+        "songId": "tictactoe"
+      },
+      {
+        "constant": 8.8,
+        "difficulty": "ftr",
+        "designer": "moonquay c.CLEAR",
+        "id": "tictactoe@ftr",
+        "level": 8,
+        "note": 760,
+        "songId": "tictactoe",
+        "plus": true
+      },
+      {
+        "constant": 9.9,
+        "difficulty": "etr",
+        "designer": "moonquay c.FAIL",
+        "id": "tictactoe@etr",
+        "level": 9,
+        "note": 907,
+        "songId": "tictactoe",
+        "plus": true
+      }
+    ],
+    "version": {
+      "added": "6.5"
+    }
   }
 ]

@@ -35963,7 +35963,667 @@
           "count": 1
         }
       }
+    ]
+  },
+  {
+    "id": "限时：Tic!_Tac!_Toe!",
+    "platforms": [
+      {
+        "length": 50,
+        "special": {
+          "type": 2,
+          "range": [
+            "Fairytale",
+            "Infinity Heaven",
+            "Sayonara Hatsukoi",
+            "Harutopia ~Utopia of Spring~",
+            "Kanagawa Cyber Culvert",
+            "Brand new world",
+            "Clotho and the stargazer",
+            "Dandelion",
+            "Grimheart",
+            "Hidden Rainbows of Epicurus",
+            "inkar-usi",
+            "Jingle",
+            "One Last Drive",
+            "Reinvent",
+            "Rise",
+            "Snow White",
+            "Vexaria",
+            "Altair (feat. *spiLa*)",
+            "DDD",
+            "Diode",
+            "Suomi",
+            "Dialnote",
+            "Oblivia",
+            "Remind the Souls (Short Version)",
+            "Sakura Fubuki",
+            "Senkyou",
+            "Shades of Light in a Transcendent Realm",
+            "The Formula",
+            "world.execute(me);",
+            "Babaroque",
+            "Dancin' on a Cat's Paw",
+            "san skia",
+            "Syro",
+            "Ävril -Flicka i krans-",
+            "Dreamin' Attraction!!",
+            "GOODTEK (Arcaea Edit)",
+            "Ladymade Star",
+            "U.A.D"
+          ]
+        }
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 50,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 100
+        }
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 50,
+        "special": {
+          "type": 2,
+          "range": [
+            "Purgatorium",
+            "Anökumene",
+            "Illegal Paradise",
+            "Rabbit In The Black Room",
+            "Chronostasis",
+            "Dement ~after legend~",
+            "Ignotus",
+            "Lucifer",
+            "LunarOrbit -believe in the Espebranch road-",
+            "Nhelv",
+            "NULCTRL",
+            "ReviXy",
+            "Rugie",
+            "SUPERNOVA",
+            "VECTOЯ",
+            "Lost Civilization",
+            "Blaster",
+            "Bookmaker (2D Version)",
+            "Cybernecia Catharsis",
+            "FREEF4LL",
+            "Monochrome Princess",
+            "qualia -ideaesthesia-",
+            "Red and Blue",
+            "Redraw the Colorless World",
+            "Trap Crow",
+            "End of The Moonlight",
+            "OBLIVION",
+            "Nightmare",
+            "Don't Die",
+            "Won't Back Down"
+          ]
+        }
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 50,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 300
+        }
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 50,
+        "special": {
+          "type": 2,
+          "range": [
+            "Fairytale",
+            "Infinity Heaven",
+            "Sayonara Hatsukoi",
+            "Harutopia ~Utopia of Spring~",
+            "Kanagawa Cyber Culvert",
+            "Brand new world",
+            "Clotho and the stargazer",
+            "Dandelion",
+            "Grimheart",
+            "Hidden Rainbows of Epicurus",
+            "inkar-usi",
+            "Jingle",
+            "One Last Drive",
+            "Reinvent",
+            "Rise",
+            "Snow White",
+            "Vexaria",
+            "Altair (feat. *spiLa*)",
+            "DDD",
+            "Diode",
+            "Suomi",
+            "Dialnote",
+            "Oblivia",
+            "Remind the Souls (Short Version)",
+            "Sakura Fubuki",
+            "Senkyou",
+            "Shades of Light in a Transcendent Realm",
+            "The Formula",
+            "world.execute(me);",
+            "Babaroque",
+            "Dancin' on a Cat's Paw",
+            "san skia",
+            "Syro",
+            "Ävril -Flicka i krans-",
+            "Dreamin' Attraction!!",
+            "GOODTEK (Arcaea Edit)",
+            "Ladymade Star",
+            "U.A.D"
+          ]
+        }
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 50,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 50,
+        "special": {
+          "type": 2,
+          "range": [
+            "Purgatorium",
+            "Anökumene",
+            "Illegal Paradise",
+            "Rabbit In The Black Room",
+            "Chronostasis",
+            "Dement ~after legend~",
+            "Ignotus",
+            "Lucifer",
+            "LunarOrbit -believe in the Espebranch road-",
+            "Nhelv",
+            "NULCTRL",
+            "ReviXy",
+            "Rugie",
+            "SUPERNOVA",
+            "VECTOЯ",
+            "Lost Civilization",
+            "Blaster",
+            "Bookmaker (2D Version)",
+            "Cybernecia Catharsis",
+            "FREEF4LL",
+            "Monochrome Princess",
+            "qualia -ideaesthesia-",
+            "Red and Blue",
+            "Redraw the Colorless World",
+            "Trap Crow",
+            "End of The Moonlight",
+            "OBLIVION",
+            "Nightmare",
+            "Don't Die",
+            "Won't Back Down"
+          ]
+        }
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 50,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 700
+        }
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 50,
+        "special": {
+          "type": 2,
+          "range": [
+            "Fairytale",
+            "Infinity Heaven",
+            "Sayonara Hatsukoi",
+            "Harutopia ~Utopia of Spring~",
+            "Kanagawa Cyber Culvert",
+            "Brand new world",
+            "Clotho and the stargazer",
+            "Dandelion",
+            "Grimheart",
+            "Hidden Rainbows of Epicurus",
+            "inkar-usi",
+            "Jingle",
+            "One Last Drive",
+            "Reinvent",
+            "Rise",
+            "Snow White",
+            "Vexaria",
+            "Altair (feat. *spiLa*)",
+            "DDD",
+            "Diode",
+            "Suomi",
+            "Dialnote",
+            "Oblivia",
+            "Remind the Souls (Short Version)",
+            "Sakura Fubuki",
+            "Senkyou",
+            "Shades of Light in a Transcendent Realm",
+            "The Formula",
+            "world.execute(me);",
+            "Babaroque",
+            "Dancin' on a Cat's Paw",
+            "san skia",
+            "Syro",
+            "Ävril -Flicka i krans-",
+            "Dreamin' Attraction!!",
+            "GOODTEK (Arcaea Edit)",
+            "Ladymade Star",
+            "U.A.D"
+          ]
+        }
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 50,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 50,
+        "special": {
+          "type": 2,
+          "range": [
+            "Purgatorium",
+            "Anökumene",
+            "Illegal Paradise",
+            "Rabbit In The Black Room",
+            "Chronostasis",
+            "Dement ~after legend~",
+            "Ignotus",
+            "Lucifer",
+            "LunarOrbit -believe in the Espebranch road-",
+            "Nhelv",
+            "NULCTRL",
+            "ReviXy",
+            "Rugie",
+            "SUPERNOVA",
+            "VECTOЯ",
+            "Lost Civilization",
+            "Blaster",
+            "Bookmaker (2D Version)",
+            "Cybernecia Catharsis",
+            "FREEF4LL",
+            "Monochrome Princess",
+            "qualia -ideaesthesia-",
+            "Red and Blue",
+            "Redraw the Colorless World",
+            "Trap Crow",
+            "End of The Moonlight",
+            "OBLIVION",
+            "Nightmare",
+            "Don't Die",
+            "Won't Back Down"
+          ]
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 1,
+          "id": "tictactoe"
+        }
+      }
     ],
-    "expire": 1746716400000
+    "expire": 1749135600000
+  },
+  {
+    "id": "限时：Won't_Back_Down",
+    "platforms": [
+      {
+        "length": 15
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 15,
+        "special": {
+          "type": 2,
+          "range": [
+            "Won't Back Down",
+            "Ladymade Star",
+            "End of The Moonlight",
+            "OBLIVION",
+            "U.A.D",
+            "Nightmare",
+            "Tic! Tac! Toe!",
+            "Don't Die",
+            "Heartache",
+            "Moonheart",
+            "Grimheart",
+            "Heart",
+            "Heart Jackin'"
+          ]
+        }
+      },
+      {
+        "length": 15,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 200
+        }
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20,
+        "special": {
+          "type": 2,
+          "range": [
+            "Won't Back Down",
+            "Ladymade Star",
+            "End of The Moonlight",
+            "OBLIVION",
+            "U.A.D",
+            "Nightmare",
+            "Tic! Tac! Toe!",
+            "Don't Die",
+            "Heartache",
+            "Moonheart",
+            "Grimheart",
+            "Heart",
+            "Heart Jackin'"
+          ]
+        }
+      },
+      {
+        "length": 20,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 25
+      },
+      {
+        "length": 25
+      },
+      {
+        "length": 25,
+        "special": {
+          "type": 2,
+          "range": [
+            "Won't Back Down",
+            "Ladymade Star",
+            "End of The Moonlight",
+            "OBLIVION",
+            "U.A.D",
+            "Nightmare",
+            "Tic! Tac! Toe!",
+            "Don't Die",
+            "Heartache",
+            "Moonheart",
+            "Grimheart",
+            "Heart",
+            "Heart Jackin'"
+          ]
+        }
+      },
+      {
+        "length": 25,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 300
+        }
+      },
+      {
+        "length": 25
+      },
+      {
+        "length": 30
+      },
+      {
+        "length": 30
+      },
+      {
+        "length": 30,
+        "special": {
+          "type": 2,
+          "range": [
+            "Won't Back Down",
+            "Ladymade Star",
+            "End of The Moonlight",
+            "OBLIVION",
+            "U.A.D",
+            "Nightmare",
+            "Tic! Tac! Toe!",
+            "Don't Die",
+            "Heartache",
+            "Moonheart",
+            "Grimheart",
+            "Heart",
+            "Heart Jackin'"
+          ]
+        }
+      },
+      {
+        "length": 30,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 2
+        }
+      },
+      {
+        "length": 30
+      },
+      {
+        "length": 35,
+        "reward": {
+          "type": 1,
+          "id": "wontbackdown"
+        }
+      },
+      {
+        "length": 35
+      },
+      {
+        "length": 35,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 400
+        }
+      },
+      {
+        "length": 35,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 35
+      },
+      {
+        "length": 40
+      },
+      {
+        "length": 40
+      },
+      {
+        "length": 40,
+        "special": {
+          "type": 2,
+          "range": [
+            "Won't Back Down",
+            "Ladymade Star",
+            "End of The Moonlight",
+            "OBLIVION",
+            "U.A.D",
+            "Nightmare",
+            "Tic! Tac! Toe!",
+            "Don't Die",
+            "Heartache",
+            "Moonheart",
+            "Grimheart",
+            "Heart",
+            "Heart Jackin'"
+          ]
+        }
+      },
+      {
+        "length": 40,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 500
+        }
+      },
+      {
+        "length": 40
+      },
+      {
+        "length": 40
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "次元结晶",
+          "count": 1
+        }
+      }
+    ],
+    "expire": 1749135600000
   }
 ]
