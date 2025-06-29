@@ -32,7 +32,7 @@ async function getWikiCharacterTable(): Promise<CharacterTableData[]> {
     return false;
   });
   if (characterGrids.length !== characters.length) {
-    throw new Error("角色总数不一致");
+    throw new Error(`角色总数不一致，wiki:${characterGrids.length}，json:${characters.length}`);
   }
   const result: CharacterTableData[] = [];
   for (const grid of characterGrids) {
