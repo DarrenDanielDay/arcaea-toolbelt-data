@@ -23477,5 +23477,414 @@
     "version": {
       "added": "6.5"
     }
+  },
+  {
+    "bpm": "180",
+    "side": 1,
+    "id": "satisfaction",
+    "name": "SATISFACTION",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Arcaea",
+    "dl": false,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 3.5,
+        "difficulty": "pst",
+        "designer": "Nitro",
+        "id": "satisfaction@pst",
+        "level": 3,
+        "note": 580,
+        "songId": "satisfaction"
+      },
+      {
+        "constant": 6.5,
+        "difficulty": "prs",
+        "designer": "Nitro",
+        "id": "satisfaction@prs",
+        "level": 6,
+        "note": 738,
+        "songId": "satisfaction"
+      },
+      {
+        "constant": 8.5,
+        "difficulty": "ftr",
+        "designer": "Nitro",
+        "id": "satisfaction@ftr",
+        "level": 8,
+        "note": 890,
+        "songId": "satisfaction"
+      },
+      {
+        "constant": 9.5,
+        "difficulty": "etr",
+        "designer": "Nitro",
+        "id": "satisfaction@etr",
+        "level": 9,
+        "note": 1047,
+        "songId": "satisfaction"
+      }
+    ],
+    "version": {
+      "added": "6.6"
+    }
+  },
+  {
+    "bpm": "136",
+    "side": 0,
+    "id": "someday",
+    "name": "Someday",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "World Extend 3",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 3,
+        "difficulty": "pst",
+        "designer": "sidewaves",
+        "id": "someday@pst",
+        "level": 3,
+        "note": 367,
+        "songId": "someday"
+      },
+      {
+        "constant": 6,
+        "difficulty": "prs",
+        "designer": "sidewaves + Nitro",
+        "id": "someday@prs",
+        "level": 6,
+        "note": 477,
+        "songId": "someday"
+      },
+      {
+        "constant": 9.5,
+        "difficulty": "ftr",
+        "designer": "sidewaves + Exschwasion",
+        "id": "someday@ftr",
+        "level": 9,
+        "note": 673,
+        "songId": "someday"
+      }
+    ],
+    "version": {
+      "added": "6.6"
+    }
+  },
+  {
+    "bpm": "130",
+    "side": 0,
+    "id": "miles",
+    "name": "Miles",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Memory Archive",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 3.5,
+        "difficulty": "pst",
+        "designer": "Interator",
+        "id": "miles@pst",
+        "level": 3,
+        "note": 385,
+        "songId": "miles"
+      },
+      {
+        "constant": 6.5,
+        "difficulty": "prs",
+        "designer": "Interator",
+        "id": "miles@prs",
+        "level": 6,
+        "note": 548,
+        "songId": "miles"
+      },
+      {
+        "constant": 8.2,
+        "difficulty": "ftr",
+        "designer": "Interator",
+        "id": "miles@ftr",
+        "level": 8,
+        "note": 687,
+        "songId": "miles"
+      },
+      {
+        "constant": 9.8,
+        "difficulty": "etr",
+        "designer": "Interator",
+        "id": "miles@etr",
+        "level": 9,
+        "note": 829,
+        "songId": "miles",
+        "plus": true
+      }
+    ],
+    "version": {
+      "added": "6.6"
+    }
+  },
+  {
+    "bpm": "140",
+    "side": 0,
+    "id": "iwantyou",
+    "name": "I want You",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "DJMAX - Collaboration Chapter 2",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 3,
+        "difficulty": "pst",
+        "designer": "Toaster",
+        "id": "iwantyou@pst",
+        "level": 3,
+        "note": 326,
+        "songId": "iwantyou"
+      },
+      {
+        "constant": 5.5,
+        "difficulty": "prs",
+        "designer": "Toaster",
+        "id": "iwantyou@prs",
+        "level": 5,
+        "note": 395,
+        "songId": "iwantyou"
+      },
+      {
+        "constant": 8.3,
+        "difficulty": "ftr",
+        "designer": "Toaster",
+        "id": "iwantyou@ftr",
+        "level": 8,
+        "note": 528,
+        "songId": "iwantyou"
+      },
+      {
+        "constant": 9.4,
+        "difficulty": "etr",
+        "designer": "Toaster",
+        "id": "iwantyou@etr",
+        "level": 9,
+        "note": 660,
+        "songId": "iwantyou"
+      }
+    ],
+    "version": {
+      "added": "6.6"
+    }
+  },
+  {
+    "bpm": "135",
+    "side": 1,
+    "id": "syriana",
+    "name": "Syriana",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "DJMAX - Collaboration Chapter 2",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 4.5,
+        "difficulty": "pst",
+        "designer": "RAYCAST [NM]",
+        "id": "syriana@pst",
+        "level": 4,
+        "note": 490,
+        "songId": "syriana"
+      },
+      {
+        "constant": 7.5,
+        "difficulty": "prs",
+        "designer": "RAYCAST [HD]",
+        "id": "syriana@prs",
+        "level": 7,
+        "note": 516,
+        "songId": "syriana"
+      },
+      {
+        "constant": 9.9,
+        "difficulty": "ftr",
+        "designer": "RAYCAST [MX]",
+        "id": "syriana@ftr",
+        "level": 9,
+        "note": 886,
+        "songId": "syriana",
+        "plus": true
+      }
+    ],
+    "version": {
+      "added": "6.6"
+    }
+  },
+  {
+    "bpm": "140",
+    "side": 1,
+    "id": "liar",
+    "name": "Liar",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "DJMAX - Collaboration Chapter 2",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 4.5,
+        "difficulty": "pst",
+        "designer": "Nitro",
+        "id": "liar@pst",
+        "level": 4,
+        "note": 461,
+        "songId": "liar"
+      },
+      {
+        "constant": 7.8,
+        "difficulty": "prs",
+        "designer": "Nitro",
+        "id": "liar@prs",
+        "level": 7,
+        "note": 614,
+        "songId": "liar",
+        "plus": true
+      },
+      {
+        "constant": 10,
+        "difficulty": "ftr",
+        "designer": "KLMNOP + Nitro",
+        "id": "liar@ftr",
+        "level": 10,
+        "note": 919,
+        "songId": "liar"
+      }
+    ],
+    "version": {
+      "added": "6.6"
+    }
+  },
+  {
+    "bpm": "180",
+    "side": 1,
+    "id": "blythe",
+    "name": "BlythE",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "DJMAX - Collaboration Chapter 2",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 3,
+        "difficulty": "pst",
+        "designer": "M理論",
+        "id": "blythe@pst",
+        "level": 3,
+        "note": 610,
+        "songId": "blythe"
+      },
+      {
+        "constant": 7.5,
+        "difficulty": "prs",
+        "designer": "M理論",
+        "id": "blythe@prs",
+        "level": 7,
+        "note": 729,
+        "songId": "blythe"
+      },
+      {
+        "constant": 9.4,
+        "difficulty": "ftr",
+        "designer": "M理論",
+        "id": "blythe@ftr",
+        "level": 9,
+        "note": 1000,
+        "songId": "blythe"
+      },
+      {
+        "constant": 10.5,
+        "difficulty": "etr",
+        "designer": "M理論",
+        "id": "blythe@etr",
+        "level": 10,
+        "note": 1207,
+        "songId": "blythe"
+      }
+    ],
+    "version": {
+      "added": "6.6"
+    }
+  },
+  {
+    "bpm": "180",
+    "side": 1,
+    "id": "wereallgonnadie",
+    "name": "We're All Gonna Die",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "DJMAX - Collaboration Chapter 2",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 5.5,
+        "difficulty": "pst",
+        "designer": "絶滅",
+        "id": "wereallgonnadie@pst",
+        "level": 5,
+        "note": 733,
+        "songId": "wereallgonnadie"
+      },
+      {
+        "constant": 8,
+        "difficulty": "prs",
+        "designer": "絶滅",
+        "id": "wereallgonnadie@prs",
+        "level": 8,
+        "note": 864,
+        "songId": "wereallgonnadie"
+      },
+      {
+        "constant": 10.1,
+        "difficulty": "ftr",
+        "designer": "絶滅",
+        "id": "wereallgonnadie@ftr",
+        "level": 10,
+        "note": 1147,
+        "songId": "wereallgonnadie"
+      },
+      {
+        "constant": 10.9,
+        "difficulty": "etr",
+        "designer": "絶滅",
+        "id": "wereallgonnadie@etr",
+        "level": 10,
+        "note": 1335,
+        "songId": "wereallgonnadie",
+        "plus": true
+      }
+    ],
+    "version": {
+      "added": "6.6"
+    }
   }
 ]

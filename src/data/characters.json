@@ -3270,10 +3270,10 @@
   {
     "skill_id_text": {
       "en": "FEVER GAUGE + Earn 1 Fragment when\nFEVER reaches x5",
-      "ja": "TODO",
-      "ko": "TODO",
-      "zh-Hans": "TODO",
-      "zh-Hant": "TODO"
+      "ja": "FEVERゲージ + ゲージが\nLv. 5到達毎に、欠片を1つ獲得",
+      "ko": "FEVER 게이지 + FEVER x5마다 조각 1개 획득",
+      "zh-Hans": "FEVER收集条 + FEVER每达到x5时\n额外获得1残片",
+      "zh-Hant": "FEVER收集條 + FEVER每到達x5時\n額外獲得1殘片"
     },
     "display_name": {
       "en": "Hikari & El Clear",
@@ -3293,14 +3293,91 @@
     "skill_requires_uncap": false,
     "skill_unlock_level": 0,
     "skill_id": "skill_hikari_clear",
-    "overdrive": 21.14528356903339,
-    "prog": 29.653010642950868,
-    "frag": 25.149147105992128,
-    "level_exp": 450,
-    "exp": 536.51889,
-    "level": 7,
+    "overdrive": 37.96916460125382,
+    "prog": 52.88598921125528,
+    "frag": 45.17757690625456,
+    "level_exp": 4200,
+    "exp": 4876.23204,
+    "level": 15,
     "name": "hikari_clear",
     "character_id": 86
+  },
+  {
+    "skill_id_text": {
+      "en": "FEVER GAUGE + HARD - Recollection Rate gain\nreduced when FEVER is low",
+      "ja": "FEVERゲージ + HARD - ゲージLv.低下時\n想起率も増加量低下",
+      "ko": "FEVER 게이지 + HARD - FEVER가 낮을 시\n기억회상률 획득률 감소",
+      "zh-Hans": "FEVER收集条 + 困难 - FEVER等级低时\n降低命中音符所获得的回忆率",
+      "zh-Hant": "FEVER收集條 + 困難 - FEVER等級低時\n降低命中音符所獲得的回憶率"
+    },
+    "display_name": {
+      "en": "Tairitsu & El Fail",
+      "ja": "対立＆エル・フエイル",
+      "ko": "타이리츠 & 엘 페일",
+      "zh-Hans": "对立 & 菲尔",
+      "zh-Hant": "對立 & 菲爾"
+    },
+    "profile_image": "c87cb78b464ddaaa75d1cb357773b7ec",
+    "icon": "efbeee2fd859190b5266b5b4ad6a9cd3",
+    "base_character": false,
+    "is_uncapped_override": false,
+    "is_uncapped": false,
+    "uncap_cores": [],
+    "char_type": 2,
+    "skill_id_uncap": "",
+    "skill_requires_uncap": false,
+    "skill_unlock_level": 0,
+    "skill_id": "skill_tairitsu_fail",
+    "overdrive": 71.01982796325996,
+    "prog": 49.513704621664964,
+    "frag": 37.510205569324974,
+    "level_exp": 50,
+    "exp": 68.04504,
+    "level": 2,
+    "name": "tairitsu_fail",
+    "character_id": 87
+  },
+  {
+    "skill_id_text": {
+      "en": "FEVER Gauge + World progress increased based\non PURE note count and FEVER level",
+      "ja": "FEVERゲージ + PUREの数と、\nゲージLv.に応じてWorld進行度増加",
+      "ko": "FEVER 게이지 + PURE 노트 수와\nFEVER 레벨에 따라 월드 진행도 증가",
+      "zh-Hans": "FEVER收集条 + 根据纯粹音符数\n与FEVER等级提高世界模式进度",
+      "zh-Hant": "FEVER收集條 + 根據純粹音符數\n與FEVER等級提高世界模式進度"
+    },
+    "variant": {
+      "en": "Twilight",
+      "ja": "宵闇",
+      "ko": "황혼",
+      "zh-Hans": "暮光",
+      "zh-Hant": "暮光"
+    },
+    "display_name": {
+      "en": "Nami & Sui",
+      "ja": "奈実＆スイ",
+      "ko": "나미 & 스이",
+      "zh-Hans": "奈美 & 希依",
+      "zh-Hant": "奈美 & 希依"
+    },
+    "profile_image": "501e646e050b6f41c8f24504d2be6988",
+    "icon": "5eb2b2be2b5577af33bb8d5df819a9f2",
+    "base_character": false,
+    "is_uncapped_override": false,
+    "is_uncapped": false,
+    "uncap_cores": [],
+    "char_type": 0,
+    "skill_id_uncap": "",
+    "skill_requires_uncap": false,
+    "skill_unlock_level": 0,
+    "skill_id": "skill_nami_sui",
+    "overdrive": 40.340938912377894,
+    "prog": 43.478641201341304,
+    "frag": 36.06553433445109,
+    "level_exp": 1200,
+    "exp": 1220.3322299999998,
+    "level": 10,
+    "name": "nami_sui",
+    "character_id": 88
   },
   {
     "skill_id_text": {

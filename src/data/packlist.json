@@ -460,6 +460,22 @@
       }
     },
     {
+      "id": "djmax_append_1",
+      "section": "collab",
+      "pack_parent": "djmax",
+      "plus_character": -1,
+      "name_localized": {
+        "en": "Collaboration Chapter 2"
+      },
+      "description_localized": {
+        "en": "Once more 5 songs from DJMAX\nhave come to test the heart.\n\nTogether with Nami (Twilight) & Sui,\ndon't let yourself drift into silence.\nA fever is calling out again!",
+        "ja": "DJMAXより再び、\n君の心が試される5曲が到来。\n\n『奈実 (宵闇)＆スイ』と共に、\n打ち寄せる波を乗りこなせ。\nFEVERの熱狂は、まだまだ終わらない！",
+        "ko": "DJMAX를 다시 한 번.\n당신의 마음을 시험할 5개의 악곡.\n\n황혼 나미 & 스이와 함께,\n침묵으로 사라지지 마세요.\nFEVER의 열기가 당신을 부릅니다!",
+        "zh-Hant": "又有五首DJMAX曲目到來，\n這是另一次心之試煉。\n\n同奈美（暮光）&希依一起，\n勇敢發聲，拒絕沈默！\nFEVER仍在召喚！",
+        "zh-Hans": "又有五首DJMAX曲目到来，\n这是另一次心的试炼。\n\n同奈美（暮光）&希依一起，\n勇敢发声，拒绝沉默！\nFEVER仍在召唤！"
+      }
+    },
+    {
       "id": "undertale",
       "section": "collab",
       "plus_character": -1,
@@ -792,8 +808,8 @@
         "en": "The relentless flow of time intertwines the worlds\nof Arcaea and emotional music game 'Lanota'.\n\nTravel with Hikari and Lanota's 'Fisica'\nthrough powerful songs from Lanota as well as\nthe all-new collaboration song 'Quon'!",
         "ja": "無情なる時の流れが、Arcaeaの世界と\n情緒的音楽ゲーム【Lanota】を絡み合わせるーー。\n\nヒカリやLanotaのフィシカと共に、\n新たなコラボレーション楽曲【Quon】の他、\nLanotaからの個性豊かな楽曲を巡りましょう。",
         "ko": "끊임없이 흘러가는 시간의 흐름으로\nArcaea와 감성뮤직게임 'Lanota'의 세상이 이어집니다.\n\n라노타에서 찾아온 피시카와 히카리가\n함께 선보이는 파워풀한 노래들과\n새로운 콜라보 음악 'Quon'을 즐겨주세요.",
-        "zh-Hant": "永不停歇的時間使得 Arcaea 的世界與擁有豐富情感的\n音樂遊戲《Lanota》糾纏在了一起。\n\n與光和來自拉諾塔的菲希卡在《Lanota》的樂曲中旅行，\n盡在全新的合作曲《Quon》！",
-        "zh-Hans": "永不停歇的时间使得 Arcaea 的世界与情感丰富的\n音樂遊戲《Lanota》纠缠在了一起。\n\n与光和來自拉诺塔的菲希卡在《Lanota》的乐曲中旅行，\n尽在全新的合作曲《Quon》！"
+        "zh-Hant": "永不停歇的時間使得 Arcaea 的世界與\n情感豐富的音樂遊戲《Lanota》糾纏在了一起。\n\n與光和來自拉諾塔的菲希卡\n在《Lanota》的樂曲中旅行，\n盡在全新的合作曲《Quon》！",
+        "zh-Hans": "永不停歇的时间使得 Arcaea 的世界与\n情感丰富的音乐游戏《Lanota》纠缠在了一起。\n\n与光和来自调律诗篇的菲希卡\n在《Lanota》的乐曲中旅行，\n尽在全新的合作曲《Quon》！"
       }
     },
     {

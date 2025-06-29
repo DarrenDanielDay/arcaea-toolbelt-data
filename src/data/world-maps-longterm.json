@@ -20949,6 +20949,147 @@
             }
           }
         ]
+      },
+      {
+        "id": "9-7",
+        "platforms": [
+          {
+            "length": 15
+          },
+          {
+            "length": 15
+          },
+          {
+            "length": 14
+          },
+          {
+            "length": 14
+          },
+          {
+            "length": 13
+          },
+          {
+            "length": 13,
+            "special": {
+              "type": 2,
+              "range": [
+                "I want You",
+                "Syriana",
+                "Liar",
+                "BlythE",
+                "We're All Gonna Die",
+                "Someday",
+                "Miles"
+              ]
+            }
+          },
+          {
+            "length": 12
+          },
+          {
+            "length": 12
+          },
+          {
+            "length": 11
+          },
+          {
+            "length": 11
+          },
+          {
+            "length": 10,
+            "special": {
+              "type": 2,
+              "range": [
+                "I want You",
+                "Syriana",
+                "Liar",
+                "BlythE",
+                "We're All Gonna Die",
+                "Someday",
+                "Miles"
+              ]
+            }
+          },
+          {
+            "length": 10,
+            "reward": {
+              "type": 0,
+              "name": "以太之滴",
+              "count": 2
+            }
+          },
+          {
+            "length": 9
+          },
+          {
+            "length": 9
+          },
+          {
+            "length": 8
+          },
+          {
+            "length": 8,
+            "special": {
+              "type": 2,
+              "range": [
+                "I want You",
+                "Syriana",
+                "Liar",
+                "BlythE",
+                "We're All Gonna Die",
+                "Someday",
+                "Miles"
+              ]
+            }
+          },
+          {
+            "length": 7,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 200
+            }
+          },
+          {
+            "length": 7
+          },
+          {
+            "length": 6
+          },
+          {
+            "length": 6
+          },
+          {
+            "length": 5,
+            "special": {
+              "type": 2,
+              "range": [
+                "I want You",
+                "Syriana",
+                "Liar",
+                "BlythE",
+                "We're All Gonna Die",
+                "Someday",
+                "Miles"
+              ]
+            }
+          },
+          {
+            "length": 5,
+            "reward": {
+              "type": 0,
+              "name": "以太之滴",
+              "count": 2
+            }
+          },
+          {
+            "length": 0,
+            "reward": {
+              "type": 2,
+              "id": 88
+            }
+          }
+        ]
       }
     ]
   }

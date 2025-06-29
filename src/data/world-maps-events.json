@@ -36387,8 +36387,7 @@
           "id": "tictactoe"
         }
       }
-    ],
-    "expire": 1749135600000
+    ]
   },
   {
     "id": "限时：Won't_Back_Down",
@@ -36623,7 +36622,558 @@
           "count": 1
         }
       }
+    ]
+  },
+  {
+    "id": "限时：DJMAX",
+    "platforms": [
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 30
+      },
+      {
+        "length": 30,
+        "special": {
+          "type": 2,
+          "range": [
+            "Won't Back Down",
+            "Ladymade Star",
+            "End of The Moonlight",
+            "OBLIVION",
+            "U.A.D",
+            "Nightmare",
+            "Tic! Tac! Toe!",
+            "Don't Die",
+            "I want You",
+            "Syriana",
+            "Liar",
+            "BlythE",
+            "We're All Gonna Die",
+            "Someday",
+            "Miles"
+          ]
+        }
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 20,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 1000
+        }
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 30
+      },
+      {
+        "length": 30
+      },
+      {
+        "length": 40
+      },
+      {
+        "length": 40,
+        "special": {
+          "type": 2,
+          "range": [
+            "Won't Back Down",
+            "Ladymade Star",
+            "End of The Moonlight",
+            "OBLIVION",
+            "U.A.D",
+            "Nightmare",
+            "Tic! Tac! Toe!",
+            "Don't Die",
+            "I want You",
+            "Syriana",
+            "Liar",
+            "BlythE",
+            "We're All Gonna Die",
+            "Someday",
+            "Miles"
+          ]
+        }
+      },
+      {
+        "length": 30
+      },
+      {
+        "length": 30
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 30,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 1500
+        }
+      },
+      {
+        "length": 30
+      },
+      {
+        "length": 40
+      },
+      {
+        "length": 40
+      },
+      {
+        "length": 50
+      },
+      {
+        "length": 50,
+        "special": {
+          "type": 2,
+          "range": [
+            "Won't Back Down",
+            "Ladymade Star",
+            "End of The Moonlight",
+            "OBLIVION",
+            "U.A.D",
+            "Nightmare",
+            "Tic! Tac! Toe!",
+            "Don't Die",
+            "I want You",
+            "Syriana",
+            "Liar",
+            "BlythE",
+            "We're All Gonna Die",
+            "Someday",
+            "Miles"
+          ]
+        }
+      },
+      {
+        "length": 40
+      },
+      {
+        "length": 40
+      },
+      {
+        "length": 30
+      },
+      {
+        "length": 30
+      },
+      {
+        "length": 40,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 4
+        }
+      },
+      {
+        "length": 40
+      },
+      {
+        "length": 50
+      },
+      {
+        "length": 50
+      },
+      {
+        "length": 60,
+        "special": {
+          "type": 3,
+          "range": [
+            "Won't Back Down",
+            "Ladymade Star",
+            "End of The Moonlight",
+            "OBLIVION",
+            "U.A.D",
+            "Nightmare",
+            "Tic! Tac! Toe!",
+            "Don't Die",
+            "I want You",
+            "Syriana",
+            "Liar",
+            "BlythE",
+            "We're All Gonna Die",
+            "Someday",
+            "Miles"
+          ]
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 2,
+          "id": 87
+        }
+      }
     ],
-    "expire": 1749135600000
+    "expire": 1752764400000
+  },
+  {
+    "id": "限时：Someday",
+    "platforms": [
+      {
+        "length": 0,
+        "special": {
+          "type": 2,
+          "range": [
+            "Someday",
+            "Altair (feat. *spiLa*)",
+            "Beside You",
+            "next to you",
+            "I want You"
+          ]
+        }
+      },
+      {
+        "length": 10,
+        "special": {
+          "type": 2,
+          "range": [
+            "Someday",
+            "Altair (feat. *spiLa*)",
+            "Beside You",
+            "next to you",
+            "I want You",
+            "Won't Back Down",
+            "Ladymade Star",
+            "End of The Moonlight",
+            "OBLIVION",
+            "U.A.D",
+            "Nightmare",
+            "Tic! Tac! Toe!",
+            "Don't Die",
+            "Syriana",
+            "Liar",
+            "BlythE",
+            "We're All Gonna Die",
+            "Miles"
+          ]
+        }
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 30
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 100
+        }
+      },
+      {
+        "length": 10,
+        "special": {
+          "type": 2,
+          "range": [
+            "Someday",
+            "Altair (feat. *spiLa*)",
+            "Beside You",
+            "next to you",
+            "I want You",
+            "Won't Back Down",
+            "Ladymade Star",
+            "End of The Moonlight",
+            "OBLIVION",
+            "U.A.D",
+            "Nightmare",
+            "Tic! Tac! Toe!",
+            "Don't Die",
+            "Syriana",
+            "Liar",
+            "BlythE",
+            "We're All Gonna Die",
+            "Miles"
+          ]
+        }
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 30
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 200
+        }
+      },
+      {
+        "length": 10,
+        "special": {
+          "type": 2,
+          "range": [
+            "Someday",
+            "Altair (feat. *spiLa*)",
+            "Beside You",
+            "next to you",
+            "I want You",
+            "Won't Back Down",
+            "Ladymade Star",
+            "End of The Moonlight",
+            "OBLIVION",
+            "U.A.D",
+            "Nightmare",
+            "Tic! Tac! Toe!",
+            "Don't Die",
+            "Syriana",
+            "Liar",
+            "BlythE",
+            "We're All Gonna Die",
+            "Miles"
+          ]
+        }
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 30
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 10,
+        "special": {
+          "type": 2,
+          "range": [
+            "Someday",
+            "Altair (feat. *spiLa*)",
+            "Beside You",
+            "next to you",
+            "I want You",
+            "Won't Back Down",
+            "Ladymade Star",
+            "End of The Moonlight",
+            "OBLIVION",
+            "U.A.D",
+            "Nightmare",
+            "Tic! Tac! Toe!",
+            "Don't Die",
+            "Syriana",
+            "Liar",
+            "BlythE",
+            "We're All Gonna Die",
+            "Miles"
+          ]
+        }
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 30
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 400
+        }
+      },
+      {
+        "length": 10,
+        "special": {
+          "type": 2,
+          "range": [
+            "Someday",
+            "Altair (feat. *spiLa*)",
+            "Beside You",
+            "next to you",
+            "I want You",
+            "Won't Back Down",
+            "Ladymade Star",
+            "End of The Moonlight",
+            "OBLIVION",
+            "U.A.D",
+            "Nightmare",
+            "Tic! Tac! Toe!",
+            "Don't Die",
+            "Syriana",
+            "Liar",
+            "BlythE",
+            "We're All Gonna Die",
+            "Miles"
+          ]
+        }
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 30
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 500
+        }
+      },
+      {
+        "length": 10,
+        "special": {
+          "type": 2,
+          "range": [
+            "Someday",
+            "Altair (feat. *spiLa*)",
+            "Beside You",
+            "next to you",
+            "I want You",
+            "Won't Back Down",
+            "Ladymade Star",
+            "End of The Moonlight",
+            "OBLIVION",
+            "U.A.D",
+            "Nightmare",
+            "Tic! Tac! Toe!",
+            "Don't Die",
+            "Syriana",
+            "Liar",
+            "BlythE",
+            "We're All Gonna Die",
+            "Miles"
+          ]
+        }
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 30
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 2
+        }
+      },
+      {
+        "length": 10,
+        "special": {
+          "type": 2,
+          "range": [
+            "Someday",
+            "Altair (feat. *spiLa*)",
+            "Beside You",
+            "next to you",
+            "I want You",
+            "Won't Back Down",
+            "Ladymade Star",
+            "End of The Moonlight",
+            "OBLIVION",
+            "U.A.D",
+            "Nightmare",
+            "Tic! Tac! Toe!",
+            "Don't Die",
+            "Syriana",
+            "Liar",
+            "BlythE",
+            "We're All Gonna Die",
+            "Miles"
+          ]
+        }
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 30
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 1,
+          "id": "someday"
+        }
+      },
+      {
+        "length": 30,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 40
+      },
+      {
+        "length": 50
+      },
+      {
+        "length": 60
+      },
+      {
+        "length": 70
+      },
+      {
+        "length": 80,
+        "special": {
+          "type": 2,
+          "range": [
+            "Someday",
+            "Altair (feat. *spiLa*)",
+            "Beside You",
+            "next to you",
+            "I want You"
+          ]
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "次元结晶",
+          "count": 1
+        }
+      }
+    ],
+    "expire": 1752764400000
   }
 ]

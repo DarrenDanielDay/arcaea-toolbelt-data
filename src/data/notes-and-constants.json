@@ -9111,5 +9111,172 @@
         "constant": 9.9
       }
     ]
+  },
+  {
+    "id": "satisfaction",
+    "charts": [
+      {
+        "notes": 580,
+        "constant": 3.5
+      },
+      {
+        "notes": 738,
+        "constant": 6.5
+      },
+      {
+        "notes": 890,
+        "constant": 8.5
+      },
+      null,
+      {
+        "notes": 1047,
+        "constant": 9.5
+      }
+    ]
+  },
+  {
+    "id": "someday",
+    "charts": [
+      {
+        "notes": 367,
+        "constant": 3
+      },
+      {
+        "notes": 477,
+        "constant": 6
+      },
+      {
+        "notes": 673,
+        "constant": 9.5
+      },
+      null,
+      null
+    ]
+  },
+  {
+    "id": "miles",
+    "charts": [
+      {
+        "notes": 385,
+        "constant": 3.5
+      },
+      {
+        "notes": 548,
+        "constant": 6.5
+      },
+      {
+        "notes": 687,
+        "constant": 8.2
+      },
+      null,
+      {
+        "notes": 829,
+        "constant": 9.8
+      }
+    ]
+  },
+  {
+    "id": "iwantyou",
+    "charts": [
+      {
+        "notes": 326,
+        "constant": 3
+      },
+      {
+        "notes": 395,
+        "constant": 5.5
+      },
+      {
+        "notes": 528,
+        "constant": 8.3
+      },
+      null,
+      {
+        "notes": 660,
+        "constant": 9.4
+      }
+    ]
+  },
+  {
+    "id": "syriana",
+    "charts": [
+      {
+        "notes": 490,
+        "constant": 4.5
+      },
+      {
+        "notes": 516,
+        "constant": 7.5
+      },
+      {
+        "notes": 886,
+        "constant": 9.9
+      },
+      null,
+      null
+    ]
+  },
+  {
+    "id": "liar",
+    "charts": [
+      {
+        "notes": 461,
+        "constant": 4.5
+      },
+      {
+        "notes": 614,
+        "constant": 7.8
+      },
+      {
+        "notes": 919,
+        "constant": 10
+      },
+      null,
+      null
+    ]
+  },
+  {
+    "id": "blythe",
+    "charts": [
+      {
+        "notes": 610,
+        "constant": 3
+      },
+      {
+        "notes": 729,
+        "constant": 7.5
+      },
+      {
+        "notes": 1000,
+        "constant": 9.4
+      },
+      null,
+      {
+        "notes": 1207,
+        "constant": 10.5
+      }
+    ]
+  },
+  {
+    "id": "wereallgonnadie",
+    "charts": [
+      {
+        "notes": 733,
+        "constant": 5.5
+      },
+      {
+        "notes": 864,
+        "constant": 8
+      },
+      {
+        "notes": 1147,
+        "constant": 10.1
+      },
+      null,
+      {
+        "notes": 1335,
+        "constant": 10.9
+      }
+    ]
   }
 ]

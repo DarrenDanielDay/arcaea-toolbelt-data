@@ -1,7 +1,7 @@
 {
-  "version": "6.5.0c",
-  "apk": "https://arcaea-static.lowiro-cdn.net/KyqzE0LD7AjX3n0TvNDBnmtqt3PH1F2Y%2FOYWD4ZSgM6fGIpfMnQEU4wx1YyVqnEU4ew2DPCRfINaOjnV5qITCgTjnX93PvYy5gmgW5lstM4XdB1Kp5QQc85AT2ZYuXSJUk47rgEH9FoFHCY%3D?filename=arcaea_6.5.0c.apk",
-  "time": 1747925773067,
+  "version": "6.6.0c",
+  "apk": "https://arcaea-static.lowiro-cdn.net/ErNZ6VK931%2BG0JA%2BTDC5R3u3py06n3yvm6tI706Usx%2Fvszq0dGsa02EY6cfAp1EooxsUHANgRaXaS6%2Fyj7FR8%2BXHgyMONzbI%2BJMbjzaoiCiJtDODmkQCoLU5D7VWY1knNCPQu72YieP2wIA%3D?filename=arcaea_6.6.0c.apk",
+  "time": 1751044729347,
   "index": [
     {
       "file": "alias.json",
@@ -9,11 +9,11 @@
     },
     {
       "file": "assets-info.json",
-      "hash": "aaad8f10"
+      "hash": "618ef796"
     },
     {
       "file": "character-data.json",
-      "hash": "bcac03e7"
+      "hash": "3a6d5e9f"
     },
     {
       "file": "characters-patch.json",
@@ -21,7 +21,7 @@
     },
     {
       "file": "characters.json",
-      "hash": "39e4d6c5"
+      "hash": "6ba972e2"
     },
     {
       "file": "chart-data-legacy-1.json",
@@ -29,19 +29,19 @@
     },
     {
       "file": "chart-data.json",
-      "hash": "cd3cd9ed"
+      "hash": "6dccfbe6"
     },
     {
       "file": "chart-express.json",
-      "hash": "54cd20d7"
+      "hash": "f9424531"
     },
     {
       "file": "ChartConstant.json",
-      "hash": "65820669"
+      "hash": "23d9dc3b"
     },
     {
       "file": "factors.json",
-      "hash": "dfd29666"
+      "hash": "02d9bfaa"
     },
     {
       "file": "item-data.json",
@@ -49,23 +49,23 @@
     },
     {
       "file": "notes-and-constants.json",
-      "hash": "2dce8658"
+      "hash": "f8b0d808"
     },
     {
       "file": "packlist.json",
-      "hash": "a2afcc4b"
+      "hash": "eb17dda5"
     },
     {
       "file": "songlist.json",
-      "hash": "aec140fa"
+      "hash": "547441fb"
     },
     {
       "file": "world-maps-events.json",
-      "hash": "35a6a92b"
+      "hash": "64193372"
     },
     {
       "file": "world-maps-longterm.json",
-      "hash": "d0ea1530"
+      "hash": "fd2de524"
     }
   ]
 }
