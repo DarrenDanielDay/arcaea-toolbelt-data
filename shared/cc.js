@@ -1,7 +1,7 @@
 
 /**
  * @param {WikiChartConstantJSON} wikiCCJson
- * @param {import("../src/tools/packed-data.js").SongList} slst
+ * @param {import("../src/tools/packed-data").SongList} slst
  */
 export function sortConstants(wikiCCJson, slst) {
   /** @type {WikiChartConstantJSON} */
