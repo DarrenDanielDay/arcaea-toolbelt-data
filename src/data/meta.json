@@ -1,7 +1,7 @@
 {
-  "version": "6.6.0c",
-  "apk": "https://arcaea-static.lowiro-cdn.net/ErNZ6VK931%2BG0JA%2BTDC5R3u3py06n3yvm6tI706Usx%2Fvszq0dGsa02EY6cfAp1EooxsUHANgRaXaS6%2Fyj7FR8%2BXHgyMONzbI%2BJMbjzaoiCiJtDODmkQCoLU5D7VWY1knNCPQu72YieP2wIA%3D?filename=arcaea_6.6.0c.apk",
-  "time": 1751044729347,
+  "version": "6.6.1c",
+  "apk": "https://arcaea-static.lowiro-cdn.net/6Cpgggz0Iqu6gNawCUCw9wr6WniFAyhaqL2avR27wEXnSJHSkjDhh5Pog8mbGqlbuOpz194XWgVsdEu88WpFwsNij%2Brd0rhroqTlj4marYQQ9ddv4Ne2VKQmoR2s%2FU%2BnzTM68YUfcmT%2Fk3E%3D?filename=arcaea_6.6.1c.apk",
+  "time": 1752434000172,
   "index": [
     {
       "file": "alias.json",
@@ -9,7 +9,7 @@
     },
     {
       "file": "assets-info.json",
-      "hash": "618ef796"
+      "hash": "a677aa79"
     },
     {
       "file": "character-data.json",
