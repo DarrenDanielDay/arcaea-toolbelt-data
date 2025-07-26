@@ -3380,6 +3380,42 @@
     "character_id": 88
   },
   {
+    "character_id": 89,
+    "name": "nonoka",
+    "level": 3,
+    "exp": 116.21631000000001,
+    "level_exp": 100,
+    "frag": 47.15162560139962,
+    "prog": 35.61430237643972,
+    "overdrive": 25.58397725615979,
+    "skill_id": "skill_nonoka",
+    "skill_unlock_level": 0,
+    "skill_requires_uncap": false,
+    "skill_id_uncap": "",
+    "char_type": 0,
+    "uncap_cores": [],
+    "is_uncapped": false,
+    "is_uncapped_override": false,
+    "voice": [],
+    "base_character": false,
+    "icon": "456fefa65db704d0646ad8d374f4e8dc",
+    "profile_image": "df06b578ab8fec1997250daba1ea66cd",
+    "display_name": {
+      "en": "Nonoka",
+      "ja": "ノノカ",
+      "ko": "노노카",
+      "zh-Hans": "野乃香",
+      "zh-Hant": "野乃香"
+    },
+    "skill_id_text": {
+      "en": "Gain or lose Rank based on performance\nRisk and Reward increase at higher Ranks",
+      "ja": "プレイ功績に応じて階級が上下\n高い階級ほどリスクと報酬が増加",
+      "ko": "플레이 결과에 따라 랭크 변동\n랭크가 상승할 수록 손실 및 보상 증가",
+      "zh-Hans": "根据游玩表现定级\n回报与损失比例随等级上升增加",
+      "zh-Hant": "根據遊玩表現定級\n收益與損失比例隨等級上升增加"
+    }
+  },
+  {
     "skill_id_text": {
       "en": "Earn +10 Fragments\nupon clearing a preferred song",
       "ja": "白姫の気まぐれ曲をクリア時\n欠片を+10獲得",

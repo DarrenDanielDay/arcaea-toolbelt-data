@@ -258,6 +258,22 @@
       }
     },
     {
+      "id": "anima",
+      "section": "sidestory",
+      "custom_banner": true,
+      "plus_character": 89,
+      "name_localized": {
+        "en": "Extant Anima"
+      },
+      "description_localized": {
+        "en": "Get to that distant star!\n\nFive songs from the \"Coalescence\" Song Contest\nare calling out to you from the horizon.\n\nJoin Nonoka on her journey through space\nfilled with brilliant lights and sounds!",
+        "ja": "楽曲コンテスト第4回『Coalescence』より、\n5つの入賞曲が登場──いま、呼び声が聞こえる。\n\n美しい光と音に満ちた宇宙の旅へ、\n『ノノカ』と共に、いざ出発！\n\n───さあ、遥かなる『光』をめざして！",
+        "ko": "저 머나먼 별을 향해!\n\n무한의 저편에서 5개의 악곡 콘테스트\n\"Coalescence\" 수상곡들이 손짓합니다.\n\n노노카와 함께 눈부신 빛과 소리로 가득 찬 우주로\n여행을 떠나보세요!",
+        "zh-Hant": "向那遙遠的星辰進發！\n\n「Coalescence」歌曲競賽的五首\n動聽歌曲正在水平線遠處呼喚着。\n\n在璀璨光影和動聽樂聲中，\n和野乃香一起踏上她的太空之旅吧！",
+        "zh-Hans": "向那遥远的星辰进发！\n\n「Coalescence」歌曲竞赛的五首\n动听歌曲正在水平线远处呼唤着。\n\n在璀璨光影和动听乐声中，\n和野乃香一起踏上她的太空之旅吧！"
+      }
+    },
+    {
       "id": "observer",
       "section": "sidestory",
       "plus_character": 45,
@@ -266,11 +282,11 @@
         "en": "Esoteric Order"
       },
       "description_localized": {
-        "en": "A girl stands, alone, at the\nvery ends of the Arcaea world,\nbeyond what anyone else has seen...\n\nFeaturing Lagrange and Charon,\nthis pack includes five winners\nof the Arcaea Song Contest 2020!",
-        "ja": "世界の果て、前人未踏のその場所で、\n佇む少女が、ただひとり。\n\nラグランジュとカロンをテーマに、\nArcaea楽曲コンテスト2020より、\n本楽曲パックでは5つの受賞曲を収録！",
-        "ko": "한 소녀가\n누구도 보지 못한\n아르케아의 끝머리에 홀로 서있다...\n\n라그란지와 차론을 포함한\n이번 팩은 아르케아 송 콘테스트 2020의\n다섯 명의 우승자도 추가되어 있습니다!",
-        "zh-Hant": "一名少女，\n在所有人都看不見的地方，\n孤零零地站在Arcaea世界的盡頭……\n\n與拉格蘭和凱倫一起，\n享受《韻律源點2020年歌曲競賽》\n帶來的五首優勝作品吧！",
-        "zh-Hans": "一名少女，\n在所有人都看不见的地方，\n孤零零地站在Arcaea世界的尽头……\n\n与拉格兰和卡戎一起，\n享受《韵律源点2020年歌曲竞赛》\n带来的五首优胜作品吧！"
+        "en": "A girl stands, alone, at the\nvery ends of the Arcaea world,\nbeyond what anyone else has seen...\n\nFeaturing Lagrange and Charon,\nthis pack includes six winners\nof the Arcaea Song Contest 2020!",
+        "ja": "世界の果て、前人未踏のその場所で、\n佇む少女が、ただひとり。\n\nラグランジュとカロンをテーマに、\nArcaea楽曲コンテスト2020より、\n本楽曲パックでは6つの受賞曲を収録！",
+        "ko": "한 소녀가\n그 누구도 보지 못한\n아르케아의 끄트머리에 홀로 서 있습니다...\n\nArcaea 악곡 콘테스트 2020 우승자 여섯 명의 악곡을\n라그랑주, 카론과 함께 즐겨보세요!",
+        "zh-Hant": "一名少女，\n在所有人都看不見的地方，\n孤零零地站在Arcaea世界的盡頭……\n\n與拉格蘭和凱倫一起，\n享受《韻律源點2020年歌曲競賽》\n帶來的六首優勝作品吧！",
+        "zh-Hans": "一名少女，\n在所有人都看不见的地方，\n孤零零地站在Arcaea世界的尽头……\n\n与拉格兰和卡戎一起，\n享受《韵律源点2020年歌曲竞赛》\n带来的六首优胜作品吧！"
       }
     },
     {

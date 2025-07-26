@@ -21090,6 +21090,79 @@
             }
           }
         ]
+      },
+      {
+        "id": "9-8",
+        "platforms": [
+          {
+            "length": 99,
+            "special": {
+              "type": 2,
+              "range": "Extant Anima"
+            }
+          },
+          {
+            "length": 9,
+            "reward": {
+              "type": 0,
+              "name": "以太之滴",
+              "count": 2
+            }
+          },
+          {
+            "length": 9
+          },
+          {
+            "length": 9
+          },
+          {
+            "length": 9
+          },
+          {
+            "length": 9,
+            "special": {
+              "type": 3,
+              "range": "Extant Anima"
+            }
+          },
+          {
+            "length": 9
+          },
+          {
+            "length": 9
+          },
+          {
+            "length": 9
+          },
+          {
+            "length": 9
+          },
+          {
+            "length": 9,
+            "special": {
+              "type": 3,
+              "range": "Extant Anima"
+            }
+          },
+          {
+            "length": 9,
+            "reward": {
+              "type": 0,
+              "name": "以太之滴",
+              "count": 2
+            }
+          },
+          {
+            "length": 9
+          },
+          {
+            "length": 0,
+            "reward": {
+              "type": 2,
+              "id": 89
+            }
+          }
+        ]
       }
     ]
   }

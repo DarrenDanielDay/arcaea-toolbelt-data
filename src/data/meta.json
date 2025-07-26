@@ -1,7 +1,7 @@
 {
-  "version": "6.6.1c",
-  "apk": "https://arcaea-static.lowiro-cdn.net/6Cpgggz0Iqu6gNawCUCw9wr6WniFAyhaqL2avR27wEXnSJHSkjDhh5Pog8mbGqlbuOpz194XWgVsdEu88WpFwsNij%2Brd0rhroqTlj4marYQQ9ddv4Ne2VKQmoR2s%2FU%2BnzTM68YUfcmT%2Fk3E%3D?filename=arcaea_6.6.1c.apk",
-  "time": 1752434000172,
+  "version": "6.7.1c",
+  "apk": "https://arcaea-static.lowiro-cdn.net/3FtEbHCb9wembbZgWczsHGe58uekbAd%2BPRsRoGndaIhpkIpkFFH%2FFZxG%2FJDginATWF4NNKj8My7QM1ItqCnS6dKIBL3w79jxt6ZiBANaGA6cSZP73hcFJxdHweZBn%2BBI0UVVNTDsG4uhrxM%3D?filename=arcaea_6.7.1c.apk",
+  "time": 1753493389839,
   "index": [
     {
       "file": "alias.json",
@@ -9,11 +9,11 @@
     },
     {
       "file": "assets-info.json",
-      "hash": "a677aa79"
+      "hash": "03b454f1"
     },
     {
       "file": "character-data.json",
-      "hash": "3a6d5e9f"
+      "hash": "a3891dbd"
     },
     {
       "file": "characters-patch.json",
@@ -21,7 +21,7 @@
     },
     {
       "file": "characters.json",
-      "hash": "6ba972e2"
+      "hash": "587e0350"
     },
     {
       "file": "chart-data-legacy-1.json",
@@ -29,19 +29,19 @@
     },
     {
       "file": "chart-data.json",
-      "hash": "6dccfbe6"
+      "hash": "e05edd74"
     },
     {
       "file": "chart-express.json",
-      "hash": "f9424531"
+      "hash": "76463c89"
     },
     {
       "file": "ChartConstant.json",
-      "hash": "23d9dc3b"
+      "hash": "1303fa71"
     },
     {
       "file": "factors.json",
-      "hash": "02d9bfaa"
+      "hash": "9d9681e5"
     },
     {
       "file": "item-data.json",
@@ -49,23 +49,23 @@
     },
     {
       "file": "notes-and-constants.json",
-      "hash": "f8b0d808"
+      "hash": "0c0c0669"
     },
     {
       "file": "packlist.json",
-      "hash": "eb17dda5"
+      "hash": "413688fa"
     },
     {
       "file": "songlist.json",
-      "hash": "547441fb"
+      "hash": "e2e40fd7"
     },
     {
       "file": "world-maps-events.json",
-      "hash": "64193372"
+      "hash": "fdeff257"
     },
     {
       "file": "world-maps-longterm.json",
-      "hash": "fd2de524"
+      "hash": "c6ad4c1c"
     }
   ]
 }

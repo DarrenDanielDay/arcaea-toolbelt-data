@@ -23886,5 +23886,325 @@
     "version": {
       "added": "6.6"
     }
+  },
+  {
+    "bpm": "86",
+    "side": 1,
+    "id": "dematerialized",
+    "name": "Dematerialized",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Arcaea",
+    "dl": false,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 1.5,
+        "difficulty": "pst",
+        "designer": "karat",
+        "id": "dematerialized@pst",
+        "level": 1,
+        "note": 469,
+        "songId": "dematerialized"
+      },
+      {
+        "constant": 4.5,
+        "difficulty": "prs",
+        "designer": "karat",
+        "id": "dematerialized@prs",
+        "level": 4,
+        "note": 659,
+        "songId": "dematerialized"
+      },
+      {
+        "constant": 7.5,
+        "difficulty": "ftr",
+        "designer": "karat",
+        "id": "dematerialized@ftr",
+        "level": 7,
+        "note": 722,
+        "songId": "dematerialized"
+      },
+      {
+        "constant": 8.3,
+        "difficulty": "etr",
+        "designer": "karat",
+        "id": "dematerialized@etr",
+        "level": 8,
+        "note": 790,
+        "songId": "dematerialized"
+      }
+    ],
+    "version": {
+      "added": "6.7"
+    }
+  },
+  {
+    "bpm": "136",
+    "side": 0,
+    "id": "seethelights",
+    "name": "See the Lights!",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Extant Anima",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 3.5,
+        "difficulty": "pst",
+        "designer": "raycast☆",
+        "id": "seethelights@pst",
+        "level": 3,
+        "note": 445,
+        "songId": "seethelights"
+      },
+      {
+        "constant": 6.5,
+        "difficulty": "prs",
+        "designer": "raycast☆",
+        "id": "seethelights@prs",
+        "level": 6,
+        "note": 582,
+        "songId": "seethelights"
+      },
+      {
+        "constant": 8.6,
+        "difficulty": "ftr",
+        "designer": "raycast☆",
+        "id": "seethelights@ftr",
+        "level": 8,
+        "note": 692,
+        "songId": "seethelights"
+      },
+      {
+        "constant": 9.6,
+        "difficulty": "etr",
+        "designer": "raycast☆",
+        "id": "seethelights@etr",
+        "level": 9,
+        "note": 844,
+        "songId": "seethelights"
+      }
+    ],
+    "version": {
+      "added": "6.7"
+    }
+  },
+  {
+    "bpm": "108-184",
+    "side": 0,
+    "id": "scarletlunar",
+    "name": "Scarlet Lunar Empress",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Extant Anima",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 3.5,
+        "difficulty": "pst",
+        "designer": "青月sidewaves",
+        "id": "scarletlunar@pst",
+        "level": 3,
+        "note": 609,
+        "songId": "scarletlunar"
+      },
+      {
+        "constant": 7,
+        "difficulty": "prs",
+        "designer": "青月sidewaves",
+        "id": "scarletlunar@prs",
+        "level": 7,
+        "note": 698,
+        "songId": "scarletlunar"
+      },
+      {
+        "constant": 9.8,
+        "difficulty": "ftr",
+        "designer": "青月sidewaves",
+        "id": "scarletlunar@ftr",
+        "level": 9,
+        "note": 1037,
+        "songId": "scarletlunar",
+        "plus": true
+      }
+    ],
+    "version": {
+      "added": "6.7"
+    }
+  },
+  {
+    "bpm": "155",
+    "side": 0,
+    "id": "dualdependency",
+    "name": "Dual Dependency",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Extant Anima",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 4.5,
+        "difficulty": "pst",
+        "designer": "絶∥滅",
+        "id": "dualdependency@pst",
+        "level": 4,
+        "note": 607,
+        "songId": "dualdependency"
+      },
+      {
+        "constant": 7.8,
+        "difficulty": "prs",
+        "designer": "絶∥滅",
+        "id": "dualdependency@prs",
+        "level": 7,
+        "note": 784,
+        "songId": "dualdependency",
+        "plus": true
+      },
+      {
+        "constant": 9.5,
+        "difficulty": "ftr",
+        "designer": "絶∥滅",
+        "id": "dualdependency@ftr",
+        "level": 9,
+        "note": 987,
+        "songId": "dualdependency"
+      },
+      {
+        "constant": 10.4,
+        "difficulty": "etr",
+        "designer": "絶∥滅",
+        "id": "dualdependency@etr",
+        "level": 10,
+        "note": 1162,
+        "songId": "dualdependency"
+      }
+    ],
+    "version": {
+      "added": "6.7"
+    }
+  },
+  {
+    "bpm": "235",
+    "side": 0,
+    "id": "lilly",
+    "name": "Lilly",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Extant Anima",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 5,
+        "difficulty": "pst",
+        "designer": "反水【天龍】",
+        "id": "lilly@pst",
+        "level": 5,
+        "note": 865,
+        "songId": "lilly"
+      },
+      {
+        "constant": 8.4,
+        "difficulty": "prs",
+        "designer": "反水【天龍】",
+        "id": "lilly@prs",
+        "level": 8,
+        "note": 1052,
+        "songId": "lilly"
+      },
+      {
+        "constant": 9.9,
+        "difficulty": "ftr",
+        "designer": "反水【天龍】",
+        "id": "lilly@ftr",
+        "level": 9,
+        "note": 1312,
+        "songId": "lilly",
+        "plus": true
+      },
+      {
+        "constant": 10.8,
+        "difficulty": "etr",
+        "designer": "瑞獣【応龍】",
+        "id": "lilly@etr",
+        "level": 10,
+        "note": 1353,
+        "songId": "lilly",
+        "plus": true
+      }
+    ],
+    "version": {
+      "added": "6.7"
+    }
+  },
+  {
+    "bpm": "180-300",
+    "side": 1,
+    "id": "extradimensional",
+    "name": "Extradimensional Cosmic Phenomenon",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Extant Anima",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 6.5,
+        "difficulty": "pst",
+        "designer": "#0000遒ｧ",
+        "id": "extradimensional@pst",
+        "level": 6,
+        "note": 1011,
+        "songId": "extradimensional"
+      },
+      {
+        "constant": 8.8,
+        "difficulty": "prs",
+        "designer": "#0000遒ｧ",
+        "id": "extradimensional@prs",
+        "level": 8,
+        "note": 1193,
+        "songId": "extradimensional",
+        "plus": true
+      },
+      {
+        "constant": 10.6,
+        "difficulty": "ftr",
+        "designer": "#0000遒ｧ",
+        "id": "extradimensional@ftr",
+        "level": 10,
+        "note": 1422,
+        "songId": "extradimensional"
+      },
+      {
+        "constant": 11.3,
+        "difficulty": "etr",
+        "designer": "#0000遒ｧ",
+        "id": "extradimensional@etr",
+        "level": 11,
+        "note": 1726,
+        "songId": "extradimensional"
+      }
+    ],
+    "version": {
+      "added": "6.7"
+    }
   }
 ]

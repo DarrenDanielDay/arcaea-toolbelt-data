@@ -9278,5 +9278,134 @@
         "constant": 10.9
       }
     ]
+  },
+  {
+    "id": "dematerialized",
+    "charts": [
+      {
+        "notes": 469,
+        "constant": 1.5
+      },
+      {
+        "notes": 659,
+        "constant": 4.5
+      },
+      {
+        "notes": 722,
+        "constant": 7.5
+      },
+      null,
+      {
+        "notes": 790,
+        "constant": 8.3
+      }
+    ]
+  },
+  {
+    "id": "seethelights",
+    "charts": [
+      {
+        "notes": 445,
+        "constant": 3.5
+      },
+      {
+        "notes": 582,
+        "constant": 6.5
+      },
+      {
+        "notes": 692,
+        "constant": 8.6
+      },
+      null,
+      {
+        "notes": 844,
+        "constant": 9.6
+      }
+    ]
+  },
+  {
+    "id": "scarletlunar",
+    "charts": [
+      {
+        "notes": 609,
+        "constant": 3.5
+      },
+      {
+        "notes": 698,
+        "constant": 7
+      },
+      {
+        "notes": 1037,
+        "constant": 9.8
+      },
+      null,
+      null
+    ]
+  },
+  {
+    "id": "dualdependency",
+    "charts": [
+      {
+        "notes": 607,
+        "constant": 4.5
+      },
+      {
+        "notes": 784,
+        "constant": 7.8
+      },
+      {
+        "notes": 987,
+        "constant": 9.5
+      },
+      null,
+      {
+        "notes": 1162,
+        "constant": 10.4
+      }
+    ]
+  },
+  {
+    "id": "lilly",
+    "charts": [
+      {
+        "notes": 865,
+        "constant": 5
+      },
+      {
+        "notes": 1052,
+        "constant": 8.4
+      },
+      {
+        "notes": 1312,
+        "constant": 9.9
+      },
+      null,
+      {
+        "notes": 1353,
+        "constant": 10.8
+      }
+    ]
+  },
+  {
+    "id": "extradimensional",
+    "charts": [
+      {
+        "notes": 1011,
+        "constant": 6.5
+      },
+      {
+        "notes": 1193,
+        "constant": 8.8
+      },
+      {
+        "notes": 1422,
+        "constant": 10.6
+      },
+      null,
+      {
+        "notes": 1726,
+        "constant": 11.3
+      }
+    ]
   }
 ]

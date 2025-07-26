@@ -1,92 +1,58 @@
 [
   {
-    "songId": "satisfaction",
+    "songId": "dematerialized",
     "charts": [
       {
-        "constant": 3.5
+        "constant": 1.5
       },
-      {
-        "constant": 6.5
-      },
-      {
-        "constant": 8.5
-      },
-      null,
-      {
-        "constant": 9.5
-      }
-    ]
-  },
-  {
-    "songId": "someday",
-    "charts": [
-      {
-        "constant": 3
-      },
-      {
-        "constant": 6
-      },
-      {
-        "constant": 9.5
-      },
-      null,
-      null
-    ]
-  },
-  {
-    "songId": "miles",
-    "charts": [
-      {
-        "constant": 3.5
-      },
-      {
-        "constant": 6.5
-      },
-      {
-        "constant": 8.2
-      },
-      null,
-      {
-        "constant": 9.8
-      }
-    ]
-  },
-  {
-    "songId": "iwantyou",
-    "charts": [
-      {
-        "constant": 3
-      },
-      {
-        "constant": 5.5
-      },
-      {
-        "constant": 8.3
-      },
-      null,
-      {
-        "constant": 9.4
-      }
-    ]
-  },
-  {
-    "songId": "syriana",
-    "charts": [
       {
         "constant": 4.5
       },
       {
         "constant": 7.5
       },
+      null,
       {
-        "constant": 9.9
+        "constant": 8.3
+      }
+    ]
+  },
+  {
+    "songId": "seethelights",
+    "charts": [
+      {
+        "constant": 3.5
+      },
+      {
+        "constant": 6.5
+      },
+      {
+        "constant": 8.6
+      },
+      null,
+      {
+        "constant": 9.6
+      }
+    ]
+  },
+  {
+    "songId": "scarletlunar",
+    "charts": [
+      {
+        "constant": 3.5
+      },
+      {
+        "constant": 7
+      },
+      {
+        "constant": 9.8
       },
       null,
       null
     ]
   },
   {
-    "songId": "liar",
+    "songId": "dualdependency",
     "charts": [
       {
         "constant": 4.5
@@ -95,45 +61,47 @@
         "constant": 7.8
       },
       {
-        "constant": 10
-      },
-      null,
-      null
-    ]
-  },
-  {
-    "songId": "blythe",
-    "charts": [
-      {
-        "constant": 3
-      },
-      {
-        "constant": 7.5
-      },
-      {
-        "constant": 9.4
+        "constant": 9.5
       },
       null,
       {
-        "constant": 10.5
+        "constant": 10.4
       }
     ]
   },
   {
-    "songId": "wereallgonnadie",
+    "songId": "lilly",
     "charts": [
       {
-        "constant": 5.5
+        "constant": 5
       },
       {
-        "constant": 8
+        "constant": 8.4
       },
       {
-        "constant": 10.1
+        "constant": 9.9
       },
       null,
       {
-        "constant": 10.9
+        "constant": 10.8
+      }
+    ]
+  },
+  {
+    "songId": "extradimensional",
+    "charts": [
+      {
+        "constant": 6.5
+      },
+      {
+        "constant": 8.8
+      },
+      {
+        "constant": 10.6
+      },
+      null,
+      {
+        "constant": 11.3
       }
     ]
   }

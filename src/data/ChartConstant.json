@@ -7862,5 +7862,116 @@
       "constant": 10.9,
       "old": false
     }
+  ],
+  "dematerialized": [
+    {
+      "constant": 1.5,
+      "old": false
+    },
+    {
+      "constant": 4.5,
+      "old": false
+    },
+    {
+      "constant": 7.5,
+      "old": false
+    },
+    null,
+    {
+      "constant": 8.3,
+      "old": false
+    }
+  ],
+  "seethelights": [
+    {
+      "constant": 3.5,
+      "old": false
+    },
+    {
+      "constant": 6.5,
+      "old": false
+    },
+    {
+      "constant": 8.6,
+      "old": false
+    },
+    null,
+    {
+      "constant": 9.6,
+      "old": false
+    }
+  ],
+  "scarletlunar": [
+    {
+      "constant": 3.5,
+      "old": false
+    },
+    {
+      "constant": 7,
+      "old": false
+    },
+    {
+      "constant": 9.8,
+      "old": false
+    },
+    null,
+    null
+  ],
+  "dualdependency": [
+    {
+      "constant": 4.5,
+      "old": false
+    },
+    {
+      "constant": 7.8,
+      "old": false
+    },
+    {
+      "constant": 9.5,
+      "old": false
+    },
+    null,
+    {
+      "constant": 10.4,
+      "old": false
+    }
+  ],
+  "lilly": [
+    {
+      "constant": 5,
+      "old": false
+    },
+    {
+      "constant": 8.4,
+      "old": false
+    },
+    {
+      "constant": 9.9,
+      "old": false
+    },
+    null,
+    {
+      "constant": 10.8,
+      "old": false
+    }
+  ],
+  "extradimensional": [
+    {
+      "constant": 6.5,
+      "old": false
+    },
+    {
+      "constant": 8.8,
+      "old": false
+    },
+    {
+      "constant": 10.6,
+      "old": false
+    },
+    null,
+    {
+      "constant": 11.3,
+      "old": false
+    }
   ]
 }
