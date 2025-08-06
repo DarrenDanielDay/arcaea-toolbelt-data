@@ -1,6 +1,7 @@
 // @ts-check
 /// <reference path="./all-types.d.ts" />
 
+import { clone, notnull, patch } from "pragmatism/core";
 import { normalizeVersion } from "./arcaea.js";
 import { indexBy } from "./utils.js";
 const difficulties = ["pst", "prs", "ftr", "byd", "etr"];
@@ -11,7 +12,7 @@ const difficulties = ["pst", "prs", "ftr", "byd", "etr"];
  * @returns
  */
 function getPackName(packIndex, song) {
-  const pack = packIndex[song.set];
+  const pack = packIndex[notnull(song.set)];
   if (pack) {
     /** @type {string[]} */
     const segments = [];
@@ -31,16 +32,16 @@ function getPackName(packIndex, song) {
  * @param {ExtraSongData[]} extraData
  * @param {Alias[]} alias
  * @param {SongAssetsInfo[]} assetsInfo
- * @param {APKResponse} apkInfo
- * @returns {SongData[]}
+ * @param {string} version
+ * @returns {{ songDataList: SongData[], patchedSlst: PatchedSongList }}
  */
-export function mergeIntoSongData(oldData, songList, packList, extraData, alias, assetsInfo, apkInfo) {
+export function mergeIntoSongData(oldData, songList, packList, extraData, alias, assetsInfo, version) {
   const oldIndex = indexBy(oldData, (song) => song.id);
   const packIndex = indexBy(packList.packs, (pack) => pack.id);
   const aliasIndex = indexBy(alias, (a) => a.id);
   const extraIndex = indexBy(extraData, (extra) => extra.id);
   const assetsIndex = indexBy(assetsInfo, (a) => a.id);
-  return songList.songs.map((song) => {
+  const songData = songList.songs.map((song) => {
     const songId = song.id;
     // TODO 合并处理旧数据？
     const old = oldIndex[songId];
@@ -54,7 +55,7 @@ export function mergeIntoSongData(oldData, songList, packList, extraData, alias,
           ...old,
           version: {
             ...old.version,
-            deleted: normalizeVersion(apkInfo.version),
+            deleted: normalizeVersion(version),
           },
         };
       } else {
@@ -65,7 +66,7 @@ export function mergeIntoSongData(oldData, songList, packList, extraData, alias,
     const extra = extraIndex[songId];
     /** @type {import("@arcaea-toolbelt/models/music-play.js").Chart[]} */
     const charts = [];
-    for (const difficulty of song.difficulties) {
+    for (const difficulty of notnull(song.difficulties)) {
       if (difficulty.hidden_until === "always") {
         // Last | Eternity PST/PRS/FTR
         continue;
@@ -104,10 +105,10 @@ export function mergeIntoSongData(oldData, songList, packList, extraData, alias,
     }
     /** @type {SongData} */
     const songData = {
-      bpm: song.bpm,
-      side: song.side,
+      bpm: notnull(song.bpm),
+      side: notnull(song.side),
       id: songId,
-      name: song.title_localized.en,
+      name: notnull(song.title_localized).en,
       // @ts-ignore
       covers: assetsIndex[songId].covers,
       pack: getPackName(packIndex, song),
@@ -115,9 +116,33 @@ export function mergeIntoSongData(oldData, songList, packList, extraData, alias,
       alias: aliasIndex[songId]?.alias ?? [],
       charts,
       version: {
-        added: song.version,
+        added: notnull(song.version),
       },
     };
     return songData;
   });
+  /** @type {PatchedSongList} */
+  // @ts-expect-error
+  const patchedSlst = clone(songList);
+  patchedSlst.version = version;
+  patchedSlst.songs.forEach((song) => {
+    /** @type {SongExtraData} */
+    const patches = {
+      alias: aliasIndex[song.id]?.alias ?? [],
+      jackets: assetsIndex[song.id]?.covers ?? [],
+    };
+    patch(song, patches);
+    if (song.deleted) {
+      // TODO patch particle arts legacy song list data
+      return;
+    }
+    song.difficulties.forEach((d) => {
+      if (song.id === 'lasteternity') {
+        return;
+      }
+      const extraData = notnull(extraIndex[song.id]?.charts[d.ratingClass], `extra ${song.id} ${d.ratingClass}`);
+      patch(d, extraData);
+    });
+  });
+  return { songDataList: songData, patchedSlst };
 }

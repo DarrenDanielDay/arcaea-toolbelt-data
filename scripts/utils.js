@@ -5,6 +5,7 @@ import { mkdir, readFile, writeFile, open } from "fs/promises";
 import { parse, resolve } from "path";
 import { cwd } from "process";
 import { fileURLToPath } from "url";
+import { die } from "pragmatism/core";
 
 /**
  * @param {string} url
@@ -20,7 +21,8 @@ export function relativeTo(url, path) {
 export function pathLikeToString(path) {
   if (typeof path === "string") return path;
   if (path instanceof Buffer) return path.toString("utf-8");
-  return fileURLToPath(path);
+  if (path instanceof URL) return fileURLToPath(path);
+  return die();
 }
 
 /**

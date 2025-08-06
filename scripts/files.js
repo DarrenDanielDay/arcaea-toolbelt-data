@@ -36,3 +36,14 @@ export const charactersFile = resource("../src/data/characters.json");
 
 /** @type {JSONResource<typeof import('../src/data/characters.json')>} */
 export const charactersPatchFile = resource("../src/data/characters-patch.json");
+
+/** @type {JSONResource<import("../src/data/chart-data.json")>} */
+export const chartDataFile = resource("../src/data/chart-data.json");
+
+/** @type {JSONResource<import("arcaea-toolbelt-core/models").PatchedSongList>} */
+export const songDataFile = resource("../src/data/song-data.json");
+
+/** @type {JSONResource<import("../src/data/world-maps-events.json")>} */
+export const worldMapEventsFile = resource("../src/data/world-map-events.json");
+
+

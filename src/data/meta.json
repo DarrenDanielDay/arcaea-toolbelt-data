@@ -52,8 +52,16 @@
       "hash": "0c0c0669"
     },
     {
+      "file": "notes.json",
+      "hash": "468f158c"
+    },
+    {
       "file": "packlist.json",
       "hash": "413688fa"
+    },
+    {
+      "file": "song-data.json",
+      "hash": "79a6bdbc"
     },
     {
       "file": "songlist.json",
