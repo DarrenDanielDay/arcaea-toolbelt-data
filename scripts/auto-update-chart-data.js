@@ -3,9 +3,10 @@
 
 import { getLocalPackList, getLocalSongList } from "./arcaea.js";
 import { mergeIntoSongData } from "./merge-chart-data.js";
-import { readJSON, writeJSON } from "./utils.js";
+import { patchJSON, readJSON, writeJSON } from "./utils.js";
 import { patchConstants } from "./constant-tools.js";
 import { metaFile, songDataFile } from "./files.js";
+import { patch } from "pragmatism";
 
 const { version } = await metaFile();
 const slst = await getLocalSongList(version);
@@ -22,7 +23,18 @@ const chartDataURL = new URL("../src/data/chart-data.json", import.meta.url);
 const oldSongData = await readJSON(chartDataURL);
 const { songDataList, patchedSlst } = mergeIntoSongData(oldSongData, slst, pklst, extraData, alias, assetsInfo.songs, version);
 await writeJSON(chartDataURL, songDataList);
-await writeJSON(songDataFile.url, patchedSlst);
+await patchJSON(songDataFile, (old) => ({
+  ...old,
+  version: patchedSlst.version,
+  songs: patchedSlst.songs.map((newSong, i) => {
+    const oldSong = old.songs[i];
+    if (!oldSong) {
+      console.log(`new song: ${newSong.id}`);
+      return newSong;
+    }
+    return patch(oldSong, newSong);
+  })
+}));
 const notes = Object.fromEntries(extraData.map((item) => [item.id, item.charts.map((c) => c?.notes ?? null)]));
 const notesURL = new URL("../src/data/notes.json", import.meta.url);
 await writeJSON(notesURL, notes);

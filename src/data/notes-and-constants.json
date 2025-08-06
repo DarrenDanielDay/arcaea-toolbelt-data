@@ -8494,9 +8494,18 @@
   {
     "id": "particlearts",
     "charts": [
-      null,
-      null,
-      null,
+      {
+        "notes": 529,
+        "constant": 3.5
+      },
+      {
+        "notes": 637,
+        "constant": 6
+      },
+      {
+        "notes": 925,
+        "constant": 8.8
+      },
       null,
       null
     ]

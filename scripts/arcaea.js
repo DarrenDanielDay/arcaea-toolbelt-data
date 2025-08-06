@@ -3,7 +3,7 @@
 
 import { parse, resolve } from "path";
 import { extractAPK } from "./apk.js";
-import { readJSON, writeJSON } from "./utils.js";
+import { patchDeep, readJSON, writeJSON } from "./utils.js";
 import { cwd } from "process";
 import { metaFile } from "./files.js";
 
@@ -57,8 +57,10 @@ export async function copyKeyFiles(version) {
     copySubPaths.map(async (path) => {
       const url = new URL(path, import.meta.url);
       const json = await readJSON(url);
+      const dist = resolve(dataDir, `${parse(path).base}.json`);
+      const old = await readJSON(dist);
       // Not copy file, force to use LF.
-      await writeJSON(resolve(dataDir, `${parse(path).base}.json`), json);
+      await writeJSON(dist, patchDeep(old, json));
     })
   );
 }

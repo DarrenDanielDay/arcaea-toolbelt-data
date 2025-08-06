@@ -1,45 +1,19 @@
 // @ts-check
 /// <reference path="./all-types.d.ts" />
 import logupdate from "log-update";
-import { mkdir, readFile, writeFile, open } from "fs/promises";
+import { mkdir, writeFile, open } from "fs/promises";
 import { parse, resolve } from "path";
 import { cwd } from "process";
-import { fileURLToPath } from "url";
-import { die } from "pragmatism/core";
+import { pathLikeToString, readJSON, relativeTo, writeJSON } from "pragmatism/node";
+import { clone, isObjectLike } from "pragmatism";
 
-/**
- * @param {string} url
- * @param {string} path
- */
-export function relativeTo(url, path) {
-  return fileURLToPath(new URL(path, url));
-}
+export { relativeTo };
 
-/**
- * @param {PathLike} path
- */
-export function pathLikeToString(path) {
-  if (typeof path === "string") return path;
-  if (path instanceof Buffer) return path.toString("utf-8");
-  if (path instanceof URL) return fileURLToPath(path);
-  return die();
-}
+export { pathLikeToString };
 
-/**
- * @param {PathLike} path
- */
-export async function readJSON(path) {
-  const content = await readFile(path, { encoding: "utf-8" });
-  return JSON.parse(content);
-}
+export { readJSON };
 
-/**
- * @param {PathLike} path
- * @param {any} json
- */
-export async function writeJSON(path, json) {
-  await writeFile(path, JSON.stringify(json, undefined, 2), { encoding: "utf-8" });
-}
+export { writeJSON };
 
 /**
  * @template T
@@ -51,6 +25,50 @@ export async function patchJSON(resource, change) {
   const newJSON = (await change(oldJSON)) || oldJSON;
   await writeJSON(resource.url, newJSON);
   return newJSON;
+}
+
+/**
+ * @param {unknown} oldValue
+ * @param {unknown} newValue
+ * @returns {unknown}
+ */
+export function patchDeep(oldValue, newValue) {
+  if (typeof newValue !== typeof oldValue || Array.isArray(newValue) !== Array.isArray(oldValue)) {
+    console.log(`type changed: ${oldValue}(${typeof oldValue}) => ${newValue}(${typeof newValue})`);
+    return newValue;
+  }
+  if (!isObjectLike(newValue)) {
+    return newValue;
+  }
+  if (Array.isArray(newValue) && Array.isArray(oldValue)) {
+    if (newValue.length < oldValue.length) {
+      console.log(`removed ${oldValue.length - newValue.length} item in array`);
+    }
+    return newValue.map((item, i) => {
+      if (i >= oldValue.length) {
+        console.log(`added item ${i}`);
+        return item;
+      }
+      return patchDeep(oldValue[i], item);
+    });
+  }
+  if (isObjectLike(newValue) && isObjectLike(oldValue)) {
+    const missingKeys = new Set(Object.keys(oldValue)).difference(new Set(Object.keys(newValue)));
+    if (missingKeys.size) {
+      console.log(`removed properties: ${[...missingKeys]}`);
+    }
+    const result = clone(oldValue);
+    for (const key in newValue) {
+      if (!(key in oldValue)) {
+        console.log(`new property: ${key}`);
+        Reflect.set(result, key, Reflect.get(newValue, key));
+      } else {
+        Reflect.set(result, key, patchDeep(Reflect.get(oldValue, key), Reflect.get(newValue, key)));
+      }
+    }
+    return result;
+  }
+  throw new Error("Impossible");
 }
 
 /**

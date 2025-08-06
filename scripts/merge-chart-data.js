@@ -4,7 +4,7 @@
 import { clone, notnull, patch } from "pragmatism/core";
 import { normalizeVersion } from "./arcaea.js";
 import { indexBy } from "./utils.js";
-const difficulties = ["pst", "prs", "ftr", "byd", "etr"];
+import { difficulties } from "arcaea-toolbelt-core/constants";
 /**
  *
  * @param {Indexed<Pack>} packIndex
