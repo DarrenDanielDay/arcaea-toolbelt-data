@@ -3,9 +3,6 @@ import "@arcaea-toolbelt/view/components/fancy-dialog/style.css";
 import { AutoRender, computed, element, mount, nil, signal } from "hyplate";
 import {
   generateVersionMeta,
-  updateNotesAndConstantsFileViaFandomWiki,
-  generateMergedChartData,
-  generateAlias,
   generateWorldMapData,
   generateCharacterData,
 } from "./auto-generate-data-files";
