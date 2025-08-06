@@ -10,5 +10,5 @@
     ],
     "allowJs": true
   },
-  "include": ["src", "scripts", "../arcaea-toolbelt/src/web.d.ts"]
+  "include": ["src", "scripts"]
 }

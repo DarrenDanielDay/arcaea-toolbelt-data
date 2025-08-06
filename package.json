@@ -1,6 +1,6 @@
 {
   "name": "arcaea-toolbelt-data",
-  "version": "0.0.0",
+  "version": "0.0.0-placeholder",
   "type": "module",
   "targets": {
     "tools": {
@@ -21,6 +21,7 @@
   "exports": {
     "./*": "./*"
   },
+  "files": [],
   "scripts": {
     "start:tools": "parcel watch --target tools --no-hmr --no-cache",
     "start:serve": "node ./scripts/serve.js",
@@ -29,11 +30,12 @@
     "generate:assets": "node ./scripts/generate-assets-info.js",
     "build:online-tools": "parcel build --target online-tools",
     "build:data": "node ./scripts/json-data.js",
+    "build:lib": "exit 0",
     "build": "run-s build:data build:online-tools",
+    "test": "exit 0",
     "playground": "node ./scripts/playground.js",
     "prepare": "husky"
   },
-  "private": true,
   "author": "DarrenDanielDay",
   "license": "MIT",
   "devDependencies": {
