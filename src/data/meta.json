@@ -40,6 +40,10 @@
       "hash": "f663e615"
     },
     {
+      "file": "ChartNotes.json",
+      "hash": "fb1e5fd8"
+    },
+    {
       "file": "factors.json",
       "hash": "9d9681e5"
     },
@@ -50,10 +54,6 @@
     {
       "file": "notes-and-constants.json",
       "hash": "ae181910"
-    },
-    {
-      "file": "notes.json",
-      "hash": "fb1e5fd8"
     },
     {
       "file": "packlist.json",

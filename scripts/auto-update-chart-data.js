@@ -5,7 +5,7 @@ import { getLocalPackList, getLocalSongList } from "./arcaea.js";
 import { mergeIntoSongData } from "./merge-chart-data.js";
 import { patchJSON, readJSON, writeJSON } from "./utils.js";
 import { patchConstants } from "./constant-tools.js";
-import { metaFile, songDataFile } from "./files.js";
+import { chartDataFile, chartNotes, metaFile, songDataFile } from "./files.js";
 import { patch } from "pragmatism";
 
 const { version } = await metaFile();
@@ -18,23 +18,30 @@ const assetsInfo = await readJSON(new URL("../src/data/assets-info.json", import
 /** @type {WikiChartConstantJSON} */
 const cc = await readJSON(new URL("../src/data/ChartConstant.json", import.meta.url));
 const extraData = await patchConstants(cc);
-const chartDataURL = new URL("../src/data/chart-data.json", import.meta.url);
-/** @type {SongData[]} */
-const oldSongData = await readJSON(chartDataURL);
-const { songDataList, patchedSlst } = mergeIntoSongData(oldSongData, slst, pklst, extraData, alias, assetsInfo.songs, version);
-await writeJSON(chartDataURL, songDataList);
-await patchJSON(songDataFile, (old) => ({
-  ...old,
-  version: patchedSlst.version,
-  songs: patchedSlst.songs.map((newSong, i) => {
-    const oldSong = old.songs[i];
-    if (!oldSong) {
-      console.log(`new song: ${newSong.id}`);
-      return newSong;
-    }
-    return patch(oldSong, newSong);
-  })
-}));
-const notes = Object.fromEntries(extraData.map((item) => [item.id, item.charts.map((c) => c?.notes ?? null)]));
-const notesURL = new URL("../src/data/notes.json", import.meta.url);
-await writeJSON(notesURL, notes);
+await patchJSON(chartDataFile, async (oldSongData) => {
+  const { songDataList, patchedSlst } = mergeIntoSongData(
+    oldSongData,
+    slst,
+    pklst,
+    extraData,
+    alias,
+    assetsInfo.songs,
+    version
+  );
+  await patchJSON(songDataFile, (old) => ({
+    ...old,
+    version: patchedSlst.version,
+    songs: patchedSlst.songs.map((newSong, i) => {
+      const oldSong = old.songs[i];
+      if (!oldSong) {
+        console.log(`new song: ${newSong.id}`);
+        return newSong;
+      }
+      return patch(oldSong, newSong);
+    }),
+  }));
+  await patchJSON(chartNotes, () =>
+    Object.fromEntries(extraData.map((item) => [item.id, item.charts.map((c) => c?.notes ?? null)]))
+  );
+  return songDataList;
+});
