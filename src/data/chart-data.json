@@ -6696,10 +6696,7 @@
     "side": 1,
     "id": "particlearts",
     "name": "Particle Arts",
-    "covers": [
-      "base.jpg",
-      "base_256.jpg"
-    ],
+    "covers": [],
     "pack": "Adverse Prelude",
     "dl": true,
     "alias": [
@@ -6739,7 +6736,7 @@
     ],
     "version": {
       "added": "2.2",
-      "deleted": "5.10.4"
+      "deleted": "6.7.1"
     }
   },
   {

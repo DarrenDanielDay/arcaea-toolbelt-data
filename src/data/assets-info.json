@@ -3595,5 +3595,24 @@
       "file": "course_banner_12.png",
       "level": 12
     }
+  ],
+  "cores": [
+    "core_0.png",
+    "core_1.png",
+    "core_2.png",
+    "core_3.png",
+    "core_4.png",
+    "core_5.png",
+    "core_6.png",
+    "core_7.png",
+    "core_8.png",
+    "core_9.png",
+    "core_10.png",
+    "core_11.png",
+    "core_12.png",
+    "core_13.png",
+    "core_14.png",
+    "core_15.png",
+    "core_bypass.png"
   ]
 }

@@ -12,6 +12,33 @@ npm run start
 
 Open <http://localhost:1236/dist-tools> for data tools.
 
+## Manually Maintained Files
+
+- `./src/data/alias.json`
+- `./src/data/characters.json`
+- `./src/data/characters-patch.json`
+- `./src/data/chart-express.json` (TODO)
+- `./src/data/ChartConstant.json` (TODO)
+- `./src/data/items.json`
+- `./src/data/item-data.json`
+- `./src/data/notes-and-constants.json`
+- `./scripts/factors.csv`
+
+## Generated Files
+
+- `./src/data/assets-info.json`
+- `./src/data/chart-data.json`
+- `./src/data/ChartNotes.json`
+- `./src/data/constants.json`
+- `./src/data/factors.json`
+- `./src/data/meta.json`
+- `./src/data/notes.json`
+- `./src/data/packlist.json`
+- `./src/data/song-data.json`
+- `./src/data/songlist.json`
+- `./src/data/world-maps-events.json`
+- `./src/data/world-maps-longterm.json`
+
 ## Update steps
 
 1. download apk & generate meta

@@ -26,7 +26,7 @@ export async function generateIndex() {
     const index = await Promise.all(
       files.map(async (file) => {
         const hash = await hashFile(resolve(dataDir, file));
-        /** @type {import('@arcaea-toolbelt/models/misc').ArcaeaToolbeltMeta['index'][number]} */
+        /** @type {ArcaeaToolbeltMeta['index'][number]} */
         const item = { file, hash: hash.slice(0, 8) };
         return item;
       })

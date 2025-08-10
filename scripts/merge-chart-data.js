@@ -1,10 +1,9 @@
 // @ts-check
 /// <reference path="./all-types.d.ts" />
 
-import { clone, notnull, patch } from "pragmatism/core";
+import { clone, indexBy, notnull, patch } from "pragmatism/core";
 import { normalizeVersion } from "./arcaea.js";
-import { indexBy } from "./utils.js";
-import { difficulties } from "arcaea-toolbelt-core/constants";
+import { difficulties, RatingClass } from "arcaea-toolbelt-core/constants";
 /**
  *
  * @param {Indexed<Pack>} packIndex
@@ -64,7 +63,7 @@ export function mergeIntoSongData(oldData, songList, packList, extraData, alias,
       }
     }
     const extra = extraIndex[songId];
-    /** @type {import("@arcaea-toolbelt/models/music-play.js").Chart[]} */
+    /** @type {Chart[]} */
     const charts = [];
     for (const difficulty of notnull(song.difficulties)) {
       if (difficulty.hidden_until === "always") {
@@ -110,7 +109,7 @@ export function mergeIntoSongData(oldData, songList, packList, extraData, alias,
       id: songId,
       name: notnull(song.title_localized).en,
       // @ts-ignore
-      covers: assetsIndex[songId].covers,
+      covers: assetsIndex[songId]?.covers ?? [],
       pack: getPackName(packIndex, song),
       dl: !!song.remote_dl,
       alias: aliasIndex[songId]?.alias ?? [],
@@ -137,7 +136,7 @@ export function mergeIntoSongData(oldData, songList, packList, extraData, alias,
       return;
     }
     song.difficulties.forEach((d) => {
-      if (song.id === 'lasteternity') {
+      if (song.id === 'lasteternity' && d.ratingClass !== RatingClass.Beyond) {
         return;
       }
       const extraData = notnull(extraIndex[song.id]?.charts[d.ratingClass], `extra ${song.id} ${d.ratingClass}`);

@@ -2,10 +2,11 @@
 /// <reference path="./all-types.d.ts" />
 import { readdir } from "fs/promises";
 import { join, parse } from "path";
-import { readJSON, writeJSON } from "./utils.js";
+import { patchJSON, readJSON, writeJSON } from "./utils.js";
 import { extractName as ex } from "./arcaea.js";
 import { fileURLToPath } from "url";
-import { atb } from "./atb.js";
+import { assetsInfoFile, itemDataFile, itemsFile } from "./files.js";
+import { BannerType } from "arcaea-toolbelt-core/constants";
 
 /**
  * @param {string} [version]
@@ -26,11 +27,11 @@ export async function generateAssetsInfo(version) {
   function assets(path) {
     return join(`arcaea/${extractName}/assets`, path);
   }
-  /** @type {import('../src/tools/packed-data').SongList} */
+  /** @type {import("arcaea-toolbelt-core/models").$616.SongList} */
   const songList = await readJSON(assets("songs/songlist"));
 
   /**
-   * @param {import('../src/tools/packed-data').Song} song
+   * @param {import("arcaea-toolbelt-core/models").$616.Song} song
    * @returns {Promise<SongAssetsInfo>}
    */
   async function getSongAssets(song) {
@@ -60,7 +61,7 @@ export async function generateAssetsInfo(version) {
       match = /online_banner_(\d+)_(\d+)\.png/.exec(child);
       if (match) {
         banners.push({
-          type: atb.BannerType.ArcaeaOnline,
+          type: BannerType.ArcaeaOnline,
           file: child,
           year: +(match[1] ?? 1970),
           month: +(match[2] ?? 1),
@@ -70,22 +71,78 @@ export async function generateAssetsInfo(version) {
     const courseBanners = [...courses]
       .map(([key, value]) => {
         /** @type {CourseBanner} */
-        const courseBanner = { type: atb.BannerType.Course, file: value, level: key };
+        const courseBanner = { type: BannerType.Course, file: value, level: key };
         return courseBanner;
       })
       .sort((a, b) => a.level - b.level);
     return banners.concat(courseBanners);
   }
-  const [banners, ...songAssetsInfo] = await Promise.all([
+  async function checkItemAssets() {
+    const children = await readdir(assets(`img`));
+    /** @type {{file: string, shortId: string}[]} */
+    const items = [];
+    for (const file of children) {
+      const pattern = /core_(\w+)\.png/;
+      const match = pattern.exec(file);
+      if (match) {
+        items.push({
+          file,
+          shortId: `${match[1]}`,
+        });
+      }
+    }
+    items.sort((a, b) => {
+      const na = +a.shortId;
+      const nb = +b.shortId;
+      if (isNaN(na) || isNaN(nb)) {
+        return na < nb ? -1 : 1;
+      }
+      return na - nb;
+    });
+    await patchJSON(itemsFile, async (oldItems) => {
+      /** @type {ItemData[]} */
+      const newItems = [];
+      for (const it of items) {
+        const old = oldItems.find((item) => item.file === it.file);
+        if (!old) {
+          console.log(`New item: ${it.file}`);
+          newItems.push({
+            file: it.file,
+            id: "",
+            name: {
+              en: "",
+              zh: "",
+            },
+          });
+        }
+      }
+      const assetsItems = [...oldItems, ...newItems];
+      const wikiItemNames = new Set((await itemDataFile()).map((it) => it.name));
+      const filledItemNames = new Set(assetsItems.map((it) => it.name.zh).filter((x) => x !== ""));
+      const missing = wikiItemNames.difference(filledItemNames);
+      if (missing.size) {
+        console.warn(`Missing item name(s), update from wiki? ${[...missing].join(", ")}`);
+      }
+      const unknown = filledItemNames.difference(wikiItemNames);
+      if (unknown.size) {
+        console.warn(`Unknown item name(s), typo? ${[...unknown].join(", ")}`);
+      }
+      return assetsItems;
+    });
+    return items.map((item) => item.file);
+  }
+  const [banners, cores, ...songAssetsInfo] = await Promise.all([
     checkBannerAssets(),
+    checkItemAssets(),
     ...songList.songs.filter((song) => !song.deleted).map(getSongAssets),
   ]);
   /** @type {AssetsInfo} */
   const assetsInfo = {
     songs: songAssetsInfo,
     banners,
+    cores,
   };
-  await writeJSON("src/data/assets-info.json", assetsInfo);
+  await writeJSON(assetsInfoFile.url, assetsInfo);
   console.log(
     songAssetsInfo.filter((a) => {
       // 用于测试对应的*_256.jpg是否一定有

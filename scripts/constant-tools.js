@@ -7,7 +7,7 @@ import { patchJSON } from "./utils.js";
 
 /**
  * Update `notes-and-constants.json` via ChartConstant.json.
- * @param {WikiChartConstantJSON} wikiCCJson
+ * @param {wiki.ChartConstant} wikiCCJson
  */
 export async function patchConstants(wikiCCJson) {
   const patched = await patchJSON(notesAndConstantsFile, (oldCC) => {

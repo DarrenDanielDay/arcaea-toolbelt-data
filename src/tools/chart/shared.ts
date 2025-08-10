@@ -9,7 +9,3 @@ export interface ChartNotesAndConstant {
   constant: number;
 }
 
-export interface Alias {
-  id: string;
-  alias: string[];
-}

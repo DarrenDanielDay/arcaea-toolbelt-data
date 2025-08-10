@@ -5,7 +5,7 @@ import { readFile } from "fs/promises";
 import { patchJSON, writeJSON } from "./utils.js";
 import { fileURLToPath } from "url";
 import { parse } from "path";
-import { keyFactorsListFile, characterDataFile } from "./files.js";
+import { factorsFile, characterDataFile } from "./files.js";
 
 async function convertCSV() {
   const content = await readFile(new URL("./factors.csv", import.meta.url), "utf-8");
@@ -32,15 +32,15 @@ async function convertCSV() {
     };
     return factors;
   });
-  await writeJSON(keyFactorsListFile.url, factors);
+  await writeJSON(factorsFile.url, factors);
   return factors;
 }
 /**
  *
  * @param {number} level
- * @param {number | null} f1
- * @param {number | null} f20
- * @param {number | null} f30
+ * @param {number | null | undefined} f1
+ * @param {number | null | undefined} f20
+ * @param {number | null | undefined} f30
  */
 export function fitFactor(level, f1, f20, f30) {
   if (level <= 0 || level > 30 || (f30 == null && level > 20)) {

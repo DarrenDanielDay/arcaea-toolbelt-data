@@ -9981,20 +9981,26 @@
           "ratingClass": 0,
           "chartDesigner": "小東星",
           "jacketDesigner": "",
-          "rating": 3
+          "rating": 3,
+          "notes": 529,
+          "constant": 3.5
         },
         {
           "ratingClass": 1,
           "chartDesigner": "小東星",
           "jacketDesigner": "",
-          "rating": 6
+          "rating": 6,
+          "notes": 637,
+          "constant": 6
         },
         {
           "ratingClass": 2,
           "chartDesigner": "小東星",
           "jacketDesigner": "",
           "rating": 8,
-          "ratingPlus": true
+          "ratingPlus": true,
+          "notes": 925,
+          "constant": 8.8
         }
       ],
       "id": "particlearts",
@@ -22176,7 +22182,9 @@
           "ratingPlus": true,
           "world_unlock": false,
           "hidden_until_unlocked": true,
-          "hidden_until": "difficulty"
+          "hidden_until": "difficulty",
+          "notes": 790,
+          "constant": 9.7
         }
       ],
       "alias": [

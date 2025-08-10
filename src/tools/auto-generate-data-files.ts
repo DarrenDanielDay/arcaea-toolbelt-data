@@ -1,15 +1,9 @@
 import { getCharacterData } from "./get-wiki-character-data";
 import { fetchWikiWorldMapData } from "./get-wiki-world-map-data";
-import { SongData } from "@arcaea-toolbelt/models/music-play";
-import {
-  getProjectRootDirectory,
-  patchJSON,
-  readProjectJSON,
-  saveProjectJSON,
-} from "./shared";
+import { getProjectRootDirectory, patchJSON, readProjectJSON, saveProjectJSON } from "./shared";
 import { APKResponse } from "./get-latest-version";
-import { ArcaeaToolbeltMeta } from "@arcaea-toolbelt/models/misc";
-import { CharacterData } from "@arcaea-toolbelt/models/character";
+import { ArcaeaToolbeltMeta } from "arcaea-toolbelt-core/models";
+import { CharacterData } from "arcaea-toolbelt-core/models";
 
 const characterDataPath = "/src/data/character-data.json";
 const itemDataPath = "/src/data/item-data.json";

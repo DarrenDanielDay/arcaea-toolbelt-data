@@ -1,8 +1,7 @@
 import { findNextElWhere, htmlDocument, initPageDocument, prepareDocument, wikiURL, arcaeaCNClient } from "./wiki-util";
 import characters from "../data/characters.json";
 import { ItemData } from "@arcaea-toolbelt/models/world-mode";
-import { CharacterFactors } from "@arcaea-toolbelt/models/character";
-import { CharacterData } from "@arcaea-toolbelt/models/character";
+import { CharacterFactors, CharacterData } from "arcaea-toolbelt-core/models";
 import { concurrently } from "@arcaea-toolbelt/utils/concurrent";
 
 const wikiCharacterTable = wikiURL("搭档");

@@ -13,7 +13,7 @@
 		"scope": "javascript",
 		"prefix": "main",
 		"body": [
-			"if (process.argv.some((arg) => arg.includes(parse(fileURLToPath(import.meta.url)).base))) {",
+			"if (isMain(import.meta.url)) {",
 			"$0",
 			"}",
 		],

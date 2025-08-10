@@ -1,0 +1,138 @@
+[
+  {
+    "file": "core_0.png",
+    "id": "core_generic",
+    "name": {
+      "en": "Ether Drop",
+      "zh": "以太之滴"
+    }
+  },
+  {
+    "file": "core_1.png",
+    "id": "core_hollow",
+    "name": {
+      "en": "Hollow Core",
+      "zh": "中空核心"
+    }
+  },
+  {
+    "file": "core_2.png",
+    "id": "core_desolate",
+    "name": {
+      "en": "Desolate Core",
+      "zh": "荒芜核心"
+    }
+  },
+  {
+    "file": "core_3.png",
+    "id": "core_chunithm",
+    "name": {
+      "en": "CHUNITHM Core",
+      "zh": "CHUNITHM核心"
+    }
+  },
+  {
+    "file": "core_4.png",
+    "id": "core_crimson",
+    "name": {
+      "en": "Crimson Core",
+      "zh": "深红核心"
+    }
+  },
+  {
+    "file": "core_5.png",
+    "id": "core_ambivalent",
+    "name": {
+      "en": "Ambivalent Core",
+      "zh": "悖异核心"
+    }
+  },
+  {
+    "file": "core_6.png",
+    "id": "core_scarlet",
+    "name": {
+      "en": "Scarlet Core",
+      "zh": "绯红核心"
+    }
+  },
+  {
+    "file": "core_7.png",
+    "id": "core_groove",
+    "name": {
+      "en": "Groove Core",
+      "zh": "音炫核心"
+    }
+  },
+  {
+    "file": "core_8.png",
+    "id": "core_binary",
+    "name": {
+      "en": "Binary Core",
+      "zh": "双生核心"
+    }
+  },
+  {
+    "file": "core_9.png",
+    "id": "core_colorful",
+    "name": {
+      "en": "Colorful Core",
+      "zh": "缤纷核心"
+    }
+  },
+  {
+    "file": "core_10.png",
+    "id": "core_umbral",
+    "name": {
+      "en": "Umbral Core",
+      "zh": "暗影核心"
+    }
+  },
+  {
+    "file": "core_11.png",
+    "id": "core_wacca",
+    "name": {
+      "en": "WACCA Core",
+      "zh": "WACCA核心"
+    }
+  },
+  {
+    "file": "core_12.png",
+    "id": "core_sunset",
+    "name": {
+      "en": "Sunset Core",
+      "zh": "暮色核心"
+    }
+  },
+  {
+    "file": "core_13.png",
+    "id": "core_tanoc",
+    "name": {
+      "en": "TANO*C Core",
+      "zh": "TANO*C核心"
+    }
+  },
+  {
+    "file": "core_14.png",
+    "id": "core_serene",
+    "name": {
+      "en": "Serene Core",
+      "zh": "静谧之核"
+    }
+  },
+  {
+    "file": "core_15.png",
+    "id": "core_maimai",
+    "name": {
+      "en": "maimai Core",
+      "zh": "舞萌核心"
+    }
+  },
+  {
+    "file": "core_bypass.png",
+    "id": "core_course_skip_purchase",
+    "name": {
+      "en": "Warped Shard",
+      "zh": "次元结晶"
+    }
+  }
+]

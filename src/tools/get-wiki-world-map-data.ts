@@ -1,4 +1,3 @@
-import { SongData } from "@arcaea-toolbelt/models/music-play";
 import {
   ChapterData,
   MapPlatformData,
@@ -6,7 +5,7 @@ import {
   PlatformType,
   RewardType,
 } from "@arcaea-toolbelt/models/world-mode";
-import { CharacterData } from "@arcaea-toolbelt/models/character";
+import { CharacterData } from "arcaea-toolbelt-core/models";
 import {
   arcaeaCNClient,
   filterNonAscii,

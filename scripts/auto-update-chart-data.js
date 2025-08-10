@@ -3,20 +3,25 @@
 
 import { getLocalPackList, getLocalSongList } from "./arcaea.js";
 import { mergeIntoSongData } from "./merge-chart-data.js";
-import { patchJSON, readJSON, writeJSON } from "./utils.js";
+import { patchJSON, readJSON } from "./utils.js";
 import { patchConstants } from "./constant-tools.js";
-import { chartDataFile, chartNotes, metaFile, songDataFile } from "./files.js";
+import {
+  aliasFile,
+  assetsInfoFile,
+  chartConstant,
+  chartDataFile,
+  chartNotes,
+  metaFile,
+  songDataFile,
+} from "./files.js";
 import { patch } from "pragmatism";
 
 const { version } = await metaFile();
 const slst = await getLocalSongList(version);
 const pklst = await getLocalPackList(version);
-/** @type {Alias[]} */
-const alias = await readJSON(new URL("../src/data/alias.json", import.meta.url));
-/** @type {AssetsInfo} */
-const assetsInfo = await readJSON(new URL("../src/data/assets-info.json", import.meta.url));
-/** @type {WikiChartConstantJSON} */
-const cc = await readJSON(new URL("../src/data/ChartConstant.json", import.meta.url));
+const alias = await aliasFile();
+const assetsInfo = await assetsInfoFile();
+const cc = await chartConstant();
 const extraData = await patchConstants(cc);
 await patchJSON(chartDataFile, async (oldSongData) => {
   const { songDataList, patchedSlst } = mergeIntoSongData(
