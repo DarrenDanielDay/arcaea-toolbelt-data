@@ -1,6 +1,6 @@
 {
   "name": "arcaea-toolbelt-data",
-  "version": "0.0.0-placeholder",
+  "version": "0.1.0",
   "type": "module",
   "targets": {
     "tools": {
