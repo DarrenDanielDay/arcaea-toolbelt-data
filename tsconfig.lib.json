@@ -1,0 +1,10 @@
+{
+  "extends": "../arcaea-toolbelt/tsconfig.json",
+  "compilerOptions": {
+    "outDir": "lib",
+    "preserveWatchOutput": true,
+    "declaration": true,
+    "noEmit": false
+  },
+  "include": ["src/lib"]
+}

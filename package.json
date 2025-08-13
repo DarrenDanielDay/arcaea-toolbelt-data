@@ -21,17 +21,22 @@
   "exports": {
     "./*": "./*"
   },
-  "files": [],
+  "files": [
+    "lib",
+    "dist",
+    "src/data"
+  ],
   "scripts": {
     "start:tools": "parcel watch --target tools --no-hmr --no-cache",
     "start:serve": "node ./scripts/serve.js",
     "start:online-tools": "parcel watch --target online-tools --no-hmr --no-cache",
+    "start:lib": "tsc -p ./tsconfig.lib.json -w",
     "start": "node ./scripts/json-data.js --generate && run-p --print-label start:*",
     "generate:assets": "node ./scripts/generate-assets-info.js",
     "build:online-tools": "parcel build --target online-tools",
     "build:data": "node ./scripts/json-data.js",
-    "build:lib": "exit 0",
-    "build": "run-s build:data build:online-tools",
+    "build:lib": "tsc -p ./tsconfig.lib.json",
+    "build": "run-s build:data build:online-tools build:lib",
     "test": "exit 0",
     "playground": "node ./scripts/playground.js",
     "prepare": "husky"
