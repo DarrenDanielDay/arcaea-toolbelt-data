@@ -3344,5 +3344,47 @@
     1422,
     null,
     1726
+  ],
+  "disintegration": [
+    387,
+    466,
+    605,
+    null,
+    821
+  ],
+  "factorder": [
+    510,
+    663,
+    849,
+    null,
+    1015
+  ],
+  "incompleteone": [
+    691,
+    848,
+    912,
+    null,
+    1008
+  ],
+  "chaosblast": [
+    786,
+    1000,
+    1290,
+    null,
+    1539
+  ],
+  "welcomequeen": [
+    610,
+    832,
+    1172,
+    null,
+    1442
+  ],
+  "altergate": [
+    774,
+    993,
+    1324,
+    null,
+    null
   ]
 }

@@ -3442,6 +3442,48 @@
         "1080_base.jpg",
         "1080_base_256.jpg"
       ]
+    },
+    {
+      "id": "disintegration",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "id": "factorder",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "id": "incompleteone",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "id": "chaosblast",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "id": "welcomequeen",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "id": "altergate",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
     }
   ],
   "banners": [
@@ -3536,6 +3578,12 @@
       "month": 8
     },
     {
+      "type": "aol",
+      "file": "online_banner_2025_09.png",
+      "year": 2025,
+      "month": 9
+    },
+    {
       "type": "course",
       "file": "course_banner_1.png",
       "level": 1
@@ -3613,6 +3661,7 @@
     "core_13.png",
     "core_14.png",
     "core_15.png",
+    "core_16.png",
     "core_bypass.png"
   ]
 }

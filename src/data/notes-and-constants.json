@@ -9416,5 +9416,134 @@
         "constant": 11.3
       }
     ]
+  },
+  {
+    "id": "disintegration",
+    "charts": [
+      {
+        "notes": 387,
+        "constant": 4
+      },
+      {
+        "notes": 466,
+        "constant": 6.5
+      },
+      {
+        "notes": 605,
+        "constant": 8.3
+      },
+      null,
+      {
+        "notes": 821,
+        "constant": 9.8
+      }
+    ]
+  },
+  {
+    "id": "factorder",
+    "charts": [
+      {
+        "notes": 510,
+        "constant": 2.5
+      },
+      {
+        "notes": 663,
+        "constant": 6.5
+      },
+      {
+        "notes": 849,
+        "constant": 8.6
+      },
+      null,
+      {
+        "notes": 1015,
+        "constant": 9.6
+      }
+    ]
+  },
+  {
+    "id": "incompleteone",
+    "charts": [
+      {
+        "notes": 691,
+        "constant": 3.5
+      },
+      {
+        "notes": 848,
+        "constant": 7.5
+      },
+      {
+        "notes": 912,
+        "constant": 8.8
+      },
+      null,
+      {
+        "notes": 1008,
+        "constant": 9.9
+      }
+    ]
+  },
+  {
+    "id": "chaosblast",
+    "charts": [
+      {
+        "notes": 786,
+        "constant": 4.5
+      },
+      {
+        "notes": 1000,
+        "constant": 7.8
+      },
+      {
+        "notes": 1290,
+        "constant": 9.6
+      },
+      null,
+      {
+        "notes": 1539,
+        "constant": 10.5
+      }
+    ]
+  },
+  {
+    "id": "welcomequeen",
+    "charts": [
+      {
+        "notes": 610,
+        "constant": 5
+      },
+      {
+        "notes": 832,
+        "constant": 8.5
+      },
+      {
+        "notes": 1172,
+        "constant": 10.1
+      },
+      null,
+      {
+        "notes": 1442,
+        "constant": 10.9
+      }
+    ]
+  },
+  {
+    "id": "altergate",
+    "charts": [
+      {
+        "notes": 774,
+        "constant": 5.5
+      },
+      {
+        "notes": 993,
+        "constant": 8.7
+      },
+      {
+        "notes": 1324,
+        "constant": 10.7
+      },
+      null,
+      null
+    ]
   }
 ]

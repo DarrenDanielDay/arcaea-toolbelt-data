@@ -7966,5 +7966,123 @@
       "constant": 11.3,
       "old": false
     }
+  ],
+  "particlearts": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "disintegration": [
+    {
+      "constant": 4,
+      "old": false
+    },
+    {
+      "constant": 6.5,
+      "old": false
+    },
+    {
+      "constant": 8.3,
+      "old": false
+    },
+    null,
+    {
+      "constant": 9.8,
+      "old": false
+    }
+  ],
+  "factorder": [
+    {
+      "constant": 2.5,
+      "old": false
+    },
+    {
+      "constant": 6.5,
+      "old": false
+    },
+    {
+      "constant": 8.6,
+      "old": false
+    },
+    null,
+    {
+      "constant": 9.6,
+      "old": false
+    }
+  ],
+  "incompleteone": [
+    {
+      "constant": 3.5,
+      "old": false
+    },
+    {
+      "constant": 7.5,
+      "old": false
+    },
+    {
+      "constant": 8.8,
+      "old": false
+    },
+    null,
+    {
+      "constant": 9.9,
+      "old": false
+    }
+  ],
+  "chaosblast": [
+    {
+      "constant": 4.5,
+      "old": false
+    },
+    {
+      "constant": 7.8,
+      "old": false
+    },
+    {
+      "constant": 9.6,
+      "old": false
+    },
+    null,
+    {
+      "constant": 10.5,
+      "old": false
+    }
+  ],
+  "welcomequeen": [
+    {
+      "constant": 5,
+      "old": false
+    },
+    {
+      "constant": 8.5,
+      "old": false
+    },
+    {
+      "constant": 10.1,
+      "old": false
+    },
+    null,
+    {
+      "constant": 10.9,
+      "old": false
+    }
+  ],
+  "altergate": [
+    {
+      "constant": 5.5,
+      "old": false
+    },
+    {
+      "constant": 8.7,
+      "old": false
+    },
+    {
+      "constant": 10.7,
+      "old": false
+    },
+    null,
+    null
   ]
 }

@@ -10120,11 +10120,40 @@
             "length": 3
           },
           {
-            "length": 0,
+            "length": 16,
             "reward": {
               "type": 0,
               "name": "次元结晶",
               "count": 1
+            }
+          },
+          {
+            "length": 18,
+            "special": {
+              "type": 2,
+              "range": [
+                "VECTOЯ",
+                "ReviXy",
+                "SUPERNOVA",
+                "Diode",
+                "FREEF4LL",
+                "Monochrome Princess"
+              ]
+            }
+          },
+          {
+            "length": 20,
+            "special": {
+              "type": 2,
+              "range": "Arcaea"
+            }
+          },
+          {
+            "length": 0,
+            "reward": {
+              "type": 0,
+              "name": "中空核心",
+              "count": 5
             }
           }
         ],
@@ -21156,10 +21185,1396 @@
             "length": 9
           },
           {
-            "length": 0,
+            "length": 9,
             "reward": {
               "type": 2,
               "id": 89
+            }
+          },
+          {
+            "length": 19
+          },
+          {
+            "length": 29
+          },
+          {
+            "length": 39
+          },
+          {
+            "length": 49
+          },
+          {
+            "length": 59,
+            "reward": {
+              "type": 0,
+              "name": "以太之滴",
+              "count": 1
+            }
+          },
+          {
+            "length": 69
+          },
+          {
+            "length": 79,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 600
+            }
+          },
+          {
+            "length": 89
+          },
+          {
+            "length": 99,
+            "reward": {
+              "type": 0,
+              "name": "蛊诱之核",
+              "count": 5
+            }
+          },
+          {
+            "length": 89
+          },
+          {
+            "length": 79,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 600
+            }
+          },
+          {
+            "length": 69
+          },
+          {
+            "length": 59,
+            "reward": {
+              "type": 0,
+              "name": "以太之滴",
+              "count": 2
+            }
+          },
+          {
+            "length": 49
+          },
+          {
+            "length": 39
+          },
+          {
+            "length": 29
+          },
+          {
+            "length": 19
+          },
+          {
+            "length": 9,
+            "special": {
+              "type": 2,
+              "range": "Extradimensional Cosmic Phenomenon"
+            }
+          },
+          {
+            "length": 99,
+            "special": {
+              "type": 3,
+              "range": "Extant Anima"
+            }
+          },
+          {
+            "length": 0,
+            "reward": {
+              "type": 0,
+              "name": "蛊诱之核",
+              "count": 5
+            }
+          }
+        ]
+      },
+      {
+        "id": "9-9",
+        "platforms": [
+          {
+            "length": 20
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 15,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 100
+            }
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 5,
+            "special": {
+              "type": 2,
+              "range": "Auxesia"
+            }
+          },
+          {
+            "length": 15,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 100
+            }
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 10,
+            "special": {
+              "type": 2,
+              "range": "Auxesia"
+            },
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 100
+            }
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 15,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 100
+            }
+          },
+          {
+            "length": 5,
+            "special": {
+              "type": 2,
+              "range": "Auxesia"
+            }
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 15,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 100
+            }
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 20,
+            "special": {
+              "type": 0,
+              "count": 2
+            }
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 15,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 100
+            }
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 5,
+            "special": {
+              "type": 2,
+              "range": "Auxesia"
+            }
+          },
+          {
+            "length": 15,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 100
+            }
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 10,
+            "special": {
+              "type": 2,
+              "range": "Auxesia"
+            },
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 100
+            }
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 15,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 100
+            }
+          },
+          {
+            "length": 5,
+            "special": {
+              "type": 2,
+              "range": "Auxesia"
+            }
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 15,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 100
+            }
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 20,
+            "special": {
+              "type": 0,
+              "count": 2
+            }
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 15,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 100
+            }
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 5,
+            "special": {
+              "type": 2,
+              "range": "Auxesia"
+            }
+          },
+          {
+            "length": 15,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 100
+            }
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 10,
+            "special": {
+              "type": 2,
+              "range": "Auxesia"
+            },
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 100
+            }
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 15,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 100
+            }
+          },
+          {
+            "length": 5,
+            "special": {
+              "type": 2,
+              "range": "Auxesia"
+            }
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 15,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 100
+            }
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 20,
+            "special": {
+              "type": 0,
+              "count": 2
+            }
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 15,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 100
+            }
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 5,
+            "special": {
+              "type": 2,
+              "range": "Auxesia"
+            }
+          },
+          {
+            "length": 15,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 100
+            }
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 10,
+            "special": {
+              "type": 2,
+              "range": "Auxesia"
+            },
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 100
+            }
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 15,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 100
+            }
+          },
+          {
+            "length": 5,
+            "special": {
+              "type": 2,
+              "range": "Auxesia"
+            }
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 15,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 100
+            }
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 20,
+            "special": {
+              "type": 0,
+              "count": 2
+            }
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 15,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 100
+            }
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 5,
+            "special": {
+              "type": 2,
+              "range": "Auxesia"
+            }
+          },
+          {
+            "length": 15,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 100
+            }
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 10,
+            "special": {
+              "type": 2,
+              "range": "Auxesia"
+            },
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 100
+            }
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 15,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 100
+            }
+          },
+          {
+            "length": 5,
+            "special": {
+              "type": 2,
+              "range": "Auxesia"
+            }
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 15,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 100
+            }
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 20,
+            "reward": {
+              "type": 2,
+              "id": 16
+            }
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 15,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 100
+            }
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 5,
+            "special": {
+              "type": 2,
+              "range": "Auxesia"
+            }
+          },
+          {
+            "length": 15,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 100
+            }
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 10,
+            "special": {
+              "type": 2,
+              "range": "Auxesia"
+            },
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 100
+            }
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 15,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 100
+            }
+          },
+          {
+            "length": 5,
+            "special": {
+              "type": 2,
+              "range": "Auxesia"
+            }
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 15,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 100
+            }
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 20,
+            "special": {
+              "type": 0,
+              "count": 2
+            }
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 15,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 100
+            }
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 5,
+            "special": {
+              "type": 2,
+              "range": "Auxesia"
+            }
+          },
+          {
+            "length": 15,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 100
+            }
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 10,
+            "special": {
+              "type": 2,
+              "range": "Auxesia"
+            },
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 100
+            }
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 15,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 100
+            }
+          },
+          {
+            "length": 5,
+            "special": {
+              "type": 2,
+              "range": "Auxesia"
+            }
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 15,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 100
+            }
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 72,
+            "special": {
+              "type": 0,
+              "count": 2
+            },
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 183
+            }
+          },
+          {
+            "length": 20,
+            "reward": {
+              "type": 2,
+              "id": 17
+            }
+          },
+          {
+            "length": 72,
+            "special": {
+              "type": 0,
+              "count": 2
+            }
+          },
+          {
+            "length": 5,
+            "special": {
+              "type": 2,
+              "range": "Auxesia"
+            }
+          },
+          {
+            "length": 15,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 30
+            }
+          },
+          {
+            "length": 6,
+            "special": {
+              "type": 2,
+              "range": "Memory Archive"
+            }
+          },
+          {
+            "length": 14,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 30
+            }
+          },
+          {
+            "length": 7,
+            "special": {
+              "type": 3,
+              "range": []
+            }
+          },
+          {
+            "length": 13,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 30
+            }
+          },
+          {
+            "length": 8,
+            "special": {
+              "type": 2,
+              "range": "Auxesia"
+            }
+          },
+          {
+            "length": 12
+          },
+          {
+            "length": 9,
+            "reward": {
+              "type": 0,
+              "name": "以太之滴",
+              "count": 1
+            }
+          },
+          {
+            "length": 10,
+            "special": {
+              "type": 0,
+              "count": 2
+            }
+          },
+          {
+            "length": 11,
+            "special": {
+              "type": 2,
+              "range": "Memory Archive"
+            }
+          },
+          {
+            "length": 10,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 35
+            }
+          },
+          {
+            "length": 11,
+            "special": {
+              "type": 3,
+              "range": []
+            }
+          },
+          {
+            "length": 9,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 35
+            }
+          },
+          {
+            "length": 12,
+            "special": {
+              "type": 2,
+              "range": "Auxesia"
+            }
+          },
+          {
+            "length": 8,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 35
+            }
+          },
+          {
+            "length": 13,
+            "special": {
+              "type": 2,
+              "range": "Memory Archive"
+            }
+          },
+          {
+            "length": 7
+          },
+          {
+            "length": 14,
+            "reward": {
+              "type": 0,
+              "name": "以太之滴",
+              "count": 1
+            }
+          },
+          {
+            "length": 10,
+            "special": {
+              "type": 0,
+              "count": 2
+            }
+          },
+          {
+            "length": 6,
+            "special": {
+              "type": 3,
+              "range": []
+            }
+          },
+          {
+            "length": 15,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 40
+            }
+          },
+          {
+            "length": 5,
+            "special": {
+              "type": 2,
+              "range": "Auxesia"
+            }
+          },
+          {
+            "length": 14,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 40
+            }
+          },
+          {
+            "length": 6,
+            "special": {
+              "type": 2,
+              "range": "Memory Archive"
+            }
+          },
+          {
+            "length": 13,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 40
+            }
+          },
+          {
+            "length": 7,
+            "special": {
+              "type": 3,
+              "range": []
+            }
+          },
+          {
+            "length": 12
+          },
+          {
+            "length": 8,
+            "reward": {
+              "type": 0,
+              "name": "以太之滴",
+              "count": 1
+            }
+          },
+          {
+            "length": 10,
+            "special": {
+              "type": 0,
+              "count": 2
+            }
+          },
+          {
+            "length": 11,
+            "special": {
+              "type": 2,
+              "range": "Auxesia"
+            }
+          },
+          {
+            "length": 9,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 45
+            }
+          },
+          {
+            "length": 10,
+            "special": {
+              "type": 2,
+              "range": "Memory Archive"
+            }
+          },
+          {
+            "length": 9,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 45
+            }
+          },
+          {
+            "length": 11,
+            "special": {
+              "type": 3,
+              "range": []
+            }
+          },
+          {
+            "length": 8,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 45
+            }
+          },
+          {
+            "length": 12,
+            "special": {
+              "type": 2,
+              "range": "Auxesia"
+            }
+          },
+          {
+            "length": 7
+          },
+          {
+            "length": 13,
+            "reward": {
+              "type": 0,
+              "name": "以太之滴",
+              "count": 1
+            }
+          },
+          {
+            "length": 10,
+            "special": {
+              "type": 0,
+              "count": 2
+            }
+          },
+          {
+            "length": 6,
+            "special": {
+              "type": 2,
+              "range": "Memory Archive"
+            }
+          },
+          {
+            "length": 14,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 50
+            }
+          },
+          {
+            "length": 5,
+            "special": {
+              "type": 3,
+              "range": []
+            }
+          },
+          {
+            "length": 15,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 50
+            }
+          },
+          {
+            "length": 6,
+            "special": {
+              "type": 2,
+              "range": "Auxesia"
+            }
+          },
+          {
+            "length": 14,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 50
+            }
+          },
+          {
+            "length": 7,
+            "special": {
+              "type": 2,
+              "range": "Memory Archive"
+            }
+          },
+          {
+            "length": 13
+          },
+          {
+            "length": 8,
+            "reward": {
+              "type": 0,
+              "name": "以太之滴",
+              "count": 1
+            }
+          },
+          {
+            "length": 10,
+            "special": {
+              "type": 0,
+              "count": 2
+            }
+          },
+          {
+            "length": 12,
+            "special": {
+              "type": 3,
+              "range": []
+            }
+          },
+          {
+            "length": 9,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 55
+            }
+          },
+          {
+            "length": 11,
+            "special": {
+              "type": 2,
+              "range": "Auxesia"
+            }
+          },
+          {
+            "length": 10,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 55
+            }
+          },
+          {
+            "length": 11,
+            "special": {
+              "type": 2,
+              "range": "Memory Archive"
+            }
+          },
+          {
+            "length": 9,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 55
+            }
+          },
+          {
+            "length": 12,
+            "special": {
+              "type": 3,
+              "range": []
+            }
+          },
+          {
+            "length": 8
+          },
+          {
+            "length": 13,
+            "reward": {
+              "type": 0,
+              "name": "以太之滴",
+              "count": 1
+            }
+          },
+          {
+            "length": 10,
+            "special": {
+              "type": 0,
+              "count": 2
+            }
+          },
+          {
+            "length": 0,
+            "reward": {
+              "type": 0,
+              "name": "以太之滴",
+              "count": 1
+            }
+          }
+        ]
+      },
+      {
+        "id": "9-10",
+        "platforms": [
+          {
+            "length": 99
+          },
+          {
+            "length": 9,
+            "special": {
+              "type": 2,
+              "range": [
+                "Factorder",
+                "incomplete the one",
+                "CHAOSBLAST",
+                "Welcome, Queen of Fiction.",
+                "AlterGate"
+              ]
+            }
+          },
+          {
+            "length": 99,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 500
+            }
+          },
+          {
+            "length": 9,
+            "special": {
+              "type": 2,
+              "range": [
+                "Factorder",
+                "incomplete the one",
+                "CHAOSBLAST",
+                "Welcome, Queen of Fiction.",
+                "AlterGate"
+              ]
+            }
+          },
+          {
+            "length": 99,
+            "reward": {
+              "type": 0,
+              "name": "以太之滴",
+              "count": 1
+            }
+          },
+          {
+            "length": 9,
+            "special": {
+              "type": 2,
+              "range": [
+                "Factorder",
+                "incomplete the one",
+                "CHAOSBLAST",
+                "Welcome, Queen of Fiction.",
+                "AlterGate"
+              ]
+            }
+          },
+          {
+            "length": 99,
+            "reward": {
+              "type": 0,
+              "name": "蛊诱之核",
+              "count": 5
+            }
+          },
+          {
+            "length": 9,
+            "special": {
+              "type": 2,
+              "range": [
+                "Factorder",
+                "incomplete the one",
+                "CHAOSBLAST",
+                "Welcome, Queen of Fiction.",
+                "AlterGate"
+              ]
+            }
+          },
+          {
+            "length": 99,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 500
+            }
+          },
+          {
+            "length": 9,
+            "special": {
+              "type": 2,
+              "range": [
+                "Factorder",
+                "incomplete the one",
+                "CHAOSBLAST",
+                "Welcome, Queen of Fiction.",
+                "AlterGate"
+              ]
+            }
+          },
+          {
+            "length": 99,
+            "reward": {
+              "type": 0,
+              "name": "以太之滴",
+              "count": 1
+            }
+          },
+          {
+            "length": 9,
+            "special": {
+              "type": 2,
+              "range": [
+                "Factorder",
+                "incomplete the one",
+                "CHAOSBLAST",
+                "Welcome, Queen of Fiction.",
+                "AlterGate"
+              ]
+            }
+          },
+          {
+            "length": 99,
+            "reward": {
+              "type": 0,
+              "name": "蛊诱之核",
+              "count": 5
+            }
+          },
+          {
+            "length": 9,
+            "special": {
+              "type": 2,
+              "range": [
+                "Factorder",
+                "incomplete the one",
+                "CHAOSBLAST",
+                "Welcome, Queen of Fiction.",
+                "AlterGate"
+              ]
+            }
+          },
+          {
+            "length": 99,
+            "reward": {
+              "type": 0,
+              "name": "以太之滴",
+              "count": 1
+            }
+          },
+          {
+            "length": 9,
+            "special": {
+              "type": 2,
+              "range": [
+                "Factorder",
+                "incomplete the one",
+                "CHAOSBLAST",
+                "Welcome, Queen of Fiction.",
+                "AlterGate"
+              ]
+            }
+          },
+          {
+            "length": 99,
+            "reward": {
+              "type": 0,
+              "name": "以太之滴",
+              "count": 1
+            }
+          },
+          {
+            "length": 9,
+            "special": {
+              "type": 2,
+              "range": [
+                "Factorder",
+                "incomplete the one",
+                "CHAOSBLAST",
+                "Welcome, Queen of Fiction.",
+                "AlterGate"
+              ]
+            }
+          },
+          {
+            "length": 99,
+            "special": {
+              "type": 3,
+              "range": [
+                "Factorder",
+                "incomplete the one",
+                "CHAOSBLAST",
+                "Welcome, Queen of Fiction.",
+                "AlterGate"
+              ]
+            }
+          },
+          {
+            "length": 0,
+            "reward": {
+              "type": 0,
+              "name": "蛊诱之核",
+              "count": 5
             }
           }
         ]
