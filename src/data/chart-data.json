@@ -24525,5 +24525,51 @@
     "version": {
       "added": "6.8"
     }
+  },
+  {
+    "bpm": "175-145",
+    "side": 1,
+    "id": "acheron",
+    "name": "Acheron",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Memory Archive",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 3.5,
+        "difficulty": "pst",
+        "designer": "karat",
+        "id": "acheron@pst",
+        "level": 3,
+        "note": 538,
+        "songId": "acheron"
+      },
+      {
+        "constant": 7.5,
+        "difficulty": "prs",
+        "designer": "karat",
+        "id": "acheron@prs",
+        "level": 7,
+        "note": 688,
+        "songId": "acheron"
+      },
+      {
+        "constant": 9.7,
+        "difficulty": "ftr",
+        "designer": "karat",
+        "id": "acheron@ftr",
+        "level": 9,
+        "note": 1024,
+        "songId": "acheron",
+        "plus": true
+      }
+    ],
+    "version": {
+      "added": "6.8"
+    }
   }
 ]

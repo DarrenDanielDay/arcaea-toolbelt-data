@@ -22578,6 +22578,183 @@
             }
           }
         ]
+      },
+      {
+        "id": "9-11",
+        "platforms": [
+          {
+            "length": 10
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 40,
+            "reward": {
+              "type": 0,
+              "name": "以太之滴",
+              "count": 1
+            }
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 30,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 200
+            }
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 20,
+            "reward": {
+              "type": 0,
+              "name": "以太之滴",
+              "count": 1
+            }
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 50,
+            "reward": {
+              "type": 1,
+              "id": "acheron"
+            }
+          },
+          {
+            "length": 10,
+            "special": {
+              "type": 2,
+              "range": [
+                "Acheron",
+                "NEO WINGS",
+                "Kissing Lucifer",
+                "HYPER VISION",
+                "Ashen 6oundary"
+              ]
+            }
+          },
+          {
+            "length": 20,
+            "reward": {
+              "type": 0,
+              "name": "以太之滴",
+              "count": 1
+            }
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 30,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 200
+            }
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 40,
+            "reward": {
+              "type": 0,
+              "name": "以太之滴",
+              "count": 1
+            }
+          },
+          {
+            "length": 10,
+            "special": {
+              "type": 2,
+              "range": [
+                "Acheron",
+                "NEO WINGS",
+                "Kissing Lucifer",
+                "HYPER VISION",
+                "Ashen 6oundary"
+              ]
+            }
+          },
+          {
+            "length": 10,
+            "special": {
+              "type": 2,
+              "range": [
+                "Acheron",
+                "NEO WINGS",
+                "Kissing Lucifer",
+                "HYPER VISION",
+                "Ashen 6oundary"
+              ]
+            }
+          },
+          {
+            "length": 10,
+            "special": {
+              "type": 2,
+              "range": [
+                "Acheron",
+                "NEO WINGS",
+                "Kissing Lucifer",
+                "HYPER VISION",
+                "Ashen 6oundary"
+              ]
+            }
+          },
+          {
+            "length": 10,
+            "special": {
+              "type": 2,
+              "range": [
+                "Acheron",
+                "NEO WINGS",
+                "Kissing Lucifer",
+                "HYPER VISION",
+                "Ashen 6oundary"
+              ]
+            }
+          },
+          {
+            "length": 0,
+            "reward": {
+              "type": 2,
+              "id": 90
+            }
+          }
+        ]
       }
     ]
   }

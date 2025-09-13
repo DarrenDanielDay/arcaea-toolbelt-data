@@ -192,6 +192,10 @@ function getOtherItemsData(): ItemData[] {
       name: "次元结晶",
       img: "https://wiki.arcaea.cn/images/1/16/Core_bypass.png",
     },
+    {
+      name: "五周年兑换券",
+      img: "https://wiki.arcaea.cn/images/1/1e/Ticket.png",
+    },
   ];
 }
 

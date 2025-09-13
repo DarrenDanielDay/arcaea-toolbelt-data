@@ -37657,7 +37657,83 @@
         "1080_base.jpg",
         "1080_base_256.jpg"
       ]
+    },
+    {
+      "idx": 484,
+      "id": "acheron",
+      "title_localized": {
+        "en": "Acheron"
+      },
+      "artist": "KARUT",
+      "search_title": {
+        "ja": [
+          "あけろん"
+        ],
+        "ko": [
+          "아케론"
+        ]
+      },
+      "search_artist": {
+        "ja": [
+          "かると"
+        ],
+        "ko": [
+          "카루트"
+        ]
+      },
+      "bpm": "175-145",
+      "bpm_base": 145,
+      "set": "single",
+      "category": "original",
+      "purchase": "",
+      "audioPreview": 0,
+      "audioPreviewEnd": 0,
+      "side": 1,
+      "bg": "single2_conflict",
+      "bg_inverse": "single2_light",
+      "remote_dl": true,
+      "world_unlock": true,
+      "date": 1756944000,
+      "version": "6.8",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "karat",
+          "jacketDesigner": "こもり",
+          "rating": 3,
+          "hidden_until_unlocked": true,
+          "hidden_until": "difficulty",
+          "notes": 538,
+          "constant": 3.5
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "karat",
+          "jacketDesigner": "こもり",
+          "rating": 7,
+          "hidden_until_unlocked": true,
+          "hidden_until": "difficulty",
+          "notes": 688,
+          "constant": 7.5
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "karat",
+          "jacketDesigner": "こもり",
+          "rating": 9,
+          "ratingPlus": true,
+          "hidden_until_unlocked": true,
+          "hidden_until": "difficulty",
+          "notes": 1024,
+          "constant": 9.7
+        }
+      ],
+      "alias": [],
+      "jackets": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
     }
   ],
-  "version": "6.8.0c"
+  "version": "6.8.2c"
 }

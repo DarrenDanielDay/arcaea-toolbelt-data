@@ -8084,5 +8084,21 @@
     },
     null,
     null
+  ],
+  "acheron": [
+    {
+      "constant": 3.5,
+      "old": false
+    },
+    {
+      "constant": 7.5,
+      "old": false
+    },
+    {
+      "constant": 9.7,
+      "old": false
+    },
+    null,
+    null
   ]
 }

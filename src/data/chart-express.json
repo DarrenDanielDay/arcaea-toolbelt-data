@@ -1,42 +1,6 @@
 [
   {
-    "songId": "disintegration",
-    "charts": [
-      {
-        "constant": 4
-      },
-      {
-        "constant": 6.5
-      },
-      {
-        "constant": 8.3
-      },
-      null,
-      {
-        "constant": 9.8
-      }
-    ]
-  },
-  {
-    "songId": "factorder",
-    "charts": [
-      {
-        "constant": 2.5
-      },
-      {
-        "constant": 6.5
-      },
-      {
-        "constant": 8.6
-      },
-      null,
-      {
-        "constant": 9.6
-      }
-    ]
-  },
-  {
-    "songId": "incompleteone",
+    "songId": "acheron",
     "charts": [
       {
         "constant": 3.5
@@ -45,61 +9,7 @@
         "constant": 7.5
       },
       {
-        "constant": 8.8
-      },
-      null,
-      {
-        "constant": 9.9
-      }
-    ]
-  },
-  {
-    "songId": "chaosblast",
-    "charts": [
-      {
-        "constant": 4.5
-      },
-      {
-        "constant": 7.8
-      },
-      {
-        "constant": 9.6
-      },
-      null,
-      {
-        "constant": 10.5
-      }
-    ]
-  },
-  {
-    "songId": "welcomequeen",
-    "charts": [
-      {
-        "constant": 5
-      },
-      {
-        "constant": 8.5
-      },
-      {
-        "constant": 10.1
-      },
-      null,
-      {
-        "constant": 10.9
-      }
-    ]
-  },
-  {
-    "songId": "altergate",
-    "charts": [
-      {
-        "constant": 5.5
-      },
-      {
-        "constant": 8.7
-      },
-      {
-        "constant": 10.7
+        "constant": 9.7
       },
       null,
       null

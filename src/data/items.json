@@ -142,5 +142,13 @@
       "en": "Warped Shard",
       "zh": "次元结晶"
     }
+  },
+  {
+    "file": "ticket.png",
+    "id": "ticket_5th",
+    "name": {
+      "en": "5th Anniversary Ticket",
+      "zh": "五周年兑换券"
+    }
   }
 ]

@@ -9545,5 +9545,24 @@
       null,
       null
     ]
+  },
+  {
+    "id": "acheron",
+    "charts": [
+      {
+        "notes": 538,
+        "constant": 3.5
+      },
+      {
+        "notes": 688,
+        "constant": 7.5
+      },
+      {
+        "notes": 1024,
+        "constant": 9.7
+      },
+      null,
+      null
+    ]
   }
 ]

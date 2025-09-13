@@ -3484,6 +3484,13 @@
         "1080_base.jpg",
         "1080_base_256.jpg"
       ]
+    },
+    {
+      "id": "acheron",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
     }
   ],
   "banners": [
@@ -3582,6 +3589,12 @@
       "file": "online_banner_2025_09.png",
       "year": 2025,
       "month": 9
+    },
+    {
+      "type": "aol",
+      "file": "online_banner_2025_10.png",
+      "year": 2025,
+      "month": 10
     },
     {
       "type": "course",
