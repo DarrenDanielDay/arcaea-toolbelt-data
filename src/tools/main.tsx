@@ -178,6 +178,9 @@ mount(
       <Action handler={generateWorldMapData}>生成地图数据</Action>
       <Action handler={generateCharacterData}>生成搭档数据</Action>
     </div>
+    <div class="row my-3">
+      <a href="/dist/online-tools/chart-data-tools">谱面数据工具</a>
+    </div>
     {latest}
     {progress}
     {alert}
