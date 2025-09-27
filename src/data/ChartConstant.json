@@ -8100,5 +8100,24 @@
     },
     null,
     null
+  ],
+  "eternitybreak": [
+    {
+      "constant": 3.5,
+      "old": false
+    },
+    {
+      "constant": 7.5,
+      "old": false
+    },
+    {
+      "constant": 9.6,
+      "old": false
+    },
+    null,
+    {
+      "constant": 10.4,
+      "old": false
+    }
   ]
 }

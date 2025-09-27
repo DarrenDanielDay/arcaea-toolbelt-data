@@ -24571,5 +24571,59 @@
     "version": {
       "added": "6.8"
     }
+  },
+  {
+    "bpm": "170",
+    "side": 1,
+    "id": "eternitybreak",
+    "name": "Eternity Break",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Memory Archive",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 3.5,
+        "difficulty": "pst",
+        "designer": "M理論_halt",
+        "id": "eternitybreak@pst",
+        "level": 3,
+        "note": 634,
+        "songId": "eternitybreak"
+      },
+      {
+        "constant": 7.5,
+        "difficulty": "prs",
+        "designer": "M理論_halt",
+        "id": "eternitybreak@prs",
+        "level": 7,
+        "note": 882,
+        "songId": "eternitybreak"
+      },
+      {
+        "constant": 9.6,
+        "difficulty": "ftr",
+        "designer": "M理論_halt",
+        "id": "eternitybreak@ftr",
+        "level": 9,
+        "note": 1051,
+        "songId": "eternitybreak"
+      },
+      {
+        "constant": 10.4,
+        "difficulty": "etr",
+        "designer": "M理論_halt",
+        "id": "eternitybreak@etr",
+        "level": 10,
+        "note": 1155,
+        "songId": "eternitybreak"
+      }
+    ],
+    "version": {
+      "added": "6.8"
+    }
   }
 ]

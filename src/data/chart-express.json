@@ -1,6 +1,6 @@
 [
   {
-    "songId": "acheron",
+    "songId": "eternitybreak",
     "charts": [
       {
         "constant": 3.5
@@ -9,10 +9,12 @@
         "constant": 7.5
       },
       {
-        "constant": 9.7
+        "constant": 9.6
       },
       null,
-      null
+      {
+        "constant": 10.4
+      }
     ]
   }
 ]

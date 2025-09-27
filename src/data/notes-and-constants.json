@@ -9564,5 +9564,27 @@
       null,
       null
     ]
+  },
+  {
+    "id": "eternitybreak",
+    "charts": [
+      {
+        "notes": 634,
+        "constant": 3.5
+      },
+      {
+        "notes": 882,
+        "constant": 7.5
+      },
+      {
+        "notes": 1051,
+        "constant": 9.6
+      },
+      null,
+      {
+        "notes": 1155,
+        "constant": 10.4
+      }
+    ]
   }
 ]

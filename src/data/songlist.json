@@ -30957,6 +30957,71 @@
           "hidden_until": "difficulty"
         }
       ]
+    },
+    {
+      "idx": 485,
+      "id": "eternitybreak",
+      "title_localized": {
+        "en": "Eternity Break"
+      },
+      "artist": "Puru",
+      "search_title": {
+        "ja": [
+          "えたにてぃぶれいく",
+          "えたにてぃーぶれいく"
+        ],
+        "ko": [
+          "이터니티 브레이크"
+        ]
+      },
+      "search_artist": {
+        "ja": [
+          "ぷる"
+        ],
+        "ko": [
+          "푸루"
+        ]
+      },
+      "bpm": "170",
+      "bpm_base": 170,
+      "set": "single",
+      "category": "original",
+      "purchase": "eternitybreak",
+      "audioPreview": 0,
+      "audioPreviewEnd": 0,
+      "side": 1,
+      "bg": "single2_conflict",
+      "bg_inverse": "single2_light",
+      "remote_dl": true,
+      "world_unlock": false,
+      "date": 1758758400,
+      "version": "6.8",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "M理論_halt",
+          "jacketDesigner": "Khronetic -玄廻-",
+          "rating": 3
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "M理論_halt",
+          "jacketDesigner": "Khronetic -玄廻-",
+          "rating": 7
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "M理論_halt",
+          "jacketDesigner": "Khronetic -玄廻-",
+          "rating": 9
+        },
+        {
+          "ratingClass": 4,
+          "chartDesigner": "M理論_halt",
+          "jacketDesigner": "Khronetic -玄廻-",
+          "rating": 10
+        }
+      ]
     }
   ]
 }
