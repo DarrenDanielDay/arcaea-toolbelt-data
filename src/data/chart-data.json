@@ -24625,5 +24625,317 @@
     "version": {
       "added": "6.8"
     }
+  },
+  {
+    "bpm": "135",
+    "side": 0,
+    "id": "rostpagegene",
+    "name": "ROST PAGE GENE",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "World Extend 3",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 5,
+        "difficulty": "pst",
+        "designer": "NEON:ROAD:OKAY",
+        "id": "rostpagegene@pst",
+        "level": 5,
+        "note": 475,
+        "songId": "rostpagegene"
+      },
+      {
+        "constant": 8.2,
+        "difficulty": "prs",
+        "designer": "NEON:ROAD:OKAY",
+        "id": "rostpagegene@prs",
+        "level": 8,
+        "note": 697,
+        "songId": "rostpagegene"
+      },
+      {
+        "constant": 10.3,
+        "difficulty": "ftr",
+        "designer": "NEON:ROAD:OKAY",
+        "id": "rostpagegene@ftr",
+        "level": 10,
+        "note": 1028,
+        "songId": "rostpagegene"
+      }
+    ],
+    "version": {
+      "added": "6.9"
+    }
+  },
+  {
+    "bpm": "162",
+    "side": 0,
+    "id": "violaillyria",
+    "name": "Viola Illyria",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Liminal Eclipse",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 2.5,
+        "difficulty": "pst",
+        "designer": "sidewaves",
+        "id": "violaillyria@pst",
+        "level": 2,
+        "note": 539,
+        "songId": "violaillyria"
+      },
+      {
+        "constant": 6.5,
+        "difficulty": "prs",
+        "designer": "sidewaves",
+        "id": "violaillyria@prs",
+        "level": 6,
+        "note": 683,
+        "songId": "violaillyria"
+      },
+      {
+        "constant": 9.5,
+        "difficulty": "ftr",
+        "designer": "sidewaves + Exschwasion",
+        "id": "violaillyria@ftr",
+        "level": 9,
+        "note": 927,
+        "songId": "violaillyria"
+      }
+    ],
+    "version": {
+      "added": "6.9"
+    }
+  },
+  {
+    "bpm": "180",
+    "side": 1,
+    "id": "vainspire",
+    "name": "Vainspire",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Liminal Eclipse",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 3.5,
+        "difficulty": "pst",
+        "designer": "|karat|",
+        "id": "vainspire@pst",
+        "level": 3,
+        "note": 771,
+        "songId": "vainspire"
+      },
+      {
+        "constant": 7,
+        "difficulty": "prs",
+        "designer": "|karat|",
+        "id": "vainspire@prs",
+        "level": 7,
+        "note": 787,
+        "songId": "vainspire"
+      },
+      {
+        "constant": 8.4,
+        "difficulty": "ftr",
+        "designer": "|karat|",
+        "id": "vainspire@ftr",
+        "level": 8,
+        "note": 947,
+        "songId": "vainspire"
+      },
+      {
+        "constant": 9.9,
+        "difficulty": "etr",
+        "designer": "|karat|",
+        "id": "vainspire@etr",
+        "level": 9,
+        "note": 1133,
+        "songId": "vainspire",
+        "plus": true
+      }
+    ],
+    "version": {
+      "added": "6.9"
+    }
+  },
+  {
+    "bpm": "153",
+    "side": 0,
+    "id": "nowayback",
+    "name": "No Way Back",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Liminal Eclipse",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 4.5,
+        "difficulty": "pst",
+        "designer": "「Nitro」",
+        "id": "nowayback@pst",
+        "level": 4,
+        "note": 564,
+        "songId": "nowayback"
+      },
+      {
+        "constant": 7.5,
+        "difficulty": "prs",
+        "designer": "「Nitro」",
+        "id": "nowayback@prs",
+        "level": 7,
+        "note": 639,
+        "songId": "nowayback"
+      },
+      {
+        "constant": 8.9,
+        "difficulty": "ftr",
+        "designer": "「Nitro」",
+        "id": "nowayback@ftr",
+        "level": 8,
+        "note": 837,
+        "songId": "nowayback",
+        "plus": true
+      },
+      {
+        "constant": 10.4,
+        "difficulty": "etr",
+        "designer": "「Nitro」",
+        "id": "nowayback@etr",
+        "level": 10,
+        "note": 1008,
+        "songId": "nowayback"
+      }
+    ],
+    "version": {
+      "added": "6.9"
+    }
+  },
+  {
+    "bpm": "148",
+    "side": 1,
+    "id": "andorxor",
+    "name": "ANDORXOR",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Liminal Eclipse",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 4.5,
+        "difficulty": "pst",
+        "designer": "反∧水",
+        "id": "andorxor@pst",
+        "level": 4,
+        "note": 559,
+        "songId": "andorxor"
+      },
+      {
+        "constant": 7.8,
+        "difficulty": "prs",
+        "designer": "反∧水",
+        "id": "andorxor@prs",
+        "level": 7,
+        "note": 758,
+        "songId": "andorxor",
+        "plus": true
+      },
+      {
+        "constant": 9.9,
+        "difficulty": "ftr",
+        "designer": "反∧水",
+        "id": "andorxor@ftr",
+        "level": 9,
+        "note": 1055,
+        "songId": "andorxor",
+        "plus": true
+      },
+      {
+        "constant": 10.8,
+        "difficulty": "etr",
+        "designer": "反∧水",
+        "id": "andorxor@etr",
+        "level": 10,
+        "note": 1404,
+        "songId": "andorxor",
+        "plus": true
+      }
+    ],
+    "version": {
+      "added": "6.9"
+    }
+  },
+  {
+    "bpm": "63",
+    "side": 1,
+    "id": "undyingmacula",
+    "name": "Undying Macula",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Liminal Eclipse",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 5.5,
+        "difficulty": "pst",
+        "designer": "PHOTONSPHERE",
+        "id": "undyingmacula@pst",
+        "level": 5,
+        "note": 883,
+        "songId": "undyingmacula"
+      },
+      {
+        "constant": 8.7,
+        "difficulty": "prs",
+        "designer": "ERGOSPHERE",
+        "id": "undyingmacula@prs",
+        "level": 8,
+        "note": 904,
+        "songId": "undyingmacula",
+        "plus": true
+      },
+      {
+        "constant": 10.1,
+        "difficulty": "ftr",
+        "designer": "EVENTHORIZON",
+        "id": "undyingmacula@ftr",
+        "level": 10,
+        "note": 1250,
+        "songId": "undyingmacula"
+      },
+      {
+        "constant": 11,
+        "difficulty": "etr",
+        "designer": "M/V_BRIDGE",
+        "id": "undyingmacula@etr",
+        "level": 11,
+        "note": 1461,
+        "songId": "undyingmacula"
+      }
+    ],
+    "version": {
+      "added": "6.9"
+    }
   }
 ]

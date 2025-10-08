@@ -8119,5 +8119,113 @@
       "constant": 10.4,
       "old": false
     }
+  ],
+  "rostpagegene": [
+    {
+      "constant": 5,
+      "old": false
+    },
+    {
+      "constant": 8.2,
+      "old": false
+    },
+    {
+      "constant": 10.3,
+      "old": false
+    },
+    null,
+    null
+  ],
+  "violaillyria": [
+    {
+      "constant": 2.5,
+      "old": false
+    },
+    {
+      "constant": 6.5,
+      "old": false
+    },
+    {
+      "constant": 9.5,
+      "old": false
+    },
+    null,
+    null
+  ],
+  "vainspire": [
+    {
+      "constant": 3.5,
+      "old": false
+    },
+    {
+      "constant": 7,
+      "old": false
+    },
+    {
+      "constant": 8.4,
+      "old": false
+    },
+    null,
+    {
+      "constant": 9.9,
+      "old": false
+    }
+  ],
+  "nowayback": [
+    {
+      "constant": 4.5,
+      "old": false
+    },
+    {
+      "constant": 7.5,
+      "old": false
+    },
+    {
+      "constant": 8.9,
+      "old": false
+    },
+    null,
+    {
+      "constant": 10.4,
+      "old": false
+    }
+  ],
+  "andorxor": [
+    {
+      "constant": 4.5,
+      "old": false
+    },
+    {
+      "constant": 7.8,
+      "old": false
+    },
+    {
+      "constant": 9.9,
+      "old": false
+    },
+    null,
+    {
+      "constant": 10.8,
+      "old": false
+    }
+  ],
+  "undyingmacula": [
+    {
+      "constant": 5.5,
+      "old": false
+    },
+    {
+      "constant": 8.7,
+      "old": false
+    },
+    {
+      "constant": 10.1,
+      "old": false
+    },
+    null,
+    {
+      "constant": 11,
+      "old": false
+    }
   ]
 }

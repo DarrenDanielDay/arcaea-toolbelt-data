@@ -136,6 +136,14 @@
     }
   },
   {
+    "file": "core_17.png",
+    "id": "core_maya_invisible",
+    "name": {
+      "en": "",
+      "zh": ""
+    }
+  },
+  {
     "file": "core_bypass.png",
     "id": "core_course_skip_purchase",
     "name": {

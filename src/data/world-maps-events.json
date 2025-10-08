@@ -10681,8 +10681,7 @@
           "id": 37
         }
       }
-    ],
-    "expire": 1757689200000
+    ]
   },
   {
     "id": "限时：BUCHiGiRE_Berserker",
@@ -37412,7 +37411,286 @@
           "count": 1
         }
       }
+    ]
+  },
+  {
+    "id": "限时：ROST_PAGE_GENE",
+    "platforms": [
+      {
+        "length": 1,
+        "special": {
+          "type": 2,
+          "range": [
+            "ROST PAGE GENE",
+            "Bamboo",
+            "G e n g a o z o",
+            "HIVEMIND",
+            "Chronicle",
+            "Aleph-0",
+            "Red and Blue",
+            "Bookmaker (2D Version)",
+            "Lethal Voltage",
+            "TRPNO",
+            "Purple Verse",
+            "ENERGY SYNERGY MATRIX",
+            "Nhelv"
+          ]
+        }
+      },
+      {
+        "length": 3
+      },
+      {
+        "length": 5
+      },
+      {
+        "length": 11
+      },
+      {
+        "length": 13
+      },
+      {
+        "length": 15,
+        "special": {
+          "type": 2,
+          "range": [
+            "ROST PAGE GENE",
+            "Bamboo",
+            "G e n g a o z o",
+            "HIVEMIND",
+            "Chronicle",
+            "Aleph-0",
+            "Red and Blue",
+            "Bookmaker (2D Version)",
+            "Lethal Voltage",
+            "TRPNO",
+            "Purple Verse",
+            "ENERGY SYNERGY MATRIX",
+            "Nhelv"
+          ]
+        }
+      },
+      {
+        "length": 31,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 33
+      },
+      {
+        "length": 35
+      },
+      {
+        "length": 51,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 400
+        }
+      },
+      {
+        "length": 53
+      },
+      {
+        "length": 55,
+        "special": {
+          "type": 2,
+          "range": [
+            "ROST PAGE GENE",
+            "Bamboo",
+            "G e n g a o z o",
+            "HIVEMIND",
+            "Chronicle",
+            "Aleph-0",
+            "Red and Blue",
+            "Bookmaker (2D Version)",
+            "Lethal Voltage",
+            "TRPNO",
+            "Purple Verse",
+            "ENERGY SYNERGY MATRIX",
+            "Nhelv"
+          ]
+        }
+      },
+      {
+        "length": 53
+      },
+      {
+        "length": 51,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 400
+        }
+      },
+      {
+        "length": 35
+      },
+      {
+        "length": 33
+      },
+      {
+        "length": 31,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 15,
+        "special": {
+          "type": 3,
+          "range": [
+            "ROST PAGE GENE",
+            "Bamboo",
+            "G e n g a o z o",
+            "HIVEMIND",
+            "Chronicle",
+            "Aleph-0",
+            "Red and Blue",
+            "Bookmaker (2D Version)",
+            "Lethal Voltage",
+            "TRPNO",
+            "Purple Verse",
+            "ENERGY SYNERGY MATRIX",
+            "Nhelv"
+          ]
+        }
+      },
+      {
+        "length": 13
+      },
+      {
+        "length": 11
+      },
+      {
+        "length": 5
+      },
+      {
+        "length": 3,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 1,
+        "special": {
+          "type": 3,
+          "range": [
+            "ROST PAGE GENE",
+            "Bamboo",
+            "G e n g a o z o",
+            "HIVEMIND",
+            "Chronicle",
+            "Aleph-0",
+            "Red and Blue",
+            "Bookmaker (2D Version)",
+            "Lethal Voltage",
+            "TRPNO",
+            "Purple Verse",
+            "ENERGY SYNERGY MATRIX",
+            "Nhelv"
+          ]
+        }
+      },
+      {
+        "length": 50,
+        "special": {
+          "type": 2,
+          "range": [
+            "ROST PAGE GENE",
+            "HELLOHELL",
+            "Prayer",
+            "Black Mirror on the Wall",
+            "disintegration",
+            "epitaxy",
+            "FURETE-MITAI",
+            "MORNINGLOOM",
+            "astral.exe",
+            "Leave All Behind",
+            "Someday",
+            "〇、",
+            "Awaken In Ruins",
+            "Distortion Human",
+            "Old School Salvage",
+            "Won't Back Down",
+            "τ (tau)",
+            "Lethal Voltage",
+            "TRPNO",
+            "Hailstone"
+          ]
+        },
+        "reward": {
+          "type": 1,
+          "id": "rostpagegene"
+        }
+      },
+      {
+        "length": 50,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 50,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 500
+        }
+      },
+      {
+        "length": 50
+      },
+      {
+        "length": 50
+      },
+      {
+        "length": 50,
+        "special": {
+          "type": 3,
+          "range": [
+            "ROST PAGE GENE",
+            "HELLOHELL",
+            "Prayer",
+            "Black Mirror on the Wall",
+            "disintegration",
+            "epitaxy",
+            "FURETE-MITAI",
+            "MORNINGLOOM",
+            "astral.exe",
+            "Leave All Behind",
+            "Someday",
+            "〇、",
+            "Awaken In Ruins",
+            "Distortion Human",
+            "Old School Salvage",
+            "Won't Back Down",
+            "τ (tau)",
+            "Lethal Voltage",
+            "TRPNO",
+            "Hailstone"
+          ]
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "次元结晶",
+          "count": 1
+        }
+      }
     ],
-    "expire": 1757689200000
+    "expire": 1760626800000
   }
 ]

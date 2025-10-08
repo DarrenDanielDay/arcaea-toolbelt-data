@@ -1745,12 +1745,12 @@
   {
     "character_id": 44,
     "name": "mir",
-    "level": 10,
-    "exp": 1250,
-    "level_exp": 1200,
-    "frag": 52.56553433445109,
-    "prog": 45.07756232686981,
-    "overdrive": 79.74201778684939,
+    "level": 11,
+    "exp": 1984.77941,
+    "level_exp": 1600,
+    "frag": 55.93446566554891,
+    "prog": 47.92243767313019,
+    "overdrive": 84.7579822131506,
     "skill_id": "gauge_exhaustion",
     "skill_unlock_level": 0,
     "skill_requires_uncap": false,
@@ -2148,10 +2148,10 @@
     },
     "variant": {
       "en": "Recall",
-      "ja": "追憶",
-      "ko": "추억",
-      "zh-Hans": "追忆",
-      "zh-Hant": "追憶"
+      "ja": "Recall",
+      "ko": "Recall",
+      "zh-Hans": "Recall",
+      "zh-Hant": "Recall"
     },
     "skill_id_text": {
       "en": "HARD + MIRROR - OVER increased by\nup to 10 based on Recollection Rate",
@@ -2793,16 +2793,16 @@
     "skill_id": "skill_maya",
     "skill_unlock_level": 0,
     "skill_requires_uncap": false,
-    "skill_id_uncap": "",
+    "skill_id_uncap": "skill_maya_uncap",
     "char_type": 0,
     "uncap_cores": [],
-    "is_uncapped": false,
+    "is_uncapped": true,
     "is_uncapped_override": false,
     "voice": [],
     "base_character": false,
     "skill_state": "add_random",
-    "icon": "66d3aee65f83b145676470230cbc0525",
-    "profile_image": "6a56c09704793b68a4a9f1841d618410",
+    "icon": "c99f0f997ecac97b58c8b571c2640bf9",
+    "profile_image": "f19abbe69ce155515436cb953368750d",
     "display_name": {
       "en": "Maya",
       "ja": "マヤ",
@@ -2816,6 +2816,13 @@
       "ko": "Random 제한 스텝을 무시하며,\n월드 진행 후 스킬이 변화",
       "zh-Hans": "不会触发随机限制格\n世界模式下技能将在曲目结算后改变",
       "zh-Hant": "不會觸發隨機限制格\n世界模式下技能將在曲目結算後改變"
+    },
+    "skill_id_uncap_text": {
+      "en": "Recollection Rate at 1/4 song progress\nis converted to stat bonus",
+      "ja": "楽曲の1/4時点での想起率を\nステータス値へのボーナスに変換",
+      "ko": "악곡 진행도 1/4 지점부터\n기억회상률을 스탯 보너스로 전환",
+      "zh-Hans": "歌曲游玩抵达全曲1/4进度时\n回忆率将全部转化为角色能力加成",
+      "zh-Hant": "歌曲遊玩抵達全曲1/4進度時\n回憶率將全部轉換為角色能力加成"
     }
   },
   {
@@ -3518,12 +3525,12 @@
   {
     "character_id": 90,
     "name": "vita_arc",
-    "level": 1,
-    "exp": 0,
-    "level_exp": 0,
-    "frag": 34.5,
-    "prog": 43,
-    "overdrive": 73.5,
+    "level": 4,
+    "exp": 169.79588999999999,
+    "level_exp": 150,
+    "frag": 34.77555037177431,
+    "prog": 43.33066044612917,
+    "overdrive": 74.07471934684357,
     "skill_id": "skill_vita_arc",
     "skill_unlock_level": 0,
     "skill_requires_uncap": false,
@@ -3545,10 +3552,10 @@
     },
     "variant": {
       "en": "Wanderer",
-      "ja": "彷徨",
-      "ko": "방랑자",
-      "zh-Hans": "漂泊",
-      "zh-Hant": "漂泊"
+      "ja": "Wanderer",
+      "ko": "Wanderer",
+      "zh-Hans": "Wanderer",
+      "zh-Hant": "Wanderer"
     },
     "skill_id_text": {
       "en": "Recollection Gauge and OVER reduced by 1\nfor every 2 FAR notes",

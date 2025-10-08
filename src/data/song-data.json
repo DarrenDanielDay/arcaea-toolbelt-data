@@ -37811,7 +37811,469 @@
         "1080_base.jpg",
         "1080_base_256.jpg"
       ]
+    },
+    {
+      "idx": 486,
+      "id": "rostpagegene",
+      "title_localized": {
+        "en": "ROST PAGE GENE"
+      },
+      "artist": "MYUKKE.",
+      "search_title": {
+        "ja": [
+          "ろすとぺーじじーん"
+        ],
+        "ko": [
+          "로스트 페이지 진"
+        ]
+      },
+      "search_artist": {
+        "ja": [
+          "みゅっけ"
+        ],
+        "ko": [
+          "뮷케",
+          "뮤케"
+        ]
+      },
+      "bpm": "135",
+      "bpm_base": 135,
+      "set": "extend_3",
+      "purchase": "extend_3",
+      "audioPreview": 0,
+      "audioPreviewEnd": 0,
+      "side": 0,
+      "bg": "omatsuri_light",
+      "bg_inverse": "omatsuri_conflict",
+      "remote_dl": true,
+      "world_unlock": false,
+      "date": 1759363200,
+      "version": "6.9",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "NEON:ROAD:OKAY",
+          "jacketDesigner": "sashimi",
+          "rating": 5,
+          "notes": 475,
+          "constant": 5
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "NEON:ROAD:OKAY",
+          "jacketDesigner": "sashimi",
+          "rating": 8,
+          "notes": 697,
+          "constant": 8.2
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "NEON:ROAD:OKAY",
+          "jacketDesigner": "sashimi",
+          "rating": 10,
+          "notes": 1028,
+          "constant": 10.3
+        }
+      ],
+      "alias": [],
+      "jackets": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "idx": 487,
+      "id": "violaillyria",
+      "title_localized": {
+        "en": "Viola Illyria"
+      },
+      "search_title": {
+        "ja": [
+          "ゔぃおらいりゅりあ"
+        ],
+        "ko": [
+          "비올라 이률리아"
+        ]
+      },
+      "search_artist": {
+        "ja": [
+          "こーら"
+        ],
+        "ko": [
+          "콜라"
+        ]
+      },
+      "artist": "Kolaa",
+      "bpm": "162",
+      "bpm_base": 162,
+      "set": "eclipse",
+      "purchase": "eclipse",
+      "audioPreview": 0,
+      "audioPreviewEnd": 0,
+      "side": 0,
+      "bg": "eclipse_light",
+      "bg_inverse": "eclipse_conflict",
+      "remote_dl": true,
+      "world_unlock": false,
+      "date": 1759363201,
+      "version": "6.9",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "sidewaves",
+          "jacketDesigner": "ねこじし",
+          "rating": 2,
+          "notes": 539,
+          "constant": 2.5
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "sidewaves",
+          "jacketDesigner": "ねこじし",
+          "rating": 6,
+          "notes": 683,
+          "constant": 6.5
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "sidewaves + Exschwasion",
+          "jacketDesigner": "ねこじし",
+          "rating": 9,
+          "notes": 927,
+          "constant": 9.5
+        }
+      ],
+      "alias": [],
+      "jackets": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "idx": 488,
+      "id": "vainspire",
+      "title_localized": {
+        "en": "Vainspire"
+      },
+      "artist": "satella",
+      "search_title": {
+        "ja": [
+          "ゔぇいんすぱいあ"
+        ],
+        "ko": [
+          "베인스파이어"
+        ]
+      },
+      "search_artist": {
+        "ja": [
+          "さてら"
+        ],
+        "ko": [
+          "사텔라"
+        ]
+      },
+      "bpm": "180",
+      "bpm_base": 180,
+      "set": "eclipse",
+      "purchase": "eclipse",
+      "audioPreview": 0,
+      "audioPreviewEnd": 0,
+      "side": 1,
+      "bg": "eclipse_conflict",
+      "bg_inverse": "eclipse_light",
+      "remote_dl": true,
+      "world_unlock": false,
+      "date": 1759363202,
+      "version": "6.9",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "|karat|",
+          "jacketDesigner": "Ugi",
+          "rating": 3,
+          "notes": 771,
+          "constant": 3.5
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "|karat|",
+          "jacketDesigner": "Ugi",
+          "rating": 7,
+          "notes": 787,
+          "constant": 7
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "|karat|",
+          "jacketDesigner": "Ugi",
+          "rating": 8,
+          "notes": 947,
+          "constant": 8.4
+        },
+        {
+          "ratingClass": 4,
+          "chartDesigner": "|karat|",
+          "jacketDesigner": "Ugi",
+          "rating": 9,
+          "ratingPlus": true,
+          "notes": 1133,
+          "constant": 9.9
+        }
+      ],
+      "alias": [],
+      "jackets": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "idx": 489,
+      "id": "nowayback",
+      "title_localized": {
+        "en": "No Way Back"
+      },
+      "artist": "Nhato",
+      "search_title": {
+        "ja": [
+          "のーうぇいばっく"
+        ],
+        "ko": [
+          "노 웨이 백"
+        ]
+      },
+      "search_artist": {
+        "ja": [
+          "なはと"
+        ],
+        "ko": [
+          "나하토"
+        ]
+      },
+      "bpm": "153",
+      "bpm_base": 153,
+      "set": "eclipse",
+      "purchase": "eclipse",
+      "audioPreview": 0,
+      "audioPreviewEnd": 0,
+      "side": 0,
+      "bg": "eclipse_light",
+      "bg_inverse": "eclipse_conflict",
+      "remote_dl": true,
+      "world_unlock": false,
+      "date": 1759363203,
+      "version": "6.9",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "「Nitro」",
+          "jacketDesigner": "AT基調",
+          "rating": 4,
+          "notes": 564,
+          "constant": 4.5
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "「Nitro」",
+          "jacketDesigner": "AT基調",
+          "rating": 7,
+          "notes": 639,
+          "constant": 7.5
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "「Nitro」",
+          "jacketDesigner": "AT基調",
+          "rating": 8,
+          "ratingPlus": true,
+          "notes": 837,
+          "constant": 8.9
+        },
+        {
+          "ratingClass": 4,
+          "chartDesigner": "「Nitro」",
+          "jacketDesigner": "AT基調",
+          "rating": 10,
+          "notes": 1008,
+          "constant": 10.4
+        }
+      ],
+      "alias": [],
+      "jackets": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "idx": 490,
+      "id": "andorxor",
+      "title_localized": {
+        "en": "ANDORXOR"
+      },
+      "artist": "Sobrem",
+      "search_title": {
+        "ja": [
+          "えんどーさー"
+        ],
+        "ko": [
+          "앤도서",
+          "엔도서",
+          "인도서"
+        ]
+      },
+      "search_artist": {
+        "ja": [
+          "そぶれむ"
+        ],
+        "ko": [
+          "소브렘"
+        ]
+      },
+      "bpm": "148",
+      "bpm_base": 148,
+      "set": "eclipse",
+      "purchase": "eclipse",
+      "audioPreview": 0,
+      "audioPreviewEnd": 0,
+      "side": 1,
+      "bg": "eclipse_conflict",
+      "bg_inverse": "eclipse_light",
+      "remote_dl": true,
+      "world_unlock": false,
+      "date": 1759363204,
+      "version": "6.9",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "反∧水",
+          "jacketDesigner": "南条まや + Vormis.",
+          "rating": 4,
+          "notes": 559,
+          "constant": 4.5
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "反∧水",
+          "jacketDesigner": "南条まや + Vormis.",
+          "rating": 7,
+          "ratingPlus": true,
+          "notes": 758,
+          "constant": 7.8
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "反∧水",
+          "jacketDesigner": "南条まや + Vormis.",
+          "rating": 9,
+          "ratingPlus": true,
+          "notes": 1055,
+          "constant": 9.9
+        },
+        {
+          "ratingClass": 4,
+          "chartDesigner": "反∧水",
+          "jacketDesigner": "南条まや + Vormis.",
+          "rating": 10,
+          "ratingPlus": true,
+          "notes": 1404,
+          "constant": 10.8
+        }
+      ],
+      "alias": [],
+      "jackets": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "idx": 491,
+      "id": "undyingmacula",
+      "title_localized": {
+        "en": "Undying Macula"
+      },
+      "artist": "Ashrount",
+      "search_title": {
+        "ja": [
+          "あんだいんぐまーきゅら",
+          "あんだいんぐまきゅら"
+        ],
+        "ko": [
+          "언다잉 마큘라"
+        ]
+      },
+      "search_artist": {
+        "ja": [
+          "あしゅらうんと"
+        ],
+        "ko": [
+          "애쉬라운트",
+          "애쉬런트"
+        ]
+      },
+      "bpm": "63",
+      "bpm_base": 189,
+      "set": "eclipse",
+      "purchase": "eclipse",
+      "audioPreview": 0,
+      "audioPreviewEnd": 0,
+      "side": 1,
+      "bg": "macula_conflict_a",
+      "bg_inverse": "macula_light_a",
+      "remote_dl": true,
+      "world_unlock": false,
+      "date": 1759363205,
+      "version": "6.9",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "PHOTONSPHERE",
+          "jacketDesigner": "すずなし",
+          "rating": 5,
+          "notes": 883,
+          "constant": 5.5
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "ERGOSPHERE",
+          "jacketDesigner": "すずなし",
+          "rating": 8,
+          "ratingPlus": true,
+          "notes": 904,
+          "constant": 8.7
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "EVENTHORIZON",
+          "jacketDesigner": "すずなし",
+          "rating": 10,
+          "notes": 1250,
+          "constant": 10.1
+        },
+        {
+          "ratingClass": 4,
+          "chartDesigner": "M/V_BRIDGE",
+          "jacketDesigner": "すずなし",
+          "legacy11": true,
+          "rating": 11,
+          "notes": 1461,
+          "constant": 11
+        }
+      ],
+      "additional_files": [
+        {
+          "file_name": "video.mp4",
+          "requirement": "required"
+        },
+        {
+          "file_name": "video_audio.ogg",
+          "requirement": "required"
+        }
+      ],
+      "alias": [],
+      "jackets": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
     }
   ],
-  "version": "6.8.4c"
+  "version": "6.9.3c"
 }

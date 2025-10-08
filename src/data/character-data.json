@@ -6978,7 +6978,7 @@
     "id": 54,
     "name": {
       "en": "Vita (Recall)",
-      "zh": "维塔（追忆）"
+      "zh": "维塔（Recall）"
     },
     "levels": [
       null,
@@ -9007,7 +9007,8 @@
       }
     ],
     "can": {
-      "lost": true
+      "lost": true,
+      "awake": true
     }
   },
   {
@@ -11361,7 +11362,7 @@
     },
     "name": {
       "en": "Vita (Wanderer)",
-      "zh": "维塔（漂泊）"
+      "zh": "维塔（Wanderer）"
     }
   },
   {

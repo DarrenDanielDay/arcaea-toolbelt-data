@@ -9586,5 +9586,131 @@
         "constant": 10.4
       }
     ]
+  },
+  {
+    "id": "rostpagegene",
+    "charts": [
+      {
+        "notes": 475,
+        "constant": 5
+      },
+      {
+        "notes": 697,
+        "constant": 8.2
+      },
+      {
+        "notes": 1028,
+        "constant": 10.3
+      },
+      null,
+      null
+    ]
+  },
+  {
+    "id": "violaillyria",
+    "charts": [
+      {
+        "notes": 539,
+        "constant": 2.5
+      },
+      {
+        "notes": 683,
+        "constant": 6.5
+      },
+      {
+        "notes": 927,
+        "constant": 9.5
+      },
+      null,
+      null
+    ]
+  },
+  {
+    "id": "vainspire",
+    "charts": [
+      {
+        "notes": 771,
+        "constant": 3.5
+      },
+      {
+        "notes": 787,
+        "constant": 7
+      },
+      {
+        "notes": 947,
+        "constant": 8.4
+      },
+      null,
+      {
+        "notes": 1133,
+        "constant": 9.9
+      }
+    ]
+  },
+  {
+    "id": "nowayback",
+    "charts": [
+      {
+        "notes": 564,
+        "constant": 4.5
+      },
+      {
+        "notes": 639,
+        "constant": 7.5
+      },
+      {
+        "notes": 837,
+        "constant": 8.9
+      },
+      null,
+      {
+        "notes": 1008,
+        "constant": 10.4
+      }
+    ]
+  },
+  {
+    "id": "andorxor",
+    "charts": [
+      {
+        "notes": 559,
+        "constant": 4.5
+      },
+      {
+        "notes": 758,
+        "constant": 7.8
+      },
+      {
+        "notes": 1055,
+        "constant": 9.9
+      },
+      null,
+      {
+        "notes": 1404,
+        "constant": 10.8
+      }
+    ]
+  },
+  {
+    "id": "undyingmacula",
+    "charts": [
+      {
+        "notes": 883,
+        "constant": 5.5
+      },
+      {
+        "notes": 904,
+        "constant": 8.7
+      },
+      {
+        "notes": 1250,
+        "constant": 10.1
+      },
+      null,
+      {
+        "notes": 1461,
+        "constant": 11
+      }
+    ]
   }
 ]

@@ -3498,6 +3498,48 @@
         "1080_base.jpg",
         "1080_base_256.jpg"
       ]
+    },
+    {
+      "id": "rostpagegene",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "id": "violaillyria",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "id": "vainspire",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "id": "nowayback",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "id": "andorxor",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "id": "undyingmacula",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
     }
   ],
   "banners": [
@@ -3604,6 +3646,12 @@
       "month": 10
     },
     {
+      "type": "aol",
+      "file": "online_banner_2025_11.png",
+      "year": 2025,
+      "month": 11
+    },
+    {
       "type": "course",
       "file": "course_banner_1.png",
       "level": 1
@@ -3682,6 +3730,7 @@
     "core_14.png",
     "core_15.png",
     "core_16.png",
+    "core_17.png",
     "core_bypass.png"
   ]
 }
