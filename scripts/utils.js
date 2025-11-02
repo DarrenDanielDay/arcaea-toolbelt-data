@@ -38,6 +38,9 @@ export function patchDeep(oldValue, newValue) {
     return newValue;
   }
   if (!isObjectLike(newValue)) {
+    if (oldValue !== newValue) {
+      console.log(`Updated: ${oldValue} => ${newValue}`);
+    }
     return newValue;
   }
   if (Array.isArray(newValue) && Array.isArray(oldValue)) {

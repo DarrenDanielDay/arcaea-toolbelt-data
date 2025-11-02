@@ -1,7 +1,7 @@
 // @ts-check
 import { main as characterFactorMain } from "./character-factor.js";
 import { characterDataFile, charactersFile, charactersPatchFile } from "./files.js";
-import { isNear, patchJSON } from "./utils.js";
+import { isNear, patchDeep, patchJSON } from "./utils.js";
 
 const patch = await charactersPatchFile();
 
@@ -21,17 +21,23 @@ const characters = await charactersFile();
 await patchJSON(characterDataFile, (characterData) => {
   const characterDataMap = new Map(characterData.map((c) => [c.id, c]));
   for (const character of characters) {
-    if (!characterDataMap.has(character.character_id)) {
-      const variantEn = character.variant?.en;
-      const variantZh = character.variant?.["zh-Hans"];
-      characterData.push({
-        id: character.character_id,
-        levels: {},
-        name: {
-          en: character.display_name.en + (variantEn ? ` (${variantEn})` : ""),
-          zh: character.display_name["zh-Hans"] + (variantZh ? `（${variantZh}）` : ""),
-        },
-      });
+    const variantEn = character.variant?.en;
+    const variantZh = character.variant?.["zh-Hans"];
+    /** @type {(typeof characterData)[number]} */
+    const characterItem = {
+      id: character.character_id,
+      levels: {},
+      name: {
+        en: character.display_name.en + (variantEn ? ` (${variantEn})` : ""),
+        zh: character.display_name["zh-Hans"] + (variantZh ? `（${variantZh}）` : ""),
+      },
+    };
+    const existingCharacter = characterDataMap.get(character.character_id);
+    if (!existingCharacter) {
+      characterData.push(characterItem);
+    } else {
+      // for exsiting characters, update to latest name
+      Object.assign(existingCharacter.name, patchDeep(existingCharacter.name, characterItem.name));
     }
   }
   characterData.sort((a, b) => a.id - b.id);
@@ -64,7 +70,7 @@ for (const oneCharacter of characterData) {
   }
   const factors = oneCharacter.levels[character.level];
   if (!factors) {
-    throw new Error(`Character data has no level ${character.level} factor!`);
+    throw new Error(`Character data (id=${character.character_id}) has no level ${character.level} factor!`);
   }
   /**
    * @param {string} type
