@@ -37690,7 +37690,1209 @@
           "count": 1
         }
       }
+    ]
+  },
+  {
+    "id": "限时：Wake_in_Hour",
+    "platforms": [
+      {
+        "length": 5,
+        "special": {
+          "type": 2,
+          "range": [
+            "Wake in Hour",
+            "Awaken In Ruins",
+            "Rise",
+            "Rise of the World",
+            "Vivid Theory",
+            "1F√",
+            "Gekka (Short Version)",
+            "Give Me a Nightmare",
+            "Black Lotus"
+          ]
+        }
+      },
+      {
+        "length": 5
+      },
+      {
+        "length": 5
+      },
+      {
+        "length": 5
+      },
+      {
+        "length": 5
+      },
+      {
+        "length": 5,
+        "special": {
+          "type": 2,
+          "range": [
+            "Wake in Hour",
+            "Awaken In Ruins",
+            "Rise",
+            "Rise of the World",
+            "Tsuki ni Murakumo, Hana ni Kaze",
+            "MANTIS (Arcaea Ultra-Bloodrush VIP)",
+            "World Fragments III(radio edit)",
+            "Astra walkthrough",
+            "Chronicle"
+          ]
+        }
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10,
+        "special": {
+          "type": 2,
+          "range": [
+            "Wake in Hour",
+            "Awaken In Ruins",
+            "Rise",
+            "Rise of the World",
+            "HELLOHELL",
+            "〇、",
+            "MORNINGLOOM",
+            "Lethal Voltage"
+          ]
+        }
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 15,
+        "special": {
+          "type": 2,
+          "range": [
+            "Wake in Hour",
+            "Awaken In Ruins",
+            "Rise",
+            "Rise of the World",
+            "mod",
+            "Particle",
+            "Paradox Palette",
+            "Xxium and Purple haze"
+          ]
+        }
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20,
+        "special": {
+          "type": 3,
+          "range": [
+            "Wake in Hour",
+            "Awaken In Ruins",
+            "Rise",
+            "Rise of the World",
+            "Vivid Theory",
+            "1F√",
+            "Gekka (Short Version)",
+            "Give Me a Nightmare",
+            "Black Lotus",
+            "Tsuki ni Murakumo, Hana ni Kaze",
+            "MANTIS (Arcaea Ultra-Bloodrush VIP)",
+            "World Fragments III(radio edit)",
+            "Astra walkthrough",
+            "Chronicle",
+            "HELLOHELL",
+            "〇、",
+            "MORNINGLOOM",
+            "Lethal Voltage",
+            "mod",
+            "Particle",
+            "Paradox Palette",
+            "Xxium and Purple haze"
+          ]
+        }
+      },
+      {
+        "length": 25,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 500
+        }
+      },
+      {
+        "length": 25,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 2
+        }
+      },
+      {
+        "length": 25,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 2
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 1,
+          "id": "awakening"
+        }
+      }
     ],
-    "expire": 1760626800000
+    "expire": 1763650800000
+  },
+  {
+    "id": "限时：Particle",
+    "platforms": [
+      {
+        "length": 20,
+        "special": {
+          "type": 2,
+          "range": [
+            "Particle",
+            "Anökumene",
+            "Rugie",
+            "μ",
+            "PUPA",
+            "World Fragments III(radio edit)",
+            "Callima Karma",
+            "Saint or Sinner",
+            "Sulfur",
+            "Crystal Gravity",
+            "Meta-Mysteria",
+            "Journey",
+            "cyanine",
+            "Prism",
+            "Protoflicker",
+            "Stasis"
+          ]
+        }
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 200
+        }
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 200
+        }
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 300
+        }
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20,
+        "special": {
+          "type": 2,
+          "range": [
+            "Particle",
+            "Anökumene",
+            "Rugie",
+            "μ",
+            "PUPA",
+            "World Fragments III(radio edit)",
+            "Callima Karma",
+            "Saint or Sinner",
+            "Sulfur",
+            "Crystal Gravity",
+            "Meta-Mysteria",
+            "Journey",
+            "cyanine",
+            "Prism",
+            "Protoflicker",
+            "Stasis"
+          ]
+        }
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20,
+        "special": {
+          "type": 2,
+          "range": [
+            "Particle",
+            "Anökumene",
+            "Rugie",
+            "μ",
+            "PUPA",
+            "World Fragments III(radio edit)",
+            "Callima Karma",
+            "Saint or Sinner",
+            "Sulfur",
+            "Crystal Gravity",
+            "Meta-Mysteria",
+            "Journey",
+            "cyanine",
+            "Prism",
+            "Protoflicker",
+            "Stasis"
+          ]
+        }
+      },
+      {
+        "length": 20,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 1,
+          "id": "particle"
+        }
+      }
+    ],
+    "expire": 1763650800000
+  },
+  {
+    "id": "限时：mod",
+    "platforms": [
+      {
+        "length": 30
+      },
+      {
+        "length": 3,
+        "special": {
+          "type": 3,
+          "range": []
+        }
+      },
+      {
+        "length": 3,
+        "special": {
+          "type": 3,
+          "range": []
+        }
+      },
+      {
+        "length": 3,
+        "special": {
+          "type": 3,
+          "range": []
+        }
+      },
+      {
+        "length": 3,
+        "special": {
+          "type": 3,
+          "range": []
+        }
+      },
+      {
+        "length": 3,
+        "special": {
+          "type": 3,
+          "range": []
+        }
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 2,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 20
+        }
+      },
+      {
+        "length": 2,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 20
+        }
+      },
+      {
+        "length": 2,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 20
+        }
+      },
+      {
+        "length": 2,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 20
+        }
+      },
+      {
+        "length": 2,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 20
+        }
+      },
+      {
+        "length": 40
+      },
+      {
+        "length": 4,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 40
+        }
+      },
+      {
+        "length": 4,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 40
+        }
+      },
+      {
+        "length": 4,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 40
+        }
+      },
+      {
+        "length": 4,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 40
+        }
+      },
+      {
+        "length": 4,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 40
+        }
+      },
+      {
+        "length": 30
+      },
+      {
+        "length": 3,
+        "special": {
+          "type": 1,
+          "max": 5
+        }
+      },
+      {
+        "length": 3,
+        "special": {
+          "type": 1,
+          "max": 5
+        }
+      },
+      {
+        "length": 3,
+        "special": {
+          "type": 1,
+          "max": 5
+        }
+      },
+      {
+        "length": 3,
+        "special": {
+          "type": 1,
+          "max": 5
+        }
+      },
+      {
+        "length": 3,
+        "special": {
+          "type": 1,
+          "max": 5
+        }
+      },
+      {
+        "length": 50
+      },
+      {
+        "length": 5,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 50
+        }
+      },
+      {
+        "length": 5,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 50
+        }
+      },
+      {
+        "length": 5,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 50
+        }
+      },
+      {
+        "length": 5,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 50
+        }
+      },
+      {
+        "length": 5,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 50
+        }
+      },
+      {
+        "length": 40
+      },
+      {
+        "length": 4,
+        "special": {
+          "type": 3,
+          "range": []
+        }
+      },
+      {
+        "length": 4,
+        "special": {
+          "type": 3,
+          "range": []
+        }
+      },
+      {
+        "length": 4,
+        "special": {
+          "type": 3,
+          "range": []
+        }
+      },
+      {
+        "length": 4,
+        "special": {
+          "type": 3,
+          "range": []
+        }
+      },
+      {
+        "length": 4,
+        "special": {
+          "type": 3,
+          "range": []
+        }
+      },
+      {
+        "length": 50
+      },
+      {
+        "length": 5,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 50
+        }
+      },
+      {
+        "length": 5,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 5,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 5,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 5,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 1,
+          "id": "mod"
+        }
+      }
+    ],
+    "expire": 1763650800000
+  },
+  {
+    "id": "限时：Paradox_Palette",
+    "platforms": [
+      {
+        "length": 25
+      },
+      {
+        "length": 24,
+        "special": {
+          "type": 2,
+          "range": [
+            "Paradox Palette",
+            "Purgatorium",
+            "Anökumene",
+            "Illegal Paradise",
+            "Rabbit In The Black Room",
+            "Chronostasis",
+            "Dement ~after legend~",
+            "Ignotus",
+            "Lucifer",
+            "LunarOrbit -believe in the Espebranch road-",
+            "Nhelv",
+            "NULCTRL",
+            "ReviXy",
+            "Rugie",
+            "SUPERNOVA",
+            "VECTOЯ",
+            "Lost Civilization",
+            "Blaster",
+            "Bookmaker (2D Version)",
+            "Cybernecia Catharsis",
+            "FREEF4LL",
+            "Monochrome Princess",
+            "qualia -ideaesthesia-",
+            "Red and Blue",
+            "Trap Crow",
+            "SATISFACTION",
+            "Dematerialized"
+          ]
+        }
+      },
+      {
+        "length": 26,
+        "special": {
+          "type": 2,
+          "range": [
+            "Paradox Palette",
+            "Fairytale",
+            "Infinity Heaven",
+            "Sayonara Hatsukoi",
+            "Harutopia ~Utopia of Spring~",
+            "Kanagawa Cyber Culvert",
+            "Brand new world",
+            "Clotho and the stargazer",
+            "Dandelion",
+            "Grimheart",
+            "Hidden Rainbows of Epicurus",
+            "inkar-usi",
+            "Jingle",
+            "One Last Drive",
+            "Reinvent",
+            "Rise",
+            "Snow White",
+            "Vexaria",
+            "Altair (feat. *spiLa*)",
+            "DDD",
+            "Diode",
+            "Suomi",
+            "Dialnote",
+            "Oblivia",
+            "Remind the Souls (Short Version)",
+            "Sakura Fubuki",
+            "Senkyou",
+            "Shades of Light in a Transcendent Realm",
+            "The Formula",
+            "world.execute(me);",
+            "Babaroque",
+            "Dancin' on a Cat's Paw",
+            "san skia",
+            "Syro",
+            "Ävril -Flicka i krans-",
+            "Dreamin' Attraction!!",
+            "GOODTEK (Arcaea Edit)",
+            "Redraw the Colorless World"
+          ]
+        }
+      },
+      {
+        "length": 23
+      },
+      {
+        "length": 27
+      },
+      {
+        "length": 22,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 300
+        }
+      },
+      {
+        "length": 28
+      },
+      {
+        "length": 21
+      },
+      {
+        "length": 29
+      },
+      {
+        "length": 20,
+        "special": {
+          "type": 2,
+          "range": [
+            "Paradox Palette",
+            "Purgatorium",
+            "Anökumene",
+            "Illegal Paradise",
+            "Rabbit In The Black Room",
+            "Chronostasis",
+            "Dement ~after legend~",
+            "Ignotus",
+            "Lucifer",
+            "LunarOrbit -believe in the Espebranch road-",
+            "Nhelv",
+            "NULCTRL",
+            "ReviXy",
+            "Rugie",
+            "SUPERNOVA",
+            "VECTOЯ",
+            "Lost Civilization",
+            "Blaster",
+            "Bookmaker (2D Version)",
+            "Cybernecia Catharsis",
+            "FREEF4LL",
+            "Monochrome Princess",
+            "qualia -ideaesthesia-",
+            "Red and Blue",
+            "Trap Crow",
+            "SATISFACTION",
+            "Dematerialized"
+          ]
+        }
+      },
+      {
+        "length": 30,
+        "special": {
+          "type": 2,
+          "range": [
+            "Paradox Palette",
+            "Fairytale",
+            "Infinity Heaven",
+            "Sayonara Hatsukoi",
+            "Harutopia ~Utopia of Spring~",
+            "Kanagawa Cyber Culvert",
+            "Brand new world",
+            "Clotho and the stargazer",
+            "Dandelion",
+            "Grimheart",
+            "Hidden Rainbows of Epicurus",
+            "inkar-usi",
+            "Jingle",
+            "One Last Drive",
+            "Reinvent",
+            "Rise",
+            "Snow White",
+            "Vexaria",
+            "Altair (feat. *spiLa*)",
+            "DDD",
+            "Diode",
+            "Suomi",
+            "Dialnote",
+            "Oblivia",
+            "Remind the Souls (Short Version)",
+            "Sakura Fubuki",
+            "Senkyou",
+            "Shades of Light in a Transcendent Realm",
+            "The Formula",
+            "world.execute(me);",
+            "Babaroque",
+            "Dancin' on a Cat's Paw",
+            "san skia",
+            "Syro",
+            "Ävril -Flicka i krans-",
+            "Dreamin' Attraction!!",
+            "GOODTEK (Arcaea Edit)",
+            "Redraw the Colorless World"
+          ]
+        },
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 400
+        }
+      },
+      {
+        "length": 19
+      },
+      {
+        "length": 31
+      },
+      {
+        "length": 18
+      },
+      {
+        "length": 32
+      },
+      {
+        "length": 17,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 4
+        }
+      },
+      {
+        "length": 33
+      },
+      {
+        "length": 16,
+        "special": {
+          "type": 2,
+          "range": [
+            "Paradox Palette",
+            "Purgatorium",
+            "Anökumene",
+            "Illegal Paradise",
+            "Rabbit In The Black Room",
+            "Chronostasis",
+            "Dement ~after legend~",
+            "Ignotus",
+            "Lucifer",
+            "LunarOrbit -believe in the Espebranch road-",
+            "Nhelv",
+            "NULCTRL",
+            "ReviXy",
+            "Rugie",
+            "SUPERNOVA",
+            "VECTOЯ",
+            "Lost Civilization",
+            "Blaster",
+            "Bookmaker (2D Version)",
+            "Cybernecia Catharsis",
+            "FREEF4LL",
+            "Monochrome Princess",
+            "qualia -ideaesthesia-",
+            "Red and Blue",
+            "Trap Crow",
+            "SATISFACTION",
+            "Dematerialized"
+          ]
+        }
+      },
+      {
+        "length": 34,
+        "special": {
+          "type": 2,
+          "range": [
+            "Paradox Palette",
+            "Fairytale",
+            "Infinity Heaven",
+            "Sayonara Hatsukoi",
+            "Harutopia ~Utopia of Spring~",
+            "Kanagawa Cyber Culvert",
+            "Brand new world",
+            "Clotho and the stargazer",
+            "Dandelion",
+            "Grimheart",
+            "Hidden Rainbows of Epicurus",
+            "inkar-usi",
+            "Jingle",
+            "One Last Drive",
+            "Reinvent",
+            "Rise",
+            "Snow White",
+            "Vexaria",
+            "Altair (feat. *spiLa*)",
+            "DDD",
+            "Diode",
+            "Suomi",
+            "Dialnote",
+            "Oblivia",
+            "Remind the Souls (Short Version)",
+            "Sakura Fubuki",
+            "Senkyou",
+            "Shades of Light in a Transcendent Realm",
+            "The Formula",
+            "world.execute(me);",
+            "Babaroque",
+            "Dancin' on a Cat's Paw",
+            "san skia",
+            "Syro",
+            "Ävril -Flicka i krans-",
+            "Dreamin' Attraction!!",
+            "GOODTEK (Arcaea Edit)",
+            "Redraw the Colorless World"
+          ]
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 1,
+          "id": "paradoxpalette"
+        }
+      }
+    ],
+    "expire": 1763650800000
+  },
+  {
+    "id": "限时：Xxium_and_Purple_haze",
+    "platforms": [
+      {
+        "length": 1
+      },
+      {
+        "length": 55,
+        "reward": {
+          "type": 0,
+          "name": "次元结晶",
+          "count": 1
+        }
+      },
+      {
+        "length": 44
+      },
+      {
+        "length": 33
+      },
+      {
+        "length": 22,
+        "special": {
+          "type": 2,
+          "range": [
+            "Xxium and Purple haze",
+            "Shinchoku Doudesuka?",
+            "Black Mirror on the Wall",
+            "Crimson Quartz",
+            "Gensou no Satellite",
+            "HELLOHELL",
+            "Hidden Rainbows of Epicurus",
+            "Hiiro Gekka, Kyoushou no Zetsu (nayuta 2017 ver.)",
+            "Kanbu de Tomatte Sugu Tokeru",
+            "Kanjou no Matenrou ～Arr.Demetori",
+            "Lost Emotion feat. nomico",
+            "Lost in the Abyss",
+            "SACRIFICE feat. ayame",
+            "Tsuki ni Murakumo, Hana ni Kaze",
+            "Ultimate taste"
+          ]
+        }
+      },
+      {
+        "length": 11,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 500
+        }
+      },
+      {
+        "length": 44
+      },
+      {
+        "length": 33
+      },
+      {
+        "length": 22,
+        "special": {
+          "type": 2,
+          "range": [
+            "Xxium and Purple haze",
+            "Shinchoku Doudesuka?",
+            "Black Mirror on the Wall",
+            "Crimson Quartz",
+            "Gensou no Satellite",
+            "HELLOHELL",
+            "Hidden Rainbows of Epicurus",
+            "Hiiro Gekka, Kyoushou no Zetsu (nayuta 2017 ver.)",
+            "Kanbu de Tomatte Sugu Tokeru",
+            "Kanjou no Matenrou ～Arr.Demetori",
+            "Lost Emotion feat. nomico",
+            "Lost in the Abyss",
+            "SACRIFICE feat. ayame",
+            "Tsuki ni Murakumo, Hana ni Kaze",
+            "Ultimate taste"
+          ]
+        }
+      },
+      {
+        "length": 11,
+        "special": {
+          "type": 0,
+          "count": 2
+        }
+      },
+      {
+        "length": 22,
+        "special": {
+          "type": 3,
+          "range": [
+            "Xxium and Purple haze",
+            "Shinchoku Doudesuka?",
+            "Black Mirror on the Wall",
+            "Crimson Quartz",
+            "Gensou no Satellite",
+            "HELLOHELL",
+            "Hidden Rainbows of Epicurus",
+            "Hiiro Gekka, Kyoushou no Zetsu (nayuta 2017 ver.)",
+            "Kanbu de Tomatte Sugu Tokeru",
+            "Kanjou no Matenrou ～Arr.Demetori",
+            "Lost Emotion feat. nomico",
+            "Lost in the Abyss",
+            "SACRIFICE feat. ayame",
+            "Tsuki ni Murakumo, Hana ni Kaze",
+            "Ultimate taste"
+          ]
+        }
+      },
+      {
+        "length": 33
+      },
+      {
+        "length": 44
+      },
+      {
+        "length": 11,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 4
+        }
+      },
+      {
+        "length": 22,
+        "special": {
+          "type": 3,
+          "range": [
+            "Xxium and Purple haze",
+            "Shinchoku Doudesuka?",
+            "Black Mirror on the Wall",
+            "Crimson Quartz",
+            "Gensou no Satellite",
+            "HELLOHELL",
+            "Hidden Rainbows of Epicurus",
+            "Hiiro Gekka, Kyoushou no Zetsu (nayuta 2017 ver.)",
+            "Kanbu de Tomatte Sugu Tokeru",
+            "Kanjou no Matenrou ～Arr.Demetori",
+            "Lost Emotion feat. nomico",
+            "Lost in the Abyss",
+            "SACRIFICE feat. ayame",
+            "Tsuki ni Murakumo, Hana ni Kaze",
+            "Ultimate taste"
+          ]
+        }
+      },
+      {
+        "length": 33
+      },
+      {
+        "length": 44
+      },
+      {
+        "length": 55
+      },
+      {
+        "length": 1,
+        "reward": {
+          "type": 1,
+          "id": "xxium"
+        }
+      },
+      {
+        "length": 11
+      },
+      {
+        "length": 22
+      },
+      {
+        "length": 33
+      },
+      {
+        "length": 44
+      },
+      {
+        "length": 55,
+        "special": {
+          "type": 2,
+          "range": [
+            "Wake in Hour",
+            "mod",
+            "Particle",
+            "Paradox Palette",
+            "Xxium and Purple haze"
+          ]
+        }
+      },
+      {
+        "length": 1,
+        "special": {
+          "type": 0,
+          "count": 2
+        }
+      },
+      {
+        "length": 11,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 800
+        }
+      },
+      {
+        "length": 22
+      },
+      {
+        "length": 33
+      },
+      {
+        "length": 44
+      },
+      {
+        "length": 55,
+        "special": {
+          "type": 3,
+          "range": [
+            "Wake in Hour",
+            "mod",
+            "Particle",
+            "Paradox Palette",
+            "Xxium and Purple haze"
+          ]
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "次元结晶",
+          "count": 1
+        }
+      }
+    ],
+    "expire": 1763650800000
   }
 ]

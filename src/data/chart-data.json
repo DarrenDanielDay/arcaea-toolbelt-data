@@ -5917,7 +5917,7 @@
       "1080_base.jpg",
       "1080_base_256.jpg",
       "1080_base_ja.jpg",
-      "base_ja_256.jpg"
+      "1080_base_ja_256.jpg"
     ],
     "pack": "Eternal Core",
     "dl": true,
@@ -7003,7 +7003,7 @@
       "1080_base.jpg",
       "1080_base_256.jpg",
       "1080_base_night.jpg",
-      "base_night_256.jpg"
+      "1080_base_night_256.jpg"
     ],
     "pack": "Sunset Radiance",
     "dl": true,
@@ -19104,7 +19104,7 @@
       "1080_base.jpg",
       "1080_base_256.jpg"
     ],
-    "pack": "World Extend 3",
+    "pack": "Extend Archive 3",
     "dl": true,
     "alias": [],
     "charts": [
@@ -19158,7 +19158,7 @@
       "1080_base.jpg",
       "1080_base_256.jpg"
     ],
-    "pack": "World Extend 3",
+    "pack": "Extend Archive 3",
     "dl": true,
     "alias": [],
     "charts": [
@@ -19203,7 +19203,7 @@
       "1080_base.jpg",
       "1080_base_256.jpg"
     ],
-    "pack": "World Extend 3",
+    "pack": "Extend Archive 3",
     "dl": true,
     "alias": [],
     "charts": [
@@ -19249,7 +19249,7 @@
       "1080_base.jpg",
       "1080_base_256.jpg"
     ],
-    "pack": "World Extend 3",
+    "pack": "Extend Archive 3",
     "dl": true,
     "alias": [],
     "charts": [
@@ -19305,7 +19305,7 @@
       "1080_base.jpg",
       "1080_base_256.jpg"
     ],
-    "pack": "World Extend 3",
+    "pack": "Extend Archive 3",
     "dl": true,
     "alias": [],
     "charts": [
@@ -19441,7 +19441,7 @@
       "1080_base.jpg",
       "1080_base_256.jpg"
     ],
-    "pack": "World Extend 3",
+    "pack": "Extend Archive 3",
     "dl": true,
     "alias": [],
     "charts": [
@@ -19798,7 +19798,7 @@
       "1080_base.jpg",
       "1080_base_256.jpg"
     ],
-    "pack": "World Extend 3",
+    "pack": "Extend Archive 3",
     "dl": true,
     "alias": [],
     "charts": [
@@ -20186,7 +20186,7 @@
       "1080_base.jpg",
       "1080_base_256.jpg"
     ],
-    "pack": "World Extend 3",
+    "pack": "Extend Archive 3",
     "dl": true,
     "alias": [],
     "charts": [
@@ -20525,7 +20525,7 @@
       "1080_base.jpg",
       "1080_base_256.jpg"
     ],
-    "pack": "World Extend 3",
+    "pack": "Extend Archive 3",
     "dl": true,
     "alias": [],
     "charts": [
@@ -20938,7 +20938,7 @@
       "1080_base.jpg",
       "1080_base_256.jpg"
     ],
-    "pack": "World Extend 3",
+    "pack": "Extend Archive 3",
     "dl": true,
     "alias": [],
     "charts": [
@@ -20984,7 +20984,7 @@
       "1080_base.jpg",
       "1080_base_256.jpg"
     ],
-    "pack": "World Extend 3",
+    "pack": "Extend Archive 3",
     "dl": true,
     "alias": [],
     "charts": [
@@ -21093,7 +21093,7 @@
       "1080_base.jpg",
       "1080_base_256.jpg"
     ],
-    "pack": "World Extend 3",
+    "pack": "Extend Archive 3",
     "dl": true,
     "alias": [],
     "charts": [
@@ -21357,7 +21357,7 @@
       "1080_base.jpg",
       "1080_base_256.jpg"
     ],
-    "pack": "World Extend 3",
+    "pack": "Extend Archive 3",
     "dl": true,
     "alias": [],
     "charts": [
@@ -22814,7 +22814,7 @@
       "1080_base.jpg",
       "1080_base_256.jpg"
     ],
-    "pack": "World Extend 3",
+    "pack": "Extend Archive 3",
     "dl": true,
     "alias": [],
     "charts": [
@@ -22925,7 +22925,7 @@
       "1080_base.jpg",
       "1080_base_256.jpg"
     ],
-    "pack": "World Extend 3",
+    "pack": "Extend Archive 3",
     "dl": true,
     "alias": [],
     "charts": [
@@ -22971,7 +22971,7 @@
       "1080_base.jpg",
       "1080_base_256.jpg"
     ],
-    "pack": "World Extend 3",
+    "pack": "Extend Archive 3",
     "dl": true,
     "alias": [],
     "charts": [
@@ -23063,7 +23063,7 @@
       "1080_base.jpg",
       "1080_base_256.jpg"
     ],
-    "pack": "World Extend 3",
+    "pack": "Extend Archive 3",
     "dl": true,
     "alias": [],
     "charts": [
@@ -23538,7 +23538,7 @@
       "1080_base.jpg",
       "1080_base_256.jpg"
     ],
-    "pack": "World Extend 3",
+    "pack": "Extend Archive 3",
     "dl": true,
     "alias": [],
     "charts": [
@@ -24213,7 +24213,7 @@
       "1080_base.jpg",
       "1080_base_256.jpg"
     ],
-    "pack": "World Extend 3",
+    "pack": "Extend Archive 3",
     "dl": true,
     "alias": [],
     "charts": [
@@ -24635,7 +24635,7 @@
       "1080_base.jpg",
       "1080_base_256.jpg"
     ],
-    "pack": "World Extend 3",
+    "pack": "Extend Archive 3",
     "dl": true,
     "alias": [],
     "charts": [
@@ -24936,6 +24936,374 @@
     ],
     "version": {
       "added": "6.9"
+    }
+  },
+  {
+    "bpm": "128",
+    "side": 0,
+    "id": "awakening",
+    "name": "Wake in Hour",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "World Extend 4",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 2.5,
+        "difficulty": "pst",
+        "designer": "Luxance",
+        "id": "awakening@pst",
+        "level": 2,
+        "note": 394,
+        "songId": "awakening"
+      },
+      {
+        "constant": 5.5,
+        "difficulty": "prs",
+        "designer": "Luxance",
+        "id": "awakening@prs",
+        "level": 5,
+        "note": 492,
+        "songId": "awakening"
+      },
+      {
+        "constant": 7.5,
+        "difficulty": "ftr",
+        "designer": "Luxance",
+        "id": "awakening@ftr",
+        "level": 7,
+        "note": 608,
+        "songId": "awakening"
+      },
+      {
+        "constant": 8.7,
+        "difficulty": "etr",
+        "designer": "Luxance",
+        "id": "awakening@etr",
+        "level": 8,
+        "note": 726,
+        "songId": "awakening",
+        "plus": true
+      }
+    ],
+    "version": {
+      "added": "6.10"
+    }
+  },
+  {
+    "bpm": "168",
+    "side": 0,
+    "id": "mod",
+    "name": "mod",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "World Extend 4",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 3.5,
+        "difficulty": "pst",
+        "designer": "karat",
+        "id": "mod@pst",
+        "level": 3,
+        "note": 572,
+        "songId": "mod"
+      },
+      {
+        "constant": 6.5,
+        "difficulty": "prs",
+        "designer": "karat",
+        "id": "mod@prs",
+        "level": 6,
+        "note": 676,
+        "songId": "mod"
+      },
+      {
+        "constant": 9.4,
+        "difficulty": "ftr",
+        "designer": "karat",
+        "id": "mod@ftr",
+        "level": 9,
+        "note": 853,
+        "songId": "mod"
+      }
+    ],
+    "version": {
+      "added": "6.10"
+    }
+  },
+  {
+    "bpm": "142",
+    "side": 1,
+    "id": "particle",
+    "name": "Particle",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "World Extend 4",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 3.5,
+        "difficulty": "pst",
+        "designer": "M理論",
+        "id": "particle@pst",
+        "level": 3,
+        "note": 519,
+        "songId": "particle"
+      },
+      {
+        "constant": 6,
+        "difficulty": "prs",
+        "designer": "M理論",
+        "id": "particle@prs",
+        "level": 6,
+        "note": 613,
+        "songId": "particle"
+      },
+      {
+        "constant": 9.5,
+        "difficulty": "ftr",
+        "designer": "M理論_charmq",
+        "id": "particle@ftr",
+        "level": 9,
+        "note": 890,
+        "songId": "particle"
+      },
+      {
+        "constant": 9.7,
+        "difficulty": "etr",
+        "designer": "M理論_strangeq",
+        "id": "particle@etr",
+        "level": 9,
+        "note": 881,
+        "songId": "particle",
+        "plus": true
+      }
+    ],
+    "version": {
+      "added": "6.10"
+    }
+  },
+  {
+    "bpm": "152",
+    "side": 0,
+    "id": "paradoxpalette",
+    "name": "Paradox Palette",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "World Extend 4",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 4,
+        "difficulty": "pst",
+        "designer": "antymis.",
+        "id": "paradoxpalette@pst",
+        "level": 4,
+        "note": 476,
+        "songId": "paradoxpalette"
+      },
+      {
+        "constant": 7.5,
+        "difficulty": "prs",
+        "designer": "antymis.",
+        "id": "paradoxpalette@prs",
+        "level": 7,
+        "note": 653,
+        "songId": "paradoxpalette"
+      },
+      {
+        "constant": 8.8,
+        "difficulty": "ftr",
+        "designer": "antymis.",
+        "id": "paradoxpalette@ftr",
+        "level": 8,
+        "note": 814,
+        "songId": "paradoxpalette",
+        "plus": true
+      },
+      {
+        "constant": 9.9,
+        "difficulty": "etr",
+        "designer": "antymis.",
+        "id": "paradoxpalette@etr",
+        "level": 9,
+        "note": 1043,
+        "songId": "paradoxpalette",
+        "plus": true
+      }
+    ],
+    "version": {
+      "added": "6.10"
+    }
+  },
+  {
+    "bpm": "165",
+    "side": 1,
+    "id": "xxium",
+    "name": "Xxium and Purple haze",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "World Extend 4",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 2.5,
+        "difficulty": "pst",
+        "designer": "ẋx",
+        "id": "xxium@pst",
+        "level": 2,
+        "note": 768,
+        "songId": "xxium"
+      },
+      {
+        "constant": 7.8,
+        "difficulty": "prs",
+        "designer": "ẋx",
+        "id": "xxium@prs",
+        "level": 7,
+        "note": 806,
+        "songId": "xxium",
+        "plus": true
+      },
+      {
+        "constant": 9.9,
+        "difficulty": "ftr",
+        "designer": "ẋx",
+        "id": "xxium@ftr",
+        "level": 9,
+        "note": 1182,
+        "songId": "xxium",
+        "plus": true
+      },
+      {
+        "constant": 10.5,
+        "difficulty": "etr",
+        "designer": "ẋx",
+        "id": "xxium@etr",
+        "level": 10,
+        "note": 1096,
+        "songId": "xxium"
+      }
+    ],
+    "version": {
+      "added": "6.10"
+    }
+  },
+  {
+    "bpm": "196",
+    "side": 0,
+    "id": "angelsboundary",
+    "name": "Angel's Boundary",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Memory Archive",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 5,
+        "difficulty": "pst",
+        "designer": "[絶,滅)",
+        "id": "angelsboundary@pst",
+        "level": 5,
+        "note": 841,
+        "songId": "angelsboundary"
+      },
+      {
+        "constant": 8.5,
+        "difficulty": "prs",
+        "designer": "[絶,滅)",
+        "id": "angelsboundary@prs",
+        "level": 8,
+        "note": 1013,
+        "songId": "angelsboundary"
+      },
+      {
+        "constant": 10.2,
+        "difficulty": "ftr",
+        "designer": "[絶,滅)",
+        "id": "angelsboundary@ftr",
+        "level": 10,
+        "note": 1246,
+        "songId": "angelsboundary"
+      }
+    ],
+    "version": {
+      "added": "6.10"
+    }
+  },
+  {
+    "bpm": "128-256",
+    "side": 1,
+    "id": "xterfusion",
+    "name": "Xterfusion",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Memory Archive",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 4.5,
+        "difficulty": "pst",
+        "designer": "Nitro -fuze- 夜浪",
+        "id": "xterfusion@pst",
+        "level": 4,
+        "note": 640,
+        "songId": "xterfusion"
+      },
+      {
+        "constant": 8.3,
+        "difficulty": "prs",
+        "designer": "Nitro -fuze- 夜浪",
+        "id": "xterfusion@prs",
+        "level": 8,
+        "note": 919,
+        "songId": "xterfusion"
+      },
+      {
+        "constant": 9.8,
+        "difficulty": "ftr",
+        "designer": "Nitro -fuze- 夜浪",
+        "id": "xterfusion@ftr",
+        "level": 9,
+        "note": 1138,
+        "songId": "xterfusion",
+        "plus": true
+      },
+      {
+        "constant": 10.7,
+        "difficulty": "etr",
+        "designer": "Nitro -fuze- 夜浪",
+        "id": "xterfusion@etr",
+        "level": 10,
+        "note": 1441,
+        "songId": "xterfusion",
+        "plus": true
+      }
+    ],
+    "version": {
+      "added": "6.10"
     }
   }
 ]

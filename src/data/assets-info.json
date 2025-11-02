@@ -844,7 +844,7 @@
         "1080_base.jpg",
         "1080_base_256.jpg",
         "1080_base_ja.jpg",
-        "base_ja_256.jpg"
+        "1080_base_ja_256.jpg"
       ]
     },
     {
@@ -992,7 +992,7 @@
         "1080_base.jpg",
         "1080_base_256.jpg",
         "1080_base_night.jpg",
-        "base_night_256.jpg"
+        "1080_base_night_256.jpg"
       ]
     },
     {
@@ -3540,6 +3540,55 @@
         "1080_base.jpg",
         "1080_base_256.jpg"
       ]
+    },
+    {
+      "id": "awakening",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "id": "mod",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "id": "particle",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "id": "paradoxpalette",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "id": "xxium",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "id": "angelsboundary",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "id": "xterfusion",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
     }
   ],
   "banners": [
@@ -3650,6 +3699,12 @@
       "file": "online_banner_2025_11.png",
       "year": 2025,
       "month": 11
+    },
+    {
+      "type": "aol",
+      "file": "online_banner_2025_12.png",
+      "year": 2025,
+      "month": 12
     },
     {
       "type": "course",

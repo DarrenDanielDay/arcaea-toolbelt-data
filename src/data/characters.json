@@ -3566,6 +3566,45 @@
     }
   },
   {
+    "skill_id_text": {
+      "en": "",
+      "ja": "",
+      "ko": "",
+      "zh-Hans": "",
+      "zh-Hant": ""
+    },
+    "display_name": {
+      "en": "Hikari & Tairitsu",
+      "ja": "光と対立",
+      "ko": "히카리와 타이리츠",
+      "zh-Hans": "光 & 对立",
+      "zh-Hant": "光 & 對立"
+    },
+    "variant": {
+      "en": "Breakthrough",
+      "ja": "Breakthrough",
+      "ko": "Breakthrough",
+      "zh-Hans": "Breakthrough",
+      "zh-Hant": "Breakthrough"
+    },
+    "base_character": false,
+    "is_uncapped": false,
+    "uncap_cores": [],
+    "char_type": 0,
+    "skill_id_uncap": "",
+    "skill_requires_uncap": false,
+    "skill_unlock_level": 0,
+    "skill_id": "",
+    "overdrive": 45,
+    "prog": 45,
+    "frag": 45,
+    "level_exp": 0,
+    "exp": 0,
+    "level": 1,
+    "name": "hikari_tairitsu_ost",
+    "character_id": 91
+  },
+  {
     "character_id": 99,
     "name": "shirahime",
     "level": 20,

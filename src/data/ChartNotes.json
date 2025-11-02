@@ -3442,5 +3442,54 @@
     1250,
     null,
     1461
+  ],
+  "awakening": [
+    394,
+    492,
+    608,
+    null,
+    726
+  ],
+  "mod": [
+    572,
+    676,
+    853,
+    null,
+    null
+  ],
+  "particle": [
+    519,
+    613,
+    890,
+    null,
+    881
+  ],
+  "paradoxpalette": [
+    476,
+    653,
+    814,
+    null,
+    1043
+  ],
+  "xxium": [
+    768,
+    806,
+    1182,
+    null,
+    1096
+  ],
+  "angelsboundary": [
+    841,
+    1013,
+    1246,
+    null,
+    null
+  ],
+  "xterfusion": [
+    640,
+    919,
+    1138,
+    null,
+    1441
   ]
 }
