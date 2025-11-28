@@ -298,15 +298,15 @@ type Backgrounds = {
 
 async function getBackgounds(): Promise<Backgrounds> {
   const map: Backgrounds = {};
-  await initPageDocument(wikiURL("背景列表"), arcaeaCNClient);
+  await initPageDocument(wikiURL("个性化设置"), arcaeaCNClient);
   const anchor = htmlDocument.querySelector("#场景")!;
   const table = findNextElWhere(anchor.parentElement!, (el): el is HTMLTableElement =>
     el.matches("table")
   ) as HTMLTableElement;
   for (const tbody of Array.from(table.tBodies)) {
     for (const row of Array.from(tbody.rows).slice(1)) {
-      const name = row.cells[2]!.textContent!.trim();
-      map[name] = row.cells[1]!.querySelector("img")!.src;
+      const name = row.cells[1]!.textContent!.trim();
+      map[name] = row.cells[0]!.querySelector("img")!.src;
     }
   }
   return map;

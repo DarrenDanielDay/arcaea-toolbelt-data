@@ -301,6 +301,24 @@
       "pack_parent": "eden"
     },
     {
+      "id": "nextstage",
+      "section": "collab",
+      "pack_parent": "anima",
+      "plus_character": 92,
+      "name_localized": {
+        "en": "Arcaea Next Stage"
+      },
+      "description_localized": {
+        "en": "Worlds turn in a grand crossing...\n\n12 artists are brought together to bring 6 original\nsongs in this commemorative collection!\n\nStride toward the farthest heights alongside\nHikari & Tairitsu (Debut)!",
+        "ja": "nextstage",
+        "ko": "nextstage",
+        "zh-Hant": "nextstage",
+        "zh-Hans": "nextstage"
+      },
+      "custom_banner": true,
+      "coming_soon": true
+    },
+    {
       "id": "anima",
       "section": "sidestory",
       "pack_parent": "anima",
@@ -320,7 +338,6 @@
     {
       "id": "anima_append_1",
       "section": "sidestory",
-      "pack_parent": "anima",
       "plus_character": -1,
       "name_localized": {
         "en": "Chapter Experientia"
@@ -332,6 +349,7 @@
         "zh-Hant": "它來了，因你張開了雙臂。\n睜開雙眼，豎起雙耳，\n你將聆聽宇宙崩壞時美妙的聲響。\n\n自最深的藍中，最深的心底，「Coalescence」大賽\n的另外五首優勝曲也已來臨。 《Extant Anima》曲包\n終於迎來了它的续篇。",
         "zh-Hans": "它来了，因你张开了双臂。\n睁开双眼，竖起双耳，\n你将聆听宇宙崩坏时美妙的声响。\n\n自最深的蓝中，最深的心底，「Coalescence」大赛\n的另外五首优胜曲也已来临。《Extant Anima》曲包\n终于迎来了它的续篇。"
       },
+      "pack_parent": "anima",
       "custom_banner": true
     },
     {
@@ -354,6 +372,7 @@
     {
       "id": "observer_append_1",
       "section": "sidestory",
+      "pack_parent": "observer",
       "plus_character": -1,
       "name_localized": {
         "en": "Pale Tapestry"
@@ -364,13 +383,12 @@
         "ko": "태피스트리가 멀리,\n아주 먼 곳까지 이어지는데...\n이번 Esoteric Order 팩 속에\n3가지 추가 악곡을 만나보세요.\n아르케아 송 콘테스트 2020의 우승작입니다!",
         "zh-Hant": "美麗的織錦向外延伸，\n越來越遠，直到那之後……\n\n在“Esoteric Order”的附加篇章中，\n體驗《韻律源點2020年歌曲競賽》的\n另外三首優勝作品！",
         "zh-Hans": "美丽的织锦向外延伸，\n越来越远，直到那之后……\n\n在“Esoteric Order”的附加篇章中，\n体验《韵律源点2020年歌曲竞赛》的\n另外三首优胜作品！"
-      },
-      "pack_parent": "observer"
+      }
     },
     {
       "id": "observer_append_2",
       "section": "sidestory",
-      "pack_parent": "observer",
+      "custom_banner": true,
       "plus_character": -1,
       "name_localized": {
         "en": "Light of Salvation"
@@ -381,12 +399,12 @@
         "ko": "신성한 빛이 등장하여,\n영원한 어둠 속을 안내한다,\n다시 빛과 갈등의 세계 속으로...\n\n이번 Esoteric Order과 함께\n아르케아 송 콘테스트 2020의 우승자의 \n3가지 곡이 추가됐습니다.",
         "zh-Hant": "一道神聖的光芒閃亮於無盡的虛空之中，\n指引出返迴光與對立的世界的道路……\n\n《韻律源點2020年歌曲競賽》的另外三首獲獎歌曲，\n現已作為“Esoteric Order”的附加篇章而到來！",
         "zh-Hans": "一道神圣的光芒闪亮于无尽的虚空之中，\n指引出返回光与对立的世界的道路……\n\n《韵律源点2020年歌曲竞赛》的另外三首获奖歌曲，\n现已作为“Esoteric Order”的附加篇章而到来！"
-      }
+      },
+      "pack_parent": "observer"
     },
     {
       "id": "dividedheart",
       "section": "sidestory",
-      "custom_banner": true,
       "plus_character": 99,
       "name_localized": {
         "en": "Divided Heart"
@@ -398,6 +416,7 @@
         "zh-Hant": "在割裂的天空下，\n飽受未知帶來的折磨，\n儘管如此，她依然堅定而高貴。\n\n在五首舒緩順滑\n而又激動人心的曲目中，\n和白姬一同踏上旅程吧！",
         "zh-Hans": "在割裂的天空下，\n饱受未知带来的折磨，\n尽管如此，她依然坚定而高贵。\n\n在五首舒缓顺滑\n而又激动人心的曲目中，\n和白姬一同踏上旅程吧！"
       },
+      "custom_banner": true,
       "pack_parent": "alice"
     },
     {
@@ -420,6 +439,7 @@
     {
       "id": "alice_append_1",
       "section": "sidestory",
+      "pack_parent": "alice",
       "plus_character": -1,
       "name_localized": {
         "en": "The Journey Onwards"
@@ -431,13 +451,11 @@
         "zh-Hant": "探索的旅程沒有盡頭……\n\n在「Ephemeral Page」的附加內容當中，\n隨著愛麗絲的腳步共同探索其他三首曲目，\n並欣賞《韻律源點》那無窮無盡的美麗景色。",
         "zh-Hans": "探索之旅永无止境……\n\n在“Ephemeral Page”的附加篇章中\n体验爱丽丝视角的三首歌曲\n并领略韵律源点中无尽变幻的风景。"
       },
-      "custom_banner": true,
-      "pack_parent": "alice"
+      "custom_banner": true
     },
     {
       "id": "omatsuri",
       "section": "sidestory",
-      "pack_parent": "nijuusei",
       "plus_character": 30,
       "name_localized": {
         "en": "Sunset Radiance"
@@ -449,6 +467,7 @@
         "zh-Hant": "所求均願天遂，萬紫千紅，甜似酣夢。\n客路漫漫長夜，踏雪尋梅，漸入薄暮。\n慶典之聲，縈繞於心……\n\n在六段優美旋律的陪伴下，聽群願娓娓道來一段往事：\n五首Arcaea歌曲大賽的優勝曲目\n及這個冬日的一首新曲，重磅登場！",
         "zh-Hans": "所求均愿天遂，万紫千红，甜似酣梦。\n客路漫漫长夜，踏雪寻梅，渐入薄暮。\n庆典之声，萦绕于心……\n\n在六段优美旋律的陪伴下，听群愿娓娓道来一段往事：\n五首韵律源点歌曲大赛的优胜曲目\n及这个冬日的一首新曲，重磅登场！"
       },
+      "pack_parent": "nijuusei",
       "custom_banner": true
     },
     {
@@ -470,6 +489,7 @@
     {
       "id": "nijuusei",
       "section": "sidestory",
+      "custom_banner": true,
       "plus_character": 11,
       "name_localized": {
         "en": "Binary Enfold"
@@ -486,7 +506,7 @@
     {
       "id": "nijuusei_append_1",
       "section": "sidestory",
-      "custom_banner": true,
+      "pack_parent": "nijuusei",
       "plus_character": -1,
       "name_localized": {
         "en": "Shared Time"
@@ -498,13 +518,14 @@
         "zh-Hant": "一縷星月在空中凝視著，\n靜候著夜幕的降臨……\n\n和愛托與露娜再度重逢，\n一起體驗Binary Enfold曲包之上的\n三首全新曲目吧！",
         "zh-Hans": "一缕星月在空中凝视着，\n静候着夜幕的降临……\n\n和爱托与露娜再度重逢，\n一起体验Binary Enfold曲包之上的\n三首全新曲目吧！"
       },
-      "pack_parent": "nijuusei"
+      "custom_banner": true
     },
     {
       "id": "mirai",
       "section": "sidestory",
-      "pack_parent": "djmax",
       "plus_character": 4,
+      "custom_banner": true,
+      "limitedSaleEndTime": 1773014400,
       "name_localized": {
         "en": "Ambivalent Vision"
       },
@@ -515,14 +536,13 @@
         "zh-Hant": "過去埋藏在充滿矛盾的回憶裡...\n和忘卻一同探尋時間軸的兩極——過去和未來。\n\n無論是新手還是老手，\n都能在秘術之地提升自己的技巧。",
         "zh-Hans": "过去的世界，埋藏在充满矛盾的回忆之中……\n和忘却一同探寻时间轴的两极——过去与未来。\n\n无论你的水平如何，\n相信你都可以在Arcaea的世界提升自己的技巧。"
       },
-      "custom_banner": true
+      "pack_parent": "djmax"
     },
     {
       "id": "shiawase",
       "section": "sidestory",
-      "plus_character": 2,
       "custom_banner": true,
-      "limitedSaleEndTime": 1773014400,
+      "plus_character": 2,
       "name_localized": {
         "en": "Crimson Solace"
       },
@@ -533,6 +553,7 @@
         "zh-Hant": "和紅一起探索這個仍舊帶來歡樂、\n讓你倍感熟悉的失落世界。\n\n在全新的原創曲目以及緋紅所渲染的時空裡，\n迎接秘術之地的光明。",
         "zh-Hans": "和红一起探索这仍旧存在欢乐、\n会让你倍感熟悉的失落世界。\n\n在全新的原创曲目以及绯红所渲染的时空中，\n迎接Arcaea的光明。"
       },
+      "limitedSaleEndTime": 1773014400,
       "pack_parent": "djmax"
     },
     {
@@ -556,7 +577,7 @@
     {
       "id": "djmax_append_1",
       "section": "collab",
-      "custom_banner": true,
+      "pack_parent": "djmax",
       "plus_character": -1,
       "name_localized": {
         "en": "Collaboration Chapter 2"
@@ -568,13 +589,13 @@
         "zh-Hant": "又有五首DJMAX曲目到來，\n這是另一次心之試煉。\n\n同奈美（暮光）&希依一起，\n勇敢發聲，拒絕沈默！\nFEVER仍在召喚！",
         "zh-Hans": "又有五首DJMAX曲目到来，\n这是另一次心的试炼。\n\n同奈美（暮光）&希依一起，\n勇敢发声，拒绝沉默！\nFEVER仍在召唤！"
       },
-      "limitedSaleEndTime": 1773014400,
-      "pack_parent": "djmax"
+      "custom_banner": true,
+      "limitedSaleEndTime": 1773014400
     },
     {
       "id": "undertale",
       "section": "collab",
-      "pack_parent": "cytusii",
+      "custom_banner": true,
       "plus_character": -1,
       "name_localized": {
         "en": "UNDERTALE"
@@ -586,7 +607,7 @@
         "zh-Hant": "很久很久以前，一個人類掉入了地下的遺跡⋯\n\n五首經典的UNDERTALE曲目將帶你踏上回憶之旅。\n\n戰鬥，或是仁慈，均由你來決定，但請記住：\n永遠不要喪失決心！",
         "zh-Hans": "很久很久以前，一个人类掉入了地下的遗迹⋯\n\n五首经典的UNDERTALE曲目将带你踏上回忆之旅。\n\n战斗，或是仁慈，均由你来决定，但请记住：\n永远不要丧失决心！"
       },
-      "custom_banner": true,
+      "pack_parent": "cytusii",
       "limitedSaleEndTime": 1773014400
     },
     {
@@ -609,7 +630,7 @@
     {
       "id": "cytusii",
       "section": "collab",
-      "custom_banner": true,
+      "pack_parent": "cytusii",
       "plus_character": 69,
       "name_localized": {
         "en": "CYTUS II"
@@ -621,12 +642,12 @@
         "zh-Hant": "動身吧，去喚醒那沈睡之人。\n\n名為Arcaea的世界終於與名為Cytus II的世界相遇。\n四首經典曲目及一首不曾出現於兩個遊戲中的\n全新原創曲目終於到來。\n\n讓Ilith和Ivy加入你的「CHAOS」之中吧。",
         "zh-Hans": "动身吧，去唤醒那沉睡之人。\n\n名为Arcaea的世界终于与名为Cytus II的世界相遇。\n四首经典曲目及一首不曾出现于两个游戏中的\n全新原创曲目终于到来。\n\n让Ilith和Ivy加入你的「CHAOS」之中吧。"
       },
-      "pack_parent": "cytusii"
+      "custom_banner": true
     },
     {
       "id": "cytusii_append_1",
       "section": "collab",
-      "pack_parent": "cytusii",
+      "custom_banner": true,
       "plus_character": -1,
       "name_localized": {
         "en": "Collaboration Chapter 2"
@@ -638,12 +659,12 @@
         "zh-Hant": "「Ivy……」\n\n純淨的光之世界中，剛甦醒的Vanessa與Hikari相遇。\n與Cytus II聯動的道路還將延展：\n去探尋那來之不易的真相吧，即使那前方的路布滿荊棘。\n昭示著浩劫的四首歌曲再次襲來，\n而在那真相之後，還有一曲在等待著你……",
         "zh-Hans": "“Ivy……”\n\n纯净的光之世界中，刚苏醒的Vanessa与Hikari相遇。\n与Cytus II联动的道路还将延展：\n去探寻那来之不易的真相吧，即使那前方的路布满荆棘。\n昭示着浩劫的四首歌曲再次袭来，\n而在那真相之后，还有一曲在等待着你……"
       },
-      "custom_banner": true
+      "pack_parent": "cytusii"
     },
     {
       "id": "musedash",
       "section": "collab",
-      "custom_banner": true,
+      "pack_parent": "wacca",
       "plus_character": 53,
       "name_localized": {
         "en": "Muse Dash"
@@ -655,7 +676,7 @@
         "zh-Hant": "Ready? GO!!\n\n和瑪莉嘉一起遊玩\n來自跑酷音樂遊戲Muse Dash的三首動感歌曲！\n除此之外這裡還包含一首\n紀念此次合作活動的全新曲目！",
         "zh-Hans": "Ready? GO!!\n\n和玛莉嘉一起游玩\n来自跑酷音乐游戏Muse Dash的三首动感歌曲！\n除此之外这里还包含一首\n纪念此次联动的全新曲目！"
       },
-      "pack_parent": "wacca"
+      "custom_banner": true
     },
     {
       "id": "wacca",
@@ -677,7 +698,7 @@
     {
       "id": "wacca_append_1",
       "section": "collab",
-      "pack_parent": "wacca",
+      "custom_banner": true,
       "plus_character": -1,
       "name_localized": {
         "en": "Collaboration Chapter 2"
@@ -689,12 +710,12 @@
         "zh-Hant": "兩個世界再度交匯。\n五首魅力十足的歌曲，\n於WACCA聯動的第二彈中閃亮登場！\n\n聽，從遠方傳來的聲音說道：\n「是時候給這無趣的世界，添上有趣的一筆了！」",
         "zh-Hans": "两个世界再度交汇。\n五首魅力十足的歌曲，\n于WACCA联动的第二弹中闪亮登场！\n\n听，从远方传来的声音说道：\n\"是时候给这无趣的世界，添上有趣的一笔了！\""
       },
-      "custom_banner": true
+      "pack_parent": "wacca"
     },
     {
       "id": "maimai",
       "section": "collab",
-      "custom_banner": true,
+      "pack_parent": "maimai",
       "plus_character": -1,
       "name_localized": {
         "en": "maimai"
@@ -706,7 +727,7 @@
         "zh-Hant": "做好準備讓水花四濺！\n\n超人氣節奏遊戲《maimai》\n即將引爆韻律源點Arcaea的熱浪！\n體驗四首經典曲目，\n但小心不要被拖下水！",
         "zh-Hans": "做好准备让水花四溅！\n\n大受欢迎的节奏游戏maimai\n为韵律源点Arcaea掀起了新的热浪！\n千万不要错过四首标志性的\n曲目——但不要被拖下水！"
       },
-      "pack_parent": "maimai"
+      "custom_banner": true
     },
     {
       "id": "maimai_append_1",
@@ -728,7 +749,7 @@
     {
       "id": "maimai_append_2",
       "section": "collab",
-      "pack_parent": "maimai",
+      "custom_banner": true,
       "plus_character": -1,
       "name_localized": {
         "en": "Collaboration Chapter 3"
@@ -740,12 +761,12 @@
         "zh-Hant": "萬花筒般絢爛而又華麗的旅程將再度變換。\n不停傾轉，四首充滿活力的歌曲自maimai DX襲來！\n\n不會留你孤身一人的——\n新的旅行夥伴莎露朵加入了喲！\n璀璨星辰之下許願可是很靈驗的哦，要開始了喲！",
         "zh-Hans": "万花筒般绚烂而又华丽的旅程将再度变换。\n不停倾转，四首充满活力的歌曲自maimai DX袭来！\n\n不会留你孤身一人的——\n新的旅行伙伴莎露朵加入了哟！\n璀璨星辰之下许愿可是很灵验的哦，要开始了哟！"
       },
-      "custom_banner": true
+      "pack_parent": "maimai"
     },
     {
       "id": "ongeki",
       "section": "collab",
-      "custom_banner": true,
+      "pack_parent": "ongeki",
       "plus_character": 40,
       "name_localized": {
         "en": "O.N.G.E.K.I."
@@ -757,7 +778,7 @@
         "zh-Hant": "前所未見的全新戰鬥\n形式即將降臨韻律源點Arcaea……\n\nO.N.G.E.K.I. 的\n四首精彩曲目現已登場！\n跟隨露娜與美亞的腳步——\n一起盛大出擊吧！",
         "zh-Hans": "一种在韵律源点Arcaea\n从未出现过的全新战斗方式……\n\n四首来自O.N.G.E.K.I.的\n精彩曲目现已登陆！\n以 露娜 & 美亚 作为搭档一同出击！"
       },
-      "pack_parent": "ongeki"
+      "custom_banner": true
     },
     {
       "id": "ongeki_append_1",
@@ -796,7 +817,7 @@
     {
       "id": "chunithm",
       "section": "collab",
-      "pack_parent": "chunithm",
+      "custom_banner": true,
       "plus_character": 24,
       "name_localized": {
         "en": "CHUNITHM"
@@ -808,12 +829,12 @@
         "zh-Hant": "三首來自街機節奏遊戲\n《CHUNITHM》的震撼新曲\n已於天際展露鋒芒！\n\n跟隨對立與中二企鵝一起\n共同開始這一系列里程碑式的挑戰！",
         "zh-Hans": "三首来自街机节奏游戏\n《CHUNITHM》的震撼新曲\n已于天际展露锋芒！\n\n跟随对立与中二企鹅一起\n共同开始这一系列里程碑式的挑战！"
       },
-      "custom_banner": true
+      "pack_parent": "chunithm"
     },
     {
       "id": "chunithm_append_1",
       "section": "collab",
-      "custom_banner": true,
+      "pack_parent": "chunithm",
       "plus_character": -1,
       "name_localized": {
         "en": "Collaboration Chapter 2"
@@ -825,12 +846,12 @@
         "zh-Hant": "本次 CHUNITHM 合作活動的大型更新\n推出了三首氣勢磅礡的全新曲目！\n\n而且這次就連上帝也不會心慈手軟……",
         "zh-Hans": "本次 CHUNITHM 联动的大型更新\n将推出三首全新的高难度曲目！\n\n而这次，即使是众神也不再有怜悯……"
       },
-      "pack_parent": "chunithm"
+      "custom_banner": true
     },
     {
       "id": "chunithm_append_2",
       "section": "collab",
-      "pack_parent": "chunithm",
+      "custom_banner": true,
       "plus_character": -1,
       "name_localized": {
         "en": "Collaboration Chapter 3"
@@ -842,7 +863,7 @@
         "zh-Hant": "與CHUNITHM聯動的下一章節，既讓人鼓舞歡欣，\n或許也同樣使人膽戰心驚……\n\n這五首令人心跳加速的曲目正等待著你！\n\n請前去吧，懷揣一顆正義的心；請邁步吧，\n沈著冷靜是最好的錦囊。",
         "zh-Hans": "与CHUNITHM联动的下一章节，既让人鼓舞欢欣，\n或许也同样使人胆战心惊……\n\n这五首令人心跳加速的曲目正等待着你！\n\n请前去吧，怀揣一颗正义的心；请迈步吧，\n沉着冷静是最好的锦囊。"
       },
-      "custom_banner": true
+      "pack_parent": "chunithm"
     },
     {
       "id": "chunithm_append_3",
@@ -864,7 +885,7 @@
     {
       "id": "groovecoaster",
       "section": "collab",
-      "custom_banner": true,
+      "pack_parent": "groovecoaster",
       "plus_character": 22,
       "name_localized": {
         "en": "Groove Coaster"
@@ -876,12 +897,12 @@
         "zh-Hant": "六首美妙的新樂曲\n正在Arcaea與音樂遊戲\n《節奏過山車（Groove Coaster）》\n的合作樂曲包中等待著你！\n\n跟隨光與晴音踏上\n那唯美星空之下的嶄新小徑！",
         "zh-Hans": "六首美妙的新歌曲正在Arcaea与音乐游戏\n《节奏过山车（Groove Coaster）》\n的合作歌曲包中等待着你！\n\n跟随光与晴音踏上\n那唯美星空之下的崭新小径！"
       },
-      "pack_parent": "groovecoaster"
+      "custom_banner": true
     },
     {
       "id": "groovecoaster_append_1",
       "section": "collab",
-      "pack_parent": "groovecoaster",
+      "custom_banner": true,
       "plus_character": -1,
       "name_localized": {
         "en": "Groove Coaster Chapter 2"
@@ -893,7 +914,7 @@
         "zh-Hant": "5 - 4 - 3 - 2 - 1\n節奏永不停歇！\n\n轟隆隆——引擎的怒吼向你發出邀請：\n跟隨著此Append中的三首新曲，一路向前！\n\n準備好馳騁吧，去迎接那洶湧澎湃的音律轟擊！",
         "zh-Hans": "5 - 4 - 3 - 2 - 1\n节奏永不停歇！\n\n轰隆隆——引擎的怒吼向你发出邀请：\n跟随着此Append中的三首新曲，一路向前！\n\n准备好驰骋吧，去迎接那汹涌澎湃的音律轰击！"
       },
-      "custom_banner": true
+      "pack_parent": "groovecoaster"
     },
     {
       "id": "tonesphere",

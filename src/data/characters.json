@@ -370,7 +370,7 @@
     "character_id": 10,
     "name": "ilith",
     "level": 20,
-    "exp": 10949.721279999998,
+    "exp": 11333.065629999996,
     "level_exp": 10000,
     "frag": 50,
     "prog": 105.5,
@@ -1745,12 +1745,12 @@
   {
     "character_id": 44,
     "name": "mir",
-    "level": 11,
-    "exp": 1984.77941,
-    "level_exp": 1600,
-    "frag": 55.93446566554891,
-    "prog": 47.92243767313019,
-    "overdrive": 84.7579822131506,
+    "level": 15,
+    "exp": 4214.331829999999,
+    "level_exp": 4200,
+    "frag": 63.8598192156291,
+    "prog": 54.61495844875346,
+    "overdrive": 96.5579530543811,
     "skill_id": "gauge_exhaustion",
     "skill_unlock_level": 0,
     "skill_requires_uncap": false,
@@ -1917,7 +1917,7 @@
     "profile_image": "0c9e8452c845171043df04c0859d5b94",
     "display_name": {
       "en": "Saya & Elizabeth",
-      "ja": "サヤ & エリザベス",
+      "ja": "サヤ＆エリザベス",
       "ko": "사야 & 엘리자베스",
       "zh-Hans": "咲弥 & 伊莉莎白",
       "zh-Hant": "咲彌 & 伊莉莎白"
@@ -3603,6 +3603,51 @@
     "level": 1,
     "name": "hikari_tairitsu_ost",
     "character_id": 91
+  },
+  {
+    "character_id": 92,
+    "name": "hikari_tairitsu_debut",
+    "level": 1,
+    "exp": 0,
+    "level_exp": 0,
+    "frag": 23,
+    "prog": 62.5,
+    "overdrive": 62.5,
+    "skill_id": "skill_hikari_tairitsu_debut",
+    "skill_unlock_level": 0,
+    "skill_requires_uncap": false,
+    "skill_id_uncap": "",
+    "char_type": 0,
+    "uncap_cores": [],
+    "is_uncapped": false,
+    "is_uncapped_override": false,
+    "voice": [],
+    "base_character": false,
+    "base_character_id": 1,
+    "skill_state": 0,
+    "icon": "2d39e7f5414abe63e4099a93095fbe6f",
+    "profile_image": "50f9ef0b715d5a36930dd0d1091f7fc2",
+    "display_name": {
+      "en": "Hikari & Tairitsu",
+      "ja": "光＆対立",
+      "ko": "히카리 & 타이리츠",
+      "zh-Hans": "光 & 对立",
+      "zh-Hant": "光 & 對立"
+    },
+    "variant": {
+      "en": "Debut",
+      "ja": "Debut",
+      "ko": "Debut",
+      "zh-Hans": "Debut",
+      "zh-Hant": "Debut"
+    },
+    "skill_id_text": {
+      "en": "Gain +20 on all stats on first\nArcaea Next Stage song play daily",
+      "ja": "Arcaea Next Stage楽曲をその日初プレイ時\nすべてのステータスが+20増加",
+      "ko": "매일 Arcaea Next Stage 악곡\n첫 플레이 시 모든 능력치 +20",
+      "zh-Hans": "每日首次游玩Next Stage曲目时\n角色所有能力数值+20",
+      "zh-Hant": "每日首次遊玩Next Stage曲目時\n角色所有能力數值+20"
+    }
   },
   {
     "character_id": 99,

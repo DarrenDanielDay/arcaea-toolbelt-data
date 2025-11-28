@@ -8218,7 +8218,8 @@
           "count": 1000
         }
       }
-    ]
+    ],
+    "expire": 1766070000000
   },
   {
     "id": "限时：Black_Lotus",
@@ -15642,7 +15643,8 @@
           "id": 47
         }
       }
-    ]
+    ],
+    "expire": 1766070000000
   },
   {
     "id": "限时：False_Embellishment",
@@ -27795,7 +27797,8 @@
           "count": 5
         }
       }
-    ]
+    ],
+    "expire": 1766070000000
   },
   {
     "id": "限时：Aleph-0",
@@ -37870,8 +37873,7 @@
           "id": "awakening"
         }
       }
-    ],
-    "expire": 1763650800000
+    ]
   },
   {
     "id": "限时：Particle",
@@ -38047,8 +38049,7 @@
           "id": "particle"
         }
       }
-    ],
-    "expire": 1763650800000
+    ]
   },
   {
     "id": "限时：mod",
@@ -38346,8 +38347,7 @@
           "id": "mod"
         }
       }
-    ],
-    "expire": 1763650800000
+    ]
   },
   {
     "id": "限时：Paradox_Palette",
@@ -38656,8 +38656,7 @@
           "id": "paradoxpalette"
         }
       }
-    ],
-    "expire": 1763650800000
+    ]
   },
   {
     "id": "限时：Xxium_and_Purple_haze",
@@ -38892,7 +38891,278 @@
           "count": 1
         }
       }
+    ]
+  },
+  {
+    "id": "限时：taboo_tears_you_up_2017",
+    "platforms": [
+      {
+        "length": 20,
+        "special": {
+          "type": 2,
+          "range": [
+            "taboo tears you up 2017",
+            "Xxium and Purple haze",
+            "Shinchoku Doudesuka?",
+            "Black Mirror on the Wall",
+            "Crimson Quartz",
+            "Gensou no Satellite",
+            "HELLOHELL",
+            "Hidden Rainbows of Epicurus",
+            "Hiiro Gekka, Kyoushou no Zetsu (nayuta 2017 ver.)",
+            "Kanbu de Tomatte Sugu Tokeru",
+            "Kanjou no Matenrou ～Arr.Demetori",
+            "Lost Emotion feat. nomico",
+            "Lost in the Abyss",
+            "SACRIFICE feat. ayame",
+            "Tsuki ni Murakumo, Hana ni Kaze",
+            "Ultimate taste"
+          ]
+        }
+      },
+      {
+        "length": 17
+      },
+      {
+        "length": 20,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 200
+        }
+      },
+      {
+        "length": 17
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 17
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 17
+      },
+      {
+        "length": 20,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 200
+        }
+      },
+      {
+        "length": 17
+      },
+      {
+        "length": 20,
+        "special": {
+          "type": 2,
+          "range": [
+            "taboo tears you up 2017",
+            "Xxium and Purple haze",
+            "Shinchoku Doudesuka?",
+            "Black Mirror on the Wall",
+            "Crimson Quartz",
+            "Gensou no Satellite",
+            "HELLOHELL",
+            "Hidden Rainbows of Epicurus",
+            "Hiiro Gekka, Kyoushou no Zetsu (nayuta 2017 ver.)",
+            "Kanbu de Tomatte Sugu Tokeru",
+            "Kanjou no Matenrou ～Arr.Demetori",
+            "Lost Emotion feat. nomico",
+            "Lost in the Abyss",
+            "SACRIFICE feat. ayame",
+            "Tsuki ni Murakumo, Hana ni Kaze",
+            "Ultimate taste"
+          ]
+        }
+      },
+      {
+        "length": 17
+      },
+      {
+        "length": 20,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 300
+        }
+      },
+      {
+        "length": 17
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 17
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 17
+      },
+      {
+        "length": 20,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 300
+        }
+      },
+      {
+        "length": 17
+      },
+      {
+        "length": 20,
+        "special": {
+          "type": 2,
+          "range": [
+            "taboo tears you up 2017",
+            "Xxium and Purple haze",
+            "Shinchoku Doudesuka?",
+            "Black Mirror on the Wall",
+            "Crimson Quartz",
+            "Gensou no Satellite",
+            "HELLOHELL",
+            "Hidden Rainbows of Epicurus",
+            "Hiiro Gekka, Kyoushou no Zetsu (nayuta 2017 ver.)",
+            "Kanbu de Tomatte Sugu Tokeru",
+            "Kanjou no Matenrou ～Arr.Demetori",
+            "Lost Emotion feat. nomico",
+            "Lost in the Abyss",
+            "SACRIFICE feat. ayame",
+            "Tsuki ni Murakumo, Hana ni Kaze",
+            "Ultimate taste"
+          ]
+        }
+      },
+      {
+        "length": 17
+      },
+      {
+        "length": 20,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 2
+        }
+      },
+      {
+        "length": 17
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 17
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 17
+      },
+      {
+        "length": 20,
+        "reward": {
+          "type": 1,
+          "id": "tabootears"
+        }
+      },
+      {
+        "length": 25
+      },
+      {
+        "length": 20,
+        "special": {
+          "type": 2,
+          "range": [
+            "taboo tears you up 2017",
+            "MERLIN",
+            "Xterfusion",
+            "BUCHiGiRE Berserker",
+            "KYOREN ROMANCE",
+            "REKKA RESONANCE",
+            "SAIKYO STRONGER"
+          ]
+        }
+      },
+      {
+        "length": 25
+      },
+      {
+        "length": 20,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 2
+        }
+      },
+      {
+        "length": 25
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 25
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 25
+      },
+      {
+        "length": 20,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 400
+        }
+      },
+      {
+        "length": 25
+      },
+      {
+        "length": 20,
+        "special": {
+          "type": 2,
+          "range": [
+            "taboo tears you up 2017",
+            "MERLIN",
+            "Xterfusion",
+            "BUCHiGiRE Berserker",
+            "KYOREN ROMANCE",
+            "REKKA RESONANCE",
+            "SAIKYO STRONGER"
+          ]
+        }
+      },
+      {
+        "length": 25
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 25
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "次元结晶",
+          "count": 1
+        }
+      }
     ],
-    "expire": 1763650800000
+    "expire": 1766070000000
   }
 ]

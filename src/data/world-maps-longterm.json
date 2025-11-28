@@ -22755,6 +22755,93 @@
             }
           }
         ]
+      },
+      {
+        "id": "9-12",
+        "platforms": [
+          {
+            "length": 20,
+            "special": {
+              "type": 2,
+              "range": [
+                "Xterfusion",
+                "INFINITE DIMENSION",
+                "INCARNATOR₀₀",
+                "zephyrlasting",
+                "MARENYX",
+                "Code: Oblivion",
+                "ΛZΛLEΛ"
+              ]
+            }
+          },
+          {
+            "length": 25
+          },
+          {
+            "length": 11
+          },
+          {
+            "length": 22
+          },
+          {
+            "length": 20,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 220
+            }
+          },
+          {
+            "length": 25
+          },
+          {
+            "length": 11
+          },
+          {
+            "length": 22
+          },
+          {
+            "length": 20,
+            "reward": {
+              "type": 0,
+              "name": "以太之滴",
+              "count": 2
+            }
+          },
+          {
+            "length": 25
+          },
+          {
+            "length": 11,
+            "reward": {
+              "type": 0,
+              "name": "以太之滴",
+              "count": 2
+            }
+          },
+          {
+            "length": 22,
+            "special": {
+              "type": 2,
+              "range": [
+                "Xterfusion",
+                "INFINITE DIMENSION",
+                "INCARNATOR₀₀",
+                "zephyrlasting",
+                "MARENYX",
+                "Code: Oblivion",
+                "ΛZΛLEΛ"
+              ]
+            }
+          },
+          {
+            "length": 0,
+            "reward": {
+              "type": 2,
+              "id": 92
+            }
+          }
+        ]
       }
     ]
   }

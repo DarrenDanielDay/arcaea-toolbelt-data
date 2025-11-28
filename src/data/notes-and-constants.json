@@ -9860,5 +9860,178 @@
         "constant": 10.7
       }
     ]
+  },
+  {
+    "id": "infinitedim",
+    "charts": [
+      {
+        "notes": 566,
+        "constant": 2.5
+      },
+      {
+        "notes": 708,
+        "constant": 6
+      },
+      {
+        "notes": 947,
+        "constant": 8.6
+      },
+      null,
+      {
+        "notes": 1111,
+        "constant": 10.1
+      }
+    ]
+  },
+  {
+    "id": "incarnator",
+    "charts": [
+      {
+        "notes": 1178,
+        "constant": 3.5
+      },
+      {
+        "notes": 1276,
+        "constant": 6.5
+      },
+      {
+        "notes": 1565,
+        "constant": 8.9
+      },
+      null,
+      {
+        "notes": 1355,
+        "constant": 10.4
+      }
+    ]
+  },
+  {
+    "id": "zephyrlast",
+    "charts": [
+      {
+        "notes": 563,
+        "constant": 3.5
+      },
+      {
+        "notes": 832,
+        "constant": 7.5
+      },
+      {
+        "notes": 1027,
+        "constant": 9.5
+      },
+      null,
+      {
+        "notes": 1166,
+        "constant": 10.3
+      }
+    ]
+  },
+  {
+    "id": "marenyx",
+    "charts": [
+      {
+        "notes": 886,
+        "constant": 4.5
+      },
+      {
+        "notes": 1143,
+        "constant": 7.8
+      },
+      {
+        "notes": 1307,
+        "constant": 9.5
+      },
+      null,
+      {
+        "notes": 1500,
+        "constant": 10.8
+      }
+    ]
+  },
+  {
+    "id": "codeoblivion",
+    "charts": [
+      {
+        "notes": 773,
+        "constant": 5.5
+      },
+      {
+        "notes": 1015,
+        "constant": 8.3
+      },
+      {
+        "notes": 1281,
+        "constant": 9.9
+      },
+      null,
+      {
+        "notes": 1503,
+        "constant": 10.9
+      }
+    ]
+  },
+  {
+    "id": "azalea",
+    "charts": [
+      {
+        "notes": 847,
+        "constant": 4
+      },
+      {
+        "notes": 973,
+        "constant": 7
+      },
+      {
+        "notes": 1144,
+        "constant": 9.4
+      },
+      null,
+      {
+        "notes": 1075,
+        "constant": 10
+      }
+    ]
+  },
+  {
+    "id": "tabootears",
+    "charts": [
+      {
+        "notes": 449,
+        "constant": 3
+      },
+      {
+        "notes": 637,
+        "constant": 6.5
+      },
+      {
+        "notes": 845,
+        "constant": 8.4
+      },
+      null,
+      {
+        "notes": 1125,
+        "constant": 9.8
+      }
+    ]
+  },
+  {
+    "id": "grandspell",
+    "charts": [
+      {
+        "notes": 704,
+        "constant": 4.5
+      },
+      {
+        "notes": 977,
+        "constant": 8.4
+      },
+      {
+        "notes": 1289,
+        "constant": 10.2
+      },
+      null,
+      null
+    ]
   }
 ]

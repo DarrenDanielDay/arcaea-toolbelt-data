@@ -1,24 +1,24 @@
 [
   {
-    "songId": "awakening",
+    "songId": "infinitedim",
     "charts": [
       {
         "constant": 2.5
       },
       {
-        "constant": 5.5
+        "constant": 6
       },
       {
-        "constant": 7.5
+        "constant": 8.6
       },
       null,
       {
-        "constant": 8.7
+        "constant": 10.1
       }
     ]
   },
   {
-    "songId": "mod",
+    "songId": "incarnator",
     "charts": [
       {
         "constant": 3.5
@@ -27,98 +27,118 @@
         "constant": 6.5
       },
       {
-        "constant": 9.4
+        "constant": 8.9
       },
       null,
-      null
+      {
+        "constant": 10.4
+      }
     ]
   },
   {
-    "songId": "particle",
+    "songId": "zephyrlast",
     "charts": [
       {
         "constant": 3.5
       },
       {
-        "constant": 6
+        "constant": 7.5
       },
       {
         "constant": 9.5
       },
       null,
       {
-        "constant": 9.7
+        "constant": 10.3
       }
     ]
   },
   {
-    "songId": "paradoxpalette",
+    "songId": "marenyx",
     "charts": [
       {
-        "constant": 4
-      },
-      {
-        "constant": 7.5
-      },
-      {
-        "constant": 8.8
-      },
-      null,
-      {
-        "constant": 9.9
-      }
-    ]
-  },
-  {
-    "songId": "xxium",
-    "charts": [
-      {
-        "constant": 2.5
+        "constant": 4.5
       },
       {
         "constant": 7.8
       },
       {
-        "constant": 9.9
+        "constant": 9.5
       },
       null,
       {
-        "constant": 10.5
+        "constant": 10.8
       }
     ]
   },
   {
-    "songId": "angelsboundary",
+    "songId": "codeoblivion",
     "charts": [
       {
-        "constant": 5
+        "constant": 5.5
       },
       {
-        "constant": 8.5
+        "constant": 8.3
+      },
+      {
+        "constant": 9.9
+      },
+      null,
+      {
+        "constant": 10.9
+      }
+    ]
+  },
+  {
+    "songId": "azalea",
+    "charts": [
+      {
+        "constant": 4
+      },
+      {
+        "constant": 7
+      },
+      {
+        "constant": 9.4
+      },
+      null,
+      {
+        "constant": 10
+      }
+    ]
+  },
+  {
+    "songId": "tabootears",
+    "charts": [
+      {
+        "constant": 3
+      },
+      {
+        "constant": 6.5
+      },
+      {
+        "constant": 8.4
+      },
+      null,
+      {
+        "constant": 9.8
+      }
+    ]
+  },
+  {
+    "songId": "grandspell",
+    "charts": [
+      {
+        "constant": 4.5
+      },
+      {
+        "constant": 8.4
       },
       {
         "constant": 10.2
       },
       null,
       null
-    ]
-  },
-  {
-    "songId": "xterfusion",
-    "charts": [
-      {
-        "constant": 4.5
-      },
-      {
-        "constant": 8.3
-      },
-      {
-        "constant": 9.8
-      },
-      null,
-      {
-        "constant": 10.7
-      }
     ]
   }
 ]

@@ -25305,5 +25305,435 @@
     "version": {
       "added": "6.10"
     }
+  },
+  {
+    "bpm": "200",
+    "side": 0,
+    "id": "infinitedim",
+    "name": "INFINITE DIMENSION",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Arcaea Next Stage",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 2.5,
+        "difficulty": "pst",
+        "designer": "én",
+        "id": "infinitedim@pst",
+        "level": 2,
+        "note": 566,
+        "songId": "infinitedim"
+      },
+      {
+        "constant": 6,
+        "difficulty": "prs",
+        "designer": "én",
+        "id": "infinitedim@prs",
+        "level": 6,
+        "note": 708,
+        "songId": "infinitedim"
+      },
+      {
+        "constant": 8.6,
+        "difficulty": "ftr",
+        "designer": "én",
+        "id": "infinitedim@ftr",
+        "level": 8,
+        "note": 947,
+        "songId": "infinitedim"
+      },
+      {
+        "constant": 10.1,
+        "difficulty": "etr",
+        "designer": "ray∞cast",
+        "id": "infinitedim@etr",
+        "level": 10,
+        "note": 1111,
+        "songId": "infinitedim"
+      }
+    ],
+    "version": {
+      "added": "6.10"
+    }
+  },
+  {
+    "bpm": "234",
+    "side": 1,
+    "id": "incarnator",
+    "name": "INCARNATOR₀₀",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Arcaea Next Stage",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 3.5,
+        "difficulty": "pst",
+        "designer": "M理論_origin",
+        "id": "incarnator@pst",
+        "level": 3,
+        "note": 1178,
+        "songId": "incarnator"
+      },
+      {
+        "constant": 6.5,
+        "difficulty": "prs",
+        "designer": "M理論_origin",
+        "id": "incarnator@prs",
+        "level": 6,
+        "note": 1276,
+        "songId": "incarnator"
+      },
+      {
+        "constant": 8.9,
+        "difficulty": "ftr",
+        "designer": "M理論_origin",
+        "id": "incarnator@ftr",
+        "level": 8,
+        "note": 1565,
+        "songId": "incarnator",
+        "plus": true
+      },
+      {
+        "constant": 10.4,
+        "difficulty": "etr",
+        "designer": "antymis [archetype]",
+        "id": "incarnator@etr",
+        "level": 10,
+        "note": 1355,
+        "songId": "incarnator"
+      }
+    ],
+    "version": {
+      "added": "6.10"
+    }
+  },
+  {
+    "bpm": "155",
+    "side": 1,
+    "id": "zephyrlast",
+    "name": "zephyrlasting",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Arcaea Next Stage",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 3.5,
+        "difficulty": "pst",
+        "designer": "Souplex",
+        "id": "zephyrlast@pst",
+        "level": 3,
+        "note": 563,
+        "songId": "zephyrlast"
+      },
+      {
+        "constant": 7.5,
+        "difficulty": "prs",
+        "designer": "Souplex",
+        "id": "zephyrlast@prs",
+        "level": 7,
+        "note": 832,
+        "songId": "zephyrlast"
+      },
+      {
+        "constant": 9.5,
+        "difficulty": "ftr",
+        "designer": "Souplex + Nitro",
+        "id": "zephyrlast@ftr",
+        "level": 9,
+        "note": 1027,
+        "songId": "zephyrlast"
+      },
+      {
+        "constant": 10.3,
+        "difficulty": "etr",
+        "designer": "Nitro 「The Timeless」",
+        "id": "zephyrlast@etr",
+        "level": 10,
+        "note": 1166,
+        "songId": "zephyrlast"
+      }
+    ],
+    "version": {
+      "added": "6.10"
+    }
+  },
+  {
+    "bpm": "195",
+    "side": 1,
+    "id": "marenyx",
+    "name": "MARENYX",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Arcaea Next Stage",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 4.5,
+        "difficulty": "pst",
+        "designer": "raycast against. 零下",
+        "id": "marenyx@pst",
+        "level": 4,
+        "note": 886,
+        "songId": "marenyx"
+      },
+      {
+        "constant": 7.8,
+        "difficulty": "prs",
+        "designer": "raycast against. 零下",
+        "id": "marenyx@prs",
+        "level": 7,
+        "note": 1143,
+        "songId": "marenyx",
+        "plus": true
+      },
+      {
+        "constant": 9.5,
+        "difficulty": "ftr",
+        "designer": "raycast against. 零下",
+        "id": "marenyx@ftr",
+        "level": 9,
+        "note": 1307,
+        "songId": "marenyx"
+      },
+      {
+        "constant": 10.8,
+        "difficulty": "etr",
+        "designer": "raycast against. 零下",
+        "id": "marenyx@etr",
+        "level": 10,
+        "note": 1500,
+        "songId": "marenyx",
+        "plus": true
+      }
+    ],
+    "version": {
+      "added": "6.10"
+    }
+  },
+  {
+    "bpm": "200",
+    "side": 1,
+    "id": "codeoblivion",
+    "name": "Code: Oblivion",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg",
+      "base.jpg"
+    ],
+    "pack": "Arcaea Next Stage",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 5.5,
+        "difficulty": "pst",
+        "designer": "~sidewaves",
+        "id": "codeoblivion@pst",
+        "level": 5,
+        "note": 773,
+        "songId": "codeoblivion"
+      },
+      {
+        "constant": 8.3,
+        "difficulty": "prs",
+        "designer": "~sidewaves",
+        "id": "codeoblivion@prs",
+        "level": 8,
+        "note": 1015,
+        "songId": "codeoblivion"
+      },
+      {
+        "constant": 9.9,
+        "difficulty": "ftr",
+        "designer": "~sidewaves",
+        "id": "codeoblivion@ftr",
+        "level": 9,
+        "note": 1281,
+        "songId": "codeoblivion",
+        "plus": true
+      },
+      {
+        "constant": 10.9,
+        "difficulty": "etr",
+        "designer": "煌磨",
+        "id": "codeoblivion@etr",
+        "level": 10,
+        "note": 1503,
+        "songId": "codeoblivion",
+        "plus": true
+      }
+    ],
+    "version": {
+      "added": "6.10"
+    }
+  },
+  {
+    "bpm": "180",
+    "side": 0,
+    "id": "azalea",
+    "name": "ΛZΛLEΛ",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Arcaea Next Stage",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 4,
+        "difficulty": "pst",
+        "designer": "Nitro「The Ephemeral」",
+        "id": "azalea@pst",
+        "level": 4,
+        "note": 847,
+        "songId": "azalea"
+      },
+      {
+        "constant": 7,
+        "difficulty": "prs",
+        "designer": "Nitro「The Ephemeral」",
+        "id": "azalea@prs",
+        "level": 7,
+        "note": 973,
+        "songId": "azalea"
+      },
+      {
+        "constant": 9.4,
+        "difficulty": "ftr",
+        "designer": "Nitro「The Ephemeral」",
+        "id": "azalea@ftr",
+        "level": 9,
+        "note": 1144,
+        "songId": "azalea"
+      },
+      {
+        "constant": 10,
+        "difficulty": "etr",
+        "designer": "NORΛ::NEKO × KΛRΛT",
+        "id": "azalea@etr",
+        "level": 10,
+        "note": 1075,
+        "songId": "azalea"
+      }
+    ],
+    "version": {
+      "added": "6.10"
+    }
+  },
+  {
+    "bpm": "180",
+    "side": 1,
+    "id": "tabootears",
+    "name": "taboo tears you up 2017",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "World Extend 4",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 3,
+        "difficulty": "pst",
+        "designer": "SiDEWAVES",
+        "id": "tabootears@pst",
+        "level": 3,
+        "note": 449,
+        "songId": "tabootears"
+      },
+      {
+        "constant": 6.5,
+        "difficulty": "prs",
+        "designer": "SiDEWAVES",
+        "id": "tabootears@prs",
+        "level": 6,
+        "note": 637,
+        "songId": "tabootears"
+      },
+      {
+        "constant": 8.4,
+        "difficulty": "ftr",
+        "designer": "SiDEWAVES",
+        "id": "tabootears@ftr",
+        "level": 8,
+        "note": 845,
+        "songId": "tabootears"
+      },
+      {
+        "constant": 9.8,
+        "difficulty": "etr",
+        "designer": "én",
+        "id": "tabootears@etr",
+        "level": 9,
+        "note": 1125,
+        "songId": "tabootears",
+        "plus": true
+      }
+    ],
+    "version": {
+      "added": "6.11"
+    }
+  },
+  {
+    "bpm": "168",
+    "side": 1,
+    "id": "grandspell",
+    "name": "Grandspell",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Memory Archive",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 4.5,
+        "difficulty": "pst",
+        "designer": "Exschwasion",
+        "id": "grandspell@pst",
+        "level": 4,
+        "note": 704,
+        "songId": "grandspell"
+      },
+      {
+        "constant": 8.4,
+        "difficulty": "prs",
+        "designer": "Exschwasion",
+        "id": "grandspell@prs",
+        "level": 8,
+        "note": 977,
+        "songId": "grandspell"
+      },
+      {
+        "constant": 10.2,
+        "difficulty": "ftr",
+        "designer": "Exschwasion",
+        "id": "grandspell@ftr",
+        "level": 10,
+        "note": 1289,
+        "songId": "grandspell"
+      }
+    ],
+    "version": {
+      "added": "6.11"
+    }
   }
 ]
