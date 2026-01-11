@@ -10033,5 +10033,109 @@
       null,
       null
     ]
+  },
+  {
+    "id": "undefined",
+    "charts": [
+      {
+        "notes": 371,
+        "constant": 3.5
+      },
+      {
+        "notes": 532,
+        "constant": 6
+      },
+      {
+        "notes": 896,
+        "constant": 9.4
+      },
+      null,
+      null
+    ]
+  },
+  {
+    "id": "mask",
+    "charts": [
+      {
+        "notes": 869,
+        "constant": 4.5
+      },
+      {
+        "notes": 994,
+        "constant": 8
+      },
+      {
+        "notes": 1201,
+        "constant": 9.9
+      },
+      null,
+      null
+    ]
+  },
+  {
+    "id": "paranoidarc",
+    "charts": [
+      {
+        "notes": 762,
+        "constant": 4.5
+      },
+      {
+        "notes": 849,
+        "constant": 7.8
+      },
+      {
+        "notes": 1204,
+        "constant": 9.6
+      },
+      null,
+      {
+        "notes": 1412,
+        "constant": 10.5
+      }
+    ]
+  },
+  {
+    "id": "subsphere",
+    "charts": [
+      {
+        "notes": 781,
+        "constant": 5
+      },
+      {
+        "notes": 997,
+        "constant": 8.1
+      },
+      {
+        "notes": 1177,
+        "constant": 9.6
+      },
+      null,
+      {
+        "notes": 1327,
+        "constant": 10.6
+      }
+    ]
+  },
+  {
+    "id": "theraft",
+    "charts": [
+      {
+        "notes": 722,
+        "constant": 4.5
+      },
+      {
+        "notes": 803,
+        "constant": 7.5
+      },
+      {
+        "notes": 999,
+        "constant": 9.5
+      },
+      null,
+      {
+        "notes": 1193,
+        "constant": 10.4
+      }
+    ]
   }
 ]

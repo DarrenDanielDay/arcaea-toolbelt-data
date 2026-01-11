@@ -8503,5 +8503,94 @@
     },
     null,
     null
+  ],
+  "undefined": [
+    {
+      "constant": 3.5,
+      "old": false
+    },
+    {
+      "constant": 6,
+      "old": false
+    },
+    {
+      "constant": 9.4,
+      "old": false
+    },
+    null,
+    null
+  ],
+  "mask": [
+    {
+      "constant": 4.5,
+      "old": false
+    },
+    {
+      "constant": 8,
+      "old": false
+    },
+    {
+      "constant": 9.9,
+      "old": false
+    },
+    null,
+    null
+  ],
+  "paranoidarc": [
+    {
+      "constant": 4.5,
+      "old": false
+    },
+    {
+      "constant": 7.8,
+      "old": false
+    },
+    {
+      "constant": 9.6,
+      "old": false
+    },
+    null,
+    {
+      "constant": 10.5,
+      "old": false
+    }
+  ],
+  "subsphere": [
+    {
+      "constant": 5,
+      "old": false
+    },
+    {
+      "constant": 8.1,
+      "old": false
+    },
+    {
+      "constant": 9.6,
+      "old": false
+    },
+    null,
+    {
+      "constant": 10.6,
+      "old": false
+    }
+  ],
+  "theraft": [
+    {
+      "constant": 4.5,
+      "old": false
+    },
+    {
+      "constant": 7.5,
+      "old": false
+    },
+    {
+      "constant": 9.5,
+      "old": false
+    },
+    null,
+    {
+      "constant": 10.4,
+      "old": false
+    }
   ]
 }

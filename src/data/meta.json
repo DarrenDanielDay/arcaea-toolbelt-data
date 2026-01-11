@@ -1,7 +1,7 @@
 {
-  "version": "6.11.0c",
-  "apk": "https://arcaea-static.lowiro-cdn.net/crynt2XfklxIuX5V1iUTSN1Tr9lKo3R7pFLBMh4vx2Hwui%2Fe%2BlOkArdTSMW8kCGPbHfJu%2BUzm1A12FWdWsIAdc2tNe0hNJ1EJbB%2FBIsMwC0SFxrCocbbP7CGsPQ9SY4i%2F5pDR536eP%2BZ06vzIg%3D%3D?filename=arcaea_6.11.0c.apk",
-  "time": 1764260146054,
+  "version": "6.11.9c",
+  "apk": "https://arcaea-static.lowiro-cdn.net/ZLhpoCbpwPYU6Lc1G3XjRg5nraKEUANex4C5ocjmybE%2FEi2nrixJjCaWvhvQ5NhTDlxBJS0pvW7EixDdJJ%2B6yU0g1QoYcwUuOT8CU524s2bBFJ%2Fn1kn2ST1qHk%2FJ9Hq1kCIyRbbgHsxtUjNiLQ%3D%3D?filename=arcaea_6.11.9c.apk",
+  "time": 1768137080373,
   "index": [
     {
       "file": "alias.json",
@@ -9,11 +9,11 @@
     },
     {
       "file": "assets-info.json",
-      "hash": "7cef058d"
+      "hash": "6b59a37a"
     },
     {
       "file": "character-data.json",
-      "hash": "8225db97"
+      "hash": "efeff9c6"
     },
     {
       "file": "characters-patch.json",
@@ -21,7 +21,7 @@
     },
     {
       "file": "characters.json",
-      "hash": "686b5622"
+      "hash": "d0848164"
     },
     {
       "file": "chart-data-legacy-1.json",
@@ -29,19 +29,19 @@
     },
     {
       "file": "chart-data.json",
-      "hash": "62e6ed07"
+      "hash": "fe0222c6"
     },
     {
       "file": "chart-express.json",
-      "hash": "627ad150"
+      "hash": "8baf42c1"
     },
     {
       "file": "ChartConstant.json",
-      "hash": "2a3ebe5f"
+      "hash": "3215183b"
     },
     {
       "file": "ChartNotes.json",
-      "hash": "789dd9df"
+      "hash": "aa18a6eb"
     },
     {
       "file": "constants.json",
@@ -49,7 +49,7 @@
     },
     {
       "file": "factors.json",
-      "hash": "8479ced6"
+      "hash": "18e4d86d"
     },
     {
       "file": "item-data.json",
@@ -61,7 +61,7 @@
     },
     {
       "file": "notes-and-constants.json",
-      "hash": "ccf31e10"
+      "hash": "0c60d3df"
     },
     {
       "file": "notes.json",
@@ -69,19 +69,19 @@
     },
     {
       "file": "packlist.json",
-      "hash": "7e028d61"
+      "hash": "c643bbf1"
     },
     {
       "file": "song-data.json",
-      "hash": "b82fcd30"
+      "hash": "92432a2c"
     },
     {
       "file": "songlist.json",
-      "hash": "d3c85c06"
+      "hash": "55d23cf7"
     },
     {
       "file": "world-maps-events.json",
-      "hash": "3b88e341"
+      "hash": "4b02d524"
     },
     {
       "file": "world-maps-longterm.json",

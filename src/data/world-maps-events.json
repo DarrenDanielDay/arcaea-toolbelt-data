@@ -8218,8 +8218,7 @@
           "count": 1000
         }
       }
-    ],
-    "expire": 1766070000000
+    ]
   },
   {
     "id": "限时：Black_Lotus",
@@ -15643,8 +15642,7 @@
           "id": 47
         }
       }
-    ],
-    "expire": 1766070000000
+    ]
   },
   {
     "id": "限时：False_Embellishment",
@@ -27797,8 +27795,7 @@
           "count": 5
         }
       }
-    ],
-    "expire": 1766070000000
+    ]
   },
   {
     "id": "限时：Aleph-0",
@@ -39162,7 +39159,1019 @@
           "count": 1
         }
       }
+    ]
+  },
+  {
+    "id": "限时：undefined",
+    "platforms": [
+      {
+        "length": 0,
+        "special": {
+          "type": 2,
+          "range": [
+            "undefined",
+            "Undying Macula",
+            "UNKNOWN LEVELS",
+            "Impure Bird",
+            "incomplete the one",
+            "INFINITE DIMENSION",
+            "Infinity Heaven",
+            "Innocence",
+            "Inverted World"
+          ]
+        }
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 99,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 100
+        }
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 99,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 500
+        }
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 99,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 500
+        }
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 99,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 3
+        }
+      },
+      {
+        "length": 9,
+        "special": {
+          "type": 2,
+          "range": [
+            "undefined",
+            "Undying Macula",
+            "UNKNOWN LEVELS",
+            "Impure Bird",
+            "incomplete the one",
+            "INFINITE DIMENSION",
+            "Infinity Heaven",
+            "Innocence",
+            "Inverted World"
+          ]
+        }
+      },
+      {
+        "length": 9,
+        "special": {
+          "type": 3,
+          "range": [
+            "undefined",
+            "Undying Macula",
+            "UNKNOWN LEVELS",
+            "Impure Bird",
+            "incomplete the one",
+            "INFINITE DIMENSION",
+            "Infinity Heaven",
+            "Innocence",
+            "Inverted World"
+          ]
+        }
+      },
+      {
+        "length": 9,
+        "special": {
+          "type": 2,
+          "range": [
+            "undefined",
+            "Undying Macula",
+            "UNKNOWN LEVELS",
+            "Impure Bird",
+            "incomplete the one",
+            "INFINITE DIMENSION",
+            "Infinity Heaven",
+            "Innocence",
+            "Inverted World"
+          ]
+        }
+      },
+      {
+        "length": 9,
+        "special": {
+          "type": 3,
+          "range": [
+            "undefined",
+            "Undying Macula",
+            "UNKNOWN LEVELS",
+            "Impure Bird",
+            "incomplete the one",
+            "INFINITE DIMENSION",
+            "Infinity Heaven",
+            "Innocence",
+            "Inverted World"
+          ]
+        }
+      },
+      {
+        "length": 99,
+        "reward": {
+          "type": 1,
+          "id": "undefined"
+        }
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 99,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 99,
+        "special": {
+          "type": 3,
+          "range": [
+            "undefined",
+            "Undying Macula",
+            "UNKNOWN LEVELS",
+            "Impure Bird",
+            "incomplete the one",
+            "INFINITE DIMENSION",
+            "Infinity Heaven",
+            "Innocence",
+            "Inverted World"
+          ]
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "次元结晶",
+          "count": 1
+        }
+      }
     ],
-    "expire": 1766070000000
+    "expire": 1769007600000
+  },
+  {
+    "id": "限时：~_+",
+    "platforms": [
+      {
+        "length": 0,
+        "special": {
+          "type": 2,
+          "range": [
+            "~_+",
+            "Dement ~after legend~",
+            "Harutopia ~Utopia of Spring~",
+            "yomibito_shirazu",
+            "RGB",
+            "Angel's Boundary"
+          ]
+        }
+      },
+      {
+        "length": 11,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 10
+        }
+      },
+      {
+        "length": 11,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 10
+        }
+      },
+      {
+        "length": 11,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 10
+        }
+      },
+      {
+        "length": 11,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 10
+        }
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 11,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 10
+        }
+      },
+      {
+        "length": 11,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 10
+        }
+      },
+      {
+        "length": 11,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 10
+        }
+      },
+      {
+        "length": 11,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 10
+        }
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 11,
+        "special": {
+          "type": 2,
+          "range": [
+            "~_+",
+            "Dement ~after legend~",
+            "Harutopia ~Utopia of Spring~",
+            "yomibito_shirazu",
+            "RGB",
+            "Angel's Boundary"
+          ]
+        }
+      },
+      {
+        "length": 11,
+        "special": {
+          "type": 2,
+          "range": [
+            "~_+",
+            "Dement ~after legend~",
+            "Harutopia ~Utopia of Spring~",
+            "yomibito_shirazu",
+            "RGB",
+            "Angel's Boundary"
+          ]
+        }
+      },
+      {
+        "length": 11,
+        "special": {
+          "type": 2,
+          "range": [
+            "~_+",
+            "Dement ~after legend~",
+            "Harutopia ~Utopia of Spring~",
+            "yomibito_shirazu",
+            "RGB",
+            "Angel's Boundary"
+          ]
+        }
+      },
+      {
+        "length": 11,
+        "special": {
+          "type": 2,
+          "range": [
+            "~_+",
+            "Dement ~after legend~",
+            "Harutopia ~Utopia of Spring~",
+            "yomibito_shirazu",
+            "RGB",
+            "Angel's Boundary"
+          ]
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 11,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 20
+        }
+      },
+      {
+        "length": 11,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 20
+        }
+      },
+      {
+        "length": 11,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 20
+        }
+      },
+      {
+        "length": 11,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 20
+        }
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 11,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 20
+        }
+      },
+      {
+        "length": 11,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 20
+        }
+      },
+      {
+        "length": 11,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 20
+        }
+      },
+      {
+        "length": 11,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 20
+        }
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 11,
+        "special": {
+          "type": 2,
+          "range": [
+            "~_+",
+            "Dement ~after legend~",
+            "Harutopia ~Utopia of Spring~",
+            "yomibito_shirazu",
+            "RGB",
+            "Angel's Boundary"
+          ]
+        }
+      },
+      {
+        "length": 11,
+        "special": {
+          "type": 2,
+          "range": [
+            "~_+",
+            "Dement ~after legend~",
+            "Harutopia ~Utopia of Spring~",
+            "yomibito_shirazu",
+            "RGB",
+            "Angel's Boundary"
+          ]
+        }
+      },
+      {
+        "length": 11,
+        "special": {
+          "type": 2,
+          "range": [
+            "~_+",
+            "Dement ~after legend~",
+            "Harutopia ~Utopia of Spring~",
+            "yomibito_shirazu",
+            "RGB",
+            "Angel's Boundary"
+          ]
+        }
+      },
+      {
+        "length": 11,
+        "special": {
+          "type": 2,
+          "range": [
+            "~_+",
+            "Dement ~after legend~",
+            "Harutopia ~Utopia of Spring~",
+            "yomibito_shirazu",
+            "RGB",
+            "Angel's Boundary"
+          ]
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 11,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 30
+        }
+      },
+      {
+        "length": 11,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 30
+        }
+      },
+      {
+        "length": 11,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 30
+        }
+      },
+      {
+        "length": 11,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 30
+        }
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 11,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 30
+        }
+      },
+      {
+        "length": 11,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 30
+        }
+      },
+      {
+        "length": 11,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 30
+        }
+      },
+      {
+        "length": 11,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 30
+        }
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 11,
+        "special": {
+          "type": 2,
+          "range": [
+            "~_+",
+            "Dement ~after legend~",
+            "Harutopia ~Utopia of Spring~",
+            "yomibito_shirazu",
+            "RGB",
+            "Angel's Boundary"
+          ]
+        }
+      },
+      {
+        "length": 11,
+        "special": {
+          "type": 2,
+          "range": [
+            "~_+",
+            "Dement ~after legend~",
+            "Harutopia ~Utopia of Spring~",
+            "yomibito_shirazu",
+            "RGB",
+            "Angel's Boundary"
+          ]
+        }
+      },
+      {
+        "length": 11,
+        "special": {
+          "type": 2,
+          "range": [
+            "~_+",
+            "Dement ~after legend~",
+            "Harutopia ~Utopia of Spring~",
+            "yomibito_shirazu",
+            "RGB",
+            "Angel's Boundary"
+          ]
+        }
+      },
+      {
+        "length": 11,
+        "special": {
+          "type": 2,
+          "range": [
+            "~_+",
+            "Dement ~after legend~",
+            "Harutopia ~Utopia of Spring~",
+            "yomibito_shirazu",
+            "RGB",
+            "Angel's Boundary"
+          ]
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 11,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 40
+        }
+      },
+      {
+        "length": 11,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 40
+        }
+      },
+      {
+        "length": 11,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 40
+        }
+      },
+      {
+        "length": 11,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 40
+        }
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 11,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 40
+        }
+      },
+      {
+        "length": 11,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 40
+        }
+      },
+      {
+        "length": 11,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 40
+        }
+      },
+      {
+        "length": 11,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 40
+        }
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 11,
+        "special": {
+          "type": 2,
+          "range": [
+            "~_+",
+            "Dement ~after legend~",
+            "Harutopia ~Utopia of Spring~",
+            "yomibito_shirazu",
+            "RGB",
+            "Angel's Boundary"
+          ]
+        }
+      },
+      {
+        "length": 11,
+        "special": {
+          "type": 2,
+          "range": [
+            "~_+",
+            "Dement ~after legend~",
+            "Harutopia ~Utopia of Spring~",
+            "yomibito_shirazu",
+            "RGB",
+            "Angel's Boundary"
+          ]
+        }
+      },
+      {
+        "length": 11,
+        "special": {
+          "type": 2,
+          "range": [
+            "~_+",
+            "Dement ~after legend~",
+            "Harutopia ~Utopia of Spring~",
+            "yomibito_shirazu",
+            "RGB",
+            "Angel's Boundary"
+          ]
+        }
+      },
+      {
+        "length": 11,
+        "special": {
+          "type": 2,
+          "range": [
+            "~_+",
+            "Dement ~after legend~",
+            "Harutopia ~Utopia of Spring~",
+            "yomibito_shirazu",
+            "RGB",
+            "Angel's Boundary"
+          ]
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 1,
+          "id": "mask"
+        }
+      },
+      {
+        "length": 11
+      },
+      {
+        "length": 11
+      },
+      {
+        "length": 11
+      },
+      {
+        "length": 11
+      },
+      {
+        "length": 100,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 11
+      },
+      {
+        "length": 11
+      },
+      {
+        "length": 11
+      },
+      {
+        "length": 11
+      },
+      {
+        "length": 100,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 500
+        }
+      },
+      {
+        "length": 11,
+        "special": {
+          "type": 2,
+          "range": [
+            "~_+",
+            "Dement ~after legend~",
+            "Harutopia ~Utopia of Spring~",
+            "yomibito_shirazu",
+            "RGB",
+            "Angel's Boundary"
+          ]
+        }
+      },
+      {
+        "length": 11,
+        "special": {
+          "type": 2,
+          "range": [
+            "~_+",
+            "Dement ~after legend~",
+            "Harutopia ~Utopia of Spring~",
+            "yomibito_shirazu",
+            "RGB",
+            "Angel's Boundary"
+          ]
+        }
+      },
+      {
+        "length": 11,
+        "special": {
+          "type": 2,
+          "range": [
+            "~_+",
+            "Dement ~after legend~",
+            "Harutopia ~Utopia of Spring~",
+            "yomibito_shirazu",
+            "RGB",
+            "Angel's Boundary"
+          ]
+        }
+      },
+      {
+        "length": 11,
+        "special": {
+          "type": 2,
+          "range": [
+            "~_+",
+            "Dement ~after legend~",
+            "Harutopia ~Utopia of Spring~",
+            "yomibito_shirazu",
+            "RGB",
+            "Angel's Boundary"
+          ]
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "次元结晶",
+          "count": 1
+        }
+      }
+    ],
+    "expire": 1769007600000
+  },
+  {
+    "id": "限时：Paranoid_Arc",
+    "platforms": [
+      {
+        "length": 240
+      },
+      {
+        "length": 240,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 2000
+        }
+      },
+      {
+        "length": 120,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 2
+        }
+      },
+      {
+        "length": 480,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 2
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 2,
+          "id": 93
+        }
+      }
+    ]
+  },
+  {
+    "id": "限时：Subsphere_in_Eclosion",
+    "platforms": [
+      {
+        "length": 40
+      },
+      {
+        "length": 500,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 1000
+        }
+      },
+      {
+        "length": 40,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 4
+        }
+      },
+      {
+        "length": 500,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 1000
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 2,
+          "id": 95
+        }
+      }
+    ],
+    "expire": 1768402800000
+  },
+  {
+    "id": "限时：The_'Raft'_taught_me:_your_heart_will_always_find_a_way.",
+    "platforms": [
+      {
+        "length": 120
+      },
+      {
+        "length": 240,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 2
+        }
+      },
+      {
+        "length": 240,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 2000
+        }
+      },
+      {
+        "length": 480,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 2
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 2,
+          "id": 94
+        }
+      }
+    ],
+    "expire": 1769007600000
   }
 ]

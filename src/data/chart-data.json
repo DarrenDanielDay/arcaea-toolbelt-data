@@ -25532,8 +25532,7 @@
     "name": "Code: Oblivion",
     "covers": [
       "1080_base.jpg",
-      "1080_base_256.jpg",
-      "base.jpg"
+      "1080_base_256.jpg"
     ],
     "pack": "Arcaea Next Stage",
     "dl": true,
@@ -25730,6 +25729,260 @@
         "level": 10,
         "note": 1289,
         "songId": "grandspell"
+      }
+    ],
+    "version": {
+      "added": "6.11"
+    }
+  },
+  {
+    "bpm": "110",
+    "side": 1,
+    "id": "undefined",
+    "name": "undefined",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "World Extend 4",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 3.5,
+        "difficulty": "pst",
+        "designer": "sidewaves",
+        "id": "undefined@pst",
+        "level": 3,
+        "note": 371,
+        "songId": "undefined"
+      },
+      {
+        "constant": 6,
+        "difficulty": "prs",
+        "designer": "sidewaves",
+        "id": "undefined@prs",
+        "level": 6,
+        "note": 532,
+        "songId": "undefined"
+      },
+      {
+        "constant": 9.4,
+        "difficulty": "ftr",
+        "designer": "sidewaves + Nitro",
+        "id": "undefined@ftr",
+        "level": 9,
+        "note": 896,
+        "songId": "undefined"
+      }
+    ],
+    "version": {
+      "added": "6.11"
+    }
+  },
+  {
+    "bpm": "213.5",
+    "side": 0,
+    "id": "mask",
+    "name": "~_+",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "World Extend 4",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 4.5,
+        "difficulty": "pst",
+        "designer": "KARA+_~1.TMP",
+        "id": "mask@pst",
+        "level": 4,
+        "note": 869,
+        "songId": "mask"
+      },
+      {
+        "constant": 8,
+        "difficulty": "prs",
+        "designer": "KARA+_~1.TMP",
+        "id": "mask@prs",
+        "level": 8,
+        "note": 994,
+        "songId": "mask"
+      },
+      {
+        "constant": 9.9,
+        "difficulty": "ftr",
+        "designer": "KARA+_~1.TMP",
+        "id": "mask@ftr",
+        "level": 9,
+        "note": 1201,
+        "songId": "mask",
+        "plus": true
+      }
+    ],
+    "version": {
+      "added": "6.11"
+    }
+  },
+  {
+    "bpm": "180",
+    "side": 1,
+    "id": "paranoidarc",
+    "name": "Paranoid Arc",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Memory Archive",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 4.5,
+        "difficulty": "pst",
+        "designer": "Exschwasion v.●/○/○",
+        "id": "paranoidarc@pst",
+        "level": 4,
+        "note": 762,
+        "songId": "paranoidarc"
+      },
+      {
+        "constant": 7.8,
+        "difficulty": "prs",
+        "designer": "Exschwasion v.●/○/○",
+        "id": "paranoidarc@prs",
+        "level": 7,
+        "note": 849,
+        "songId": "paranoidarc",
+        "plus": true
+      },
+      {
+        "constant": 9.6,
+        "difficulty": "ftr",
+        "designer": "Exschwasion v.●/○/○",
+        "id": "paranoidarc@ftr",
+        "level": 9,
+        "note": 1204,
+        "songId": "paranoidarc"
+      },
+      {
+        "constant": 10.5,
+        "difficulty": "etr",
+        "designer": "Exschwasion v.●/○/○",
+        "id": "paranoidarc@etr",
+        "level": 10,
+        "note": 1412,
+        "songId": "paranoidarc"
+      }
+    ],
+    "version": {
+      "added": "6.11"
+    }
+  },
+  {
+    "bpm": "120",
+    "side": 0,
+    "id": "subsphere",
+    "name": "Subsphere in Eclosion",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Memory Archive",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 5,
+        "difficulty": "pst",
+        "designer": "Nitro v.○/●/○",
+        "id": "subsphere@pst",
+        "level": 5,
+        "note": 781,
+        "songId": "subsphere"
+      },
+      {
+        "constant": 8.1,
+        "difficulty": "prs",
+        "designer": "Nitro v.○/●/○",
+        "id": "subsphere@prs",
+        "level": 8,
+        "note": 997,
+        "songId": "subsphere"
+      },
+      {
+        "constant": 9.6,
+        "difficulty": "ftr",
+        "designer": "Nitro v.○/●/○",
+        "id": "subsphere@ftr",
+        "level": 9,
+        "note": 1177,
+        "songId": "subsphere"
+      },
+      {
+        "constant": 10.6,
+        "difficulty": "etr",
+        "designer": "Nitro v.○/●/○",
+        "id": "subsphere@etr",
+        "level": 10,
+        "note": 1327,
+        "songId": "subsphere"
+      }
+    ],
+    "version": {
+      "added": "6.11"
+    }
+  },
+  {
+    "bpm": "161",
+    "side": 1,
+    "id": "theraft",
+    "name": "The 'Raft' taught me: your heart will always find a way.",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Memory Archive",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 4.5,
+        "difficulty": "pst",
+        "designer": "Interator",
+        "id": "theraft@pst",
+        "level": 4,
+        "note": 722,
+        "songId": "theraft"
+      },
+      {
+        "constant": 7.5,
+        "difficulty": "prs",
+        "designer": "Interator",
+        "id": "theraft@prs",
+        "level": 7,
+        "note": 803,
+        "songId": "theraft"
+      },
+      {
+        "constant": 9.5,
+        "difficulty": "ftr",
+        "designer": "Interator",
+        "id": "theraft@ftr",
+        "level": 9,
+        "note": 999,
+        "songId": "theraft"
+      },
+      {
+        "constant": 10.4,
+        "difficulty": "etr",
+        "designer": "raycast v.○/○/●",
+        "id": "theraft@etr",
+        "level": 10,
+        "note": 1193,
+        "songId": "theraft"
       }
     ],
     "version": {

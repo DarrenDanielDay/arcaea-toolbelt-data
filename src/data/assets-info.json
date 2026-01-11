@@ -3622,8 +3622,7 @@
       "id": "codeoblivion",
       "covers": [
         "1080_base.jpg",
-        "1080_base_256.jpg",
-        "base.jpg"
+        "1080_base_256.jpg"
       ]
     },
     {
@@ -3642,6 +3641,41 @@
     },
     {
       "id": "grandspell",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "id": "undefined",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "id": "mask",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "id": "paranoidarc",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "id": "subsphere",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "id": "theraft",
       "covers": [
         "1080_base.jpg",
         "1080_base_256.jpg"
@@ -3762,6 +3796,18 @@
       "file": "online_banner_2025_12.png",
       "year": 2025,
       "month": 12
+    },
+    {
+      "type": "aol",
+      "file": "online_banner_2026_01.png",
+      "year": 2026,
+      "month": 1
+    },
+    {
+      "type": "aol",
+      "file": "online_banner_2026_02.png",
+      "year": 2026,
+      "month": 2
     },
     {
       "type": "course",

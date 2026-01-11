@@ -1,45 +1,77 @@
 [
   {
-    "songId": "infinitedim",
+    "songId": "undefined",
     "charts": [
       {
-        "constant": 2.5
+        "constant": 3.5
       },
       {
         "constant": 6
       },
       {
-        "constant": 8.6
+        "constant": 9.4
+      },
+      null,
+      null
+    ]
+  },
+  {
+    "songId": "mask",
+    "charts": [
+      {
+        "constant": 4.5
+      },
+      {
+        "constant": 8
+      },
+      {
+        "constant": 9.9
+      },
+      null,
+      null
+    ]
+  },
+  {
+    "songId": "paranoidarc",
+    "charts": [
+      {
+        "constant": 4.5
+      },
+      {
+        "constant": 7.8
+      },
+      {
+        "constant": 9.6
       },
       null,
       {
-        "constant": 10.1
+        "constant": 10.5
       }
     ]
   },
   {
-    "songId": "incarnator",
+    "songId": "subsphere",
     "charts": [
       {
-        "constant": 3.5
+        "constant": 5
       },
       {
-        "constant": 6.5
+        "constant": 8.1
       },
       {
-        "constant": 8.9
+        "constant": 9.6
       },
       null,
       {
-        "constant": 10.4
+        "constant": 10.6
       }
     ]
   },
   {
-    "songId": "zephyrlast",
+    "songId": "theraft",
     "charts": [
       {
-        "constant": 3.5
+        "constant": 4.5
       },
       {
         "constant": 7.5
@@ -49,96 +81,8 @@
       },
       null,
       {
-        "constant": 10.3
+        "constant": 10.4
       }
-    ]
-  },
-  {
-    "songId": "marenyx",
-    "charts": [
-      {
-        "constant": 4.5
-      },
-      {
-        "constant": 7.8
-      },
-      {
-        "constant": 9.5
-      },
-      null,
-      {
-        "constant": 10.8
-      }
-    ]
-  },
-  {
-    "songId": "codeoblivion",
-    "charts": [
-      {
-        "constant": 5.5
-      },
-      {
-        "constant": 8.3
-      },
-      {
-        "constant": 9.9
-      },
-      null,
-      {
-        "constant": 10.9
-      }
-    ]
-  },
-  {
-    "songId": "azalea",
-    "charts": [
-      {
-        "constant": 4
-      },
-      {
-        "constant": 7
-      },
-      {
-        "constant": 9.4
-      },
-      null,
-      {
-        "constant": 10
-      }
-    ]
-  },
-  {
-    "songId": "tabootears",
-    "charts": [
-      {
-        "constant": 3
-      },
-      {
-        "constant": 6.5
-      },
-      {
-        "constant": 8.4
-      },
-      null,
-      {
-        "constant": 9.8
-      }
-    ]
-  },
-  {
-    "songId": "grandspell",
-    "charts": [
-      {
-        "constant": 4.5
-      },
-      {
-        "constant": 8.4
-      },
-      {
-        "constant": 10.2
-      },
-      null,
-      null
     ]
   }
 ]
