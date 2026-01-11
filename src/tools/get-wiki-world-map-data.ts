@@ -364,5 +364,6 @@ export async function fetchWikiWorldMapData(songs: SongData[], characters: Chara
     if (!map) throw new Error(`活动地图 ${event.id} 未找到`);
     map.expire = event.expire;
   }
+  console.log(`Success, got ${longterm.length} lonterm maps and ${events.length} event maps.`);
   return { longterm, events };
 }
