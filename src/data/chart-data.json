@@ -25988,5 +25988,316 @@
     "version": {
       "added": "6.11"
     }
+  },
+  {
+    "bpm": "133",
+    "side": 0,
+    "id": "omajinai",
+    "name": "OMAJINAI",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "World Extend 4",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 2.5,
+        "difficulty": "pst",
+        "designer": "Souplex",
+        "id": "omajinai@pst",
+        "level": 2,
+        "note": 288,
+        "songId": "omajinai"
+      },
+      {
+        "constant": 7,
+        "difficulty": "prs",
+        "designer": "Souplex",
+        "id": "omajinai@prs",
+        "level": 7,
+        "note": 572,
+        "songId": "omajinai"
+      },
+      {
+        "constant": 9.4,
+        "difficulty": "ftr",
+        "designer": "Souplex",
+        "id": "omajinai@ftr",
+        "level": 9,
+        "note": 886,
+        "songId": "omajinai"
+      }
+    ],
+    "version": {
+      "added": "6.12"
+    }
+  },
+  {
+    "bpm": "172",
+    "side": 1,
+    "id": "chaintonite",
+    "name": "CHAIN2NITE",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "MEGAREX",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 4,
+        "difficulty": "pst",
+        "designer": "raycast",
+        "id": "chaintonite@pst",
+        "level": 4,
+        "note": 723,
+        "songId": "chaintonite"
+      },
+      {
+        "constant": 6.5,
+        "difficulty": "prs",
+        "designer": "raycast",
+        "id": "chaintonite@prs",
+        "level": 6,
+        "note": 759,
+        "songId": "chaintonite"
+      },
+      {
+        "constant": 8.6,
+        "difficulty": "ftr",
+        "designer": "raycast",
+        "id": "chaintonite@ftr",
+        "level": 8,
+        "note": 883,
+        "songId": "chaintonite"
+      },
+      {
+        "constant": 9.9,
+        "difficulty": "etr",
+        "designer": "raycast",
+        "id": "chaintonite@etr",
+        "level": 9,
+        "note": 1037,
+        "songId": "chaintonite",
+        "plus": true
+      }
+    ],
+    "version": {
+      "added": "6.12"
+    }
+  },
+  {
+    "bpm": "123",
+    "side": 0,
+    "id": "onestepcloser",
+    "name": "One Step Closer",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "MEGAREX",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 3,
+        "difficulty": "pst",
+        "designer": "Nitroだー！",
+        "id": "onestepcloser@pst",
+        "level": 3,
+        "note": 454,
+        "songId": "onestepcloser"
+      },
+      {
+        "constant": 7.5,
+        "difficulty": "prs",
+        "designer": "Nitroだー！",
+        "id": "onestepcloser@prs",
+        "level": 7,
+        "note": 551,
+        "songId": "onestepcloser"
+      },
+      {
+        "constant": 9.5,
+        "difficulty": "ftr",
+        "designer": "Nitroだー！",
+        "id": "onestepcloser@ftr",
+        "level": 9,
+        "note": 752,
+        "songId": "onestepcloser"
+      }
+    ],
+    "version": {
+      "added": "6.12"
+    }
+  },
+  {
+    "bpm": "144-168",
+    "side": 0,
+    "id": "mylifeismine",
+    "name": "My life is mine alone!",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "MEGAREX",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 2.5,
+        "difficulty": "pst",
+        "designer": "Nitro",
+        "id": "mylifeismine@pst",
+        "level": 2,
+        "note": 460,
+        "songId": "mylifeismine"
+      },
+      {
+        "constant": 5.5,
+        "difficulty": "prs",
+        "designer": "Nitro",
+        "id": "mylifeismine@prs",
+        "level": 5,
+        "note": 612,
+        "songId": "mylifeismine"
+      },
+      {
+        "constant": 8.8,
+        "difficulty": "ftr",
+        "designer": "Nitro",
+        "id": "mylifeismine@ftr",
+        "level": 8,
+        "note": 933,
+        "songId": "mylifeismine",
+        "plus": true
+      },
+      {
+        "constant": 10.1,
+        "difficulty": "etr",
+        "designer": "antymis",
+        "id": "mylifeismine@etr",
+        "level": 10,
+        "note": 1075,
+        "songId": "mylifeismine"
+      }
+    ],
+    "version": {
+      "added": "6.12"
+    }
+  },
+  {
+    "bpm": "156",
+    "side": 0,
+    "id": "meltyrhapsody",
+    "name": "Melty Rhapsody",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "MEGAREX",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 3.5,
+        "difficulty": "pst",
+        "designer": "M理論_liquid",
+        "id": "meltyrhapsody@pst",
+        "level": 3,
+        "note": 582,
+        "songId": "meltyrhapsody"
+      },
+      {
+        "constant": 7.5,
+        "difficulty": "prs",
+        "designer": "M理論_liquid",
+        "id": "meltyrhapsody@prs",
+        "level": 7,
+        "note": 790,
+        "songId": "meltyrhapsody"
+      },
+      {
+        "constant": 9.6,
+        "difficulty": "ftr",
+        "designer": "M理論_liquid",
+        "id": "meltyrhapsody@ftr",
+        "level": 9,
+        "note": 975,
+        "songId": "meltyrhapsody"
+      },
+      {
+        "constant": 10.4,
+        "difficulty": "etr",
+        "designer": "M理論_liquid",
+        "id": "meltyrhapsody@etr",
+        "level": 10,
+        "note": 1185,
+        "songId": "meltyrhapsody"
+      }
+    ],
+    "version": {
+      "added": "6.12"
+    }
+  },
+  {
+    "bpm": "175",
+    "side": 1,
+    "id": "signal",
+    "name": "Signal",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "MEGAREX",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 4,
+        "difficulty": "pst",
+        "designer": "én",
+        "id": "signal@pst",
+        "level": 4,
+        "note": 582,
+        "songId": "signal"
+      },
+      {
+        "constant": 7.8,
+        "difficulty": "prs",
+        "designer": "én",
+        "id": "signal@prs",
+        "level": 7,
+        "note": 824,
+        "songId": "signal",
+        "plus": true
+      },
+      {
+        "constant": 9.8,
+        "difficulty": "ftr",
+        "designer": "én",
+        "id": "signal@ftr",
+        "level": 9,
+        "note": 1151,
+        "songId": "signal",
+        "plus": true
+      },
+      {
+        "constant": 10.7,
+        "difficulty": "etr",
+        "designer": "絶滅",
+        "id": "signal@etr",
+        "level": 10,
+        "note": 1245,
+        "songId": "signal",
+        "plus": true
+      }
+    ],
+    "version": {
+      "added": "6.12"
+    }
   }
 ]

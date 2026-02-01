@@ -19704,6 +19704,338 @@
     "chapter": "Spire of the Gods",
     "maps": [
       {
+        "id": "9-0",
+        "platforms": [
+          {
+            "length": 0,
+            "special": {
+              "type": 2,
+              "range": [
+                "Acheron",
+                "AlterGate",
+                "Extradimensional Cosmic Phenomenon",
+                "We're All Gonna Die",
+                "Nightmare",
+                "Aether Crest: Astral",
+                "init()",
+                "Phantasia",
+                "Designant.",
+                "Astral Quantization",
+                "And Revive The Melody"
+              ]
+            }
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 10,
+            "special": {
+              "type": 3,
+              "range": []
+            }
+          },
+          {
+            "length": 10,
+            "special": {
+              "type": 3,
+              "range": []
+            }
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 10
+          },
+          {
+            "length": 10,
+            "reward": {
+              "type": 3,
+              "name": "神明的塔尖",
+              "img": "https://wiki.arcaea.cn/images/thumb/0/08/Background_scenery_Chap9.jpg/195px-Background_scenery_Chap9.jpg"
+            }
+          },
+          {
+            "length": 20
+          },
+          {
+            "length": 20
+          },
+          {
+            "length": 20
+          },
+          {
+            "length": 20
+          },
+          {
+            "length": 20,
+            "special": {
+              "type": 2,
+              "range": [
+                "Acheron",
+                "AlterGate",
+                "Extradimensional Cosmic Phenomenon",
+                "We're All Gonna Die",
+                "Nightmare",
+                "Aether Crest: Astral",
+                "init()",
+                "Phantasia",
+                "Designant.",
+                "Astral Quantization",
+                "And Revive The Melody"
+              ]
+            }
+          },
+          {
+            "length": 20,
+            "special": {
+              "type": 2,
+              "range": [
+                "Acheron",
+                "AlterGate",
+                "Extradimensional Cosmic Phenomenon",
+                "We're All Gonna Die",
+                "Nightmare",
+                "Aether Crest: Astral",
+                "init()",
+                "Phantasia",
+                "Designant.",
+                "Astral Quantization",
+                "And Revive The Melody"
+              ]
+            }
+          },
+          {
+            "length": 20
+          },
+          {
+            "length": 20
+          },
+          {
+            "length": 20
+          },
+          {
+            "length": 20
+          },
+          {
+            "length": 20
+          },
+          {
+            "length": 20
+          },
+          {
+            "length": 20,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 500
+            }
+          },
+          {
+            "length": 30,
+            "special": {
+              "type": 3,
+              "range": []
+            }
+          },
+          {
+            "length": 30,
+            "special": {
+              "type": 3,
+              "range": []
+            }
+          },
+          {
+            "length": 30
+          },
+          {
+            "length": 30
+          },
+          {
+            "length": 30
+          },
+          {
+            "length": 30
+          },
+          {
+            "length": 30
+          },
+          {
+            "length": 30
+          },
+          {
+            "length": 30
+          },
+          {
+            "length": 30
+          },
+          {
+            "length": 30
+          },
+          {
+            "length": 30
+          },
+          {
+            "length": 30,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 1000
+            }
+          },
+          {
+            "length": 40
+          },
+          {
+            "length": 40
+          },
+          {
+            "length": 40,
+            "special": {
+              "type": 2,
+              "range": [
+                "Acheron",
+                "AlterGate",
+                "Extradimensional Cosmic Phenomenon",
+                "We're All Gonna Die",
+                "Nightmare",
+                "Aether Crest: Astral",
+                "init()",
+                "Phantasia",
+                "Designant.",
+                "Astral Quantization",
+                "And Revive The Melody"
+              ]
+            }
+          },
+          {
+            "length": 40,
+            "special": {
+              "type": 2,
+              "range": [
+                "Acheron",
+                "AlterGate",
+                "Extradimensional Cosmic Phenomenon",
+                "We're All Gonna Die",
+                "Nightmare",
+                "Aether Crest: Astral",
+                "init()",
+                "Phantasia",
+                "Designant.",
+                "Astral Quantization",
+                "And Revive The Melody"
+              ]
+            }
+          },
+          {
+            "length": 40
+          },
+          {
+            "length": 40
+          },
+          {
+            "length": 40
+          },
+          {
+            "length": 40
+          },
+          {
+            "length": 40
+          },
+          {
+            "length": 40
+          },
+          {
+            "length": 40
+          },
+          {
+            "length": 40
+          },
+          {
+            "length": 40,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 1250
+            }
+          },
+          {
+            "length": 50
+          },
+          {
+            "length": 50
+          },
+          {
+            "length": 50
+          },
+          {
+            "length": 50
+          },
+          {
+            "length": 50
+          },
+          {
+            "length": 50
+          },
+          {
+            "length": 50
+          },
+          {
+            "length": 50
+          },
+          {
+            "length": 50
+          },
+          {
+            "length": 50
+          },
+          {
+            "length": 50,
+            "special": {
+              "type": 3,
+              "range": []
+            }
+          },
+          {
+            "length": 50,
+            "special": {
+              "type": 3,
+              "range": []
+            }
+          },
+          {
+            "length": 0,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 1500
+            }
+          }
+        ]
+      },
+      {
         "id": "9-1",
         "platforms": [
           {
@@ -22839,6 +23171,95 @@
             "reward": {
               "type": 2,
               "id": 92
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "Endless Gallery",
+    "maps": [
+      {
+        "id": "10-1",
+        "platforms": [
+          {
+            "length": 20,
+            "special": {
+              "type": 2,
+              "range": [
+                "Your voice so... feat. Such",
+                "Modelista",
+                "Be There",
+                "Call My Name feat. Yukacco",
+                "Dot to Dot feat. shully",
+                "Feels So Right feat. Renko",
+                "CHAIN2NITE",
+                "One Step Closer",
+                "My life is mine alone!",
+                "Signal",
+                "Melty Rhapsody"
+              ]
+            }
+          },
+          {
+            "length": 26
+          },
+          {
+            "length": 20
+          },
+          {
+            "length": 26,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 120
+            }
+          },
+          {
+            "length": 20
+          },
+          {
+            "length": 26
+          },
+          {
+            "length": 20
+          },
+          {
+            "length": 26,
+            "reward": {
+              "type": 0,
+              "name": "残片",
+              "count": 120
+            }
+          },
+          {
+            "length": 20
+          },
+          {
+            "length": 26,
+            "special": {
+              "type": 2,
+              "range": [
+                "Your voice so... feat. Such",
+                "Modelista",
+                "Be There",
+                "Call My Name feat. Yukacco",
+                "Dot to Dot feat. shully",
+                "Feels So Right feat. Renko",
+                "CHAIN2NITE",
+                "One Step Closer",
+                "My life is mine alone!",
+                "Signal",
+                "Melty Rhapsody"
+              ]
+            }
+          },
+          {
+            "length": 0,
+            "reward": {
+              "type": 2,
+              "id": 96
             }
           }
         ]

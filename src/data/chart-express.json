@@ -1,12 +1,12 @@
 [
   {
-    "songId": "undefined",
+    "songId": "omajinai",
     "charts": [
       {
-        "constant": 3.5
+        "constant": 2.5
       },
       {
-        "constant": 6
+        "constant": 7
       },
       {
         "constant": 9.4
@@ -16,62 +16,28 @@
     ]
   },
   {
-    "songId": "mask",
+    "songId": "chaintonite",
     "charts": [
       {
-        "constant": 4.5
+        "constant": 4
       },
       {
-        "constant": 8
+        "constant": 6.5
       },
+      {
+        "constant": 8.6
+      },
+      null,
       {
         "constant": 9.9
-      },
-      null,
-      null
-    ]
-  },
-  {
-    "songId": "paranoidarc",
-    "charts": [
-      {
-        "constant": 4.5
-      },
-      {
-        "constant": 7.8
-      },
-      {
-        "constant": 9.6
-      },
-      null,
-      {
-        "constant": 10.5
       }
     ]
   },
   {
-    "songId": "subsphere",
+    "songId": "onestepcloser",
     "charts": [
       {
-        "constant": 5
-      },
-      {
-        "constant": 8.1
-      },
-      {
-        "constant": 9.6
-      },
-      null,
-      {
-        "constant": 10.6
-      }
-    ]
-  },
-  {
-    "songId": "theraft",
-    "charts": [
-      {
-        "constant": 4.5
+        "constant": 3
       },
       {
         "constant": 7.5
@@ -80,8 +46,60 @@
         "constant": 9.5
       },
       null,
+      null
+    ]
+  },
+  {
+    "songId": "mylifeismine",
+    "charts": [
+      {
+        "constant": 2.5
+      },
+      {
+        "constant": 5.5
+      },
+      {
+        "constant": 8.8
+      },
+      null,
+      {
+        "constant": 10.1
+      }
+    ]
+  },
+  {
+    "songId": "meltyrhapsody",
+    "charts": [
+      {
+        "constant": 3.5
+      },
+      {
+        "constant": 7.5
+      },
+      {
+        "constant": 9.6
+      },
+      null,
       {
         "constant": 10.4
+      }
+    ]
+  },
+  {
+    "songId": "signal",
+    "charts": [
+      {
+        "constant": 4
+      },
+      {
+        "constant": 7.8
+      },
+      {
+        "constant": 9.8
+      },
+      null,
+      {
+        "constant": 10.7
       }
     ]
   }

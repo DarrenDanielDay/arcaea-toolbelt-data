@@ -3756,6 +3756,49 @@
     }
   },
   {
+    "character_id": 96,
+    "name": "shirahime_flow",
+    "level": 10,
+    "exp": 1349.3049900000003,
+    "level_exp": 1200,
+    "frag": 51.20323662341449,
+    "prog": 43.62837148272343,
+    "overdrive": 12.350269718617874,
+    "skill_id": "skill_frag_doubled_after_earning_X",
+    "skill_unlock_level": 0,
+    "skill_requires_uncap": false,
+    "skill_id_uncap": "",
+    "char_type": 0,
+    "uncap_cores": [],
+    "is_uncapped": false,
+    "is_uncapped_override": false,
+    "voice": [],
+    "base_character": false,
+    "icon": "bc5808b2ada11b9cc0b5a3a2a41ab856",
+    "profile_image": "ac3e7f42ae59b76ecd97d76e504fccac",
+    "display_name": {
+      "en": "Shirahime",
+      "ja": "白姫",
+      "ko": "시라히메",
+      "zh-Hans": "白姬",
+      "zh-Hant": "白姬"
+    },
+    "variant": {
+      "en": "Flow",
+      "ja": "Flow",
+      "ko": "Flow",
+      "zh-Hans": "Flow",
+      "zh-Hant": "Flow"
+    },
+    "skill_id_text": {
+      "en": "Fragment gain doubled upon earning\n100 Fragments using other Partners",
+      "ja": "",
+      "ko": "",
+      "zh-Hans": "",
+      "zh-Hant": ""
+    }
+  },
+  {
     "character_id": 99,
     "name": "shirahime",
     "level": 20,

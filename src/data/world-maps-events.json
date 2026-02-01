@@ -20774,7 +20774,8 @@
           "id": 59
         }
       }
-    ]
+    ],
+    "expire": 1771513200000
   },
   {
     "id": "限时：Tsuki_ni_Murakumo,_Hana_ni_Kaze",
@@ -39393,8 +39394,7 @@
           "count": 1
         }
       }
-    ],
-    "expire": 1769007600000
+    ]
   },
   {
     "id": "限时：~_+",
@@ -40052,8 +40052,7 @@
           "count": 1
         }
       }
-    ],
-    "expire": 1769007600000
+    ]
   },
   {
     "id": "限时：Paranoid_Arc",
@@ -40131,8 +40130,7 @@
           "id": 95
         }
       }
-    ],
-    "expire": 1768402800000
+    ]
   },
   {
     "id": "限时：The_'Raft'_taught_me:_your_heart_will_always_find_a_way.",
@@ -40171,7 +40169,336 @@
           "id": 94
         }
       }
+    ]
+  },
+  {
+    "id": "限时：OMAJINAI",
+    "platforms": [
+      {
+        "length": 9,
+        "special": {
+          "type": 2,
+          "range": [
+            "OMAJINAI",
+            "Altair (feat. *spiLa*)",
+            "Beside You",
+            "next to you",
+            "I want You",
+            "enchanted love",
+            "A Wandering Melody of Love",
+            "Galactic Love",
+            "Summer Fireworks of Love"
+          ]
+        }
+      },
+      {
+        "length": 12
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 22
+      },
+      {
+        "length": 5
+      },
+      {
+        "length": 21
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 300
+        }
+      },
+      {
+        "length": 9,
+        "special": {
+          "type": 2,
+          "range": [
+            "OMAJINAI",
+            "Altair (feat. *spiLa*)",
+            "Beside You",
+            "next to you",
+            "I want You",
+            "enchanted love",
+            "A Wandering Melody of Love",
+            "Galactic Love",
+            "Summer Fireworks of Love"
+          ]
+        }
+      },
+      {
+        "length": 12
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 22
+      },
+      {
+        "length": 5
+      },
+      {
+        "length": 21
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 2
+        }
+      },
+      {
+        "length": 9,
+        "special": {
+          "type": 2,
+          "range": [
+            "OMAJINAI",
+            "Altair (feat. *spiLa*)",
+            "Beside You",
+            "next to you",
+            "I want You",
+            "enchanted love",
+            "A Wandering Melody of Love",
+            "Galactic Love",
+            "Summer Fireworks of Love"
+          ]
+        }
+      },
+      {
+        "length": 12
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 22
+      },
+      {
+        "length": 5
+      },
+      {
+        "length": 21
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 300
+        }
+      },
+      {
+        "length": 9,
+        "special": {
+          "type": 2,
+          "range": [
+            "OMAJINAI",
+            "Altair (feat. *spiLa*)",
+            "Beside You",
+            "next to you",
+            "I want You",
+            "enchanted love",
+            "A Wandering Melody of Love",
+            "Galactic Love",
+            "Summer Fireworks of Love"
+          ]
+        }
+      },
+      {
+        "length": 12
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 22
+      },
+      {
+        "length": 5
+      },
+      {
+        "length": 21
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 2
+        }
+      },
+      {
+        "length": 9,
+        "special": {
+          "type": 2,
+          "range": [
+            "OMAJINAI",
+            "Altair (feat. *spiLa*)",
+            "Beside You",
+            "next to you",
+            "I want You",
+            "enchanted love",
+            "A Wandering Melody of Love",
+            "Galactic Love",
+            "Summer Fireworks of Love"
+          ]
+        }
+      },
+      {
+        "length": 12
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 22
+      },
+      {
+        "length": 5
+      },
+      {
+        "length": 21,
+        "special": {
+          "type": 3,
+          "range": [
+            "OMAJINAI",
+            "Altair (feat. *spiLa*)",
+            "Beside You",
+            "next to you",
+            "I want You",
+            "enchanted love",
+            "A Wandering Melody of Love",
+            "Galactic Love",
+            "Summer Fireworks of Love"
+          ]
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 1,
+          "id": "omajinai"
+        }
+      },
+      {
+        "length": 1
+      },
+      {
+        "length": 28
+      },
+      {
+        "length": 22
+      },
+      {
+        "length": 5
+      },
+      {
+        "length": 9
+      },
+      {
+        "length": 80
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 300
+        }
+      },
+      {
+        "length": 1
+      },
+      {
+        "length": 28
+      },
+      {
+        "length": 22
+      },
+      {
+        "length": 5
+      },
+      {
+        "length": 9
+      },
+      {
+        "length": 80
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 300
+        }
+      },
+      {
+        "length": 25,
+        "special": {
+          "type": 2,
+          "range": [
+            "OMAJINAI",
+            "Altair (feat. *spiLa*)",
+            "Beside You",
+            "next to you",
+            "I want You",
+            "enchanted love",
+            "A Wandering Melody of Love",
+            "Galactic Love",
+            "Summer Fireworks of Love"
+          ]
+        }
+      },
+      {
+        "length": 15,
+        "special": {
+          "type": 2,
+          "range": [
+            "OMAJINAI",
+            "Altair (feat. *spiLa*)",
+            "Beside You",
+            "next to you",
+            "I want You",
+            "enchanted love",
+            "A Wandering Melody of Love",
+            "Galactic Love",
+            "Summer Fireworks of Love"
+          ]
+        }
+      },
+      {
+        "length": 21,
+        "special": {
+          "type": 2,
+          "range": [
+            "OMAJINAI",
+            "Altair (feat. *spiLa*)",
+            "Beside You",
+            "next to you",
+            "I want You",
+            "enchanted love",
+            "A Wandering Melody of Love",
+            "Galactic Love",
+            "Summer Fireworks of Love"
+          ]
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "次元结晶",
+          "count": 1
+        }
+      }
     ],
-    "expire": 1769007600000
+    "expire": 1771513200000
   }
 ]

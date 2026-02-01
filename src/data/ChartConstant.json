@@ -8592,5 +8592,113 @@
       "constant": 10.4,
       "old": false
     }
+  ],
+  "omajinai": [
+    {
+      "constant": 2.5,
+      "old": false
+    },
+    {
+      "constant": 7,
+      "old": false
+    },
+    {
+      "constant": 9.4,
+      "old": false
+    },
+    null,
+    null
+  ],
+  "chaintonite": [
+    {
+      "constant": 4,
+      "old": false
+    },
+    {
+      "constant": 6.5,
+      "old": false
+    },
+    {
+      "constant": 8.6,
+      "old": false
+    },
+    null,
+    {
+      "constant": 9.9,
+      "old": false
+    }
+  ],
+  "onestepcloser": [
+    {
+      "constant": 3,
+      "old": false
+    },
+    {
+      "constant": 7.5,
+      "old": false
+    },
+    {
+      "constant": 9.5,
+      "old": false
+    },
+    null,
+    null
+  ],
+  "mylifeismine": [
+    {
+      "constant": 2.5,
+      "old": false
+    },
+    {
+      "constant": 5.5,
+      "old": false
+    },
+    {
+      "constant": 8.8,
+      "old": false
+    },
+    null,
+    {
+      "constant": 10.1,
+      "old": false
+    }
+  ],
+  "meltyrhapsody": [
+    {
+      "constant": 3.5,
+      "old": false
+    },
+    {
+      "constant": 7.5,
+      "old": false
+    },
+    {
+      "constant": 9.6,
+      "old": false
+    },
+    null,
+    {
+      "constant": 10.4,
+      "old": false
+    }
+  ],
+  "signal": [
+    {
+      "constant": 4,
+      "old": false
+    },
+    {
+      "constant": 7.8,
+      "old": false
+    },
+    {
+      "constant": 9.8,
+      "old": false
+    },
+    null,
+    {
+      "constant": 10.7,
+      "old": false
+    }
   ]
 }

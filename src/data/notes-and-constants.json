@@ -10137,5 +10137,131 @@
         "constant": 10.4
       }
     ]
+  },
+  {
+    "id": "omajinai",
+    "charts": [
+      {
+        "notes": 288,
+        "constant": 2.5
+      },
+      {
+        "notes": 572,
+        "constant": 7
+      },
+      {
+        "notes": 886,
+        "constant": 9.4
+      },
+      null,
+      null
+    ]
+  },
+  {
+    "id": "chaintonite",
+    "charts": [
+      {
+        "notes": 723,
+        "constant": 4
+      },
+      {
+        "notes": 759,
+        "constant": 6.5
+      },
+      {
+        "notes": 883,
+        "constant": 8.6
+      },
+      null,
+      {
+        "notes": 1037,
+        "constant": 9.9
+      }
+    ]
+  },
+  {
+    "id": "onestepcloser",
+    "charts": [
+      {
+        "notes": 454,
+        "constant": 3
+      },
+      {
+        "notes": 551,
+        "constant": 7.5
+      },
+      {
+        "notes": 752,
+        "constant": 9.5
+      },
+      null,
+      null
+    ]
+  },
+  {
+    "id": "mylifeismine",
+    "charts": [
+      {
+        "notes": 460,
+        "constant": 2.5
+      },
+      {
+        "notes": 612,
+        "constant": 5.5
+      },
+      {
+        "notes": 933,
+        "constant": 8.8
+      },
+      null,
+      {
+        "notes": 1075,
+        "constant": 10.1
+      }
+    ]
+  },
+  {
+    "id": "meltyrhapsody",
+    "charts": [
+      {
+        "notes": 582,
+        "constant": 3.5
+      },
+      {
+        "notes": 790,
+        "constant": 7.5
+      },
+      {
+        "notes": 975,
+        "constant": 9.6
+      },
+      null,
+      {
+        "notes": 1185,
+        "constant": 10.4
+      }
+    ]
+  },
+  {
+    "id": "signal",
+    "charts": [
+      {
+        "notes": 582,
+        "constant": 4
+      },
+      {
+        "notes": 824,
+        "constant": 7.8
+      },
+      {
+        "notes": 1151,
+        "constant": 9.8
+      },
+      null,
+      {
+        "notes": 1245,
+        "constant": 10.7
+      }
+    ]
   }
 ]
