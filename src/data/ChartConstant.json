@@ -8700,5 +8700,56 @@
       "constant": 10.7,
       "old": false
     }
+  ],
+  "caramelpop": [
+    {
+      "constant": 2.5,
+      "old": false
+    },
+    {
+      "constant": 5.5,
+      "old": false
+    },
+    {
+      "constant": 8.1,
+      "old": false
+    },
+    null,
+    {
+      "constant": 9.1,
+      "old": false
+    }
+  ],
+  "shinoukyoseki": [
+    {
+      "constant": 3.5,
+      "old": false
+    },
+    {
+      "constant": 6.5,
+      "old": false
+    },
+    {
+      "constant": 9.7,
+      "old": false
+    },
+    null,
+    null
+  ],
+  "unknownnum": [
+    {
+      "constant": 4,
+      "old": false
+    },
+    {
+      "constant": 7,
+      "old": false
+    },
+    {
+      "constant": 9.7,
+      "old": false
+    },
+    null,
+    null
   ]
 }

@@ -28600,7 +28600,7 @@
       "remote_dl": true,
       "world_unlock": false,
       "date": 1741478405,
-      "limitedSaleEndTime": 1773014400,
+      "limitedSaleEndTime": 1804550400,
       "version": "6.3",
       "difficulties": [
         {
@@ -33125,6 +33125,214 @@
           "chartDesigner": "絶滅",
           "jacketDesigner": "Poyoshi",
           "rating": 10,
+          "ratingPlus": true
+        }
+      ]
+    },
+    {
+      "idx": 519,
+      "id": "caramelpop",
+      "title_localized": {
+        "en": "Gimme Caramel Popcorn!",
+        "ja": "キャラメルポップコーンたべたいよ〜"
+      },
+      "artist": "ヤミナベレコーズ feat. 繭糸",
+      "search_title": {
+        "en": [
+          "kyarameru poppukon tabetaiyo"
+        ],
+        "ko": [
+          "김미 카라멜 팝콘",
+          "김미 캬라멜 팝콘",
+          "캬라메루 폽푸콘타베타이요",
+          "카라멜 팝콘 먹고싶어",
+          "캬라멜 팝콘 먹고싶어"
+        ]
+      },
+      "search_artist": {
+        "en": [
+          "yaminaberekozu",
+          "yaminabe records",
+          "mayui"
+        ],
+        "ja": [
+          "まゆい"
+        ],
+        "ko": [
+          "야미나베레코즈",
+          "마유이"
+        ]
+      },
+      "bpm": "180",
+      "bpm_base": 180,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 43241,
+      "audioPreviewEnd": 60574,
+      "side": 0,
+      "bg": "hime_light",
+      "bg_inverse": "hime_conflict",
+      "remote_dl": false,
+      "world_unlock": false,
+      "date": 1771459200,
+      "version": "6.12",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "Interator",
+          "jacketDesigner": "さじ",
+          "rating": 2
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "Interator",
+          "jacketDesigner": "さじ",
+          "rating": 5
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "Interator",
+          "jacketDesigner": "さじ",
+          "rating": 8
+        },
+        {
+          "ratingClass": 4,
+          "chartDesigner": "Interator",
+          "jacketDesigner": "さじ",
+          "rating": 9
+        }
+      ]
+    },
+    {
+      "idx": 520,
+      "id": "shinoukyoseki",
+      "title_localized": {
+        "en": "The Forgotten Forest Haven",
+        "ja": "森奥虚跡"
+      },
+      "artist": "ShiBa",
+      "search_title": {
+        "en": [
+          "shinnoukyoseki"
+        ],
+        "ja": [
+          "しんおうきょせき"
+        ],
+        "ko": [
+          "더 포가튼 포레스트 헤이븐",
+          "삼오허적",
+          "신노쿄세키",
+          "신노우쿄우세키"
+        ]
+      },
+      "search_artist": {
+        "ja": [
+          "しば"
+        ],
+        "ko": [
+          "시바"
+        ]
+      },
+      "bpm": "192",
+      "bpm_base": 192,
+      "set": "extend_4",
+      "purchase": "extend_4",
+      "audioPreview": 0,
+      "audioPreviewEnd": 0,
+      "side": 0,
+      "bg": "prelude_light",
+      "bg_inverse": "prelude_conflict",
+      "remote_dl": true,
+      "world_unlock": true,
+      "date": 1771459201,
+      "version": "6.12",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "Nitro",
+          "jacketDesigner": "しんおうきょせき",
+          "rating": 3
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "Nitro",
+          "jacketDesigner": "しんおうきょせき",
+          "rating": 6
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "Nitro",
+          "jacketDesigner": "しんおうきょせき",
+          "rating": 9,
+          "ratingPlus": true
+        }
+      ]
+    },
+    {
+      "idx": 521,
+      "id": "unknownnum",
+      "title_localized": {
+        "en": "+1(UNKNOWN)-NUMBER"
+      },
+      "artist": "MEMODEMO × AQUASINE ^ (hackerling)",
+      "search_title": {
+        "en": [
+          "unknown number"
+        ],
+        "ja": [
+          "あんのうんなんばー",
+          "あんのーんなんばー"
+        ],
+        "ko": [
+          "언노운 넘버"
+        ]
+      },
+      "search_artist": {
+        "ja": [
+          "めもでも",
+          "あくあさいん",
+          "はっかりんぐ",
+          "はっかーりんぐ"
+        ],
+        "ko": [
+          "메모데모",
+          "아쿠아사인",
+          "해컬링",
+          "해커링"
+        ]
+      },
+      "bpm": "145",
+      "bpm_base": 145,
+      "set": "single",
+      "purchase": "unknownnum",
+      "category": "variety",
+      "audioPreview": 0,
+      "audioPreviewEnd": 0,
+      "side": 1,
+      "bg": "single2_conflict",
+      "bg_inverse": "single2_light",
+      "remote_dl": true,
+      "world_unlock": false,
+      "date": 1771459202,
+      "version": "6.12",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "M理論_GSM",
+          "jacketDesigner": "AQUASINE",
+          "rating": 4
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "M理論_GSM",
+          "jacketDesigner": "AQUASINE",
+          "rating": 7
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "M理論_GSM",
+          "jacketDesigner": "AQUASINE",
+          "rating": 9,
           "ratingPlus": true
         }
       ]

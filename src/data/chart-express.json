@@ -1,56 +1,6 @@
 [
   {
-    "songId": "omajinai",
-    "charts": [
-      {
-        "constant": 2.5
-      },
-      {
-        "constant": 7
-      },
-      {
-        "constant": 9.4
-      },
-      null,
-      null
-    ]
-  },
-  {
-    "songId": "chaintonite",
-    "charts": [
-      {
-        "constant": 4
-      },
-      {
-        "constant": 6.5
-      },
-      {
-        "constant": 8.6
-      },
-      null,
-      {
-        "constant": 9.9
-      }
-    ]
-  },
-  {
-    "songId": "onestepcloser",
-    "charts": [
-      {
-        "constant": 3
-      },
-      {
-        "constant": 7.5
-      },
-      {
-        "constant": 9.5
-      },
-      null,
-      null
-    ]
-  },
-  {
-    "songId": "mylifeismine",
+    "songId": "caramelpop",
     "charts": [
       {
         "constant": 2.5
@@ -59,48 +9,44 @@
         "constant": 5.5
       },
       {
-        "constant": 8.8
+        "constant": 8.1
       },
       null,
       {
-        "constant": 10.1
+        "constant": 9.1
       }
     ]
   },
   {
-    "songId": "meltyrhapsody",
+    "songId": "shinoukyoseki",
     "charts": [
       {
         "constant": 3.5
       },
       {
-        "constant": 7.5
+        "constant": 6.5
       },
       {
-        "constant": 9.6
+        "constant": 9.7
       },
       null,
-      {
-        "constant": 10.4
-      }
+      null
     ]
   },
   {
-    "songId": "signal",
+    "songId": "unknownnum",
     "charts": [
       {
         "constant": 4
       },
       {
-        "constant": 7.8
+        "constant": 7
       },
       {
-        "constant": 9.8
+        "constant": 9.7
       },
       null,
-      {
-        "constant": 10.7
-      }
+      null
     ]
   }
 ]

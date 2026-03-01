@@ -20456,7 +20456,8 @@
           "count": 1
         }
       }
-    ]
+    ],
+    "expire": 1773327600000
   },
   {
     "id": "限时：Capella",
@@ -20774,8 +20775,7 @@
           "id": 59
         }
       }
-    ],
-    "expire": 1771513200000
+    ]
   },
   {
     "id": "限时：Tsuki_ni_Murakumo,_Hana_ni_Kaze",
@@ -40498,7 +40498,152 @@
           "count": 1
         }
       }
+    ]
+  },
+  {
+    "id": "限时：The_Forgotten_Forest_Haven",
+    "platforms": [
+      {
+        "length": 10,
+        "special": {
+          "type": 2,
+          "range": [
+            "The Forgotten Forest Haven",
+            "Gimme Caramel Popcorn!",
+            "+1(UNKNOWN)-NUMBER",
+            "Memory Forest",
+            "In Vain",
+            "Straight into the lights",
+            "Awaken In Ruins"
+          ]
+        }
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 25
+      },
+      {
+        "length": 30
+      },
+      {
+        "length": 35,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 300
+        }
+      },
+      {
+        "length": 40
+      },
+      {
+        "length": 45
+      },
+      {
+        "length": 50
+      },
+      {
+        "length": 55
+      },
+      {
+        "length": 60,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 2
+        }
+      },
+      {
+        "length": 65
+      },
+      {
+        "length": 70,
+        "special": {
+          "type": 2,
+          "range": [
+            "The Forgotten Forest Haven",
+            "Gimme Caramel Popcorn!",
+            "+1(UNKNOWN)-NUMBER",
+            "Memory Forest",
+            "In Vain",
+            "Straight into the lights",
+            "Awaken In Ruins"
+          ]
+        }
+      },
+      {
+        "length": 30,
+        "reward": {
+          "type": 1,
+          "id": "shinoukyoseki"
+        }
+      },
+      {
+        "length": 30
+      },
+      {
+        "length": 30,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 2
+        }
+      },
+      {
+        "length": 30
+      },
+      {
+        "length": 30
+      },
+      {
+        "length": 30
+      },
+      {
+        "length": 30
+      },
+      {
+        "length": 30,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 1000
+        }
+      },
+      {
+        "length": 30
+      },
+      {
+        "length": 30
+      },
+      {
+        "length": 30,
+        "special": {
+          "type": 2,
+          "range": [
+            "The Forgotten Forest Haven",
+            "Gimme Caramel Popcorn!",
+            "+1(UNKNOWN)-NUMBER",
+            "Memory Forest",
+            "In Vain",
+            "Straight into the lights",
+            "Awaken In Ruins"
+          ]
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "次元结晶",
+          "count": 1
+        }
+      }
     ],
-    "expire": 1771513200000
+    "expire": 1773327600000
   }
 ]

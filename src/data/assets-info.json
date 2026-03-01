@@ -3722,6 +3722,27 @@
         "1080_base.jpg",
         "1080_base_256.jpg"
       ]
+    },
+    {
+      "id": "caramelpop",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "id": "shinoukyoseki",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "id": "unknownnum",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
     }
   ],
   "banners": [

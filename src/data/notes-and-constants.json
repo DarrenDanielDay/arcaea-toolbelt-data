@@ -10263,5 +10263,65 @@
         "constant": 10.7
       }
     ]
+  },
+  {
+    "id": "caramelpop",
+    "charts": [
+      {
+        "notes": 610,
+        "constant": 2.5
+      },
+      {
+        "notes": 579,
+        "constant": 5.5
+      },
+      {
+        "notes": 767,
+        "constant": 8.1
+      },
+      null,
+      {
+        "notes": 959,
+        "constant": 9.1
+      }
+    ]
+  },
+  {
+    "id": "shinoukyoseki",
+    "charts": [
+      {
+        "notes": 582,
+        "constant": 3.5
+      },
+      {
+        "notes": 748,
+        "constant": 6.5
+      },
+      {
+        "notes": 1065,
+        "constant": 9.7
+      },
+      null,
+      null
+    ]
+  },
+  {
+    "id": "unknownnum",
+    "charts": [
+      {
+        "notes": 486,
+        "constant": 4
+      },
+      {
+        "notes": 619,
+        "constant": 7
+      },
+      {
+        "notes": 882,
+        "constant": 9.7
+      },
+      null,
+      null
+    ]
   }
 ]

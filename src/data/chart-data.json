@@ -26299,5 +26299,151 @@
     "version": {
       "added": "6.12"
     }
+  },
+  {
+    "bpm": "180",
+    "side": 0,
+    "id": "caramelpop",
+    "name": "Gimme Caramel Popcorn!",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Arcaea",
+    "dl": false,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 2.5,
+        "difficulty": "pst",
+        "designer": "Interator",
+        "id": "caramelpop@pst",
+        "level": 2,
+        "note": 610,
+        "songId": "caramelpop"
+      },
+      {
+        "constant": 5.5,
+        "difficulty": "prs",
+        "designer": "Interator",
+        "id": "caramelpop@prs",
+        "level": 5,
+        "note": 579,
+        "songId": "caramelpop"
+      },
+      {
+        "constant": 8.1,
+        "difficulty": "ftr",
+        "designer": "Interator",
+        "id": "caramelpop@ftr",
+        "level": 8,
+        "note": 767,
+        "songId": "caramelpop"
+      },
+      {
+        "constant": 9.1,
+        "difficulty": "etr",
+        "designer": "Interator",
+        "id": "caramelpop@etr",
+        "level": 9,
+        "note": 959,
+        "songId": "caramelpop"
+      }
+    ],
+    "version": {
+      "added": "6.12"
+    }
+  },
+  {
+    "bpm": "192",
+    "side": 0,
+    "id": "shinoukyoseki",
+    "name": "The Forgotten Forest Haven",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "World Extend 4",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 3.5,
+        "difficulty": "pst",
+        "designer": "Nitro",
+        "id": "shinoukyoseki@pst",
+        "level": 3,
+        "note": 582,
+        "songId": "shinoukyoseki"
+      },
+      {
+        "constant": 6.5,
+        "difficulty": "prs",
+        "designer": "Nitro",
+        "id": "shinoukyoseki@prs",
+        "level": 6,
+        "note": 748,
+        "songId": "shinoukyoseki"
+      },
+      {
+        "constant": 9.7,
+        "difficulty": "ftr",
+        "designer": "Nitro",
+        "id": "shinoukyoseki@ftr",
+        "level": 9,
+        "note": 1065,
+        "songId": "shinoukyoseki",
+        "plus": true
+      }
+    ],
+    "version": {
+      "added": "6.12"
+    }
+  },
+  {
+    "bpm": "145",
+    "side": 1,
+    "id": "unknownnum",
+    "name": "+1(UNKNOWN)-NUMBER",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Memory Archive",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 4,
+        "difficulty": "pst",
+        "designer": "M理論_GSM",
+        "id": "unknownnum@pst",
+        "level": 4,
+        "note": 486,
+        "songId": "unknownnum"
+      },
+      {
+        "constant": 7,
+        "difficulty": "prs",
+        "designer": "M理論_GSM",
+        "id": "unknownnum@prs",
+        "level": 7,
+        "note": 619,
+        "songId": "unknownnum"
+      },
+      {
+        "constant": 9.7,
+        "difficulty": "ftr",
+        "designer": "M理論_GSM",
+        "id": "unknownnum@ftr",
+        "level": 9,
+        "note": 882,
+        "songId": "unknownnum",
+        "plus": true
+      }
+    ],
+    "version": {
+      "added": "6.12"
+    }
   }
 ]
