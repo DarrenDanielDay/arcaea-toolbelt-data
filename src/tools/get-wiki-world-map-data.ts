@@ -99,7 +99,7 @@ async function getMainTableInfo(): Promise<MainTableInfo> {
   if (!h3) throw new Error("事件章节h3标题未找到");
   const table = findNextElWhere(
     h3,
-    (el): el is HTMLTableElement => el instanceof HTMLTableElement && el.tBodies[0]?.rows[0]?.cells.length === 5
+    (el): el is HTMLTableElement => el instanceof HTMLTableElement && el.tBodies[0]?.rows[0]?.cells.length === 5,
   );
   if (!table) throw new Error("当前事件表格未找到");
   if (table.rows.item(1)?.textContent?.includes("没有开")) {
@@ -144,7 +144,7 @@ function getWorldMap(
   map: WikiWorldMapTableItem,
   backgrounds: Backgrounds,
   songs: SongData[],
-  characters: CharacterData[]
+  characters: CharacterData[],
 ): NormalWorldMapData | null {
   const anchor = doc.getElementById(map.id)!;
   if (!anchor) {
@@ -301,14 +301,18 @@ async function getBackgounds(): Promise<Backgrounds> {
   await initPageDocument(wikiURL("个性化设置"), arcaeaCNClient);
   const anchor = htmlDocument.querySelector("#场景")!;
   const table = findNextElWhere(anchor.parentElement!, (el): el is HTMLTableElement =>
-    el.matches("table")
+    el.matches("table"),
   ) as HTMLTableElement;
   for (const tbody of Array.from(table.tBodies)) {
     for (const row of Array.from(tbody.rows).slice(1)) {
-      const name = row.cells[1]!.textContent!.trim();
-      map[name] = row.cells[0]!.querySelector("img")!.src;
+      const name = Array.from(row.cells[2]!.childNodes)
+        .map((n) => (n.nodeType === Node.TEXT_NODE ? n.textContent! : ""))
+        .join("")
+        .trim();
+      map[name] = row.cells[1]!.querySelector("img")!.src;
     }
   }
+  console.log({ map });
   return map;
 }
 
