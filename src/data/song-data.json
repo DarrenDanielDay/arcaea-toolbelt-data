@@ -4372,6 +4372,27 @@
           "rating": 10,
           "notes": 1094,
           "constant": 10.6
+        },
+        {
+          "ratingClass": 3,
+          "title_localized": {
+            "en": "Axium Divergence"
+          },
+          "artist": "ak+q (lowiro)",
+          "bpm": "170?",
+          "bpm_base": 180,
+          "audioOverride": true,
+          "chartDesigner": "Monolith - Diverged",
+          "jacketDesigner": "すずなし",
+          "jacketOverride": true,
+          "bg": "axiumcrisis3",
+          "rating": 11,
+          "legacy11": true,
+          "date": 1773014406,
+          "version": "6.13",
+          "hidden_until": "difficulty",
+          "notes": 1682,
+          "constant": 11.3
         }
       ],
       "alias": [
@@ -4381,6 +4402,8 @@
         "对立泡温泉"
       ],
       "jackets": [
+        "1080_3.jpg",
+        "1080_3_256.jpg",
         "1080_base.jpg",
         "1080_base_256.jpg"
       ]
@@ -6119,12 +6142,27 @@
           "rating": 9,
           "notes": 982,
           "constant": 9.4
+        },
+        {
+          "ratingClass": 3,
+          "chartDesigner": "BE KARAT",
+          "jacketDesigner": "のう + Khronetic",
+          "jacketOverride": true,
+          "rating": 10,
+          "bg": "single2_light",
+          "bg_inverse": "single2_conflict",
+          "date": 1773014404,
+          "version": "6.13",
+          "notes": 1127,
+          "constant": 10.5
         }
       ],
       "alias": [
         "在那里"
       ],
       "jackets": [
+        "1080_3.jpg",
+        "1080_3_256.jpg",
         "1080_base.jpg",
         "1080_base_256.jpg"
       ]
@@ -11098,12 +11136,26 @@
           "ratingPlus": true,
           "notes": 1560,
           "constant": 9.8
+        },
+        {
+          "ratingClass": 3,
+          "chartDesigner": "絶･零･夜",
+          "jacketDesigner": "fixro2n",
+          "jacketOverride": true,
+          "rating": 10,
+          "ratingPlus": true,
+          "date": 1773014405,
+          "version": "6.13",
+          "notes": 1717,
+          "constant": 10.9
         }
       ],
       "alias": [
         "圣抚"
       ],
       "jackets": [
+        "1080_3.jpg",
+        "1080_3_256.jpg",
         "1080_base.jpg",
         "1080_base_256.jpg"
       ]
@@ -14418,6 +14470,18 @@
           "rating": 8,
           "notes": 732,
           "constant": 8.4
+        },
+        {
+          "ratingClass": 3,
+          "chartDesigner": "Nitro「The Aberrant」",
+          "jacketDesigner": "シエラ + Khronetic",
+          "jacketOverride": true,
+          "rating": 9,
+          "ratingPlus": true,
+          "date": 1773014400,
+          "version": "6.13",
+          "notes": 995,
+          "constant": 9.9
         }
       ],
       "alias": [
@@ -14426,6 +14490,8 @@
         "怪谈"
       ],
       "jackets": [
+        "1080_3.jpg",
+        "1080_3_256.jpg",
         "1080_base.jpg",
         "1080_base_256.jpg"
       ]
@@ -17255,6 +17321,20 @@
           "rating": 9,
           "notes": 969,
           "constant": 9.3
+        },
+        {
+          "ratingClass": 3,
+          "chartDesigner": "¬ə",
+          "jacketDesigner": "あすだ",
+          "jacketOverride": true,
+          "rating": 9,
+          "ratingPlus": true,
+          "bg": "nijuusei2_conflict",
+          "bg_inverse": "nijuusei2_light",
+          "date": 1773014402,
+          "version": "6.13",
+          "notes": 1325,
+          "constant": 9.9
         }
       ],
       "alias": [
@@ -17263,6 +17343,8 @@
         "谬饰"
       ],
       "jackets": [
+        "1080_3.jpg",
+        "1080_3_256.jpg",
         "1080_base.jpg",
         "1080_base_256.jpg"
       ]
@@ -17481,6 +17563,17 @@
           "rating": 9,
           "notes": 919,
           "constant": 9.3
+        },
+        {
+          "ratingClass": 3,
+          "chartDesigner": "@#7¥M!$",
+          "jacketDesigner": "のう + jht",
+          "jacketOverride": true,
+          "rating": 10,
+          "date": 1773014401,
+          "version": "6.13",
+          "notes": 1158,
+          "constant": 10.3
         }
       ],
       "alias": [
@@ -17489,6 +17582,8 @@
         "小小云朵糖"
       ],
       "jackets": [
+        "1080_3.jpg",
+        "1080_3_256.jpg",
         "1080_base.jpg",
         "1080_base_256.jpg"
       ]
@@ -32142,10 +32237,23 @@
           "ratingPlus": true,
           "notes": 906,
           "constant": 8.8
+        },
+        {
+          "ratingClass": 3,
+          "chartDesigner": "↑零下↑",
+          "jacketDesigner": "yawa",
+          "jacketOverride": true,
+          "rating": 10,
+          "date": 1773014403,
+          "version": "6.13",
+          "notes": 1124,
+          "constant": 10.4
         }
       ],
       "alias": [],
       "jackets": [
+        "1080_3.jpg",
+        "1080_3_256.jpg",
         "1080_base.jpg",
         "1080_base_256.jpg"
       ]
@@ -37990,7 +38098,7 @@
         {
           "ratingClass": 0,
           "chartDesigner": "|karat|",
-          "jacketDesigner": "Ugi",
+          "jacketDesigner": "雨儀",
           "rating": 3,
           "notes": 771,
           "constant": 3.5
@@ -37998,7 +38106,7 @@
         {
           "ratingClass": 1,
           "chartDesigner": "|karat|",
-          "jacketDesigner": "Ugi",
+          "jacketDesigner": "雨儀",
           "rating": 7,
           "notes": 787,
           "constant": 7
@@ -38006,7 +38114,7 @@
         {
           "ratingClass": 2,
           "chartDesigner": "|karat|",
-          "jacketDesigner": "Ugi",
+          "jacketDesigner": "雨儀",
           "rating": 8,
           "notes": 947,
           "constant": 8.4
@@ -38014,7 +38122,7 @@
         {
           "ratingClass": 4,
           "chartDesigner": "|karat|",
-          "jacketDesigner": "Ugi",
+          "jacketDesigner": "雨儀",
           "rating": 9,
           "ratingPlus": true,
           "notes": 1133,
@@ -40450,7 +40558,7 @@
         {
           "ratingClass": 0,
           "chartDesigner": "Nitro",
-          "jacketDesigner": "しんおうきょせき",
+          "jacketDesigner": "atra",
           "rating": 3,
           "notes": 582,
           "constant": 3.5
@@ -40458,7 +40566,7 @@
         {
           "ratingClass": 1,
           "chartDesigner": "Nitro",
-          "jacketDesigner": "しんおうきょせき",
+          "jacketDesigner": "atra",
           "rating": 6,
           "notes": 748,
           "constant": 6.5
@@ -40466,7 +40574,7 @@
         {
           "ratingClass": 2,
           "chartDesigner": "Nitro",
-          "jacketDesigner": "しんおうきょせき",
+          "jacketDesigner": "atra",
           "rating": 9,
           "ratingPlus": true,
           "notes": 1065,
@@ -40558,7 +40666,373 @@
         "1080_base.jpg",
         "1080_base_256.jpg"
       ]
+    },
+    {
+      "idx": 522,
+      "id": "thirdavenue",
+      "title_localized": {
+        "en": "3rd Avenue"
+      },
+      "artist": "Sound Souler",
+      "search_title": {
+        "ja": [
+          "さーどあべにゅー",
+          "さーどあゔぇにゅー"
+        ],
+        "ko": [
+          "서드 에비뉴"
+        ]
+      },
+      "search_artist": {
+        "ja": [
+          "さうんどそうらー"
+        ],
+        "ko": [
+          "사운드 소울러"
+        ]
+      },
+      "bpm": "130",
+      "bpm_base": 130,
+      "set": "extend_4",
+      "purchase": "extend_4",
+      "audioPreview": 0,
+      "audioPreviewEnd": 0,
+      "side": 1,
+      "bg": "nihil",
+      "remote_dl": true,
+      "world_unlock": true,
+      "date": 1773014400,
+      "version": "6.13",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "Souplex",
+          "jacketDesigner": "Jehyun, Piranesi",
+          "rating": 3,
+          "notes": 529,
+          "constant": 3
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "Souplex",
+          "jacketDesigner": "Jehyun, Piranesi",
+          "rating": 8,
+          "notes": 761,
+          "constant": 8.1
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "New Dimensions",
+          "jacketDesigner": "Jehyun, Piranesi",
+          "rating": 9,
+          "notes": 748,
+          "constant": 9.2
+        }
+      ],
+      "alias": [],
+      "jackets": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "idx": 523,
+      "id": "vallista",
+      "title_localized": {
+        "en": "Vallista"
+      },
+      "artist": "Sakuzyo",
+      "search_title": {
+        "ja": [
+          "ばりすた",
+          "ゔぁりすた"
+        ],
+        "ko": [
+          "발리스타"
+        ]
+      },
+      "search_artist": {
+        "ja": [
+          "さくじょ"
+        ],
+        "ko": [
+          "사쿠죠"
+        ]
+      },
+      "bpm": "180",
+      "bpm_base": 180,
+      "set": "extend_4",
+      "purchase": "extend_4",
+      "audioPreview": 0,
+      "audioPreviewEnd": 0,
+      "side": 0,
+      "bg": "eden_light",
+      "bg_inverse": "eden_conflict",
+      "remote_dl": true,
+      "world_unlock": true,
+      "date": 1773014401,
+      "version": "6.13",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "sidewaves",
+          "jacketDesigner": "Mentalstock",
+          "rating": 4,
+          "notes": 548,
+          "constant": 4.5
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "sidewaves",
+          "jacketDesigner": "Mentalstock",
+          "rating": 7,
+          "ratingPlus": true,
+          "notes": 681,
+          "constant": 7.8
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "sidewaves",
+          "jacketDesigner": "Mentalstock",
+          "rating": 9,
+          "ratingPlus": true,
+          "notes": 869,
+          "constant": 9.7
+        }
+      ],
+      "alias": [],
+      "jackets": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "idx": 524,
+      "id": "goodrage",
+      "title_localized": {
+        "en": "GOODRAGE"
+      },
+      "artist": "EBIMAYO",
+      "search_title": {
+        "ja": [
+          "ぐっどれいじ",
+          "ぐっどれーじ"
+        ],
+        "ko": [
+          "굿레이지"
+        ]
+      },
+      "search_artist": {
+        "ja": [
+          "えびまよ"
+        ],
+        "ko": [
+          "에비마요"
+        ]
+      },
+      "bpm": "222",
+      "bpm_base": 222,
+      "set": "single",
+      "category": "variety",
+      "purchase": "goodrage",
+      "audioPreview": 0,
+      "audioPreviewEnd": 0,
+      "side": 0,
+      "bg": "hime_light",
+      "bg_inverse": "hime_conflict",
+      "remote_dl": true,
+      "world_unlock": false,
+      "date": 1773014402,
+      "version": "6.13",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "Interator",
+          "jacketDesigner": "EBIMAYO",
+          "rating": 4,
+          "notes": 576,
+          "constant": 4.5
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "Interator",
+          "jacketDesigner": "EBIMAYO",
+          "rating": 7,
+          "ratingPlus": true,
+          "notes": 702,
+          "constant": 7.8
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "Interator",
+          "jacketDesigner": "EBIMAYO",
+          "rating": 9,
+          "notes": 834,
+          "constant": 9.3
+        },
+        {
+          "ratingClass": 4,
+          "chartDesigner": "NORANEKO",
+          "jacketDesigner": "EBIMAYO",
+          "rating": 10,
+          "notes": 1035,
+          "constant": 10.2
+        }
+      ],
+      "alias": [],
+      "jackets": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "idx": 525,
+      "id": "cryogenic",
+      "title_localized": {
+        "en": "Cryogenic"
+      },
+      "artist": "Camellia ft. Petra Gurin",
+      "search_title": {
+        "ja": [
+          "くらいおじぇにっく"
+        ],
+        "ko": [
+          "크라이오제닉"
+        ]
+      },
+      "search_artist": {
+        "ja": [
+          "かめりあ",
+          "ぺとらぐりん"
+        ],
+        "ko": [
+          "카멜리아",
+          "페트라 구린"
+        ]
+      },
+      "bpm": "145",
+      "bpm_base": 145,
+      "set": "single",
+      "purchase": "cryogenic",
+      "audioPreview": 0,
+      "audioPreviewEnd": 0,
+      "side": 1,
+      "bg": "single2_conflict",
+      "bg_inverse": "single2_light",
+      "category": "musicgames",
+      "remote_dl": true,
+      "world_unlock": false,
+      "date": 1773014403,
+      "version": "6.13",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "raycast /connected/",
+          "jacketDesigner": "アオノアオ + Vormis.",
+          "rating": 5,
+          "notes": 510,
+          "constant": 5
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "raycast /connected/",
+          "jacketDesigner": "アオノアオ + Vormis.",
+          "rating": 7,
+          "notes": 680,
+          "constant": 7.5
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "raycast /connected/",
+          "jacketDesigner": "アオノアオ + Vormis.",
+          "rating": 9,
+          "notes": 831,
+          "constant": 9.2
+        },
+        {
+          "ratingClass": 4,
+          "chartDesigner": "raycast /connected/",
+          "jacketDesigner": "アオノアオ + Vormis.",
+          "rating": 10,
+          "notes": 1014,
+          "constant": 10.1
+        }
+      ],
+      "alias": [],
+      "jackets": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "idx": 526,
+      "id": "desertrealm",
+      "title_localized": {
+        "en": "Desertrealm"
+      },
+      "artist": "Masahiro \"Godspeed\" Aoki",
+      "search_title": {
+        "ja": [
+          "でざーとれるむ"
+        ],
+        "ko": [
+          "데저트 렐름"
+        ]
+      },
+      "search_artist": {
+        "ja": [
+          "ごっどすぴーど"
+        ],
+        "ko": [
+          "갓스피드"
+        ]
+      },
+      "bpm": "216",
+      "bpm_base": 216,
+      "set": "single",
+      "purchase": "desertrealm",
+      "audioPreview": 0,
+      "audioPreviewEnd": 0,
+      "side": 1,
+      "category": "original",
+      "bg": "vs_conflict",
+      "bg_inverse": "vs_light",
+      "remote_dl": true,
+      "world_unlock": false,
+      "date": 1773014404,
+      "version": "6.13",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "karat -weathered-",
+          "jacketDesigner": "フリッツ",
+          "rating": 4,
+          "notes": 843,
+          "constant": 4.5
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "karat -weathered-",
+          "jacketDesigner": "フリッツ",
+          "rating": 8,
+          "notes": 1000,
+          "constant": 8.5
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "karat -weathered-",
+          "jacketDesigner": "フリッツ",
+          "rating": 10,
+          "notes": 1460,
+          "constant": 10.6
+        }
+      ],
+      "alias": [],
+      "jackets": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
     }
   ],
-  "version": "6.12.11c"
+  "version": "6.13.10c"
 }

@@ -388,7 +388,7 @@
     685,
     1065,
     1094,
-    null,
+    1682,
     null
   ],
   "grievouslady": [
@@ -549,7 +549,7 @@
     592,
     792,
     982,
-    null,
+    1127,
     null
   ],
   "cyberneciacatharsis": [
@@ -983,7 +983,7 @@
     855,
     909,
     1560,
-    null,
+    1717,
     null
   ],
   "senkyou": [
@@ -1284,7 +1284,7 @@
     313,
     483,
     732,
-    null,
+    995,
     null
   ],
   "alicessuitcase": [
@@ -1543,7 +1543,7 @@
     576,
     684,
     969,
-    null,
+    1325,
     null
   ],
   "hivemind": [
@@ -1564,7 +1564,7 @@
     548,
     727,
     919,
-    null,
+    1158,
     null
   ],
   "alterale": [
@@ -2894,7 +2894,7 @@
     447,
     563,
     906,
-    null,
+    1124,
     null
   ],
   "hailstone": [
@@ -3643,6 +3643,41 @@
     486,
     619,
     882,
+    null,
+    null
+  ],
+  "thirdavenue": [
+    529,
+    761,
+    748,
+    null,
+    null
+  ],
+  "vallista": [
+    548,
+    681,
+    869,
+    null,
+    null
+  ],
+  "goodrage": [
+    576,
+    702,
+    834,
+    null,
+    1035
+  ],
+  "cryogenic": [
+    510,
+    680,
+    831,
+    null,
+    1014
+  ],
+  "desertrealm": [
+    843,
+    1000,
+    1460,
     null,
     null
   ]

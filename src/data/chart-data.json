@@ -2941,6 +2941,8 @@
     "id": "axiumcrisis",
     "name": "Axium Crisis",
     "covers": [
+      "1080_3.jpg",
+      "1080_3_256.jpg",
       "1080_base.jpg",
       "1080_base_256.jpg"
     ],
@@ -2979,6 +2981,20 @@
         "level": 10,
         "note": 1094,
         "songId": "axiumcrisis"
+      },
+      {
+        "constant": 11.3,
+        "difficulty": "byd",
+        "designer": "Monolith - Diverged",
+        "id": "axiumcrisis@byd",
+        "level": 11,
+        "note": 1682,
+        "songId": "axiumcrisis",
+        "override": {
+          "cover": true,
+          "name": "Axium Divergence",
+          "bpm": "170?"
+        }
       }
     ],
     "version": {
@@ -4102,6 +4118,8 @@
     "id": "bethere",
     "name": "Be There",
     "covers": [
+      "1080_3.jpg",
+      "1080_3_256.jpg",
       "1080_base.jpg",
       "1080_base_256.jpg"
     ],
@@ -4137,6 +4155,18 @@
         "level": 9,
         "note": 982,
         "songId": "bethere"
+      },
+      {
+        "constant": 10.5,
+        "difficulty": "byd",
+        "designer": "BE KARAT",
+        "id": "bethere@byd",
+        "level": 10,
+        "note": 1127,
+        "songId": "bethere",
+        "override": {
+          "cover": true
+        }
       }
     ],
     "version": {
@@ -7413,6 +7443,8 @@
     "id": "heavenlycaress",
     "name": "Heavenly caress",
     "covers": [
+      "1080_3.jpg",
+      "1080_3_256.jpg",
       "1080_base.jpg",
       "1080_base_256.jpg"
     ],
@@ -7449,6 +7481,19 @@
         "note": 1560,
         "songId": "heavenlycaress",
         "plus": true
+      },
+      {
+        "constant": 10.9,
+        "difficulty": "byd",
+        "designer": "絶･零･夜",
+        "id": "heavenlycaress@byd",
+        "level": 10,
+        "note": 1717,
+        "songId": "heavenlycaress",
+        "plus": true,
+        "override": {
+          "cover": true
+        }
       }
     ],
     "version": {
@@ -9649,6 +9694,8 @@
     "id": "eccentrictale",
     "name": "Eccentric Tale",
     "covers": [
+      "1080_3.jpg",
+      "1080_3_256.jpg",
       "1080_base.jpg",
       "1080_base_256.jpg"
     ],
@@ -9686,6 +9733,19 @@
         "level": 8,
         "note": 732,
         "songId": "eccentrictale"
+      },
+      {
+        "constant": 9.9,
+        "difficulty": "byd",
+        "designer": "Nitro「The Aberrant」",
+        "id": "eccentrictale@byd",
+        "level": 9,
+        "note": 995,
+        "songId": "eccentrictale",
+        "plus": true,
+        "override": {
+          "cover": true
+        }
       }
     ],
     "version": {
@@ -11452,6 +11512,8 @@
     "id": "kyogenkigo",
     "name": "False Embellishment",
     "covers": [
+      "1080_3.jpg",
+      "1080_3_256.jpg",
       "1080_base.jpg",
       "1080_base_256.jpg"
     ],
@@ -11489,6 +11551,19 @@
         "level": 9,
         "note": 969,
         "songId": "kyogenkigo"
+      },
+      {
+        "constant": 9.9,
+        "difficulty": "byd",
+        "designer": "¬ə",
+        "id": "kyogenkigo@byd",
+        "level": 9,
+        "note": 1325,
+        "songId": "kyogenkigo",
+        "plus": true,
+        "override": {
+          "cover": true
+        }
       }
     ],
     "version": {
@@ -11598,6 +11673,8 @@
     "id": "smallcloud",
     "name": "Small Cloud Sugar Candy",
     "covers": [
+      "1080_3.jpg",
+      "1080_3_256.jpg",
       "1080_base.jpg",
       "1080_base_256.jpg"
     ],
@@ -11635,6 +11712,18 @@
         "level": 9,
         "note": 919,
         "songId": "smallcloud"
+      },
+      {
+        "constant": 10.3,
+        "difficulty": "byd",
+        "designer": "@#7¥M!$",
+        "id": "smallcloud@byd",
+        "level": 10,
+        "note": 1158,
+        "songId": "smallcloud",
+        "override": {
+          "cover": true
+        }
       }
     ],
     "version": {
@@ -20889,6 +20978,8 @@
     "id": "saintorsinner",
     "name": "Saint or Sinner",
     "covers": [
+      "1080_3.jpg",
+      "1080_3_256.jpg",
       "1080_base.jpg",
       "1080_base_256.jpg"
     ],
@@ -20923,6 +21014,18 @@
         "note": 906,
         "songId": "saintorsinner",
         "plus": true
+      },
+      {
+        "constant": 10.4,
+        "difficulty": "byd",
+        "designer": "↑零下↑",
+        "id": "saintorsinner@byd",
+        "level": 10,
+        "note": 1124,
+        "songId": "saintorsinner",
+        "override": {
+          "cover": true
+        }
       }
     ],
     "version": {
@@ -26444,6 +26547,252 @@
     ],
     "version": {
       "added": "6.12"
+    }
+  },
+  {
+    "bpm": "130",
+    "side": 1,
+    "id": "thirdavenue",
+    "name": "3rd Avenue",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "World Extend 4",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 3,
+        "difficulty": "pst",
+        "designer": "Souplex",
+        "id": "thirdavenue@pst",
+        "level": 3,
+        "note": 529,
+        "songId": "thirdavenue"
+      },
+      {
+        "constant": 8.1,
+        "difficulty": "prs",
+        "designer": "Souplex",
+        "id": "thirdavenue@prs",
+        "level": 8,
+        "note": 761,
+        "songId": "thirdavenue"
+      },
+      {
+        "constant": 9.2,
+        "difficulty": "ftr",
+        "designer": "New Dimensions",
+        "id": "thirdavenue@ftr",
+        "level": 9,
+        "note": 748,
+        "songId": "thirdavenue"
+      }
+    ],
+    "version": {
+      "added": "6.13"
+    }
+  },
+  {
+    "bpm": "180",
+    "side": 0,
+    "id": "vallista",
+    "name": "Vallista",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "World Extend 4",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 4.5,
+        "difficulty": "pst",
+        "designer": "sidewaves",
+        "id": "vallista@pst",
+        "level": 4,
+        "note": 548,
+        "songId": "vallista"
+      },
+      {
+        "constant": 7.8,
+        "difficulty": "prs",
+        "designer": "sidewaves",
+        "id": "vallista@prs",
+        "level": 7,
+        "note": 681,
+        "songId": "vallista",
+        "plus": true
+      },
+      {
+        "constant": 9.7,
+        "difficulty": "ftr",
+        "designer": "sidewaves",
+        "id": "vallista@ftr",
+        "level": 9,
+        "note": 869,
+        "songId": "vallista",
+        "plus": true
+      }
+    ],
+    "version": {
+      "added": "6.13"
+    }
+  },
+  {
+    "bpm": "222",
+    "side": 0,
+    "id": "goodrage",
+    "name": "GOODRAGE",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Memory Archive",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 4.5,
+        "difficulty": "pst",
+        "designer": "Interator",
+        "id": "goodrage@pst",
+        "level": 4,
+        "note": 576,
+        "songId": "goodrage"
+      },
+      {
+        "constant": 7.8,
+        "difficulty": "prs",
+        "designer": "Interator",
+        "id": "goodrage@prs",
+        "level": 7,
+        "note": 702,
+        "songId": "goodrage",
+        "plus": true
+      },
+      {
+        "constant": 9.3,
+        "difficulty": "ftr",
+        "designer": "Interator",
+        "id": "goodrage@ftr",
+        "level": 9,
+        "note": 834,
+        "songId": "goodrage"
+      },
+      {
+        "constant": 10.2,
+        "difficulty": "etr",
+        "designer": "NORANEKO",
+        "id": "goodrage@etr",
+        "level": 10,
+        "note": 1035,
+        "songId": "goodrage"
+      }
+    ],
+    "version": {
+      "added": "6.13"
+    }
+  },
+  {
+    "bpm": "145",
+    "side": 1,
+    "id": "cryogenic",
+    "name": "Cryogenic",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Memory Archive",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 5,
+        "difficulty": "pst",
+        "designer": "raycast /connected/",
+        "id": "cryogenic@pst",
+        "level": 5,
+        "note": 510,
+        "songId": "cryogenic"
+      },
+      {
+        "constant": 7.5,
+        "difficulty": "prs",
+        "designer": "raycast /connected/",
+        "id": "cryogenic@prs",
+        "level": 7,
+        "note": 680,
+        "songId": "cryogenic"
+      },
+      {
+        "constant": 9.2,
+        "difficulty": "ftr",
+        "designer": "raycast /connected/",
+        "id": "cryogenic@ftr",
+        "level": 9,
+        "note": 831,
+        "songId": "cryogenic"
+      },
+      {
+        "constant": 10.1,
+        "difficulty": "etr",
+        "designer": "raycast /connected/",
+        "id": "cryogenic@etr",
+        "level": 10,
+        "note": 1014,
+        "songId": "cryogenic"
+      }
+    ],
+    "version": {
+      "added": "6.13"
+    }
+  },
+  {
+    "bpm": "216",
+    "side": 1,
+    "id": "desertrealm",
+    "name": "Desertrealm",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Memory Archive",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 4.5,
+        "difficulty": "pst",
+        "designer": "karat -weathered-",
+        "id": "desertrealm@pst",
+        "level": 4,
+        "note": 843,
+        "songId": "desertrealm"
+      },
+      {
+        "constant": 8.5,
+        "difficulty": "prs",
+        "designer": "karat -weathered-",
+        "id": "desertrealm@prs",
+        "level": 8,
+        "note": 1000,
+        "songId": "desertrealm"
+      },
+      {
+        "constant": 10.6,
+        "difficulty": "ftr",
+        "designer": "karat -weathered-",
+        "id": "desertrealm@ftr",
+        "level": 10,
+        "note": 1460,
+        "songId": "desertrealm"
+      }
+    ],
+    "version": {
+      "added": "6.13"
     }
   }
 ]

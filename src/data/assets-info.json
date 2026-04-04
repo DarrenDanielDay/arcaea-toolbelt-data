@@ -418,6 +418,8 @@
     {
       "id": "axiumcrisis",
       "covers": [
+        "1080_3.jpg",
+        "1080_3_256.jpg",
         "1080_base.jpg",
         "1080_base_256.jpg"
       ]
@@ -585,6 +587,8 @@
     {
       "id": "bethere",
       "covers": [
+        "1080_3.jpg",
+        "1080_3_256.jpg",
         "1080_base.jpg",
         "1080_base_256.jpg"
       ]
@@ -1049,6 +1053,8 @@
     {
       "id": "heavenlycaress",
       "covers": [
+        "1080_3.jpg",
+        "1080_3_256.jpg",
         "1080_base.jpg",
         "1080_base_256.jpg"
       ]
@@ -1360,6 +1366,8 @@
     {
       "id": "eccentrictale",
       "covers": [
+        "1080_3.jpg",
+        "1080_3_256.jpg",
         "1080_base.jpg",
         "1080_base_256.jpg"
       ]
@@ -1619,6 +1627,8 @@
     {
       "id": "kyogenkigo",
       "covers": [
+        "1080_3.jpg",
+        "1080_3_256.jpg",
         "1080_base.jpg",
         "1080_base_256.jpg"
       ]
@@ -1640,6 +1650,8 @@
     {
       "id": "smallcloud",
       "covers": [
+        "1080_3.jpg",
+        "1080_3_256.jpg",
         "1080_base.jpg",
         "1080_base_256.jpg"
       ]
@@ -2998,6 +3010,8 @@
     {
       "id": "saintorsinner",
       "covers": [
+        "1080_3.jpg",
+        "1080_3_256.jpg",
         "1080_base.jpg",
         "1080_base_256.jpg"
       ]
@@ -3743,6 +3757,41 @@
         "1080_base.jpg",
         "1080_base_256.jpg"
       ]
+    },
+    {
+      "id": "thirdavenue",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "id": "vallista",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "id": "goodrage",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "id": "cryogenic",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "id": "desertrealm",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
     }
   ],
   "banners": [
@@ -3877,6 +3926,12 @@
       "file": "online_banner_2026_03.png",
       "year": 2026,
       "month": 3
+    },
+    {
+      "type": "aol",
+      "file": "online_banner_2026_04.png",
+      "year": 2026,
+      "month": 4
     },
     {
       "type": "course",
