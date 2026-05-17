@@ -3,7 +3,8 @@
 
 import { AutoRender, element, jsxRef, nil, signal } from "hyplate";
 import { binding, html } from "./html.js";
-import { jsonModule } from "../../shared/esm.js";
+import { staticJSON } from "./api.js";
+import { resolveFileHandle, writeFileHandle } from "pragmatism/web";
 
 const assetsBase = process.env.ASSETS_VENDOR || "/assets";
 const difficultyCount = 5;
@@ -71,7 +72,7 @@ export const ChartConstantGenerator = () => {
       return;
     }
     const inputs = [...panel.querySelectorAll(`input${[...target.classList].map((c) => `.${c}`).join("")}`)].filter(
-      (e) => e instanceof HTMLInputElement
+      (e) => e instanceof HTMLInputElement,
     );
     const index = inputs.indexOf(target);
     if (index < 0) {
@@ -129,12 +130,10 @@ export const ChartConstantGenerator = () => {
       return;
     }
     file = oldCCFile.files?.item(0);
-    /** @type {WikiChartConstantJSON | null} */
-    const oldCC = file
-      ? await readFileAsJSON(file)
-      : jsonModule(await import("../../src/data/ChartConstant.json", { assert: { type: "json" } }));
+    /** @type {wiki.ChartConstant | null} */
+    const oldCC = file ? await readFileAsJSON(file) : await staticJSON("/src/data/ChartConstant.json");
     /** @type {NotesAndConstantsJSON} */
-    const oldNotes = jsonModule(await import("../../src/data/notes-and-constants.json", { assert: { type: "json" } }));
+    const oldNotes = await staticJSON("/src/data/notes-and-constants.json");
     if (oldCC == null) {
       alert("ChartConstant.json无效");
       return;
@@ -175,7 +174,7 @@ export const ChartConstantGenerator = () => {
     if (!container) return;
     const newCC = structuredClone(oldCC);
     const filledCCs = getFilledChartConstants(container);
-    /** @type {WikiChartConstantJSON} */
+    /** @type {wiki.ChartConstant} */
     const newCCPatch = {};
     for (const [i, cc] of filledCCs.entries()) {
       const { chart, song } = items[i];
@@ -200,6 +199,7 @@ export const ChartConstantGenerator = () => {
     }
 
     generateText(toJSON(newCC));
+    return newCC;
   }
 
   async function generateNotesAndConstantsJSON() {
@@ -230,6 +230,7 @@ export const ChartConstantGenerator = () => {
       };
     }
     generateText(toJSON(newNotes));
+    return newNotes;
   }
 
   async function generateChartExpress() {
@@ -253,7 +254,27 @@ export const ChartConstantGenerator = () => {
               constant: +cc,
             };
     }
-    generateText(toJSON(Object.values(songs)));
+    const express = Object.values(songs);
+    generateText(toJSON(express));
+    return express;
+  }
+
+  async function generateAllAndWriteFile() {
+    const newCC = await generateChartConstantsJSON();
+    const newNotes = await generateNotesAndConstantsJSON();
+    const express = await generateChartExpress();
+    if (!newCC || !newNotes || !express) return;
+    const projectRoot = await window.showDirectoryPicker({ id: "project-root", mode: "readwrite" });
+    if (!projectRoot) return;
+    const files = {
+      "src/data/ChartConstant.json": newCC,
+      "src/data/notes-and-constants.json": newNotes,
+      "src/data/chart-express.json": express,
+    };
+    for (const [path, data] of Object.entries(files)) {
+      const file = await resolveFileHandle(projectRoot, path);
+      await writeFileHandle(file, toJSON(data));
+    }
   }
 
   return html`<div class="m-3" onPaste=${handlePaste}>
@@ -280,60 +301,61 @@ export const ChartConstantGenerator = () => {
         <button class="btn btn-primary" type="button" onClick=${generateFillTable}>生成填表</button>
       </div>
       <${AutoRender}>${() => {
-    const ctx = ccTestContext();
-    if (!ctx) {
-      return nil;
-    }
-    const { items } = ctx;
-    return html`<div ref=${binding(newChartsContainerRef)} class="new-charts-container my-3">
-      <div class="my-3">
-        <button class="btn btn-primary" onClick=${generateChartConstantsJSON}>生成ChartConstants.json</button>
-      </div>
-      <div class="header">
-        <div>曲绘</div>
-        <div>ID</div>
-        <div>难度</div>
-        <div>曲名</div>
-        <div>定数</div>
-        <div>物量</div>
-      </div>
-      ${items.map(({ song, chart }) => {
-        const filename = chart.jacketOverride ? `${chart.ratingClass}` : `base`;
-        const folder = song.remote_dl ? `songs/dl_${song.id}` : `songs/${song.id}`;
-        const prefixes = ["1080_"];
-        const covers = prefixes
-          .flatMap((prefix) =>
-            ["_256.jpg", ".jpg"].map((suffix) => `${assetsBase}/${folder}/${prefix}${filename}${suffix}`)
-          )
-          .flat()
-          .join(", ");
-        return html`<div class="record" var:cover-color=${`var(--diff-${chart.ratingClass})`}>
-          <div class="cover">
-            <img srcset=${covers} />
+        const ctx = ccTestContext();
+        if (!ctx) {
+          return nil;
+        }
+        const { items } = ctx;
+        return html`<div ref=${binding(newChartsContainerRef)} class="new-charts-container my-3">
+          <div class="my-3">
+            <button class="btn btn-primary" onClick=${generateChartConstantsJSON}>生成ChartConstants.json</button>
           </div>
-          <div>${song.id}</div>
-          <div>${`${difficulty(chart.ratingClass)}${level(chart)}`}</div>
-          <div>${song.title_localized["zh-Hans"] ?? song.title_localized.en}</div>
-          <div>
-            <input type="number" class="form-control constant" step="0.1" />
+          <div class="header">
+            <div>曲绘</div>
+            <div>ID</div>
+            <div>难度</div>
+            <div>曲名</div>
+            <div>定数</div>
+            <div>物量</div>
           </div>
-          <div>
-            <input type="number" class="form-control notes" step="1" />
+          ${items.map(({ song, chart }) => {
+            const filename = chart.jacketOverride ? `${chart.ratingClass}` : `base`;
+            const folder = song.remote_dl ? `songs/dl_${song.id}` : `songs/${song.id}`;
+            const prefixes = ["1080_"];
+            const covers = prefixes
+              .flatMap((prefix) =>
+                ["_256.jpg", ".jpg"].map((suffix) => `${assetsBase}/${folder}/${prefix}${filename}${suffix}`),
+              )
+              .flat()
+              .join(", ");
+            return html`<div class="record" var:cover-color=${`var(--diff-${chart.ratingClass})`}>
+              <div class="cover">
+                <img srcset=${covers} />
+              </div>
+              <div>${song.id}</div>
+              <div>${`${difficulty(chart.ratingClass)}${level(chart)}`}</div>
+              <div>${song.title_localized["zh-Hans"] ?? song.title_localized.en}</div>
+              <div>
+                <input type="number" class="form-control constant" step="0.1" />
+              </div>
+              <div>
+                <input type="number" class="form-control notes" step="1" />
+              </div>
+            </div>`;
+          })}
+          <div class="my-3">
+            <button class="btn btn-primary me-3" onClick=${generateChartConstantsJSON}>生成ChartConstants.json</button>
+            <button class="btn btn-primary me-3" onClick=${generateNotesAndConstantsJSON}>
+              生成notes-and-constants.json
+            </button>
+            <button class="btn btn-primary me-3" onClick=${generateChartExpress}>生成chart-express.json</button>
+            <button class="btn btn-primary me-3" onClick=${generateAllAndWriteFile}>生成所有文件</button>
+          </div>
+          <div class="my-3">
+            <textarea id="ccjson" ref=${binding(jsonDiffs)} rows="12"></textarea>
           </div>
         </div>`;
-      })}
-      <div class="my-3">
-        <button class="btn btn-primary me-3" onClick=${generateChartConstantsJSON}>生成ChartConstants.json</button>
-        <button class="btn btn-primary me-3" onClick=${generateNotesAndConstantsJSON}>
-          生成notes-and-constants.json
-        </button>
-        <button class="btn btn-primary me-3" onClick=${generateChartExpress}>生成chart-express.json</button>
-      </div>
-      <div class="my-3">
-        <textarea id="ccjson" ref=${binding(jsonDiffs)} rows="12"></textarea>
-      </div>
-    </div>`;
-  }}</${AutoRender}>
+      }}</${AutoRender}>
     </form>
   </div>`;
 };

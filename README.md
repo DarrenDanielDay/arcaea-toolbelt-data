@@ -17,8 +17,6 @@ Open <http://localhost:1236/dist-tools> for data tools.
 - `./src/data/alias.json`
 - `./src/data/characters.json`
 - `./src/data/characters-patch.json`
-- `./src/data/chart-express.json` (TODO)
-- `./src/data/ChartConstant.json` (TODO)
 - `./src/data/items.json`
 - `./src/data/item-data.json`
 - `./src/data/notes-and-constants.json`
@@ -28,6 +26,8 @@ Open <http://localhost:1236/dist-tools> for data tools.
 
 - `./src/data/assets-info.json`
 - `./src/data/chart-data.json`
+- `./src/data/chart-express.json`
+- `./src/data/ChartConstant.json`
 - `./src/data/ChartNotes.json`
 - `./src/data/constants.json`
 - `./src/data/factors.json`
@@ -61,6 +61,7 @@ Open <http://localhost:1236/dist-tools> for data tools.
 
 1. add info or copy all into `characters.json`
 2. execute `merge-characters.js`
+3. update `item-data.json` & `items.json` if any new material.
 
 ## License
 

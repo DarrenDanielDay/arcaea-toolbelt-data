@@ -18,6 +18,9 @@
       "publicUrl": "./"
     }
   },
+  "@parcel/resolver-default": {
+    "packageExports": true
+  },
   "exports": {
     "./*": "./*"
   },
@@ -27,6 +30,7 @@
     "src/data"
   ],
   "scripts": {
+    "clean": "rimraf ./dist ./dist-tools ./.parcel-cache",
     "start:tools": "parcel watch --target tools --no-hmr --no-cache",
     "start:serve": "node ./scripts/serve.js",
     "start:online-tools": "parcel watch --target online-tools --no-hmr --no-cache",
@@ -51,6 +55,7 @@
     "husky": "^9.1.7",
     "npm-run-all": "^4.1.5",
     "parcel": "^2.15.4",
+    "rimraf": "^6.1.3",
     "serve": "^14.2.4",
     "typed-query-selector": "^2.12.0",
     "typescript": "^5.8.3"
@@ -65,6 +70,6 @@
     "htm": "^3.1.1",
     "hyplate": "^0.19.4",
     "log-update": "^6.1.0",
-    "pragmatism": "^0.1.0"
+    "pragmatism": "^0.2.0"
   }
 }
