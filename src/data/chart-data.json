@@ -26794,5 +26794,270 @@
     "version": {
       "added": "6.13"
     }
+  },
+  {
+    "bpm": "230",
+    "side": 0,
+    "id": "spiderdance",
+    "name": "Spider Dance",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "UNDERTALE - UNDERTALE Pack Append",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 2.5,
+        "difficulty": "pst",
+        "designer": "24 KARAT GOLD",
+        "id": "spiderdance@pst",
+        "level": 2,
+        "note": 525,
+        "songId": "spiderdance"
+      },
+      {
+        "constant": 5.5,
+        "difficulty": "prs",
+        "designer": "24 KARAT GOLD",
+        "id": "spiderdance@prs",
+        "level": 5,
+        "note": 526,
+        "songId": "spiderdance"
+      },
+      {
+        "constant": 7.8,
+        "difficulty": "ftr",
+        "designer": "24 KARAT GOLD",
+        "id": "spiderdance@ftr",
+        "level": 7,
+        "note": 553,
+        "songId": "spiderdance",
+        "plus": true
+      },
+      {
+        "constant": 9.5,
+        "difficulty": "etr",
+        "designer": "24 KARAT GOLD",
+        "id": "spiderdance@etr",
+        "level": 9,
+        "note": 666,
+        "songId": "spiderdance"
+      }
+    ],
+    "version": {
+      "added": "6.14"
+    }
+  },
+  {
+    "bpm": "263",
+    "side": 0,
+    "id": "spearofjustice",
+    "name": "Spear of Justice",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "UNDERTALE - UNDERTALE Pack Append",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 3.5,
+        "difficulty": "pst",
+        "designer": "antymis",
+        "id": "spearofjustice@pst",
+        "level": 3,
+        "note": 308,
+        "songId": "spearofjustice"
+      },
+      {
+        "constant": 6.5,
+        "difficulty": "prs",
+        "designer": "antymis",
+        "id": "spearofjustice@prs",
+        "level": 6,
+        "note": 452,
+        "songId": "spearofjustice"
+      },
+      {
+        "constant": 8.8,
+        "difficulty": "ftr",
+        "designer": "antymis",
+        "id": "spearofjustice@ftr",
+        "level": 8,
+        "note": 607,
+        "songId": "spearofjustice"
+      },
+      {
+        "constant": 9.9,
+        "difficulty": "etr",
+        "designer": "antymis",
+        "id": "spearofjustice@etr",
+        "level": 9,
+        "note": 761,
+        "songId": "spearofjustice",
+        "plus": true
+      }
+    ],
+    "version": {
+      "added": "6.14"
+    }
+  },
+  {
+    "bpm": "229.69",
+    "side": 0,
+    "id": "asgore",
+    "name": "ASGORE",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "UNDERTALE - UNDERTALE Pack Append",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 4.5,
+        "difficulty": "pst",
+        "designer": "Nitro",
+        "id": "asgore@pst",
+        "level": 4,
+        "note": 797,
+        "songId": "asgore"
+      },
+      {
+        "constant": 7.5,
+        "difficulty": "prs",
+        "designer": "Souplex",
+        "id": "asgore@prs",
+        "level": 7,
+        "note": 1044,
+        "songId": "asgore"
+      },
+      {
+        "constant": 8.8,
+        "difficulty": "ftr",
+        "designer": "Souplex + Nitro",
+        "id": "asgore@ftr",
+        "level": 8,
+        "note": 1006,
+        "songId": "asgore",
+        "plus": true
+      },
+      {
+        "constant": 10.2,
+        "difficulty": "etr",
+        "designer": "sidewaves -Bergentrückung-",
+        "id": "asgore@etr",
+        "level": 10,
+        "note": 1255,
+        "songId": "asgore"
+      }
+    ],
+    "version": {
+      "added": "6.14"
+    }
+  },
+  {
+    "bpm": "177",
+    "side": 0,
+    "id": "mirrorrmx",
+    "name": "MIRROR - kamome sano remix",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "World Extend 4",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 4,
+        "difficulty": "pst",
+        "designer": "nora::neko",
+        "id": "mirrorrmx@pst",
+        "level": 4,
+        "note": 654,
+        "songId": "mirrorrmx"
+      },
+      {
+        "constant": 7,
+        "difficulty": "prs",
+        "designer": "nora::neko",
+        "id": "mirrorrmx@prs",
+        "level": 7,
+        "note": 742,
+        "songId": "mirrorrmx"
+      },
+      {
+        "constant": 9.9,
+        "difficulty": "ftr",
+        "designer": "nora::neko",
+        "id": "mirrorrmx@ftr",
+        "level": 9,
+        "note": 972,
+        "songId": "mirrorrmx",
+        "plus": true
+      }
+    ],
+    "version": {
+      "added": "6.14"
+    }
+  },
+  {
+    "bpm": "200",
+    "side": 1,
+    "id": "riotsystem",
+    "name": "Riot in the System",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "World Extend 4",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 4.5,
+        "difficulty": "pst",
+        "designer": "Interioter",
+        "id": "riotsystem@pst",
+        "level": 4,
+        "note": 755,
+        "songId": "riotsystem"
+      },
+      {
+        "constant": 7.5,
+        "difficulty": "prs",
+        "designer": "Interioter",
+        "id": "riotsystem@prs",
+        "level": 7,
+        "note": 782,
+        "songId": "riotsystem"
+      },
+      {
+        "constant": 9.5,
+        "difficulty": "ftr",
+        "designer": "Interioter",
+        "id": "riotsystem@ftr",
+        "level": 9,
+        "note": 998,
+        "songId": "riotsystem"
+      },
+      {
+        "constant": 10.1,
+        "difficulty": "etr",
+        "designer": "Interioter",
+        "id": "riotsystem@etr",
+        "level": 10,
+        "note": 1214,
+        "songId": "riotsystem"
+      }
+    ],
+    "version": {
+      "added": "6.14"
+    }
   }
 ]

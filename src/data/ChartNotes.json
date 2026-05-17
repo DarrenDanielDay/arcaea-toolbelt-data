@@ -3680,5 +3680,40 @@
     1460,
     null,
     null
+  ],
+  "spiderdance": [
+    525,
+    526,
+    553,
+    null,
+    666
+  ],
+  "spearofjustice": [
+    308,
+    452,
+    607,
+    null,
+    761
+  ],
+  "asgore": [
+    797,
+    1044,
+    1006,
+    null,
+    1255
+  ],
+  "mirrorrmx": [
+    654,
+    742,
+    972,
+    null,
+    null
+  ],
+  "riotsystem": [
+    755,
+    782,
+    998,
+    null,
+    1214
   ]
 }

@@ -8858,5 +8858,97 @@
     },
     null,
     null
+  ],
+  "spiderdance": [
+    {
+      "constant": 2.5,
+      "old": false
+    },
+    {
+      "constant": 5.5,
+      "old": false
+    },
+    {
+      "constant": 7.8,
+      "old": false
+    },
+    null,
+    {
+      "constant": 9.5,
+      "old": false
+    }
+  ],
+  "spearofjustice": [
+    {
+      "constant": 3.5,
+      "old": false
+    },
+    {
+      "constant": 6.5,
+      "old": false
+    },
+    {
+      "constant": 8.8,
+      "old": false
+    },
+    null,
+    {
+      "constant": 9.9,
+      "old": false
+    }
+  ],
+  "asgore": [
+    {
+      "constant": 4.5,
+      "old": false
+    },
+    {
+      "constant": 7.5,
+      "old": false
+    },
+    {
+      "constant": 8.8,
+      "old": false
+    },
+    null,
+    {
+      "constant": 10.2,
+      "old": false
+    }
+  ],
+  "mirrorrmx": [
+    {
+      "constant": 4,
+      "old": false
+    },
+    {
+      "constant": 7,
+      "old": false
+    },
+    {
+      "constant": 9.9,
+      "old": false
+    },
+    null,
+    null
+  ],
+  "riotsystem": [
+    {
+      "constant": 4.5,
+      "old": false
+    },
+    {
+      "constant": 7.5,
+      "old": false
+    },
+    {
+      "constant": 9.5,
+      "old": false
+    },
+    null,
+    {
+      "constant": 10.1,
+      "old": false
+    }
   ]
 }

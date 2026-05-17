@@ -3792,6 +3792,41 @@
         "1080_base.jpg",
         "1080_base_256.jpg"
       ]
+    },
+    {
+      "id": "spiderdance",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "id": "spearofjustice",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "id": "asgore",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "id": "mirrorrmx",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "id": "riotsystem",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
     }
   ],
   "banners": [
@@ -3932,6 +3967,12 @@
       "file": "online_banner_2026_04.png",
       "year": 2026,
       "month": 4
+    },
+    {
+      "type": "aol",
+      "file": "online_banner_2026_05.png",
+      "year": 2026,
+      "month": 5
     },
     {
       "type": "course",

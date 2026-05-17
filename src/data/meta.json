@@ -1,7 +1,7 @@
 {
-  "version": "6.13.10c",
-  "apk": "https://arcaea-static.lowiro-cdn.net/Fsar0K0RR91WbofKrZ0JSO666fI9x09nY1RvIQ4HCDJJgwAAEdCMEvpU5xONO9wI1yPCDc9iYlA1bOUqBmUHUxlepHC420By1FHwDmoad7YVWGOSAfFyYVabsTruyQpuhAPAVdGerFB64%2FS7G1iU?filename=arcaea_6.13.10c.apk",
-  "time": 1775285888994,
+  "version": "6.14.1c",
+  "apk": "https://arcaea-static.lowiro-cdn.net/JorvCgxvAj4hZDRu6aGaLKZetHKsDYNuWbs4Y1K67oP4%2B9Gbkwew%2FoUV6esio%2Ba0Z1q3Zgs%2BLMAf3lYpkDCB7sxbZSPPEDJMR93gUQ%2BHVG76DypE8kc%2Fg3n2y4JurilG5SwXMuQEyRIOSRLkng%3D%3D?filename=arcaea_6.14.1c.apk",
+  "time": 1778169830288,
   "index": [
     {
       "file": "alias.json",
@@ -9,7 +9,7 @@
     },
     {
       "file": "assets-info.json",
-      "hash": "3a31770c"
+      "hash": "b72da4d1"
     },
     {
       "file": "character-data.json",
@@ -29,19 +29,19 @@
     },
     {
       "file": "chart-data.json",
-      "hash": "16b8d873"
+      "hash": "fed7b44d"
     },
     {
       "file": "chart-express.json",
-      "hash": "a214f819"
+      "hash": "730cd682"
     },
     {
       "file": "ChartConstant.json",
-      "hash": "2357e540"
+      "hash": "a09d72d6"
     },
     {
       "file": "ChartNotes.json",
-      "hash": "05d92b2a"
+      "hash": "bb56289d"
     },
     {
       "file": "constants.json",
@@ -61,7 +61,7 @@
     },
     {
       "file": "notes-and-constants.json",
-      "hash": "272f9eff"
+      "hash": "59a0342a"
     },
     {
       "file": "notes.json",
@@ -69,23 +69,23 @@
     },
     {
       "file": "packlist.json",
-      "hash": "5ba7a0fd"
+      "hash": "bfe3cfca"
     },
     {
       "file": "song-data.json",
-      "hash": "9b27b2a5"
+      "hash": "3f75bd9f"
     },
     {
       "file": "songlist.json",
-      "hash": "f3a7752c"
+      "hash": "b8f45d2f"
     },
     {
       "file": "world-maps-events.json",
-      "hash": "2c1dfe27"
+      "hash": "68ca0117"
     },
     {
       "file": "world-maps-longterm.json",
-      "hash": "bb5bfbb1"
+      "hash": "b0467a7a"
     }
   ]
 }

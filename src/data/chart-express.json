@@ -1,90 +1,6 @@
 [
   {
-    "songId": "axiumcrisis",
-    "charts": [
-      null,
-      null,
-      null,
-      {
-        "constant": 11.3
-      },
-      null
-    ]
-  },
-  {
-    "songId": "bethere",
-    "charts": [
-      null,
-      null,
-      null,
-      {
-        "constant": 10.5
-      },
-      null
-    ]
-  },
-  {
-    "songId": "heavenlycaress",
-    "charts": [
-      null,
-      null,
-      null,
-      {
-        "constant": 10.9
-      },
-      null
-    ]
-  },
-  {
-    "songId": "eccentrictale",
-    "charts": [
-      null,
-      null,
-      null,
-      {
-        "constant": 9.9
-      },
-      null
-    ]
-  },
-  {
-    "songId": "kyogenkigo",
-    "charts": [
-      null,
-      null,
-      null,
-      {
-        "constant": 9.9
-      },
-      null
-    ]
-  },
-  {
-    "songId": "smallcloud",
-    "charts": [
-      null,
-      null,
-      null,
-      {
-        "constant": 10.3
-      },
-      null
-    ]
-  },
-  {
-    "songId": "saintorsinner",
-    "charts": [
-      null,
-      null,
-      null,
-      {
-        "constant": 10.4
-      },
-      null
-    ]
-  },
-  {
-    "songId": "caramelpop",
+    "songId": "spiderdance",
     "charts": [
       {
         "constant": 2.5
@@ -93,16 +9,16 @@
         "constant": 5.5
       },
       {
-        "constant": 8.1
+        "constant": 7.8
       },
       null,
       {
-        "constant": 9.1
+        "constant": 9.5
       }
     ]
   },
   {
-    "songId": "shinoukyoseki",
+    "songId": "spearofjustice",
     "charts": [
       {
         "constant": 3.5
@@ -111,71 +27,25 @@
         "constant": 6.5
       },
       {
-        "constant": 9.7
+        "constant": 8.8
       },
       null,
-      null
+      {
+        "constant": 9.9
+      }
     ]
   },
   {
-    "songId": "unknownnum",
-    "charts": [
-      {
-        "constant": 4
-      },
-      {
-        "constant": 7
-      },
-      {
-        "constant": 9.7
-      },
-      null,
-      null
-    ]
-  },
-  {
-    "songId": "thirdavenue",
-    "charts": [
-      {
-        "constant": 3
-      },
-      {
-        "constant": 8.1
-      },
-      {
-        "constant": 9.2
-      },
-      null,
-      null
-    ]
-  },
-  {
-    "songId": "vallista",
+    "songId": "asgore",
     "charts": [
       {
         "constant": 4.5
       },
       {
-        "constant": 7.8
+        "constant": 7.5
       },
       {
-        "constant": 9.7
-      },
-      null,
-      null
-    ]
-  },
-  {
-    "songId": "goodrage",
-    "charts": [
-      {
-        "constant": 4.5
-      },
-      {
-        "constant": 7.8
-      },
-      {
-        "constant": 9.3
+        "constant": 8.8
       },
       null,
       {
@@ -184,37 +54,37 @@
     ]
   },
   {
-    "songId": "cryogenic",
+    "songId": "mirrorrmx",
     "charts": [
       {
-        "constant": 5
+        "constant": 4
       },
       {
-        "constant": 7.5
+        "constant": 7
       },
       {
-        "constant": 9.2
+        "constant": 9.9
       },
       null,
-      {
-        "constant": 10.1
-      }
+      null
     ]
   },
   {
-    "songId": "desertrealm",
+    "songId": "riotsystem",
     "charts": [
       {
         "constant": 4.5
       },
       {
-        "constant": 8.5
+        "constant": 7.5
       },
       {
-        "constant": 10.6
+        "constant": 9.5
       },
       null,
-      null
+      {
+        "constant": 10.1
+      }
     ]
   }
 ]

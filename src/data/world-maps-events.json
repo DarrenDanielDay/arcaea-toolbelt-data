@@ -1242,7 +1242,8 @@
           "count": 4
         }
       }
-    ]
+    ],
+    "expire": 1779375600000
   },
   {
     "id": "限时：carmine:scythe",
@@ -22555,7 +22556,8 @@
           "count": 20
         }
       }
-    ]
+    ],
+    "expire": 1779375600000
   },
   {
     "id": "限时：CHUNITHM_7",
@@ -30296,8 +30298,7 @@
           "id": 75
         }
       }
-    ],
-    "expire": 1776351600000
+    ]
   },
   {
     "id": "限时：Leave_All_Behind",
@@ -41395,5 +41396,629 @@
         }
       }
     ]
+  },
+  {
+    "id": "限时：MIRROR_-_kamome_sano_remix",
+    "platforms": [
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 100
+        }
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 100
+        }
+      },
+      {
+        "length": 10,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 100
+        }
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 10,
+        "special": {
+          "type": 2,
+          "range": [
+            "MIRROR - kamome sano remix",
+            "Hall of Mirrors",
+            "Black Mirror on the Wall",
+            "Altair (feat. *spiLa*)",
+            "init()",
+            "yomibito_shirazu"
+          ]
+        }
+      },
+      {
+        "length": 10,
+        "special": {
+          "type": 2,
+          "range": [
+            "MIRROR - kamome sano remix",
+            "Hall of Mirrors",
+            "Black Mirror on the Wall",
+            "Altair (feat. *spiLa*)",
+            "init()",
+            "yomibito_shirazu"
+          ]
+        }
+      },
+      {
+        "length": 10,
+        "special": {
+          "type": 2,
+          "range": [
+            "MIRROR - kamome sano remix",
+            "Hall of Mirrors",
+            "Black Mirror on the Wall",
+            "Altair (feat. *spiLa*)",
+            "init()",
+            "yomibito_shirazu"
+          ]
+        }
+      },
+      {
+        "length": 5,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 150
+        }
+      },
+      {
+        "length": 5,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 150
+        }
+      },
+      {
+        "length": 5,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 150
+        }
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 10,
+        "special": {
+          "type": 2,
+          "range": [
+            "MIRROR - kamome sano remix",
+            "Hall of Mirrors",
+            "Black Mirror on the Wall",
+            "Altair (feat. *spiLa*)",
+            "init()",
+            "yomibito_shirazu"
+          ]
+        }
+      },
+      {
+        "length": 10,
+        "special": {
+          "type": 2,
+          "range": [
+            "MIRROR - kamome sano remix",
+            "Hall of Mirrors",
+            "Black Mirror on the Wall",
+            "Altair (feat. *spiLa*)",
+            "init()",
+            "yomibito_shirazu"
+          ]
+        }
+      },
+      {
+        "length": 10,
+        "special": {
+          "type": 2,
+          "range": [
+            "MIRROR - kamome sano remix",
+            "Hall of Mirrors",
+            "Black Mirror on the Wall",
+            "Altair (feat. *spiLa*)",
+            "init()",
+            "yomibito_shirazu"
+          ]
+        }
+      },
+      {
+        "length": 5,
+        "special": {
+          "type": 3,
+          "range": [
+            "MIRROR - kamome sano remix",
+            "Hall of Mirrors",
+            "Black Mirror on the Wall",
+            "Altair (feat. *spiLa*)",
+            "init()",
+            "yomibito_shirazu"
+          ]
+        }
+      },
+      {
+        "length": 5,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 5,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 1,
+          "id": "mirrorrmx"
+        }
+      },
+      {
+        "length": 5,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 5,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 5,
+        "special": {
+          "type": 3,
+          "range": [
+            "MIRROR - kamome sano remix",
+            "Hall of Mirrors",
+            "Black Mirror on the Wall",
+            "Altair (feat. *spiLa*)",
+            "init()",
+            "yomibito_shirazu"
+          ]
+        }
+      },
+      {
+        "length": 10,
+        "special": {
+          "type": 2,
+          "range": [
+            "MIRROR - kamome sano remix",
+            "Hall of Mirrors",
+            "Black Mirror on the Wall",
+            "Altair (feat. *spiLa*)",
+            "init()",
+            "yomibito_shirazu"
+          ]
+        }
+      },
+      {
+        "length": 10,
+        "special": {
+          "type": 2,
+          "range": [
+            "MIRROR - kamome sano remix",
+            "Hall of Mirrors",
+            "Black Mirror on the Wall",
+            "Altair (feat. *spiLa*)",
+            "init()",
+            "yomibito_shirazu"
+          ]
+        }
+      },
+      {
+        "length": 10,
+        "special": {
+          "type": 2,
+          "range": [
+            "MIRROR - kamome sano remix",
+            "Hall of Mirrors",
+            "Black Mirror on the Wall",
+            "Altair (feat. *spiLa*)",
+            "init()",
+            "yomibito_shirazu"
+          ]
+        }
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 5,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 150
+        }
+      },
+      {
+        "length": 5,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 150
+        }
+      },
+      {
+        "length": 5,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 150
+        }
+      },
+      {
+        "length": 10,
+        "special": {
+          "type": 2,
+          "range": [
+            "MIRROR - kamome sano remix",
+            "Hall of Mirrors",
+            "Black Mirror on the Wall",
+            "Altair (feat. *spiLa*)",
+            "init()",
+            "yomibito_shirazu"
+          ]
+        }
+      },
+      {
+        "length": 10,
+        "special": {
+          "type": 2,
+          "range": [
+            "MIRROR - kamome sano remix",
+            "Hall of Mirrors",
+            "Black Mirror on the Wall",
+            "Altair (feat. *spiLa*)",
+            "init()",
+            "yomibito_shirazu"
+          ]
+        }
+      },
+      {
+        "length": 10,
+        "special": {
+          "type": 2,
+          "range": [
+            "MIRROR - kamome sano remix",
+            "Hall of Mirrors",
+            "Black Mirror on the Wall",
+            "Altair (feat. *spiLa*)",
+            "init()",
+            "yomibito_shirazu"
+          ]
+        }
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "次元结晶",
+          "count": 1
+        }
+      }
+    ],
+    "expire": 1779375600000
+  },
+  {
+    "id": "限时：Riot_in_the_System",
+    "platforms": [
+      {
+        "length": 20
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20,
+        "special": {
+          "type": 2,
+          "range": [
+            "Riot in the System",
+            "cry of viyella",
+            "Lost Civilization",
+            "Vindication",
+            "Last Celebration",
+            "PRAGMATISM",
+            "Sheriruth (Laur Remix)",
+            "Viyella's Tears",
+            "Seclusion",
+            "Arcana Eden",
+            "Arghena",
+            "Grievous Lady",
+            "with U",
+            "Blaster",
+            "THE ULTIMACY",
+            "BATTLE NO.1"
+          ]
+        }
+      },
+      {
+        "length": 20,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 400
+        }
+      },
+      {
+        "length": 40
+      },
+      {
+        "length": 40
+      },
+      {
+        "length": 40
+      },
+      {
+        "length": 40,
+        "special": {
+          "type": 3,
+          "range": [
+            "Riot in the System",
+            "cry of viyella",
+            "Lost Civilization",
+            "Vindication",
+            "Last Celebration",
+            "PRAGMATISM",
+            "Sheriruth (Laur Remix)",
+            "Viyella's Tears",
+            "Seclusion",
+            "Arcana Eden",
+            "Arghena",
+            "Grievous Lady",
+            "BATTLE NO.1"
+          ]
+        }
+      },
+      {
+        "length": 40,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 1000
+        }
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 20,
+        "special": {
+          "type": 3,
+          "range": [
+            "Riot in the System",
+            "with U",
+            "Blaster",
+            "THE ULTIMACY",
+            "BATTLE NO.1"
+          ]
+        }
+      },
+      {
+        "length": 20,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 3
+        }
+      },
+      {
+        "length": 40
+      },
+      {
+        "length": 40
+      },
+      {
+        "length": 40,
+        "reward": {
+          "type": 1,
+          "id": "riotsystem"
+        }
+      },
+      {
+        "length": 40,
+        "special": {
+          "type": 2,
+          "range": [
+            "Riot in the System",
+            "cry of viyella",
+            "Lost Civilization",
+            "Vindication",
+            "Last Celebration",
+            "PRAGMATISM",
+            "Sheriruth (Laur Remix)",
+            "Viyella's Tears",
+            "Seclusion",
+            "Arcana Eden",
+            "Arghena",
+            "Grievous Lady",
+            "with U",
+            "Blaster",
+            "THE ULTIMACY",
+            "BATTLE NO.1"
+          ]
+        }
+      },
+      {
+        "length": 40,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 60
+      },
+      {
+        "length": 60
+      },
+      {
+        "length": 60
+      },
+      {
+        "length": 60,
+        "special": {
+          "type": 3,
+          "range": [
+            "Riot in the System",
+            "cry of viyella",
+            "Lost Civilization",
+            "Vindication",
+            "Last Celebration",
+            "PRAGMATISM",
+            "Sheriruth (Laur Remix)",
+            "Viyella's Tears",
+            "Seclusion",
+            "Arcana Eden",
+            "Arghena",
+            "Grievous Lady",
+            "with U",
+            "Blaster",
+            "THE ULTIMACY",
+            "BATTLE NO.1"
+          ]
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "次元结晶",
+          "count": 1
+        }
+      }
+    ],
+    "expire": 1779375600000
   }
 ]

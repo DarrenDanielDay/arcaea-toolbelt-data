@@ -1,4 +1,4 @@
 {
     "prettier.printWidth": 120,
-    "javascript.preferences.importModuleSpecifierEnding": "js",
+    "js/ts.preferences.importModuleSpecifierEnding": "js",
 }

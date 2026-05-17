@@ -10445,5 +10445,112 @@
       null,
       null
     ]
+  },
+  {
+    "id": "spiderdance",
+    "charts": [
+      {
+        "notes": 525,
+        "constant": 2.5
+      },
+      {
+        "notes": 526,
+        "constant": 5.5
+      },
+      {
+        "notes": 553,
+        "constant": 7.8
+      },
+      null,
+      {
+        "notes": 666,
+        "constant": 9.5
+      }
+    ]
+  },
+  {
+    "id": "spearofjustice",
+    "charts": [
+      {
+        "notes": 308,
+        "constant": 3.5
+      },
+      {
+        "notes": 452,
+        "constant": 6.5
+      },
+      {
+        "notes": 607,
+        "constant": 8.8
+      },
+      null,
+      {
+        "notes": 761,
+        "constant": 9.9
+      }
+    ]
+  },
+  {
+    "id": "asgore",
+    "charts": [
+      {
+        "notes": 797,
+        "constant": 4.5
+      },
+      {
+        "notes": 1044,
+        "constant": 7.5
+      },
+      {
+        "notes": 1006,
+        "constant": 8.8
+      },
+      null,
+      {
+        "notes": 1255,
+        "constant": 10.2
+      }
+    ]
+  },
+  {
+    "id": "mirrorrmx",
+    "charts": [
+      {
+        "notes": 654,
+        "constant": 4
+      },
+      {
+        "notes": 742,
+        "constant": 7
+      },
+      {
+        "notes": 972,
+        "constant": 9.9
+      },
+      null,
+      null
+    ]
+  },
+  {
+    "id": "riotsystem",
+    "charts": [
+      {
+        "notes": 755,
+        "constant": 4.5
+      },
+      {
+        "notes": 782,
+        "constant": 7.5
+      },
+      {
+        "notes": 998,
+        "constant": 9.5
+      },
+      null,
+      {
+        "notes": 1214,
+        "constant": 10.1
+      }
+    ]
   }
 ]

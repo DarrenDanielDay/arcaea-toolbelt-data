@@ -632,9 +632,27 @@
       "limitedSaleEndTime": 1804550400
     },
     {
+      "id": "undertale_append_1",
+      "section": "collab",
+      "pack_parent": "undertale",
+      "plus_character": -1,
+      "name_localized": {
+        "en": "UNDERTALE Pack Append"
+      },
+      "description_localized": {
+        "en": "Hope: for a future of Humans and Monsters.\n\nRetrace your steps in the Underground with\n3 new songs from UNDERTALE.\n\nFeel the pounding of each and every one\nof those hearts!",
+        "ja": "きぼうをいだいて。　ニンゲンと\nモンスターの　みらいのために。\n\nUNDERTALEより、地底の世界の\n冒険を彩った3曲が登場。\n\n胸は高鳴り、今皆のこころがひとつになる。",
+        "ko": "희망...\n인간과 괴물이 평화롭게 지내는\n새롭고 밝은 미래의 시작입니다.\n\nUNDERTALE에서 건너온 3개의 악곡으로,\n지하 세계에서 겪었던 여정을 되돌아보세요.\n\n모든 이들의 심장이 박동하는 소리가 들려옵니다!",
+        "zh-Hant": "我希望：\n那個人類與怪物共存的未來。\n\n重溫地下世界的足跡，聆聽來自\nUNDERTALE的三首全新歌曲。\n\n感受每一顆跳動的心！",
+        "zh-Hans": "我希望：\n那个人类与怪物共存的未来。\n\n重温地下世界的足迹，聆听来自\nUNDERTALE的三首全新歌曲。\n\n感受每一颗跳动的心！"
+      },
+      "custom_banner": true,
+      "limitedSaleEndTime": 1809043200
+    },
+    {
       "id": "rotaeno",
       "section": "collab",
-      "pack_parent": "cytusii",
+      "custom_banner": true,
       "plus_character": 76,
       "name_localized": {
         "en": "Rotaeno"
@@ -646,12 +664,12 @@
         "zh-Hant": "世界於天空倒轉。\n\n包含一首原創新曲，五首曲目開啓全新聯動篇章。\n更有隨附全新劇情：與旋轉音律的邂逅，就此出發！\n\n跟隨著露娜和伊洛的腳步，盡情在阿古亞星探索吧！",
         "zh-Hans": "世界于天空倒转。\n\n包含一首原创新曲，五首曲目开启全新联动篇章。\n更有随附全新剧情：与旋转音律的邂逅，就此出发！\n\n跟随着露娜和伊洛的脚步，尽情在阿古亚星探索吧！"
       },
-      "custom_banner": true
+      "pack_parent": "cytusii"
     },
     {
       "id": "cytusii",
       "section": "collab",
-      "custom_banner": true,
+      "pack_parent": "cytusii",
       "plus_character": 69,
       "name_localized": {
         "en": "CYTUS II"
@@ -663,7 +681,7 @@
         "zh-Hant": "動身吧，去喚醒那沈睡之人。\n\n名為Arcaea的世界終於與名為Cytus II的世界相遇。\n四首經典曲目及一首不曾出現於兩個遊戲中的\n全新原創曲目終於到來。\n\n讓Ilith和Ivy加入你的「CHAOS」之中吧。",
         "zh-Hans": "动身吧，去唤醒那沉睡之人。\n\n名为Arcaea的世界终于与名为Cytus II的世界相遇。\n四首经典曲目及一首不曾出现于两个游戏中的\n全新原创曲目终于到来。\n\n让Ilith和Ivy加入你的「CHAOS」之中吧。"
       },
-      "pack_parent": "cytusii"
+      "custom_banner": true
     },
     {
       "id": "cytusii_append_1",
@@ -685,7 +703,7 @@
     {
       "id": "musedash",
       "section": "collab",
-      "pack_parent": "wacca",
+      "custom_banner": true,
       "plus_character": 53,
       "name_localized": {
         "en": "Muse Dash"
@@ -697,12 +715,12 @@
         "zh-Hant": "Ready? GO!!\n\n和瑪莉嘉一起遊玩\n來自跑酷音樂遊戲Muse Dash的三首動感歌曲！\n除此之外這裡還包含一首\n紀念此次合作活動的全新曲目！",
         "zh-Hans": "Ready? GO!!\n\n和玛莉嘉一起游玩\n来自跑酷音乐游戏Muse Dash的三首动感歌曲！\n除此之外这里还包含一首\n纪念此次联动的全新曲目！"
       },
-      "custom_banner": true
+      "pack_parent": "wacca"
     },
     {
       "id": "wacca",
       "section": "collab",
-      "custom_banner": true,
+      "pack_parent": "wacca",
       "plus_character": 48,
       "name_localized": {
         "en": "WACCA"
@@ -714,7 +732,7 @@
         "zh-Hant": "和咲彌與伊莉莎白一起潛入這次\nArcaea與WACCA的合作活動吧！\n\n環繞在你周圍的，\n是來自這款火熱街機音遊的五首歌曲。\n這其中包括一首全新的remix歌曲喔！",
         "zh-Hans": "和咲弥与伊莉莎白一起潜入这次\n韵律源点Arcaea与WACCA的联动吧！\n\n环绕在你周围的，\n是来自这款火热街机音游的五首歌曲。\n这其中包括一首全新的重混歌曲哦！"
       },
-      "pack_parent": "wacca"
+      "custom_banner": true
     },
     {
       "id": "wacca_append_1",
@@ -736,7 +754,7 @@
     {
       "id": "maimai",
       "section": "collab",
-      "pack_parent": "maimai",
+      "custom_banner": true,
       "plus_character": -1,
       "name_localized": {
         "en": "maimai"
@@ -748,12 +766,12 @@
         "zh-Hant": "做好準備讓水花四濺！\n\n超人氣節奏遊戲《maimai》\n即將引爆韻律源點Arcaea的熱浪！\n體驗四首經典曲目，\n但小心不要被拖下水！",
         "zh-Hans": "做好准备让水花四溅！\n\n大受欢迎的节奏游戏maimai\n为韵律源点Arcaea掀起了新的热浪！\n千万不要错过四首标志性的\n曲目——但不要被拖下水！"
       },
-      "custom_banner": true
+      "pack_parent": "maimai"
     },
     {
       "id": "maimai_append_1",
       "section": "collab",
-      "custom_banner": true,
+      "pack_parent": "maimai",
       "plus_character": -1,
       "name_localized": {
         "en": "Collaboration Chapter 2"
@@ -765,7 +783,7 @@
         "zh-Hant": "快來迎接一波全新的浪潮！\n\n跟著來自maimai DX的四首新曲目飛舞盤旋吧！\n\n形影不離的一對夥伴也將加入我們，\n那就是——咪璐庫和夏瑪！",
         "zh-Hans": "快来迎接一波全新的浪潮！\n\n跟着来自maimai DX的四首新曲目飞舞盘旋吧！\n\n形影不离的一对伙伴也将加入我们，\n那就是——咪璐库和夏玛！"
       },
-      "pack_parent": "maimai"
+      "custom_banner": true
     },
     {
       "id": "maimai_append_2",
@@ -804,7 +822,7 @@
     {
       "id": "ongeki_append_1",
       "section": "collab",
-      "pack_parent": "ongeki",
+      "custom_banner": true,
       "plus_character": -1,
       "name_localized": {
         "en": "Collaboration Chapter 2"
@@ -816,12 +834,12 @@
         "zh-Hant": "一場全新的試煉已蓄勢待發，\n你的信念會因此動搖嗎？\n\n在這個Pack Append中，\n你將面對並挑戰另外5首來自O.N.G.E.K.I.的歌曲。\n而作為聯動第二彈的搭檔，咲姬也將加入這場挑戰！",
         "zh-Hans": "一场全新的试炼已蓄势待发，\n你的信念会因此动摇吗？\n\n在这个Pack Append中，\n你将面对并挑战另外5首来自O.N.G.E.K.I.的歌曲。\n而作为联动第二弹的搭档，咲姬也将加入这场挑战！"
       },
-      "custom_banner": true
+      "pack_parent": "ongeki"
     },
     {
       "id": "ongeki_append_2",
       "section": "collab",
-      "custom_banner": true,
+      "pack_parent": "ongeki",
       "plus_character": -1,
       "name_localized": {
         "en": "Collaboration Chapter 3"
@@ -833,12 +851,12 @@
         "zh-Hant": "四首來自O.N.G.E.K.I.的\n動聽歌曲等待你來征服！\n相信其中的兩首強大存在一定會\n給你帶去難忘的、永恆的回憶。\n\n紡也將挺身而出，用自己的方式幫助大家！\n她是認真的：\"那便將此刻封存吧！\"",
         "zh-Hans": "四首来自O.N.G.E.K.I.的\n动听歌曲等待你来征服！\n相信其中的两首强大存在一定会\n给你带去难忘的、永恒的回忆。\n\n纺也将挺身而出，用自己的方式帮助大家！\n她是认真的：\"那便将此刻封存吧！\""
       },
-      "pack_parent": "ongeki"
+      "custom_banner": true
     },
     {
       "id": "chunithm",
       "section": "collab",
-      "pack_parent": "chunithm",
+      "custom_banner": true,
       "plus_character": 24,
       "name_localized": {
         "en": "CHUNITHM"
@@ -850,7 +868,7 @@
         "zh-Hant": "三首來自街機節奏遊戲\n《CHUNITHM》的震撼新曲\n已於天際展露鋒芒！\n\n跟隨對立與中二企鵝一起\n共同開始這一系列里程碑式的挑戰！",
         "zh-Hans": "三首来自街机节奏游戏\n《CHUNITHM》的震撼新曲\n已于天际展露锋芒！\n\n跟随对立与中二企鹅一起\n共同开始这一系列里程碑式的挑战！"
       },
-      "custom_banner": true
+      "pack_parent": "chunithm"
     },
     {
       "id": "chunithm_append_1",
@@ -872,7 +890,7 @@
     {
       "id": "chunithm_append_2",
       "section": "collab",
-      "custom_banner": true,
+      "pack_parent": "chunithm",
       "plus_character": -1,
       "name_localized": {
         "en": "Collaboration Chapter 3"
@@ -884,12 +902,12 @@
         "zh-Hant": "與CHUNITHM聯動的下一章節，既讓人鼓舞歡欣，\n或許也同樣使人膽戰心驚……\n\n這五首令人心跳加速的曲目正等待著你！\n\n請前去吧，懷揣一顆正義的心；請邁步吧，\n沈著冷靜是最好的錦囊。",
         "zh-Hans": "与CHUNITHM联动的下一章节，既让人鼓舞欢欣，\n或许也同样使人胆战心惊……\n\n这五首令人心跳加速的曲目正等待着你！\n\n请前去吧，怀揣一颗正义的心；请迈步吧，\n沉着冷静是最好的锦囊。"
       },
-      "pack_parent": "chunithm"
+      "custom_banner": true
     },
     {
       "id": "chunithm_append_3",
       "section": "collab",
-      "pack_parent": "chunithm",
+      "custom_banner": true,
       "plus_character": -1,
       "name_localized": {
         "en": "Collaboration Chapter 4"
@@ -901,7 +919,7 @@
         "zh-Hant": "來吧，鼓動起來！\n\nCHUNITHM聯動第四章，現已推出：\n四首新曲突然登上舞台，一躍成為全部視線的焦點！\n\n探求的靈魂啊，上前來，接受那無盡的試煉吧！",
         "zh-Hans": "来吧，鼓动起来！\n\nCHUNITHM联动第四章，现已推出：\n四首新曲骤然登上舞台，一跃成为全部视线的焦点！\n\n探求的灵魂啊，上前来，接受那无尽的试炼吧！"
       },
-      "custom_banner": true
+      "pack_parent": "chunithm"
     },
     {
       "id": "groovecoaster",
