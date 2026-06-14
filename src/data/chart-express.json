@@ -1,6 +1,6 @@
 [
   {
-    "songId": "spiderdance",
+    "songId": "cosmogyral",
     "charts": [
       {
         "constant": 2.5
@@ -9,58 +9,22 @@
         "constant": 5.5
       },
       {
-        "constant": 7.8
+        "constant": 8.6
       },
       null,
       {
-        "constant": 9.5
+        "constant": 9.8
       }
     ]
   },
   {
-    "songId": "spearofjustice",
+    "songId": "flexidefine",
     "charts": [
       {
-        "constant": 3.5
+        "constant": 2
       },
       {
-        "constant": 6.5
-      },
-      {
-        "constant": 8.8
-      },
-      null,
-      {
-        "constant": 9.9
-      }
-    ]
-  },
-  {
-    "songId": "asgore",
-    "charts": [
-      {
-        "constant": 4.5
-      },
-      {
-        "constant": 7.5
-      },
-      {
-        "constant": 8.8
-      },
-      null,
-      {
-        "constant": 10.2
-      }
-    ]
-  },
-  {
-    "songId": "mirrorrmx",
-    "charts": [
-      {
-        "constant": 4
-      },
-      {
-        "constant": 7
+        "constant": 6
       },
       {
         "constant": 9.9
@@ -70,20 +34,38 @@
     ]
   },
   {
-    "songId": "riotsystem",
+    "songId": "altersist",
     "charts": [
       {
-        "constant": 4.5
+        "constant": 2.5
+      },
+      {
+        "constant": 6
+      },
+      {
+        "constant": 8.4
+      },
+      null,
+      {
+        "constant": 9.8
+      }
+    ]
+  },
+  {
+    "songId": "csqn",
+    "charts": [
+      {
+        "constant": 4
       },
       {
         "constant": 7.5
       },
       {
-        "constant": 9.5
+        "constant": 9.6
       },
       null,
       {
-        "constant": 10.1
+        "constant": 10.3
       }
     ]
   }

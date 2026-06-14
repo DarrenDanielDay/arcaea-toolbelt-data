@@ -10552,5 +10552,90 @@
         "constant": 10.1
       }
     ]
+  },
+  {
+    "id": "cosmogyral",
+    "charts": [
+      {
+        "notes": 547,
+        "constant": 2.5
+      },
+      {
+        "notes": 687,
+        "constant": 5.5
+      },
+      {
+        "notes": 916,
+        "constant": 8.6
+      },
+      null,
+      {
+        "notes": 1049,
+        "constant": 9.8
+      }
+    ]
+  },
+  {
+    "id": "flexidefine",
+    "charts": [
+      {
+        "notes": 644,
+        "constant": 2
+      },
+      {
+        "notes": 842,
+        "constant": 6
+      },
+      {
+        "notes": 1055,
+        "constant": 9.9
+      },
+      null,
+      null
+    ]
+  },
+  {
+    "id": "altersist",
+    "charts": [
+      {
+        "notes": 454,
+        "constant": 2.5
+      },
+      {
+        "notes": 621,
+        "constant": 6
+      },
+      {
+        "notes": 803,
+        "constant": 8.4
+      },
+      null,
+      {
+        "notes": 1077,
+        "constant": 9.8
+      }
+    ]
+  },
+  {
+    "id": "csqn",
+    "charts": [
+      {
+        "notes": 418,
+        "constant": 4
+      },
+      {
+        "notes": 625,
+        "constant": 7.5
+      },
+      {
+        "notes": 923,
+        "constant": 9.6
+      },
+      null,
+      {
+        "notes": 1071,
+        "constant": 10.3
+      }
+    ]
   }
 ]

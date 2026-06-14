@@ -1242,8 +1242,7 @@
           "count": 4
         }
       }
-    ],
-    "expire": 1779375600000
+    ]
   },
   {
     "id": "限时：carmine:scythe",
@@ -22556,8 +22555,7 @@
           "count": 20
         }
       }
-    ],
-    "expire": 1779375600000
+    ]
   },
   {
     "id": "限时：CHUNITHM_7",
@@ -24099,7 +24097,8 @@
           "id": 68
         }
       }
-    ]
+    ],
+    "expire": 1781794800000
   },
   {
     "id": "限时：Lawless_Point",
@@ -41814,8 +41813,7 @@
           "count": 1
         }
       }
-    ],
-    "expire": 1779375600000
+    ]
   },
   {
     "id": "限时：Riot_in_the_System",
@@ -42018,7 +42016,730 @@
           "count": 1
         }
       }
+    ]
+  },
+  {
+    "id": "限时：Cosmogyral",
+    "platforms": [
+      {
+        "length": 11,
+        "special": {
+          "type": 2,
+          "range": [
+            "Cosmogyral",
+            "ENERGY SYNERGY MATRIX",
+            "Aleph-0",
+            "Nhelv",
+            "τ (tau)",
+            "GOODRAGE",
+            "G e n g a o z o",
+            "NULCTRL",
+            "MVURBD",
+            "Distorted Fate",
+            "Ascent"
+          ]
+        }
+      },
+      {
+        "length": 11
+      },
+      {
+        "length": 11
+      },
+      {
+        "length": 11
+      },
+      {
+        "length": 11
+      },
+      {
+        "length": 11,
+        "special": {
+          "type": 2,
+          "range": [
+            "Cosmogyral",
+            "ENERGY SYNERGY MATRIX",
+            "Aleph-0",
+            "Nhelv",
+            "τ (tau)",
+            "GOODRAGE",
+            "G e n g a o z o",
+            "NULCTRL",
+            "MVURBD",
+            "Distorted Fate",
+            "Ascent"
+          ]
+        }
+      },
+      {
+        "length": 11,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 20
+        }
+      },
+      {
+        "length": 11,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 20
+        }
+      },
+      {
+        "length": 11,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 20
+        }
+      },
+      {
+        "length": 11,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 20
+        }
+      },
+      {
+        "length": 11,
+        "special": {
+          "type": 2,
+          "range": [
+            "Cosmogyral",
+            "ENERGY SYNERGY MATRIX",
+            "Aleph-0",
+            "Nhelv",
+            "τ (tau)",
+            "GOODRAGE",
+            "G e n g a o z o",
+            "NULCTRL",
+            "MVURBD",
+            "Distorted Fate",
+            "Ascent"
+          ]
+        }
+      },
+      {
+        "length": 11,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 11
+      },
+      {
+        "length": 11
+      },
+      {
+        "length": 11
+      },
+      {
+        "length": 11,
+        "special": {
+          "type": 2,
+          "range": [
+            "Cosmogyral",
+            "ENERGY SYNERGY MATRIX",
+            "Aleph-0",
+            "Nhelv",
+            "τ (tau)",
+            "GOODRAGE",
+            "G e n g a o z o",
+            "NULCTRL",
+            "MVURBD",
+            "Distorted Fate",
+            "Ascent"
+          ]
+        }
+      },
+      {
+        "length": 11,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 40
+        }
+      },
+      {
+        "length": 11,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 40
+        }
+      },
+      {
+        "length": 11,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 40
+        }
+      },
+      {
+        "length": 11,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 40
+        }
+      },
+      {
+        "length": 11,
+        "special": {
+          "type": 2,
+          "range": [
+            "Cosmogyral",
+            "ENERGY SYNERGY MATRIX",
+            "Aleph-0",
+            "Nhelv",
+            "τ (tau)",
+            "GOODRAGE",
+            "G e n g a o z o",
+            "NULCTRL",
+            "MVURBD",
+            "Distorted Fate",
+            "Ascent"
+          ]
+        }
+      },
+      {
+        "length": 11
+      },
+      {
+        "length": 11,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 11,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 11
+      },
+      {
+        "length": 11,
+        "special": {
+          "type": 2,
+          "range": [
+            "Cosmogyral",
+            "ENERGY SYNERGY MATRIX",
+            "Aleph-0",
+            "Nhelv",
+            "τ (tau)",
+            "GOODRAGE",
+            "G e n g a o z o",
+            "NULCTRL",
+            "MVURBD",
+            "Distorted Fate",
+            "Ascent"
+          ]
+        }
+      },
+      {
+        "length": 11,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 100
+        }
+      },
+      {
+        "length": 11,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 100
+        }
+      },
+      {
+        "length": 11,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 100
+        }
+      },
+      {
+        "length": 11,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 100
+        }
+      },
+      {
+        "length": 11,
+        "special": {
+          "type": 2,
+          "range": [
+            "Cosmogyral",
+            "ENERGY SYNERGY MATRIX",
+            "Aleph-0",
+            "Nhelv",
+            "τ (tau)",
+            "GOODRAGE",
+            "G e n g a o z o",
+            "NULCTRL",
+            "MVURBD",
+            "Distorted Fate",
+            "Ascent"
+          ]
+        }
+      },
+      {
+        "length": 11
+      },
+      {
+        "length": 11
+      },
+      {
+        "length": 11
+      },
+      {
+        "length": 11,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 1
+        }
+      },
+      {
+        "length": 11,
+        "special": {
+          "type": 2,
+          "range": [
+            "Cosmogyral",
+            "ENERGY SYNERGY MATRIX",
+            "Aleph-0",
+            "Nhelv",
+            "τ (tau)",
+            "GOODRAGE",
+            "G e n g a o z o",
+            "NULCTRL",
+            "MVURBD",
+            "Distorted Fate",
+            "Ascent"
+          ]
+        }
+      },
+      {
+        "length": 11,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 120
+        }
+      },
+      {
+        "length": 11,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 120
+        }
+      },
+      {
+        "length": 11,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 120
+        }
+      },
+      {
+        "length": 11,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 120
+        }
+      },
+      {
+        "length": 11,
+        "special": {
+          "type": 2,
+          "range": [
+            "Cosmogyral",
+            "ENERGY SYNERGY MATRIX",
+            "Aleph-0",
+            "Nhelv",
+            "τ (tau)",
+            "GOODRAGE",
+            "G e n g a o z o",
+            "NULCTRL",
+            "MVURBD",
+            "Distorted Fate",
+            "Ascent"
+          ]
+        },
+        "reward": {
+          "type": 1,
+          "id": "cosmogyral"
+        }
+      },
+      {
+        "length": 22
+      },
+      {
+        "length": 33
+      },
+      {
+        "length": 44
+      },
+      {
+        "length": 55
+      },
+      {
+        "length": 66
+      },
+      {
+        "length": 77,
+        "special": {
+          "type": 3,
+          "range": [
+            "Cosmogyral",
+            "ENERGY SYNERGY MATRIX",
+            "Aleph-0",
+            "Nhelv",
+            "τ (tau)",
+            "GOODRAGE",
+            "G e n g a o z o",
+            "NULCTRL",
+            "MVURBD",
+            "Distorted Fate",
+            "Ascent"
+          ]
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "次元结晶",
+          "count": 1
+        }
+      }
     ],
-    "expire": 1779375600000
+    "expire": 1781794800000
+  },
+  {
+    "id": "限时：flexidefine",
+    "platforms": [
+      {
+        "length": 30,
+        "special": {
+          "type": 3,
+          "range": [
+            "flexidefine",
+            "Bamboo",
+            "Aleph-0",
+            "ω4",
+            "Lost Civilization",
+            "cry of viyella",
+            "Third Sun",
+            "syūten",
+            "Alice à la mode",
+            "Altale",
+            "GIMME DA BLOOD",
+            "Give Me a Nightmare",
+            "Dreadnought",
+            "blue comet",
+            "Prism",
+            "Scarlet Lunar Empress",
+            "UNKNOWN LEVELS",
+            "Welcome, Queen of Fiction.",
+            "ReviXy",
+            "Transient Space",
+            "Aurgelmir",
+            "Turbocharger",
+            "10pt8ion",
+            "Dull Blade",
+            "Xterfusion",
+            "͟͝͞Ⅱ́̕ ",
+            "Head BONK ache",
+            "μ",
+            "My life is mine alone!",
+            "One Last Drive",
+            "［X］",
+            "Lucid Traveler",
+            "Acheron",
+            "Extradimensional Cosmic Phenomenon",
+            "Far Away Light",
+            "Désive",
+            "Rise of the World",
+            "World Ender",
+            "Don't Fight The Music",
+            "Pentiment",
+            "Linear Accelerator",
+            "And Revive The Melody",
+            "AlterAle",
+            "IONOSTREAM",
+            "Blue Rose",
+            "GENOCIDER"
+          ]
+        }
+      },
+      {
+        "length": 50,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 300
+        }
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 20
+      },
+      {
+        "length": 40
+      },
+      {
+        "length": 0
+      },
+      {
+        "length": 25
+      },
+      {
+        "length": 35,
+        "special": {
+          "type": 3,
+          "range": [
+            "flexidefine",
+            "Bamboo",
+            "Aleph-0",
+            "ω4",
+            "Lost Civilization",
+            "cry of viyella",
+            "Third Sun",
+            "syūten",
+            "Alice à la mode",
+            "Altale",
+            "GIMME DA BLOOD",
+            "Give Me a Nightmare",
+            "Dreadnought",
+            "blue comet",
+            "Prism",
+            "Scarlet Lunar Empress",
+            "UNKNOWN LEVELS",
+            "Welcome, Queen of Fiction.",
+            "ReviXy",
+            "Transient Space",
+            "Aurgelmir",
+            "Turbocharger",
+            "10pt8ion",
+            "Dull Blade",
+            "Xterfusion",
+            "͟͝͞Ⅱ́̕ ",
+            "Head BONK ache",
+            "μ",
+            "My life is mine alone!",
+            "One Last Drive",
+            "［X］",
+            "Lucid Traveler",
+            "Acheron",
+            "Extradimensional Cosmic Phenomenon",
+            "Far Away Light",
+            "Désive",
+            "Rise of the World",
+            "World Ender",
+            "Don't Fight The Music",
+            "Pentiment",
+            "Linear Accelerator",
+            "And Revive The Melody",
+            "AlterAle",
+            "IONOSTREAM",
+            "Blue Rose",
+            "GENOCIDER"
+          ]
+        }
+      },
+      {
+        "length": 55,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 300
+        }
+      },
+      {
+        "length": 45
+      },
+      {
+        "length": 15
+      },
+      {
+        "length": 10
+      },
+      {
+        "length": 60
+      },
+      {
+        "length": 50,
+        "reward": {
+          "type": 0,
+          "name": "以太之滴",
+          "count": 4
+        }
+      },
+      {
+        "length": 30,
+        "special": {
+          "type": 3,
+          "range": [
+            "flexidefine",
+            "Bamboo",
+            "Aleph-0",
+            "ω4",
+            "Lost Civilization",
+            "cry of viyella",
+            "Third Sun",
+            "syūten",
+            "Alice à la mode",
+            "Altale",
+            "GIMME DA BLOOD",
+            "Give Me a Nightmare",
+            "Dreadnought",
+            "blue comet",
+            "Prism",
+            "Scarlet Lunar Empress",
+            "UNKNOWN LEVELS",
+            "Welcome, Queen of Fiction.",
+            "ReviXy",
+            "Transient Space",
+            "Aurgelmir",
+            "Turbocharger",
+            "10pt8ion",
+            "Dull Blade",
+            "Xterfusion",
+            "͟͝͞Ⅱ́̕ ",
+            "Head BONK ache",
+            "μ",
+            "My life is mine alone!",
+            "One Last Drive",
+            "［X］",
+            "Lucid Traveler",
+            "Acheron",
+            "Extradimensional Cosmic Phenomenon",
+            "Far Away Light",
+            "Désive",
+            "Rise of the World",
+            "World Ender",
+            "Don't Fight The Music",
+            "Pentiment",
+            "Linear Accelerator",
+            "And Revive The Melody",
+            "AlterAle",
+            "IONOSTREAM",
+            "Blue Rose",
+            "GENOCIDER"
+          ]
+        }
+      },
+      {
+        "length": 40,
+        "reward": {
+          "type": 1,
+          "id": "flexidefine"
+        }
+      },
+      {
+        "length": 65
+      },
+      {
+        "length": 45
+      },
+      {
+        "length": 25
+      },
+      {
+        "length": 35,
+        "special": {
+          "type": 3,
+          "range": [
+            "flexidefine",
+            "Bamboo",
+            "Aleph-0",
+            "ω4",
+            "Lost Civilization",
+            "cry of viyella",
+            "Third Sun",
+            "syūten",
+            "Alice à la mode",
+            "Altale",
+            "GIMME DA BLOOD",
+            "Give Me a Nightmare",
+            "Dreadnought",
+            "blue comet",
+            "Prism",
+            "Scarlet Lunar Empress",
+            "UNKNOWN LEVELS",
+            "Welcome, Queen of Fiction.",
+            "ReviXy",
+            "Transient Space",
+            "Aurgelmir",
+            "Turbocharger",
+            "10pt8ion",
+            "Dull Blade",
+            "Xterfusion",
+            "͟͝͞Ⅱ́̕ ",
+            "Head BONK ache",
+            "μ",
+            "My life is mine alone!",
+            "One Last Drive",
+            "［X］",
+            "Lucid Traveler",
+            "Acheron",
+            "Extradimensional Cosmic Phenomenon",
+            "Far Away Light",
+            "Désive",
+            "Rise of the World",
+            "World Ender",
+            "Don't Fight The Music",
+            "Pentiment",
+            "Linear Accelerator",
+            "And Revive The Melody",
+            "AlterAle",
+            "IONOSTREAM",
+            "Blue Rose",
+            "GENOCIDER"
+          ]
+        }
+      },
+      {
+        "length": 55,
+        "reward": {
+          "type": 0,
+          "name": "残片",
+          "count": 500
+        }
+      },
+      {
+        "length": 0,
+        "reward": {
+          "type": 0,
+          "name": "次元结晶",
+          "count": 1
+        }
+      }
+    ],
+    "expire": 1781794800000
   }
 ]

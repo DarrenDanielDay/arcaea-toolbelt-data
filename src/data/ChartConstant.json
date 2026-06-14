@@ -8950,5 +8950,78 @@
       "constant": 10.1,
       "old": false
     }
+  ],
+  "cosmogyral": [
+    {
+      "constant": 2.5,
+      "old": false
+    },
+    {
+      "constant": 5.5,
+      "old": false
+    },
+    {
+      "constant": 8.6,
+      "old": false
+    },
+    null,
+    {
+      "constant": 9.8,
+      "old": false
+    }
+  ],
+  "flexidefine": [
+    {
+      "constant": 2,
+      "old": false
+    },
+    {
+      "constant": 6,
+      "old": false
+    },
+    {
+      "constant": 9.9,
+      "old": false
+    },
+    null,
+    null
+  ],
+  "altersist": [
+    {
+      "constant": 2.5,
+      "old": false
+    },
+    {
+      "constant": 6,
+      "old": false
+    },
+    {
+      "constant": 8.4,
+      "old": false
+    },
+    null,
+    {
+      "constant": 9.8,
+      "old": false
+    }
+  ],
+  "csqn": [
+    {
+      "constant": 4,
+      "old": false
+    },
+    {
+      "constant": 7.5,
+      "old": false
+    },
+    {
+      "constant": 9.6,
+      "old": false
+    },
+    null,
+    {
+      "constant": 10.3,
+      "old": false
+    }
   ]
 }

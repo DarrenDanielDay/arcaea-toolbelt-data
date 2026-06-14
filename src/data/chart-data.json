@@ -27059,5 +27059,215 @@
     "version": {
       "added": "6.14"
     }
+  },
+  {
+    "bpm": "180",
+    "side": 0,
+    "id": "cosmogyral",
+    "name": "Cosmogyral",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "World Extend 4",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 2.5,
+        "difficulty": "pst",
+        "designer": "Interator",
+        "id": "cosmogyral@pst",
+        "level": 2,
+        "note": 547,
+        "songId": "cosmogyral"
+      },
+      {
+        "constant": 5.5,
+        "difficulty": "prs",
+        "designer": "Interator",
+        "id": "cosmogyral@prs",
+        "level": 5,
+        "note": 687,
+        "songId": "cosmogyral"
+      },
+      {
+        "constant": 8.6,
+        "difficulty": "ftr",
+        "designer": "Interator",
+        "id": "cosmogyral@ftr",
+        "level": 8,
+        "note": 916,
+        "songId": "cosmogyral"
+      },
+      {
+        "constant": 9.8,
+        "difficulty": "etr",
+        "designer": "Interator",
+        "id": "cosmogyral@etr",
+        "level": 9,
+        "note": 1049,
+        "songId": "cosmogyral",
+        "plus": true
+      }
+    ],
+    "version": {
+      "added": "6.14"
+    }
+  },
+  {
+    "bpm": "197",
+    "side": 1,
+    "id": "flexidefine",
+    "name": "flexidefine",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "World Extend 4",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 2,
+        "difficulty": "pst",
+        "designer": "flexi::feline",
+        "id": "flexidefine@pst",
+        "level": 2,
+        "note": 644,
+        "songId": "flexidefine"
+      },
+      {
+        "constant": 6,
+        "difficulty": "prs",
+        "designer": "flexi::feline",
+        "id": "flexidefine@prs",
+        "level": 6,
+        "note": 842,
+        "songId": "flexidefine"
+      },
+      {
+        "constant": 9.9,
+        "difficulty": "ftr",
+        "designer": "flexi::feline",
+        "id": "flexidefine@ftr",
+        "level": 9,
+        "note": 1055,
+        "songId": "flexidefine",
+        "plus": true
+      }
+    ],
+    "version": {
+      "added": "6.14"
+    }
+  },
+  {
+    "bpm": "138",
+    "side": 0,
+    "id": "altersist",
+    "name": "Altersist",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Memory Archive",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 2.5,
+        "difficulty": "pst",
+        "designer": "sidewaves",
+        "id": "altersist@pst",
+        "level": 2,
+        "note": 454,
+        "songId": "altersist"
+      },
+      {
+        "constant": 6,
+        "difficulty": "prs",
+        "designer": "sidewaves",
+        "id": "altersist@prs",
+        "level": 6,
+        "note": 621,
+        "songId": "altersist"
+      },
+      {
+        "constant": 8.4,
+        "difficulty": "ftr",
+        "designer": "sidewaves",
+        "id": "altersist@ftr",
+        "level": 8,
+        "note": 803,
+        "songId": "altersist"
+      },
+      {
+        "constant": 9.8,
+        "difficulty": "etr",
+        "designer": "sidewaves",
+        "id": "altersist@etr",
+        "level": 9,
+        "note": 1077,
+        "songId": "altersist",
+        "plus": true
+      }
+    ],
+    "version": {
+      "added": "6.14"
+    }
+  },
+  {
+    "bpm": "174",
+    "side": 1,
+    "id": "csqn",
+    "name": "c.s.q.n.",
+    "covers": [
+      "1080_base.jpg",
+      "1080_base_256.jpg"
+    ],
+    "pack": "Memory Archive",
+    "dl": true,
+    "alias": [],
+    "charts": [
+      {
+        "constant": 4,
+        "difficulty": "pst",
+        "designer": "Nitro",
+        "id": "csqn@pst",
+        "level": 4,
+        "note": 418,
+        "songId": "csqn"
+      },
+      {
+        "constant": 7.5,
+        "difficulty": "prs",
+        "designer": "Nitro",
+        "id": "csqn@prs",
+        "level": 7,
+        "note": 625,
+        "songId": "csqn"
+      },
+      {
+        "constant": 9.6,
+        "difficulty": "ftr",
+        "designer": "Nitro",
+        "id": "csqn@ftr",
+        "level": 9,
+        "note": 923,
+        "songId": "csqn"
+      },
+      {
+        "constant": 10.3,
+        "difficulty": "etr",
+        "designer": "Nitro",
+        "id": "csqn@etr",
+        "level": 10,
+        "note": 1071,
+        "songId": "csqn"
+      }
+    ],
+    "version": {
+      "added": "6.14"
+    }
   }
 ]

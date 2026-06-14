@@ -3827,6 +3827,34 @@
         "1080_base.jpg",
         "1080_base_256.jpg"
       ]
+    },
+    {
+      "id": "cosmogyral",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "id": "flexidefine",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "id": "altersist",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
+    },
+    {
+      "id": "csqn",
+      "covers": [
+        "1080_base.jpg",
+        "1080_base_256.jpg"
+      ]
     }
   ],
   "banners": [
@@ -3973,6 +4001,18 @@
       "file": "online_banner_2026_05.png",
       "year": 2026,
       "month": 5
+    },
+    {
+      "type": "aol",
+      "file": "online_banner_2026_06.png",
+      "year": 2026,
+      "month": 6
+    },
+    {
+      "type": "aol",
+      "file": "online_banner_2026_07.png",
+      "year": 2026,
+      "month": 7
     },
     {
       "type": "course",
